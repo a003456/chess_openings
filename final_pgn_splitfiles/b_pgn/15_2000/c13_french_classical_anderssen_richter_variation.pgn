@@ -1,0 +1,34 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Seer 2.6.0 64-bit"]
+[Black "Fat Fritz 2 64-bit"]
+[Result "0-1"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "classical, Anderssen-Richter variation"]
+[WhiteElo "3488"]
+[BlackElo "3559"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. Bxf6 Bxf6 6. e5 Be7 7. Qg4
+{ entered in FRENCH Classical Anderssen Richter Variation } 7... O-O 8. O-O-O
+{ played by 3 5 5 9 rated Fat } ( 8. Nf3 { played by 2 8 0 2 rated Rybka } 8...
+c5 9. dxc5 f5 10. exf6 Bxf6 11. O-O-O Qa5 12. Bd3 Nc6 13. Ng5 Bxg5+ 14. Qxg5 d4
+15. Qh4 h6 16. Nb5 Qxa2 17. Nxd4 Qa1+ 18. Kd2 Qxb2 19. Nxc6 bxc6 20. Rhe1
+{ In this game, Fritz, rated 2 7 4 9, had the Black pieces could not hold the position, allowing Rybka playing White, rated 2 8 0 2 to win. The opening quickly led to complex middlegame play.1-0 }
+) ( 8. Bd3 { played by 3 2 0 7 rated Stockfish } 8... f5 9. exf6
+{ played by 3 2 0 7 rated Stockfish } ( 9. Qf4 { played by 3 0 4 9 rated Deep }
+9... c5 10. dxc5 Nd7 11. Nf3 Nxc5 12. O-O Ne4 13. Qc1 Qb6 14. a4 Bc5 15. Nd1 a5
+16. c4 d4 17. Qb1 Bd7 18. Bxe4 fxe4 19. Ng5 Bc6 20. Nxe4
+{ Here we see that Deep as White rated 3 0 4 9 overpressed, and Critter as Black rated 3 1 3 9 secured the win. Both sides showed good positional understanding.0-1 }
+) 9... Bxf6 10. Nf3 c5 11. h4 e5 12. Qh5 g6 13. Bxg6 hxg6 14. Qxg6+ Bg7 15.
+dxe5 Nc6 16. h5 Qe8 17. Qxe8 Rxe8 18. O-O-O d4 19. Nd5 Rd8 20. h6
+{ Once again, Houdini as Black rated 3 2 7 7 seized the initiative and handed Stockfish handling the White pieces rated 3 2 0 7 a loss. The opening quickly led to complex middlegame play.0-1 }
+) 8... c5 9. dxc5 Nd7 10. Nf3 Nxc5 11. Nd4 a6 12. f4 b5 13. Bd3 b4 14. Nce2 a5
+15. Kb1 Qc7 16. Qh5 Nxd3 17. Rxd3 Ba6 18. Rh3 h6 19. Rg3 Kh8 20. Qg4
+{ Once again, Fat, rated 3 5 5 9, had the Black pieces defended accurately and defeated Seer handling the White pieces rated 3 4 8 8.0-1 }
+0-1
+
+
+

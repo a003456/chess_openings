@@ -1,0 +1,27 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Komodo 12.1.1 MCTS 64-bit 4CPU"]
+[Black "Stockfish 9 64-bit"]
+[Result "0-1"]
+[ECO "D21"]
+[Opening "QGA"]
+[Variation "Ericson variation"]
+[WhiteElo "3225"]
+[BlackElo "3424"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 b5
+{ entered in Queens Gambit Accepted Ericson Variation } 4. a4 c6 5. axb5 cxb5
+6. Nc3 Bd7 { played by 3 4 2 4 rated Stockfish } ( 6... Qb6
+{ played by 3 2 2 5 rated Komodo } 7. b3 e6 8. bxc4 Bb4 9. Bd2 bxc4 10. e3 Nf6
+11. Bxc4 O-O 12. Na4 Bxd2+ 13. Qxd2 Qd6 14. Nc5 Nbd7 15. Nxd7 Bxd7 16. O-O Bc6
+17. Ne5
+{ Here we see that Komodo, rated 3 2 2 5, had the Black pieces could not hold the position, allowing Stockfish handling the White pieces rated 3 4 2 4 to win. The opening quickly led to complex middlegame play.1-0 }
+) 7. Ne5 a5 8. g3 Ra6 9. Nxd7 Qxd7 10. Bg2 e6 11. Bf4 Bd6 12. Bxd6 Qxd6 13. Qd2
+b4 14. Ne4 Qd8 15. Rc1 Ne7 16. Rxc4 O-O 17. O-O
+{ Here we see that Stockfish on Black with Elo 3 4 2 4 defended accurately and defeated Komodo as White rated 3 2 2 5. The outcome was decided in the later stages.0-1 }
+0-1
+
+
+

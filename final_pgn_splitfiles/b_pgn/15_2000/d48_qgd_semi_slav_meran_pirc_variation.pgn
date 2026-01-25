@@ -1,0 +1,177 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Clover 6.1 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "D48"]
+[Opening "QGD semi-Slav"]
+[Variation "Meran, Pirc variation"]
+[WhiteElo "3640"]
+[BlackElo "3571"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+a6 9. e4 b4
+{ entered in Queens Gambit Declined Semi Slav Meran Pirc Variation } 10. e5
+{ played by 3 6 4 0 rated Stockfish } ( 10. Na4
+{ played by 3 5 5 2 rated SugaR } 10... c5 11. Bg5
+{ played by 3 2 9 4 rated Pedone } ( 11. O-O
+{ played by 3 3 9 6 rated Stormphrax } 11... cxd4 12. Bf4
+{ played by 3 3 9 6 rated Stormphrax } 12... Bb7
+{ we will see this position later on1/2-1/2 } ) ( 11. dxc5
+{ played by 3 2 7 8 rated pawn } 11... Bxc5 12. e5
+{ played by 3 2 6 4 rated Weiss } ( 12. O-O { played by 2 8 7 4 rated Naum }
+12... Bb7 13. e5 Nd5 14. Nxc5 Nxc5 15. Bc2 Rc8 16. Qd4 Nd7 17. Ba4 O-O 18. Qg4
+Kh8 19. Rd1 Bc6 20. Bc2 f5 21. Qh3 Qe7 22. Rd4 N5b6 23. Bg5
+{ In this game, The game between Naum, rated 2 8 7 4, had the White pieces and Rybka handling the Black pieces rated 3 0 2 6 finished level. Small inaccuracies made the difference.1/2-1/2 }
+) 12... Nd5 { we will see this position later on1/2-1/2 } ) 11... cxd4 12. e5
+h6 13. Be4 Rb8 14. Bh4 g5 15. exf6 gxh4 16. O-O Nxf6 17. Bc6+ Bd7 18. Nxd4 Rc8
+19. Bxd7+ Nxd7 20. Qe2 Bg7 21. Nf5 O-O 22. Nxg7 Kxg7 23. Rad1
+{ Here we see that The game between Pedone, rated 3 2 9 4, had the White pieces and Clover, rated 3 3 5 5, had the Black pieces finished level.1/2-1/2 }
+) ( 10. Ne2 { played by 3 3 3 9 rated Willow } 10... c5 11. O-O
+{ played by 3 3 3 9 rated Willow } ( 11. Be3 { played by 3 0 8 8 rated Alfil }
+11... Bb7 12. Qa4 c4 13. Bxc4 Bxe4 14. Ne5 Bd6 15. f3 Bb7 16. Bf4 Be7 17. Nc6
+Bxc6 18. Qxc6 O-O 19. O-O Qb6 20. Qxb6 Nxb6 21. Bd3 Nfd5 22. Bd2 a5 23. Rac1
+{ In this game, The game between Alfil on White with Elo 3 0 8 8 and Texel as Black rated 3 1 1 9 finished level. Small inaccuracies made the difference.1/2-1/2 }
+) 11... Bb7 12. d5 exd5 13. e5 Ne4 14. Nf4 g5 15. Nh5 Rg8 16. Qa4 Be7 17. a3
+bxa3 18. Rxa3 Qb6 19. Nf6+ Bxf6 20. exf6 O-O-O 21. Be3 g4 22. Nd2 Nxd2 23. Bxd2
+{ Here we see that Willow, rated 3 3 3 9, had the White pieces outplayed Combusken, rated 3 2 5 0, had the Black pieces and won the game. The position remained tense for most of the game.1-0 }
+) 10... bxc3 11. exf6 Nxf6 12. bxc3 Bd6 13. Ne5 c5 14. Qf3 Rb8 15. O-O Bb7 16.
+Qh3 cxd4 17. cxd4 h6 18. Re1 Bd5 19. Qg3 Qe7 20. Bd2 Nh5 21. Qh3 Nf6 22. Rac1
+Bb4 23. Bxb4
+{ Stockfish as White rated 3 6 4 0 converted the advantage and defeated Clover from the Black side with rating 3 5 7 1. Small inaccuracies made the difference.1-0 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Clover 6.1 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "D48"]
+[Opening "QGD semi-Slav"]
+[Variation "Meran, Pirc variation"]
+[WhiteElo "3640"]
+[BlackElo "3571"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+a6 9. e4 b4
+{ entered in Queens Gambit Declined Semi Slav Meran Pirc Variation } 10. Na4
+{ played by 3 5 5 2 rated SugaR } 10... c5 11. e5
+{ played by 3 5 5 2 rated SugaR } ( 11. O-O
+{ played by 3 3 9 6 rated Stormphrax } 11... cxd4 12. e5
+{ played by 3 3 9 0 rated Houdini } 12... Nd5 13. Be4
+{ played by 3 3 9 0 rated Houdini } 13... Bb7 14. Bg5 Be7 15. Bxe7 Qxe7 16. Rc1
+O-O 17. Qxd4 Rfc8 18. g3 Bc6 19. Nc5 Bb5 20. Nd3 N7b6 21. Rxc8+ Rxc8 22. Rc1
+Rd8 23. h4
+{ In an interesting battle, Houdini as White rated 3 3 9 0 and RubiChess handling the Black pieces rated 3 3 3 1 played a balanced game which ended in a draw. The outcome was decided in the later stages.1/2-1/2 }
+) ( 11. dxc5 { played by 3 2 7 8 rated pawn } 11... Bxc5 12. Bf4
+{ played by 3 2 7 8 rated pawn } 12... Bb7 13. Rc1
+{ played by 3 2 7 8 rated pawn } ( 13. O-O { played by 3 2 2 4 rated Gull }
+13... Be7 14. Qe2 Qa5 15. b3 O-O 16. Rfd1 Rfd8 17. Rac1 Rac8 18. h3 Nc5 19.
+Nxc5 Rxc5 20. Rxc5 Bxc5 21. Rc1 Nd7 22. Bg3 h6 23. Bb1
+{ In an interesting battle, After a long struggle, Gull as White rated 3 2 2 4 and Stockfish from the Black side with rating 3 3 4 5 shared the point. Small inaccuracies made the difference.1/2-1/2 }
+) 13... Rc8 14. O-O Be7 15. Qe2 O-O 16. b3 Qa5 17. h3 Rfd8 18. Rxc8 Rxc8 19.
+Rd1 Nc5 20. Nxc5 Rxc5 21. Bb1 Qb5 22. Qxb5 axb5 23. Re1
+{ Once again, Neither pawn, rated 3 2 7 8, had the White pieces nor RubiChess as Black rated 3 3 3 1 could convert, and the game was drawn. Small inaccuracies made the difference.1/2-1/2 }
+) 11... Nd5 12. O-O { played by 2 9 0 7 rated Hiarcs } ( 12. dxc5
+{ played by 3 2 4 4 rated Fire } 12... Bxc5 13. Nxc5 Nxc5 14. O-O
+{ played by 3 2 6 4 rated Weiss } ( 14. Bc2 { played by 3 2 4 4 rated Fire }
+14... a5 15. O-O Ba6 16. Re1 Rc8 17. Ng5 h6 18. Qh5 Rc7 19. Rd1 Qc8 20. Bd2 Bd3
+21. Bxd3 Nxd3 22. Ne4 Qa6 23. Nd6+
+{ In an interesting battle, Fire playing White, rated 3 2 4 4 remained in control, handing Texel as Black rated 3 1 7 0 a loss. Both sides showed good positional understanding.1-0 }
+) 14... Nxd3 15. Qxd3 h6 16. Qe4 O-O 17. Qg4 f5 18. exf6 Qxf6 19. a3 bxa3 20.
+Rxa3 Rb8 21. Re1 Nf4 22. Qxf4 Qxf4 23. Bxf4
+{ In an interesting battle, Neither Weiss playing White, rated 3 2 6 4 nor Combusken on Black with Elo 3 2 5 0 could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+) 12... Bb7 13. Ng5 { played by 2 9 0 7 rated Hiarcs } ( 13. Bg5
+{ played by 2 8 6 1 rated Loop } 13... Qa5 14. Nxc5 Nxc5 15. dxc5 h6 16. c6
+Bxc6 17. Nd4 Bb7 18. Bd2 Nb6 19. Re1 Rd8 20. Nb3 Qa4 21. Be4 Bxe4 22. Rxe4 a5
+23. Qg4
+{ Here we see that Loop on White with Elo 2 8 6 1 and Hiarcs from the Black side with rating 2 9 0 7 played a balanced game which ended in a draw. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 13... Be7 14. Qh5 g6 15. Qh6 cxd4 16. Qg7 Rf8 17. Nxh7 Bc6 18. b3 Qc7 19. Be4
+Qxe5 20. Qxe5 Nxe5 21. Nxf8 Kxf8 22. Bxd5 exd5 23. Bb2
+{ In an interesting battle, Loop, rated 2 8 6 1, had the Black pieces could not hold the position, allowing Hiarcs, rated 2 9 0 7, had the White pieces to win. The opening quickly led to complex middlegame play.1-0 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Clover 6.1 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "D48"]
+[Opening "QGD semi-Slav"]
+[Variation "Meran, Pirc variation"]
+[WhiteElo "3640"]
+[BlackElo "3571"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+a6 9. e4 b4
+{ entered in Queens Gambit Declined Semi Slav Meran Pirc Variation } 10. Na4
+{ played by 3 5 5 2 rated SugaR } 10... c5 11. Bf4
+{ played by 3 5 2 6 rated Viridithas } ( 11. O-O
+{ played by 3 3 9 6 rated Stormphrax } 11... cxd4 12. e5
+{ played by 3 3 9 0 rated Houdini } 12... Nd5 13. Re1
+{ played by 3 2 7 9 rated Calvin } 13... Bb7 14. Bd2
+{ played by 3 2 7 9 rated Calvin } ( 14. Nxd4 { played by 3 0 1 8 rated Pingu }
+14... Qb8 15. Be4 { played by 3 0 1 8 rated Pingu } ( 15. Bd2
+{ played by 2 7 9 5 rated Fruit } 15... Nxe5 16. Nxe6 fxe6 17. Qh5+ g6 18. Qxe5
+Qxe5 19. Rxe5 Kf7 20. Rae1 Re8 21. R5e4 Bd6 22. Bc4 a5 23. b3
+{ In this game, Fruit handling the White pieces rated 2 7 9 5 and Hiarcs on Black with Elo 2 8 2 1 played a balanced game which ended in a draw. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 15... g6 16. a3 Bg7 17. axb4 Nxb4 18. Bd2 Bxe4 19. Rxe4 Nd5 20. Nc6 Qb5 21.
+Rc1 O-O 22. b3 a5 23. Qc2
+{ Here we see that Pingu, rated 3 0 1 8, had the White pieces overpressed, and Simbelmyne playing Black, rated 3 0 5 9 secured the win. Both sides showed good positional understanding.0-1 }
+) 14... Qb8 15. Rc1 Be7 16. Rc4 O-O 17. Rxd4 Rc8 18. Rg4 Bc6 19. Bh6 g6 20. h4
+Bxa4 21. Qxa4 Nc5 22. Qd1 Nxd3 23. Qxd3
+{ In an interesting battle, After a long struggle, Calvin from the White side with rating 3 2 7 9 and Perseus, rated 3 3 0 4, had the Black pieces shared the point. Small inaccuracies made the difference.1/2-1/2 }
+) 11... Bb7 12. O-O cxd4 13. Rc1 Rc8 14. Qe2
+{ played by 3 5 2 6 rated Viridithas } ( 14. Qb3
+{ played by 3 3 9 6 rated Stormphrax } 14... Be7 15. Rxc8 Qxc8 16. Rc1 Qa8 17.
+Nxd4 Bxe4 18. Bxe4 Qxe4 19. Qe3 Qa8 20. Nxe6 fxe6 21. Qxe6 Qd8 22. Rd1 Kf8 23.
+Rc1
+{ Once again, Neither Stormphrax on White with Elo 3 3 9 6 nor Minic from the Black side with rating 3 4 6 4 could convert, and the game was drawn.1/2-1/2 }
+) ( 14. Rxc8 { played by 3 2 3 0 rated Panda } 14... Qxc8 15. Qb3 Be7
+{ we will see this position later on1/2-1/2 } ) 14... Be7 15. Nxd4 O-O 16. Nb3
+e5 17. Bd2 Bc6 18. Nac5 a5 19. Be3 a4 20. Nxd7 Nxd7 21. Nd2 Rc7 22. b3 Qb8 23.
+h3
+{ In this game, Viridithas, rated 3 5 2 6, had the White pieces and Revenge from the Black side with rating 3 5 5 8 played a balanced game which ended in a draw. Small inaccuracies made the difference.1/2-1/2 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Clover 6.1 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "D48"]
+[Opening "QGD semi-Slav"]
+[Variation "Meran, Pirc variation"]
+[WhiteElo "3640"]
+[BlackElo "3571"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+a6 9. e4 b4
+{ entered in Queens Gambit Declined Semi Slav Meran Pirc Variation } 10. Na4
+{ played by 3 5 5 2 rated SugaR } 10... c5 11. e5
+{ played by 3 5 5 2 rated SugaR } 11... Nd5 12. Bg5
+{ played by 3 5 5 2 rated SugaR } 12... Be7 13. Bxe7 Qxe7 14. Nxc5 Nxc5 15.
+dxc5 Qxc5 16. Rc1 Qe7 17. O-O Bb7 18. Rc4 { played by 3 5 5 2 rated SugaR } (
+18. Qd2 { played by 3 5 5 2 rated SugaR } 18... Rd8 19. Rfd1 O-O 20. Rc4 Rd7
+21. Ng5 Nb6 22. Bxh7+ Kh8 23. Bd3
+{ The game between SugaR on White with Elo 3 5 5 2 and RubiChess as Black rated 3 3 1 7 finished level. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 18... Rd8 19. h4 Nb6 20. Rf4 Nd7 21. Qe2 Bxf3 22. gxf3 O-O 23. Bxa6
+{ In an interesting battle, SugaR handling the White pieces rated 3 5 5 2 and Dragon on Black with Elo 3 5 2 9 played a balanced game which ended in a draw. The outcome was decided in the later stages.1/2-1/2 }
+1-0
+
+
+

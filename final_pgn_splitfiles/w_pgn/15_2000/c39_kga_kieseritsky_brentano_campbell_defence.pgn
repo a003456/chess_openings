@@ -1,0 +1,44 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 14.1 64-bit"]
+[Black "ShashChess 20.2 64-bit"]
+[Result "1-0"]
+[ECO "C39"]
+[Opening "KGA"]
+[Variation "Kieseritsky, Brentano (Campbell) defence"]
+[WhiteElo "3577"]
+[BlackElo "3570"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 d5
+{ entered in Kings Gambit Accepted Kieseritsky Brentano Campbell Defence } 6.
+exd5 Qe7 { played by 2 9 3 5 rated Spike } ( 6... Qxd5
+{ played by 3 5 7 7 rated Stockfish } 7. Qe2 Qe6 8. d4 f3 9. gxf3 gxf3
+{ played by 3 3 6 3 rated Wasp } ( 9... Nc6
+{ played by 3 5 7 7 rated Stockfish } 10. Nxc6 bxc6 11. fxg4 Nh6
+{ played by 3 5 7 7 rated Stockfish } ( 11... Ne7
+{ played by 3 5 5 9 rated Caissa } 12. Nc3 Qxg4 13. Bg5 h6 14. Bf6 Qg3+
+{ played by 3 5 5 9 rated Caissa } ( 14... Rg8
+{ played by 3 5 4 0 rated Chess } 15. Qe5 Rg6 16. h5 Rxf6 17. Qxf6 Bg7
+{ Caissa from the White side with rating 3 5 5 9 outplayed Chess as Black rated 3 5 4 0 and won the game.1-0 }
+) 15. Qf2 Qxf2+ 16. Kxf2 Rg8 17. Ne4 Bf5 18. Re1 Rg6 19. Be5
+{ Once again, Neither Chess as White rated 3 5 4 0 nor Caissa from the Black side with rating 3 5 5 9 could convert, and the game was drawn.1/2-1/2 }
+) 12. Rg1 Rg8 13. Bxh6 Bxh6 14. g5 Bg7 15. c3 Rb8 16. b3 Qxe2+ 17. Bxe2 c5 18.
+dxc5 Kf8
+{ Stockfish playing White, rated 3 5 7 7 converted the advantage and defeated ShashChess as Black rated 3 5 7 0. The outcome was decided in the later stages.1-0 }
+) 10. Qf2 Qe7 11. Nc3 f6 12. Nd5 Qd6 13. Qxf3 fxe5 14. Qh5+ Kd8 15. dxe5 Qg6
+16. Bg5+ Be7 17. Qf3 Qf5 18. Qe3 Bxg5 19. hxg5
+{ Here we see that Wasp from the Black side with rating 3 3 6 3 could not hold the position, allowing Revenge from the White side with rating 3 5 2 5 to win.1-0 }
+) 7. Qe2 f6 { played by 2 9 3 5 rated Spike } ( 7... Nf6
+{ played by 2 8 2 5 rated STRO4K } 8. d4 Nh5 9. Nd3 Bf5 10. Nc3 Nd7 11. Nb5
+O-O-O 12. Nxa7+ Kb8 13. Nb5 Ndf6 14. Qxe7 Bxe7 15. Bxf4 Nxd5 16. Be5 f6 17. Bh2
+g3 18. Bg1 Rhe8 19. O-O-O
+{ In this game, STRO4K on Black with Elo 2 8 2 5 defended accurately and defeated Seawall handling the White pieces rated 2 8 6 4. Small inaccuracies made the difference.0-1 }
+) 8. Nc4 b5 9. Na5 a6 10. Nc3 f3 11. gxf3 gxf3 12. Qxe7+ Nxe7 13. a4 b4 14. Ne4
+Nd7 15. Bc4 f5 16. Ng5 Nb6 17. Bb3 Nexd5 18. d4 Bd7 19. Kf2
+{ In an interesting battle, Andscacs handling the White pieces rated 2 8 9 6 outplayed Spike handling the Black pieces rated 2 9 3 5 and won the game. The outcome was decided in the later stages.1-0 }
+1-0
+
+
+

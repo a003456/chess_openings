@@ -1,0 +1,384 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Alexandria 7.0.0 64-bit"]
+[Black "Obsidian 13.0 64-bit"]
+[Result "1/2-1/2"]
+[ECO "C74"]
+[Opening "Ruy Lopez"]
+[Variation "Siesta, Kopayev variation"]
+[WhiteElo "3569"]
+[BlackElo "3583"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 f5 6. exf5 Bxf5 7. O-O
+{ entered in RUY Lopez Siesta Kopayev Variation } 7... Bd3 8. Re1
+{ played by 3 6 1 9 rated Stockfish } ( 8. Qb3
+{ played by 3 5 2 6 rated Stockfish } 8... b5 9. Qd5 Nd4 10. Ng5
+{ played by 2 9 8 0 rated SlowChess } 10... Ne2+ 11. Kh1 Qxg5 12. Qxa8+ Kd7 13.
+Qxa6 e4 14. c4 bxa4 15. Qxa4+ Ke6 16. Nc3 Nf4 17. Qe8+ Ne7 18. Rg1 g6 19. Qa4
+Bg7 20. Qa7
+{ In an interesting battle, SlowChess as White rated 2 9 8 0 overpressed, and Pirarucu from the Black side with rating 2 8 6 5 secured the win.0-1 }
+) 8... Be7 9. c4 { played by 2 9 8 5 rated HIARCS } ( 9. Na3
+{ played by 2 9 3 0 rated Crafty } 9... Nf6 10. Ng5 Qd7 11. Qb3 O-O-O 12. Nf7
+Rhf8 13. Nxd8 Bxd8 14. Bxc6 bxc6 15. Re3 e4 16. Qa4 Qf5 17. f3 Qc5 18. Qd4 Qxd4
+19. cxd4 Nd5 20. Rxe4
+{ Sting as Black rated 3 0 4 1 defended accurately and defeated Crafty as White rated 2 9 3 0. Small inaccuracies made the difference.0-1 }
+) ( 9. Re3 { played by 3 6 0 6 rated Reckless } 9... e4 10. Ne1
+{ played by 3 4 6 7 rated Igel } 10... Bg5 11. Rg3
+{ played by 3 4 6 7 rated Igel } ( 11. Nxd3 { played by 3 4 5 6 rated Houdini }
+11... Bxe3 12. Nb4
+{ Here we see that SugaR, rated 3 4 8 1, had the Black pieces defended accurately and defeated Komodo as White rated 3 4 0 3.0-1 }
+) ( 11. Bxc6+ { played by 3 3 8 5 rated Caissa } 11... bxc6
+{ we will see this position later on0-1 } ) ( 11. Rh3
+{ played by 3 3 8 4 rated Integral } 11... b5 12. Nxd3 exd3 13. Bb3 Ne5 14. g3
+c5 15. Bxg8 Rxg8 16. c4 Qd7 17. Qh5+ g6 18. Qxh7 Nf3+ 19. Kh1 Qe6 20. Kg2
+{ In an interesting battle, Odonata playing Black, rated 3 2 6 5 defended accurately and defeated Integral on White with Elo 3 3 8 4. Small inaccuracies made the difference.0-1 }
+) 11... Bh4 12. Bxc6+ bxc6 13. Re3 Bg5 14. Rh3 Nh6 15. Nxd3 exd3 16. Qe1+ Kd7
+17. Rxd3 Re8 18. Qf1 Re6 19. Na3 Qe7 20. Nc2
+{ Dragon handling the Black pieces rated 3 5 9 2 defended accurately and defeated Igel playing White, rated 3 4 6 7. The outcome was decided in the later stages.0-1 }
+) 9... b5 10. cxb5 axb5 11. Bc2 Nb4 12. Bxd3 Nxd3 13. Re3 Nxc1 14. Qxc1 c5 15.
+b4 cxb4 16. Qc6+ Kf8 17. d4 Nf6 18. Nbd2 Qe8 19. Qc1 Nd5 20. Re1
+{ In this game, Rybka as Black rated 3 1 8 6 seized the initiative and handed Deep as White rated 2 9 4 4 a loss. The outcome was decided in the later stages.0-1 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Alexandria 7.0.0 64-bit"]
+[Black "Obsidian 13.0 64-bit"]
+[Result "1/2-1/2"]
+[ECO "C74"]
+[Opening "Ruy Lopez"]
+[Variation "Siesta, Kopayev variation"]
+[WhiteElo "3569"]
+[BlackElo "3583"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 f5 6. exf5 Bxf5 7. O-O
+{ entered in RUY Lopez Siesta Kopayev Variation } 7... Bd3 8. Re1
+{ played by 3 6 1 9 rated Stockfish } 8... Be7 9. Bc2
+{ played by 3 5 8 2 rated Caissa } ( 9. Qb3
+{ played by 3 6 1 9 rated Stockfish } 9... b5 10. Qd5 Qd7 11. Qxd3
+{ played by 3 6 1 9 rated Stockfish } 11... bxa4 12. Qe3
+{ played by 2 5 2 4 rated AnMon } ( 12. Qc4 { played by 2 1 0 2 rated Ifrit }
+12... d5 13. Qxa4 e4 14. Nd4 Ne5 15. Qxd7+ Kxd7 16. a4 Nd3 17. Rf1 Bc5 18. Nc2
+a5 19. Nba3 c6 20. c4
+{ In this game, Sjakk from the Black side with rating 2 2 6 4 defended accurately and defeated Ifrit from the White side with rating 2 1 0 2. Small inaccuracies made the difference.0-1 }
+) ( 12. Qc2 { played by 3 6 1 9 rated Stockfish } 12... Nf6 13. d4
+{ played by 2 9 5 4 rated Francesca } ( 13. Qxa4
+{ played by 2 8 4 6 rated BugChess2 } 13... O-O 14. Qb3+ d5 15. d3 Bc5 16. Nbd2
+Ng4 17. Rf1 Rae8 18. Ne4 Bb6 19. Ng3 Kh8 20. Qd1
+{ Arasan from the Black side with rating 2 8 8 3 seized the initiative and handed BugChess2 on White with Elo 2 8 4 6 a loss. The outcome was decided in the later stages.0-1 }
+) 13... O-O 14. Nbd2 exd4 15. Qxa4 dxc3 16. bxc3 d5 17. Rb1 Bc5 18. Ba3 Ne5 19.
+Qb3 Nd3 20. Bxc5
+{ Once again, Neither Francesca playing White, rated 2 9 5 4 nor Topple from the Black side with rating 3 0 4 1 could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
+) 12... Nf6 13. d4 O-O 14. dxe5 Nxe5 15. Nxe5 dxe5 16. Qe2 Qc6 17. Nd2 a3 18.
+bxa3 Bc5 19. Nb3 Bd6 20. c4
+{ Once again, AnMon playing White, rated 2 5 2 4 remained in control, handing RedQueen handling the Black pieces rated 2 5 6 5 a loss. Small inaccuracies made the difference.1-0 }
+) ( 9. Re3 { played by 3 6 0 6 rated Reckless } 9... e4 10. Na3
+{ played by 3 6 0 6 rated Reckless } 10... Nf6 11. Ne1 O-O 12. Nxd3 exd3 13.
+Rxd3 d5 14. Bxc6 { played by 3 6 0 6 rated Reckless } 14... bxc6 15. Rf3 Bxa3
+16. bxa3 Ne4 17. d3 Nxc3 18. Rxf8+ Qxf8 19. Qc2 d4 20. Bb2
+{ Here we see that Neither Reckless from the White side with rating 3 6 0 6 nor Caissa as Black rated 3 5 8 5 could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+) 9... Bxc2 10. Qxc2 Nf6 11. Ng5 { played by 2 7 5 0 rated Spike } 11... Qd7
+12. d4 O-O 13. dxe5 Nxe5 14. f4 Nf7 15. Ne6 Rfe8 16. Nd2 d5 17. Nf3 Bd6 18. f5
+Nd8 19. Bg5 Nxe6 20. Bxf6
+{ Here we see that The game between Spike playing White, rated 2 7 5 0 and Deep as Black rated 2 9 0 5 finished level.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Alexandria 7.0.0 64-bit"]
+[Black "Obsidian 13.0 64-bit"]
+[Result "1/2-1/2"]
+[ECO "C74"]
+[Opening "Ruy Lopez"]
+[Variation "Siesta, Kopayev variation"]
+[WhiteElo "3569"]
+[BlackElo "3583"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 f5 6. exf5 Bxf5 7. O-O
+{ entered in RUY Lopez Siesta Kopayev Variation } 7... Bd3 8. Re1
+{ played by 3 6 1 9 rated Stockfish } 8... Be7 9. Bc2
+{ played by 3 5 8 2 rated Caissa } ( 9. Qb3
+{ played by 3 6 1 9 rated Stockfish } 9... b5 10. Qd5 Qd7 11. Qxd3
+{ played by 3 6 1 9 rated Stockfish } 11... bxa4 12. Qc2
+{ played by 3 6 1 9 rated Stockfish } 12... Nf6 13. d3
+{ played by 3 6 1 9 rated Stockfish } 13... O-O 14. Be3
+{ played by 3 5 4 5 rated Cinder } ( 14. Qxa4
+{ played by 3 0 8 3 rated chess22k } 14... Nd4 15. Qc4+
+{ played by 2 7 5 7 rated Nawito } ( 15. Qxd7
+{ played by 2 4 0 6 rated TJchess } 15... Nxf3+ 16. gxf3 Nxd7 17. Kg2 Rf5 18.
+Be3 d5 19. Nd2 Nc5 20. Bxc5
+{ In an interesting battle, TJchess handling the White pieces rated 2 4 0 6 converted the advantage and defeated Bumblebee, rated 2 4 2 0, had the Black pieces.1-0 }
+) 15... d5 16. Nxe5 dxc4 17. Nxd7 Nc2 18. Rxe7 Rfe8 19. Nxf6+ gxf6 20. Rxe8+
+{ In an interesting battle, Critter playing Black, rated 2 7 5 2 outplayed Nawito playing White, rated 2 7 5 7 and won as Black. The position remained tense for most of the game.0-1 }
+) ( 14. h3 { played by 2 9 9 1 rated Spark } 14... Rae8 15. Qxa4
+{ played by 2 9 9 1 rated Spark } ( 15. Be3 { played by 2 9 4 1 rated Cheng }
+15... Nd8 16. c4 Nh5 17. Nbd2 c5 18. Qd1 Nf4 19. Bxf4 Rxf4 20. b3
+{ In this game, SmarThink playing Black, rated 3 0 2 5 seized the initiative and handed Cheng as White rated 2 9 4 1 a loss. Both sides showed good positional understanding.0-1 }
+) 15... Nd4 16. Qd1 Nxf3+ 17. Qxf3 d5 18. Qe2 Bc5 19. Rf1 Bb6 20. Nd2
+{ Here we see that Spark playing White, rated 2 9 9 1 and Houdini as Black rated 3 2 4 0 played a balanced game which ended in a draw. Small inaccuracies made the difference.1/2-1/2 }
+) 14... Rae8 15. a3 { played by 3 5 4 5 rated Cinder } ( 15. Nbd2
+{ played by 3 5 3 1 rated Ethereal } 15... a3 16. bxa3 d5 17. Rad1 Bxa3 18. Qb3
+Bd6 19. Ne4 Ne7 20. Nxf6+
+{ Here we see that Velvet playing White, rated 3 4 3 9 and Igel from the Black side with rating 3 5 2 2 played a balanced game which ended in a draw. The position remained tense for most of the game.1/2-1/2 }
+) 15... Nd8 16. Nbd2 Nd5 17. d4 exd4 18. cxd4 Ne6 19. Rac1 Qb5 20. Rcd1
+{ In this game, Cinder handling the White pieces rated 3 5 4 5 remained in control, handing pawnocchio from the Black side with rating 3 5 1 6 a loss. The position remained tense for most of the game.1-0 }
+) 9... Bxc2 10. Qxc2 Nf6 11. d4 { played by 3 5 8 2 rated Caissa } 11... e4 12.
+Ng5 { played by 3 5 8 2 rated Caissa } 12... d5 13. f3 h6 14. Ne6
+{ played by 2 6 9 5 rated Fruit } 14... Qd7 15. Nf4 O-O-O 16. fxe4 dxe4 17. Nd2
+Rhe8 18. Nxe4 Bb4 19. Re2 Nxe4 20. Rxe4
+{ Here we see that Hiarcs playing Black, rated 2 7 6 1 seized the initiative and handed Fruit handling the White pieces rated 2 6 9 5 a loss. Small inaccuracies made the difference.0-1 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Alexandria 7.0.0 64-bit"]
+[Black "Obsidian 13.0 64-bit"]
+[Result "1/2-1/2"]
+[ECO "C74"]
+[Opening "Ruy Lopez"]
+[Variation "Siesta, Kopayev variation"]
+[WhiteElo "3569"]
+[BlackElo "3583"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 f5 6. exf5 Bxf5 7. O-O
+{ entered in RUY Lopez Siesta Kopayev Variation } 7... Bd3 8. Re1
+{ played by 3 6 1 9 rated Stockfish } 8... Be7 9. Re3
+{ played by 3 6 0 6 rated Reckless } ( 9. Bc2
+{ played by 3 5 8 2 rated Caissa } 9... Bxc2 10. Qxc2 Nf6 11. d4
+{ played by 3 5 8 2 rated Caissa } 11... e4 12. Ng5
+{ played by 3 5 8 2 rated Caissa } 12... d5 13. f3 h6 14. Nh3
+{ played by 3 5 8 2 rated Caissa } 14... O-O 15. fxe4
+{ played by 2 2 8 0 rated Zeus } 15... Nxe4 16. Nd2 Nxd2 17. Bxd2 Qd6 18. Qd3
+Rf6 19. Rf1 Raf8 20. Rxf6
+{ Popochin from the Black side with rating 2 3 6 6 outplayed Zeus playing White, rated 2 2 8 0 and won as Black. Small inaccuracies made the difference.0-1 }
+) ( 9. Qb3 { played by 3 6 1 9 rated Stockfish } 9... b5 10. Qd5 Qd7 11. Qxd3
+{ played by 3 6 1 9 rated Stockfish } ( 11. Bb3
+{ played by 2 6 8 7 rated KnightX } 11... Bg6 12. d4 Nf6 13. Qe6 e4 14. Qxd7+
+Kxd7 15. Nh4 d5 16. Bg5 { played by 2 6 8 7 rated KnightX } ( 16. Nxg6
+{ played by 2 6 8 0 rated Chess } 16... hxg6 17. Nd2 Bd6 18. h3 Rae8 19. Bc2 g5
+20. f3
+{ In this game, Chess as White rated 2 6 8 0 overpressed, and Shredder from the Black side with rating 2 8 4 7 secured the win.0-1 }
+) 16... Bf7 17. Nf5 h6 18. Bh4 g5 19. Bg3 Bf8 20. a4
+{ Here we see that After a long struggle, KnightX from the White side with rating 2 6 8 7 and Cheese from the Black side with rating 2 8 2 3 shared the point. Both sides showed good positional understanding.1/2-1/2 }
+) 11... bxa4 12. Qc2 { played by 3 6 1 9 rated Stockfish } 12... Nf6 13. d3
+{ played by 3 6 1 9 rated Stockfish } 13... O-O 14. Nbd2
+{ played by 3 6 1 9 rated Stockfish } 14... Rae8 15. Ne4
+{ played by 3 5 9 3 rated Obsidian } ( 15. Qxa4
+{ played by 3 5 3 9 rated Renegade } 15... d5 16. c4
+{ played by 3 4 8 1 rated Quanticade } 16... Nb4 17. Qb3 Bc5 18. cxd5 Qxd5 19.
+Re2 Nxd3 20. Qxd5+
+{ In an interesting battle, Quanticade from the White side with rating 3 4 8 1 and Revenge playing Black, rated 3 5 3 9 played a balanced game which ended in a draw. Small inaccuracies made the difference.1/2-1/2 }
+) 15... h6 16. Nxf6+ { played by 3 5 0 4 rated Stormphrax } 16... Rxf6 17. Qxa4
+d5 { we will see this position later on1/2-1/2 } ) 9... e4 10. Na3
+{ played by 3 6 0 6 rated Reckless } 10... Nf6 11. Ne1 O-O 12. Nxd3 exd3 13.
+Rxd3 d5 14. Bc2 { played by 3 4 4 5 rated SlowChess } 14... d4 15. cxd4
+{ played by 3 4 4 5 rated SlowChess } ( 15. b4
+{ played by 3 4 2 3 rated Berserk } 15... Nd5 16. Rf3 Bf6 17. Bb2 dxc3 18. dxc3
+Ne5 19. Rh3 Nf4 20. Re3
+{ Neither Berserk, rated 3 4 2 3, had the White pieces nor Ginkgo as Black rated 3 5 1 3 could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 15... Nb4 16. Bb3+ Kh8 17. Rh3 Qxd4 18. d3 Rad8 19. Nc2 Nxc2 20. Qxc2
+{ Here we see that SlowChess, rated 3 4 4 5, had the White pieces and Koivisto playing Black, rated 3 4 0 4 played a balanced game which ended in a draw. The outcome was decided in the later stages.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Alexandria 7.0.0 64-bit"]
+[Black "Obsidian 13.0 64-bit"]
+[Result "1/2-1/2"]
+[ECO "C74"]
+[Opening "Ruy Lopez"]
+[Variation "Siesta, Kopayev variation"]
+[WhiteElo "3569"]
+[BlackElo "3583"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 f5 6. exf5 Bxf5 7. O-O
+{ entered in RUY Lopez Siesta Kopayev Variation } 7... Bd3 8. Qb3
+{ played by 3 5 2 6 rated Stockfish } ( 8. Re1
+{ played by 3 6 1 9 rated Stockfish } 8... Be7 9. Qb3
+{ played by 3 6 1 9 rated Stockfish } 9... b5 10. Qd5 Qd7 11. Qxd3
+{ played by 3 6 1 9 rated Stockfish } 11... bxa4 12. Qc2
+{ played by 3 6 1 9 rated Stockfish } 12... Nf6 13. d3
+{ played by 3 6 1 9 rated Stockfish } 13... O-O 14. Nbd2
+{ played by 3 6 1 9 rated Stockfish } ( 14. Qxa4
+{ played by 3 0 8 3 rated chess22k } 14... Nd4 15. Qd1
+{ played by 3 0 8 3 rated chess22k } 15... Nxf3+ 16. Qxf3 d5 17. h3
+{ played by 2 6 3 7 rated DanaSah } 17... Bd6 18. Qe2 Rab8 19. Nd2 Kh8 20. Nb3
+{ In an interesting battle, DanaSah playing White, rated 2 6 3 7 outplayed Igel on Black with Elo 2 6 2 4 and won the game. The outcome was decided in the later stages.1-0 }
+) 14... Rae8 15. Nf1 { played by 3 6 1 9 rated Stockfish } ( 15. Qxa4
+{ played by 3 5 3 9 rated Renegade } 15... d5 16. h3
+{ played by 3 5 3 9 rated Renegade } 16... Bd6 17. b3
+{ played by 3 2 6 5 rated Odonata } 17... a5 18. Rb1 h6 19. a3 Re6 20. Kf1
+{ Here we see that The game between Odonata playing White, rated 3 2 6 5 and Integral playing Black, rated 3 3 8 4 finished level. The position remained tense for most of the game.1/2-1/2 }
+) ( 15. Ne4 { played by 3 5 9 3 rated Obsidian } 15... h6 16. Qxa4
+{ played by 3 5 9 3 rated Obsidian } 16... d5 17. Nxf6+ Rxf6 18. c4
+{ played by 3 5 9 3 rated Obsidian } ( 18. Be3 { played by 3 5 2 2 rated Igel }
+18... Ref8 19. Kh1 Rg6 20. Rg1
+{ In this game, The game between Stormphrax from the White side with rating 3 5 0 4 and Clover handling the Black pieces rated 3 5 5 6 finished level. Both sides showed good positional understanding.1/2-1/2 }
+) ( 18. Kh1 { played by 3 5 0 4 rated Stormphrax } 18... Ref8 19. Be3
+{ we will see this position later on1/2-1/2 } ) 18... Bb4 19. Bd2 Bxd2 20. Nxd2
+{ In this game, Neither Obsidian as White rated 3 5 9 3 nor PlentyChess playing Black, rated 3 5 7 7 could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
+) 15... Nd8 16. Ng3 Ne6 17. Ng5 { played by 3 5 6 0 rated Clover } 17... Nxg5
+18. Bxg5 Nd5 19. Bd2 h5 20. Ne4
+{ Once again, Neither Clover, rated 3 5 6 0, had the White pieces nor Stockfish, rated 3 6 1 9, had the Black pieces could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
+) 8... b5 9. Qd5 Nd4 10. cxd4 { played by 3 5 2 6 rated Stockfish } 10... Ne7
+11. Qe6 Bxf1 12. Bb3 Bc4 13. Bxc4 bxc4 14. dxe5 Qd7 15. Qxc4 Qc6 16. Qf1
+{ played by 2 8 6 5 rated Pirarucu } 16... dxe5 17. Nxe5 Qe6 18. d4 Nf5 19. Nf3
+Be7 20. Bf4
+{ Once again, After a long struggle, Pirarucu handling the White pieces rated 2 8 6 5 and SlowChess as Black rated 2 9 8 0 shared the point.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Alexandria 7.0.0 64-bit"]
+[Black "Obsidian 13.0 64-bit"]
+[Result "1/2-1/2"]
+[ECO "C74"]
+[Opening "Ruy Lopez"]
+[Variation "Siesta, Kopayev variation"]
+[WhiteElo "3569"]
+[BlackElo "3583"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 f5 6. exf5 Bxf5 7. O-O
+{ entered in RUY Lopez Siesta Kopayev Variation } 7... Bd3 8. Re1
+{ played by 3 6 1 9 rated Stockfish } 8... Be7 9. Qb3
+{ played by 3 6 1 9 rated Stockfish } ( 9. Bc2
+{ played by 3 5 8 2 rated Caissa } 9... Bxc2 10. Qxc2 Nf6 11. d4
+{ played by 3 5 8 2 rated Caissa } 11... e4 12. Ng5
+{ played by 3 5 8 2 rated Caissa } 12... d5 13. f3 h6 14. Nh3
+{ played by 3 5 8 2 rated Caissa } 14... O-O 15. Nd2
+{ played by 3 5 8 2 rated Caissa } 15... exf3 16. Nxf3 Qd7 17. Qg6 Qe8 18. Qd3
+{ played by 3 5 8 2 rated Caissa } ( 18. Nh4 { played by 3 3 8 4 rated Komodo }
+18... Ne4 19. Qxe8 Rfxe8 20. Nf5
+{ In an interesting battle, Neither Komodo playing White, rated 3 3 8 4 nor Rybka as Black rated 3 1 8 6 could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
+) ( 18. Nf4 { played by 3 1 8 6 rated Rybka } 18... Qxg6 19. Nxg6 Rfe8 20.
+Nxe7+
+{ In an interesting battle, After a long struggle, Rybka on White with Elo 3 1 8 6 and Komodo on Black with Elo 3 3 8 4 shared the point. Small inaccuracies made the difference.1/2-1/2 }
+) 18... Qd7 19. Nf4 Bd6 20. Ng6
+{ Once again, After a long struggle, Caissa handling the White pieces rated 3 5 8 2 and PlentyChess playing Black, rated 3 5 9 1 shared the point. Both sides showed good positional understanding.1/2-1/2 }
+) 9... b5 10. Qd5 Qd7 11. Qxd3 { played by 3 6 1 9 rated Stockfish } 11... bxa4
+12. Qc2 { played by 3 6 1 9 rated Stockfish } 12... Nf6 13. d3
+{ played by 3 6 1 9 rated Stockfish } 13... O-O 14. Nbd2
+{ played by 3 6 1 9 rated Stockfish } ( 14. Qxa4
+{ played by 3 0 8 3 rated chess22k } 14... Nd4 15. Qd1
+{ played by 3 0 8 3 rated chess22k } 15... Nxf3+ 16. Qxf3 d5 17. Qd1
+{ played by 3 0 8 3 rated chess22k } 17... Qf5 18. f3
+{ played by 2 8 6 8 rated Zappa } ( 18. Nd2
+{ played by 2 5 5 5 rated Capivara } 18... Qxd3 19. Rxe5 Bc5 20. Re1
+{ Amoeba from the Black side with rating 2 6 3 7 seized the initiative and handed Capivara from the White side with rating 2 5 5 5 a loss. Both sides showed good positional understanding.0-1 }
+) 18... e4 19. dxe4 dxe4 20. Be3
+{ Once again, After a long struggle, Zappa as White rated 2 8 6 8 and EXchess, rated 2 9 1 3, had the Black pieces shared the point. Small inaccuracies made the difference.1/2-1/2 }
+) 14... Rae8 15. Qxa4 { played by 3 5 3 9 rated Renegade } 15... d5 16. h3
+{ played by 3 5 3 9 rated Renegade } 16... Bd6 17. Nh2
+{ played by 3 5 3 9 rated Renegade } 17... Re6 18. Qc2
+{ played by 3 5 3 9 rated Renegade } ( 18. Rb1 { played by 3 4 8 8 rated Seer }
+18... e4 19. dxe4 Qf7 20. Ndf3
+{ Seer playing White, rated 3 4 8 8 and Chess, rated 3 5 4 0, had the Black pieces played a balanced game which ended in a draw. The opening quickly led to complex middlegame play.1/2-1/2 }
+) ( 18. Ndf3 { played by 3 4 0 4 rated Koivisto } 18... e4 19. Ng5 Re7 20. dxe4
+{ The game between Koivisto playing White, rated 3 4 0 4 and SlowChess from the Black side with rating 3 4 4 5 finished level. The position remained tense for most of the game.1/2-1/2 }
+) 18... h6 19. Ndf3 e4 20. dxe4
+{ After a long struggle, Renegade as White rated 3 5 3 9 and PlentyChess from the Black side with rating 3 5 9 1 shared the point.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Alexandria 7.0.0 64-bit"]
+[Black "Obsidian 13.0 64-bit"]
+[Result "1/2-1/2"]
+[ECO "C74"]
+[Opening "Ruy Lopez"]
+[Variation "Siesta, Kopayev variation"]
+[WhiteElo "3569"]
+[BlackElo "3583"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 f5 6. exf5 Bxf5 7. O-O
+{ entered in RUY Lopez Siesta Kopayev Variation } 7... Bd3 8. Qb3
+{ played by 3 5 2 6 rated Stockfish } ( 8. Re1
+{ played by 3 6 1 9 rated Stockfish } 8... Be7 9. Qb3
+{ played by 3 6 1 9 rated Stockfish } 9... b5 10. Qd5 Qd7 11. Qxd3
+{ played by 3 6 1 9 rated Stockfish } 11... bxa4 12. Qc2
+{ played by 3 6 1 9 rated Stockfish } 12... Nf6 13. d3
+{ played by 3 6 1 9 rated Stockfish } 13... O-O 14. Nbd2
+{ played by 3 6 1 9 rated Stockfish } ( 14. Qxa4
+{ played by 3 0 8 3 rated chess22k } 14... Nd4 15. Qd1
+{ played by 3 0 8 3 rated chess22k } 15... Nxf3+ 16. Qxf3 d5 17. Qd1
+{ played by 3 0 8 3 rated chess22k } 17... Qf5 18. d4
+{ played by 3 0 8 3 rated chess22k } 18... e4 19. h3
+{ played by 3 0 8 3 rated chess22k } ( 19. Rf1
+{ played by 2 8 0 3 rated Marvin } 19... Ng4 20. f4
+{ In an interesting battle, The game between Marvin on White with Elo 2 8 0 3 and Counter handling the Black pieces rated 2 7 1 4 finished level. Both sides showed good positional understanding.1/2-1/2 }
+) 19... Nh5 20. Be3
+{ Stockfish playing Black, rated 3 0 1 9 outplayed chess22k as White rated 3 0 8 3 and won as Black.0-1 }
+) 14... Rae8 15. Nf1 { played by 3 6 1 9 rated Stockfish } 15... Nd8 16. Ng3
+Ne6 17. d4 { played by 3 6 1 9 rated Stockfish } 17... exd4 18. cxd4 d5 19. Re2
+{ played by 3 5 6 9 rated Alexandria } ( 19. Be3
+{ played by 3 5 5 4 rated PlentyChess } 19... Ng4 20. Rad1
+{ Here we see that Neither PlentyChess from the White side with rating 3 5 5 4 nor Koivisto from the Black side with rating 3 5 2 3 could convert, and the game was drawn. Both sides showed good positional understanding.1/2-1/2 }
+) 19... Ng4 20. Nf5
+{ Here we see that Alexandria, rated 3 5 6 9, had the White pieces and Obsidian from the Black side with rating 3 5 8 3 played a balanced game which ended in a draw. Both sides showed good positional understanding.1/2-1/2 }
+) 8... b5 9. Qd5 Nd4 10. cxd4 { played by 3 5 2 6 rated Stockfish } 10... Ne7
+11. Qe6 Bxf1 12. Bb3 Bc4 13. Bxc4 bxc4 14. dxe5 Qd7 15. Qxc4 Qc6 16. Na3
+{ played by 3 5 2 6 rated Stockfish } 16... Qxc4 17. Nxc4 dxe5 18. Ncxe5
+{ played by 3 5 2 6 rated Stockfish } ( 18. Nfxe5
+{ played by 3 4 5 6 rated Komodo } 18... Nd5 19. d4 Nb6 20. Na5
+{ Here we see that The game between Komodo, rated 3 4 5 6, had the White pieces and Stockfish, rated 3 5 2 6, had the Black pieces finished level. The outcome was decided in the later stages.1/2-1/2 }
+) 18... Nd5 19. d4 Bd6 20. Nc6
+{ Once again, Neither Stockfish handling the White pieces rated 3 5 2 6 nor Komodo playing Black, rated 3 4 5 6 could convert, and the game was drawn.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Alexandria 7.0.0 64-bit"]
+[Black "Obsidian 13.0 64-bit"]
+[Result "1/2-1/2"]
+[ECO "C74"]
+[Opening "Ruy Lopez"]
+[Variation "Siesta, Kopayev variation"]
+[WhiteElo "3569"]
+[BlackElo "3583"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 f5 6. exf5 Bxf5 7. O-O
+{ entered in RUY Lopez Siesta Kopayev Variation } 7... Bd3 8. Re1
+{ played by 3 6 1 9 rated Stockfish } 8... Be7 9. Bc2
+{ played by 3 5 8 2 rated Caissa } 9... Bxc2 10. Qxc2 Nf6 11. d4
+{ played by 3 5 8 2 rated Caissa } 11... e4 12. Nfd2
+{ played by 3 0 1 3 rated Stockfish } 12... d5 13. f3 exf3 14. Nxf3 O-O 15. Bg5
+Bd6 16. Nbd2 Qd7 17. Bxf6 Rxf6 18. Qb3 Bf4 19. Ne4
+{ played by 2 8 4 5 rated Critter } ( 19. Re2 { played by 2 8 1 1 rated Spark }
+19... Na5 20. Qc2
+{ In an interesting battle, Spark, rated 2 8 1 1, had the White pieces overpressed, and Stockfish, rated 3 0 1 3, had the Black pieces secured the win. Both sides showed good positional understanding.0-1 }
+) 19... Rh6 20. Nf2
+{ Neither Critter playing White, rated 2 8 4 5 nor Stockfish handling the Black pieces rated 3 0 1 3 could convert, and the game was drawn.1/2-1/2 }
+1/2-1/2
+
+
+

@@ -1,0 +1,76 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17.1 64-bit 4CPU"]
+[Black "Viridithas 17.0.0 64-bit 4CPU"]
+[Result "0-1"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "Blachly gambit"]
+[WhiteElo "3645"]
+[BlackElo "3606"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Nc6
+{ entered in Kings Gambit Accepted Blachly Gambit } 5. h3
+{ played by 3 0 2 5 rated SmarThink } ( 5. d4
+{ played by 3 5 8 3 rated Obsidian } 5... Bg7 6. Nc3
+{ played by 3 5 6 4 rated Caissa } ( 6. h4 { played by 3 5 5 3 rated Clover }
+6... h6 7. Nc3 d6 { we will see this position later on1/2-1/2 } ) 6... d6 7. h4
+h6 8. Qd3 Bd7 9. hxg5 hxg5 10. Rxh8 Bxh8 11. e5 Kf8 12. Bd2 Bg7 13. exd6 cxd6
+14. O-O-O Nh6 15. Bb3 Rc8 16. Kb1 a6 17. Qf1 Bf5 18. g3
+{ Caissa as White rated 3 5 6 4 and Stockfish from the Black side with rating 3 6 2 0 played a balanced game which ended in a draw.1/2-1/2 }
+) ( 5. h4 { played by 3 6 4 5 rated Stockfish } 5... g4 6. Ng5 Ne5 7. d3
+{ played by 3 6 4 5 rated Stockfish } ( 7. Bb3
+{ played by 2 0 7 7 rated Napoleon } 7... h6 8. Nxf7 Nxf7 9. Qxg4 Qf6 10. d4
+{ Once again, RamJet, rated 2 1 1 6, had the Black pieces seized the initiative and handed Napoleon, rated 2 0 7 7, had the White pieces a loss. The opening quickly led to complex middlegame play.0-1 }
+) 7... Nxc4 8. dxc4 f3 9. gxf3 h6 10. Nxf7 Kxf7 11. fxg4 d6 12. Nc3 Be7 13. g5
+hxg5 14. Be3
+{ Viridithas, rated 3 6 0 6, had the Black pieces defended accurately and defeated Stockfish on White with Elo 3 6 4 5. Small inaccuracies made the difference.0-1 }
+) ( 5. O-O { played by 3 3 9 0 rated Houdini } 5... d6 6. d4 Bg7 7. c3 h6 8.
+Qa4 { played by 3 1 8 6 rated Rybka } ( 8. Qb3
+{ played by 2 8 0 4 rated Rhetoric } 8... Qe7 9. d5 Ne5 10. Nxe5 dxe5 11. Qb5+
+Kd8 12. b4 a6 13. Qa5 b6 14. Qa3 Nf6 15. Nd2 h5 16. Bb5 Bb7 17. Bd3 h4 18. h3
+{ Once again, Scorpio from the Black side with rating 2 7 0 5 defended accurately and defeated Rhetoric on White with Elo 2 8 0 4. The opening quickly led to complex middlegame play.0-1 }
+) 8... Bd7 9. Qb3 Na5 10. Bxf7+ Ke7 11. Qa3 Kxf7 12. Qxa5 Kg6 13. Qb4 b5 14.
+Qb3 Ne7 15. Bd2 Kh7 16. Be1 Ng6 17. h3 h5 18. h4
+{ In this game, Rybka on White with Elo 3 1 8 6 and Houdini on Black with Elo 3 2 7 7 played a balanced game which ended in a draw. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 5... Na5 6. Be2 Nf6 7. Nc3 Nh5 8. O-O Ng3 9. Re1 Bg7 10. d4 Nc6 11. Bc4 O-O
+12. Nd5 h6 13. c3 d6 14. Nxf4 gxf4 15. Bxf4 Nh5 16. Bh2
+{ Once again, Hannibal handling the Black pieces rated 3 1 1 8 seized the initiative and handed SmarThink from the White side with rating 3 0 2 5 a loss.0-1 }
+0-1
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17.1 64-bit 4CPU"]
+[Black "Viridithas 17.0.0 64-bit 4CPU"]
+[Result "0-1"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "Blachly gambit"]
+[WhiteElo "3645"]
+[BlackElo "3606"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Nc6
+{ entered in Kings Gambit Accepted Blachly Gambit } 5. O-O
+{ played by 3 3 9 0 rated Houdini } 5... d6 6. d4 Bg7 7. c3 h6 8. g3
+{ played by 3 3 9 0 rated Houdini } 8... Bh3 9. gxf4
+{ played by 3 3 9 0 rated Houdini } ( 9. Re1
+{ played by 3 0 0 4 rated Demolito } 9... fxg3 10. hxg3 Qd7 11. Be3
+{ played by 3 0 0 4 rated Demolito } ( 11. Qe2
+{ played by 2 9 5 4 rated Francesca } 11... O-O-O 12. Be3 f5 13. exf5 d5 14.
+Bb5 Nge7 15. Nbd2 Nxf5 16. Bf2 a6 17. Bxa6 bxa6 18. Qxa6+
+{ Francesca from the White side with rating 2 9 5 4 and Crafty playing Black, rated 2 9 3 1 played a balanced game which ended in a draw.1/2-1/2 }
+) 11... Nf6 12. Nbd2 O-O 13. Bd3 Rfe8 14. Nh2 Ne7 15. a4 a6 16. Qf3 Rad8 17.
+Be2 g4 18. Qf2
+{ In an interesting battle, The game between Demolito from the White side with rating 3 0 0 4 and Pirarucu as Black rated 2 9 9 3 finished level. Small inaccuracies made the difference.1/2-1/2 }
+) 9... Bxf1 10. Qxf1 Qd7 11. Kh1
+{ In this game, Houdini, rated 3 3 9 0, had the Black pieces outplayed Fire playing White, rated 3 3 8 5 and won as Black. Both sides showed good positional understanding.0-1 }
+0-1
+
+
+

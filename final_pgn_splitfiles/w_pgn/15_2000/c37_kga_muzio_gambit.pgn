@@ -1,0 +1,37 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Torch v3 64-bit"]
+[Black "Stockfish 16.1 64-bit"]
+[Result "0-1"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "Muzio gambit"]
+[WhiteElo "3611"]
+[BlackElo "3620"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. O-O
+{ entered in Kings Gambit Accepted Muzio Gambit } 5... h5
+{ played by 3 2 4 8 rated Schooner } ( 5... gxf3
+{ played by 3 6 2 0 rated Stockfish } 6. Qxf3 Qf6
+{ played by 3 6 2 0 rated Stockfish } ( 6... Qh4
+{ played by 2 4 1 1 rated NoC } 7. d4
+{ Once again, NoC on Black with Elo 2 4 1 1 seized the initiative and handed Raven from the White side with rating 2 4 5 0 a loss. Small inaccuracies made the difference.0-1 }
+) ( 6... Bh6 { played by 3 1 6 8 rated ChessBrainVB } 7. d4 Qh4 8. Nc3 Nc6 9.
+g3 Qf6 10. e5 Nxd4 { played by 3 1 6 8 rated ChessBrainVB } ( 10... Qg7
+{ played by 3 0 3 3 rated Mantissa } 11. Bxf4 Nxd4 12. Qf2 Nf5 13. Nb5 Kd8 14.
+Rad1 Bxf4 15. Qxf4 Ngh6 16. e6 d6 17. e7+ Kd7 18. Rfe1
+{ In an interesting battle, ChessBrainVB, rated 3 1 6 8, had the White pieces outplayed Mantissa, rated 3 0 3 3, had the Black pieces and won the game. The position remained tense for most of the game.1-0 }
+) 11. exf6 Nxf3+ 12. Rxf3 c6 13. Bxf4 Bxf4 14. Rxf4 d5 15. Bd3 h5 16. Kg2 Kd8
+17. b4 Kc7 18. Raf1
+{ Here we see that Neither Mantissa, rated 3 0 3 3, had the White pieces nor ChessBrainVB handling the Black pieces rated 3 1 6 8 could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
+) 7. d3
+{ Once again, Stockfish playing Black, rated 3 6 2 0 outplayed Torch on White with Elo 3 6 1 1 and won as Black.0-1 }
+) 6. Ne5 d5 7. Bxd5 Be6 8. Bxe6 fxe6 9. d4 f3 10. Ng6 Rh7 11. Nxf8 Kxf8 12.
+gxf3 Rf7 13. fxg4 Nc6
+{ In an interesting battle, Stash, rated 3 2 4 3, had the White pieces outplayed Schooner handling the Black pieces rated 3 2 4 8 and won the game. The outcome was decided in the later stages.1-0 }
+0-1
+
+
+

@@ -1,0 +1,651 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 15 64-bit 4CPU"]
+[Black "rofChade 3.0 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "B04"]
+[Opening "Alekhine's defence"]
+[Variation "modern, fianchetto variation"]
+[WhiteElo "3622"]
+[BlackElo "3527"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 g6
+{ entered in ALEKHINE S Defence Modern Fianchetto Variation } 5. Bc4 Be6
+{ played by 3 0 8 8 rated Stockfish } ( 5... c6
+{ played by 3 6 3 8 rated Stockfish } 6. O-O Nb6
+{ played by 3 0 5 6 rated Komodo } ( 6... dxe5
+{ played by 3 3 5 9 rated Nemorino } 7. dxe5 Bg7 { played by 2 7 1 4 rated K2 }
+8. Nc3 Nxc3 9. Qxd8+ Kxd8 10. bxc3 Ke8 11. a4 Bf5 12. Bf4 Nd7 13. Rfb1 b6 14.
+Re1 Nc5 15. Nd4 Bd7 16. h4 Rd8 17. Bg5 Kf8 18. Red1
+{ Here we see that Neither Fridolin playing White, rated 2 6 8 1 nor K2 playing Black, rated 2 7 1 4 could convert, and the game was drawn. Small inaccuracies made the difference.1/2-1/2 }
+) 7. Bb3 d5 8. Bf4 Bg7 9. Nbd2 a5 10. c3 Na6 11. Qe2 a4 12. Bc2 Nc7 13. Qe3 h6
+14. b3 Be6 15. Rfe1 Nb5 16. h3 Qb8 17. Rac1 axb3 18. axb3
+{ In this game, Komodo handling the White pieces rated 3 0 5 6 outplayed Chiron on Black with Elo 2 9 5 3 and won the game. Both sides showed good positional understanding.1-0 }
+) ( 5... Nb6 { played by 3 6 4 3 rated Stockfish } 6. Bb3 Nc6
+{ played by 3 1 8 0 rated Gull } ( 6... d5 { played by 3 1 4 0 rated Houdini }
+7. O-O Bg4 { played by 2 7 6 5 rated Texel } ( 7... Bg7
+{ played by 2 4 1 2 rated Cheng3 } 8. c3 O-O 9. Na3 Nc6 10. Qe2 Bg4 11. Re1 Qd7
+12. h3 Bf5 13. g4 Be6 14. Ng5 Rac8 15. Bf4 a6 16. Rad1 Nd8 17. Qe3 Na4 18. Re2
+{ The game between Cheng3 as White rated 2 4 1 2 and Rodin on Black with Elo 2 3 7 4 finished level. The outcome was decided in the later stages.1/2-1/2 }
+) 8. Nbd2 a5 9. a4 Na6 10. Qe2 c6 11. h3 Bf5 12. Rd1 Bg7 13. Nf1 Nc7 14. Ne3
+Be6 15. Ng5 Bd7 16. Bd2 Qb8 17. Rdc1 O-O 18. c4
+{ Once again, Texel, rated 2 7 6 5, had the White pieces converted the advantage and defeated ProDeo from the Black side with rating 2 6 3 3. The outcome was decided in the later stages.1-0 }
+) 7. a4 d5 { played by 2 8 2 0 rated Zappa } 8. Nc3 Na5 9. Ba2 Nc6 10. Bb1 Bg4
+11. a5 Nc4 12. a6 Bxf3 13. gxf3 bxa6 14. Rxa6 Nb6 15. O-O Qd7 16. Kh1 Bg7 17.
+Rg1 f6 18. f4
+{ In this game, Nemo, rated 2 8 0 3, had the White pieces converted the advantage and defeated Zappa on Black with Elo 2 8 2 0. The outcome was decided in the later stages.1-0 }
+) 6. Ng5 dxe5 7. Nxe6 fxe6 8. dxe5 Bg7 9. f4 c6 10. O-O Nd7 11. Qg4 Qb6+ 12.
+Kh1 Nc5 13. Be2 O-O 14. c4 Nb4 15. Nc3 Nc2 16. Rb1 Qb4 17. Bd2 Rad8 18. Rfd1
+{ Once again, Stockfish, rated 3 0 8 8, had the White pieces converted the advantage and defeated Komodo playing Black, rated 3 0 6 3.1-0 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 15 64-bit 4CPU"]
+[Black "rofChade 3.0 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "B04"]
+[Opening "Alekhine's defence"]
+[Variation "modern, fianchetto variation"]
+[WhiteElo "3622"]
+[BlackElo "3527"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 g6
+{ entered in ALEKHINE S Defence Modern Fianchetto Variation } 5. Bc4 Nb6
+{ played by 3 6 4 3 rated Stockfish } 6. Bb3 Bg7
+{ played by 3 6 4 3 rated Stockfish } ( 6... Nc6
+{ played by 3 1 8 0 rated Gull } 7. a4 a5 { played by 3 6 1 1 rated Torch } (
+7... dxe5 { played by 2 8 8 8 rated Hannibal } 8. a5 Nd7
+{ played by 2 8 8 8 rated Hannibal } ( 8... Nd5
+{ played by 2 8 0 3 rated Nemo } 9. dxe5 Ndb4 10. Qe2 Bg7 11. O-O Bf5 12. Rd1
+Qc8 13. c3 Na6 14. Bd5 Be6 15. Bxc6+ bxc6 16. Bf4 O-O 17. Nbd2 c5 18. Ng5
+{ In this game, Nemo as Black rated 2 8 0 3 outplayed Zappa as White rated 2 8 2 0 and won as Black.0-1 }
+) 9. Ng5 e6 10. d5 Nd4 11. dxe6 fxe6 12. Nxe6 Nxe6 13. Bxe6 Nf6 14. Qxd8+ Kxd8
+15. Bg5 Bg7 16. Bxc8 Kxc8 17. Nc3 c6 18. Ke2
+{ Stockfish playing White, rated 3 0 8 8 outplayed Hannibal on Black with Elo 2 8 8 8 and won the game. Both sides showed good positional understanding.1-0 }
+) 8. exd6 exd6 { played by 3 6 1 1 rated Torch } ( 8... cxd6
+{ played by 3 5 5 6 rated Clover } 9. d5 Nb4 10. Qd4 Rg8 11. O-O Bg7 12. Qd1
+Bf5 13. Nh4 Bd7 14. Re1 Kf8 15. Nc3 Na6 16. Ne4 Rh8 17. c3 Kg8 18. h3
+{ Here we see that Torch, rated 3 6 1 1, had the White pieces outplayed Clover handling the Black pieces rated 3 5 5 6 and won the game. The outcome was decided in the later stages.1-0 }
+) 9. O-O d5 10. Re1+ Be6 11. Nc3 Bb4 12. Bh6 Bxc3 13. bxc3 Qd6 14. Ng5 O-O-O
+15. Qf3 Rde8 16. Nxf7 Bxf7 17. Qxf7 Qd7 18. Qf3
+{ Once again, Clover as White rated 3 5 5 6 and Torch from the Black side with rating 3 6 1 1 played a balanced game which ended in a draw. Small inaccuracies made the difference.1/2-1/2 }
+) 7. O-O Nc6 { played by 3 2 5 9 rated Andscacs } 8. a4 Na5
+{ played by 3 2 5 9 rated Andscacs } ( 8... dxe5
+{ played by 3 0 5 7 rated Arasan } 9. a5 e4 10. Ng5 Nd5 11. c4 Nf6 12. d5 Nb4
+13. Nc3 Bf5 14. Qe2 e3 15. Qxe3 O-O 16. Bd2 c6 17. Ne2 Ng4 18. Qh3
+{ In an interesting battle, Arasan handling the Black pieces rated 3 0 5 7 seized the initiative and handed Winter on White with Elo 3 1 4 4 a loss. Small inaccuracies made the difference.0-1 }
+) ( 8... a5 { played by 2 3 9 0 rated PostModernist } 9. exd6 Qxd6 10. Nc3 Nxd4
+11. Nxd4 Qxd4 12. Qxd4 Bxd4 13. Nb5 Be5 14. Re1 Bd6 15. Nxd6+ cxd6 16. Bg5 e6
+17. Rad1 d5 18. Be3
+{ Here we see that Ares on White with Elo 2 3 5 9 and PostModernist as Black rated 2 3 9 0 played a balanced game which ended in a draw. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 9. exd6 cxd6 10. Ba2 d5 11. b4 Nc6 12. c3 O-O 13. Re1 Bf5 14. Na3 e6 15. h3
+h6 16. Bf4 g5 17. Bh2 a5 18. b5
+{ In this game, The game between RubiChess handling the White pieces rated 3 2 1 0 and Andscacs on Black with Elo 3 2 5 9 finished level. The outcome was decided in the later stages.1/2-1/2 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 15 64-bit 4CPU"]
+[Black "rofChade 3.0 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "B04"]
+[Opening "Alekhine's defence"]
+[Variation "modern, fianchetto variation"]
+[WhiteElo "3622"]
+[BlackElo "3527"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 g6
+{ entered in ALEKHINE S Defence Modern Fianchetto Variation } 5. Bc4 c6
+{ played by 3 6 3 8 rated Stockfish } ( 5... Nb6
+{ played by 3 6 4 3 rated Stockfish } 6. Bb3 Bg7
+{ played by 3 6 4 3 rated Stockfish } 7. O-O O-O
+{ played by 3 6 2 2 rated Stockfish } ( 7... dxe5
+{ played by 3 4 5 4 rated Ethereal } 8. Nxe5 O-O 9. Bg5 a5
+{ played by 3 3 9 8 rated SlowChess } ( 9... Nd5
+{ played by 2 8 5 8 rated Frozenight } 10. Bxd5 Qxd5 11. Bxe7 Re8 12. Nc3 Qe6
+13. Bh4 f6 14. Nd3 Qf7 15. d5 Bf5 16. Bg3 c6 17. d6 Nd7 18. Qd2
+{ In this game, Neither Shallow, rated 2 7 9 3, had the White pieces nor Frozenight, rated 2 8 5 8, had the Black pieces could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
+) ( 9... c5 { played by 2 7 9 3 rated Shallow } 10. Bxf7+ Rxf7 11. Nxf7 Kxf7
+12. Qf3+ Kg8 13. dxc5 Qd5 14. Qb3 e6 15. cxb6 Qxg5 16. bxa7 Nc6 17. Nc3 Rxa7
+18. Rad1
+{ Shallow as Black rated 2 7 9 3 seized the initiative and handed Frozenight on White with Elo 2 8 5 8 a loss. Both sides showed good positional understanding.0-1 }
+) 10. a4 h6 11. Bxe7 Qxe7 12. Nxg6 Qg5 13. Nxf8 Kxf8 14. c3 Bg4 15. Qd3 N8d7
+16. Nd2 Nf6 17. Rfe1 Bf5 18. Qb5
+{ The game between Ethereal, rated 3 4 5 4, had the White pieces and SlowChess handling the Black pieces rated 3 3 9 8 finished level. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 8. h3 Nc6 9. Qe2 Bf5 { played by 3 2 0 1 rated Critter } ( 9... h6
+{ played by 3 1 5 6 rated Fizbo } 10. c3 dxe5 11. dxe5 Bf5 12. Rd1 Qc8 13. Na3
+a5 14. Nc4 a4 15. Nxb6 cxb6 16. Bd5 Be6 17. c4 Rd8 18. Bf4
+{ Once again, Neither Komodo, rated 3 3 1 4, had the White pieces nor Fizbo handling the Black pieces rated 3 1 5 6 could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
+) ( 9... d5 { played by 2 3 2 5 rated RomiChess } 10. c3 Bf5 11. Nh4 Bd7 12. a4
+a5 13. Bc2 e6 14. Nf3 f6 15. b3 fxe5 16. dxe5 Bc8 17. Na3 Nd7 18. Bg5
+{ Here we see that RomiChess, rated 2 3 2 5, had the White pieces converted the advantage and defeated Asterisk on Black with Elo 2 2 9 3. The position remained tense for most of the game.1-0 }
+) 10. Rd1 d5 11. Nbd2 Qd7 12. c3 Na5 13. Nh4 Nxb3 14. Nxb3 Be6 15. Nc5 Qc6 16.
+Nxe6 Qxe6 17. Nf3 a5 18. Re1
+{ Here we see that After a long struggle, Gull on White with Elo 3 1 1 8 and Strelka handling the Black pieces rated 3 1 4 2 shared the point. The position remained tense for most of the game.1/2-1/2 }
+) 6. O-O Bg7 { played by 3 6 3 8 rated Stockfish } 7. exd6 Qxd6 8. h3 a5
+{ played by 2 8 6 6 rated Monolith } 9. Re1 b5 10. Bd3 O-O 11. Bg5 Be6 12. Qd2
+Na6 13. c3 Nac7 14. a4 f6 15. Bh4 Nf4 16. axb5 cxb5 17. Bg3 Bh6 18. Bxf4
+{ Here we see that Tucano from the White side with rating 2 9 6 3 outplayed Monolith from the Black side with rating 2 8 6 6 and won the game. Small inaccuracies made the difference.1-0 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 15 64-bit 4CPU"]
+[Black "rofChade 3.0 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "B04"]
+[Opening "Alekhine's defence"]
+[Variation "modern, fianchetto variation"]
+[WhiteElo "3622"]
+[BlackElo "3527"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 g6
+{ entered in ALEKHINE S Defence Modern Fianchetto Variation } 5. Bc4 Nb6
+{ played by 3 6 4 3 rated Stockfish } ( 5... c6
+{ played by 3 6 3 8 rated Stockfish } 6. O-O Bg7
+{ played by 3 6 3 8 rated Stockfish } 7. exd6 Qxd6 8. h3 O-O
+{ played by 3 6 3 8 rated Stockfish } ( 8... b5
+{ played by 3 6 2 1 rated PlentyChess } 9. Bb3 Nd7
+{ played by 3 6 2 1 rated PlentyChess } ( 9... O-O
+{ we will see this position later on1-0 } ) 10. Re1 O-O 11. Nbd2 Bb7 12. c4
+bxc4 13. Nxc4 Qc7 14. Bd2 c5 15. Rc1 cxd4 16. Na5 Qb8 17. Bg5 e5 18. Qd2
+{ Here we see that The game between PlentyChess as White rated 3 6 1 9 and PlentyChess handling the Black pieces rated 3 6 2 1 finished level.1/2-1/2 }
+) 9. Bb3 e6 { played by 3 5 2 7 rated rofChade } ( 9... Rd8
+{ played by 2 7 1 4 rated K2 } 10. Re1 Qc7 11. c4 Nf4 12. Nc3 Na6 13. Bxf4 Qxf4
+14. Rxe7 Nc5 15. Qe2 Ne6 16. d5 Bf8 17. Rxe6 fxe6 18. dxe6
+{ KnightX on White with Elo 2 6 8 7 remained in control, handing K2 handling the Black pieces rated 2 7 1 4 a loss. The opening quickly led to complex middlegame play.1-0 }
+) ( 9... Qc7 { played by 2 4 4 0 rated Anka } 10. c4 Nf6 11. Nc3 Bf5 12. g4 Be6
+13. Re1 Na6 14. Ng5 Bc8 15. Qe2 Bd7 16. Nf3 Rad8 17. Bd2 h5 18. Ne5
+{ Once again, Anka from the Black side with rating 2 4 4 0 seized the initiative and handed Qapla playing White, rated 2 4 6 2 a loss. The opening quickly led to complex middlegame play.0-1 }
+) 10. c4 Nf6 11. Nc3 Nbd7 12. Re1 Qc7 13. Be3 b6 14. Qd2 Bb7 15. Bf4 Qc8 16.
+Qe2 c5 17. d5 exd5 18. cxd5
+{ In this game, SlowChess, rated 3 5 4 5, had the White pieces remained in control, handing rofChade handling the Black pieces rated 3 5 2 7 a loss. The opening quickly led to complex middlegame play.1-0 }
+) 6. Bb3 a5 { played by 3 4 6 7 rated Igel } 7. e6 Bxe6 8. Bxe6 fxe6 9. Ng5 Nc6
+{ played by 3 1 6 9 rated Orion } 10. Nxe6 Qd7 11. d5 Nd8 12. Nxf8 Rxf8 13. O-O
+c6 14. dxc6 Nxc6 15. Na3 Rf5 16. Re1 O-O-O 17. c3 g5 18. Be3
+{ In an interesting battle, Mantissa from the White side with rating 3 2 9 2 remained in control, handing Orion handling the Black pieces rated 3 1 6 9 a loss. The position remained tense for most of the game.1-0 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 15 64-bit 4CPU"]
+[Black "rofChade 3.0 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "B04"]
+[Opening "Alekhine's defence"]
+[Variation "modern, fianchetto variation"]
+[WhiteElo "3622"]
+[BlackElo "3527"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 g6
+{ entered in ALEKHINE S Defence Modern Fianchetto Variation } 5. Bc4 Nb6
+{ played by 3 6 4 3 rated Stockfish } ( 5... c6
+{ played by 3 6 3 8 rated Stockfish } 6. O-O Bg7
+{ played by 3 6 3 8 rated Stockfish } 7. exd6 Qxd6 8. h3 O-O
+{ played by 3 6 3 8 rated Stockfish } 9. Bb3 b5
+{ played by 3 5 4 5 rated Stockfish } 10. Nbd2 a5
+{ played by 3 5 0 3 rated Carp } ( 10... Qc7
+{ played by 3 1 9 4 rated Simbelmyne } 11. c4 bxc4 12. Nxc4 Nd7 13. Bd2 Bb7 14.
+Rc1 e6 15. Na5 Rac8 16. Re1 Ba8 17. Bxd5 exd5 18. Qa4
+{ Once again, Perseus from the White side with rating 3 1 1 6 remained in control, handing Simbelmyne from the Black side with rating 3 1 9 4 a loss. The position remained tense for most of the game.1-0 }
+) 11. a4 b4 12. Re1 Qc7 13. c4 bxc3 14. bxc3 Nd7 15. Ba3 N7f6 16. Ne5 Nd7 17.
+Ndf3 Nxe5 18. Nxe5
+{ In an interesting battle, Stockfish from the White side with rating 3 6 3 8 outplayed Carp on Black with Elo 3 5 0 3 and won the game. Both sides showed good positional understanding.1-0 }
+) 6. Bb3 Bg7 { played by 3 6 4 3 rated Stockfish } ( 6... a5
+{ played by 3 4 6 7 rated Igel } 7. e6 Bxe6 8. Bxe6 fxe6 9. Ng5 Qc8
+{ played by 3 4 6 7 rated Igel } 10. Qf3 Kd7 { played by 3 3 2 1 rated Rice }
+11. Qf7 Bh6 { we will see this position later on1-0 } ) ( 6... d5
+{ played by 3 1 4 0 rated Houdini } 7. O-O Nc6
+{ played by 3 1 4 0 rated Houdini } 8. c3 Bg7 9. Bc2 O-O 10. Re1 a5
+{ played by 3 1 4 0 rated Houdini } ( 10... f6
+{ played by 3 0 9 5 rated Critter } 11. exf6 exf6 12. Bf4 Rf7 13. a4 Re7 14.
+Nbd2 a5 15. h3 Bf8 16. b3 Be6 17. Nf1 Qd7 18. Ne3
+{ In this game, Houdini from the White side with rating 3 1 4 0 outplayed Critter as Black rated 3 0 9 5 and won the game. The opening quickly led to complex middlegame play.1-0 }
+) 11. Na3 Bd7 12. Qe2 Qe8 13. b3 Nd8 14. Rb1 a4 15. b4 Rc8 16. Bd3 Ne6 17. h4
+h5 18. b5
+{ Critter on White with Elo 3 0 9 5 outplayed Houdini from the Black side with rating 3 1 4 0 and won the game. The position remained tense for most of the game.1-0 }
+) 7. O-O O-O { played by 3 6 2 2 rated Stockfish } 8. h3 Nc6 9. Qe2 Na5
+{ played by 3 6 2 2 rated Stockfish } 10. Nc3 d5
+{ played by 3 2 2 4 rated Gull } 11. Nd1 f6 12. c3 fxe5 13. Nxe5 Qd6 14. Re1 c5
+15. dxc5 Qxc5 16. Nd3 Qd6 17. Qxe7 Qxe7 18. Rxe7
+{ In an interesting battle, Stockfish as White rated 3 3 4 5 remained in control, handing Gull, rated 3 2 2 4, had the Black pieces a loss. The position remained tense for most of the game.1-0 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 15 64-bit 4CPU"]
+[Black "rofChade 3.0 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "B04"]
+[Opening "Alekhine's defence"]
+[Variation "modern, fianchetto variation"]
+[WhiteElo "3622"]
+[BlackElo "3527"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 g6
+{ entered in ALEKHINE S Defence Modern Fianchetto Variation } 5. Bc4 c6
+{ played by 3 6 3 8 rated Stockfish } ( 5... dxe5
+{ played by 2 1 6 8 rated Adam } 6. Nxe5 Be6 7. Nd2 Nd7 8. Ndf3 Nxe5 9. Nxe5
+Qd6 10. O-O O-O-O { played by 2 1 6 8 rated Adam } ( 10... Bg7
+{ played by 2 1 5 4 rated Jazz } 11. Bb3 c5 12. Re1 cxd4 13. Qxd4 O-O 14. Bd2
+Rfd8 15. Ba5 b6 16. Bd2 Qc7 17. Bf4 Nxf4 18. Qxf4
+{ Once again, After a long struggle, Adam, rated 2 1 6 8, had the White pieces and Jazz on Black with Elo 2 1 5 4 shared the point. Small inaccuracies made the difference.1/2-1/2 }
+) 11. Qf3 f6 12. Nd3 Bf5 13. Re1 e6 14. g4 Bxd3 15. Qxd3 Bg7 16. Bd2 Kb8 17.
+Rad1 f5 18. Bg5
+{ Here we see that Adam on Black with Elo 2 1 6 8 outplayed Jazz handling the White pieces rated 2 1 5 4 and won as Black. Both sides showed good positional understanding.0-1 }
+) 6. O-O Bg7 { played by 3 6 3 8 rated Stockfish } ( 6... dxe5
+{ played by 3 3 5 9 rated Nemorino } 7. dxe5 Bg4
+{ played by 3 3 5 9 rated Nemorino } 8. h3 Bxf3 9. Qxf3 e6 10. Nd2 Bg7
+{ played by 3 3 5 9 rated Nemorino } ( 10... Nd7
+{ played by 3 2 8 7 rated Velvet } 11. Re1 Bg7 12. Qg3 b5 13. Bf1 O-O 14. Nf3
+Qc7 15. c3 Rab8 16. Bd3 a5 17. h4 f5 18. Bc2
+{ Here we see that Nemorino as White rated 3 3 5 9 converted the advantage and defeated Velvet from the Black side with rating 3 2 8 7. The opening quickly led to complex middlegame play.1-0 }
+) 11. Ne4 O-O 12. Bg5 Qa5 13. Bxd5 cxd5 14. Nf6+ Bxf6 15. Bxf6 Nd7 16. Qf4 Nxf6
+17. exf6 Qd8 18. c3
+{ In an interesting battle, The game between Velvet, rated 3 2 8 7, had the White pieces and Nemorino playing Black, rated 3 3 5 9 finished level. The outcome was decided in the later stages.1/2-1/2 }
+) ( 6... Bg4 { played by 2 9 5 3 rated Chiron } 7. Nbd2 dxe5 8. dxe5 Nd7 9. Re1
+Bg7 10. h3 Be6 { played by 3 3 0 3 rated Quirky } ( 10... Bxf3
+{ played by 2 5 5 5 rated Scorpio } 11. Nxf3 e6 12. Qe2 O-O 13. a3 b5 14. Ba2
+Qb6 15. Bd2 a5 16. Rab1 h6 17. c4 bxc4 18. Qxc4
+{ In an interesting battle, Cyrano playing White, rated 2 5 6 3 remained in control, handing Scorpio from the Black side with rating 2 5 5 5 a loss.1-0 }
+) 11. Bf1 O-O 12. c4 Nc7 13. Qb3 b5 14. Qe3 a5 15. b3 a4 16. Ba3 Re8 17. Bb2
+Qb8 18. Bd4
+{ Neither Arcanum from the White side with rating 3 3 2 6 nor Quirky as Black rated 3 3 0 3 could convert, and the game was drawn. Small inaccuracies made the difference.1/2-1/2 }
+) 7. exd6 Qxd6 8. h3 O-O { played by 3 6 3 8 rated Stockfish } 9. Bb3 Bf5
+{ played by 3 3 8 1 rated Weiss } 10. Re1 Na6 { played by 2 9 8 6 rated Rybka }
+11. c3 Rad8 12. Na3 Qc7 13. Bg5 Rfe8 14. Qd2 Bf6 15. Bh6 Bg7 16. g4 Bc8 17. Re4
+Nf6 18. Re5
+{ In this game, Neither Winter as White rated 3 1 1 8 nor Rybka from the Black side with rating 2 9 8 6 could convert, and the game was drawn. Small inaccuracies made the difference.1/2-1/2 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 15 64-bit 4CPU"]
+[Black "rofChade 3.0 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "B04"]
+[Opening "Alekhine's defence"]
+[Variation "modern, fianchetto variation"]
+[WhiteElo "3622"]
+[BlackElo "3527"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 g6
+{ entered in ALEKHINE S Defence Modern Fianchetto Variation } 5. Bc4 Nb6
+{ played by 3 6 4 3 rated Stockfish } 6. Bb3 Bg7
+{ played by 3 6 4 3 rated Stockfish } 7. O-O O-O
+{ played by 3 6 2 2 rated Stockfish } 8. h3 Nc6 9. Qe2 Na5
+{ played by 3 6 2 2 rated Stockfish } 10. Nc3 Nxb3
+{ played by 3 6 0 7 rated ShashChess } ( 10... Bf5
+{ played by 3 6 0 7 rated PlentyChess } 11. Re1 dxe5
+{ played by 3 5 3 2 rated Velvet } ( 11... Qd7
+{ played by 3 5 2 3 rated Koivisto } 12. Bf4 h6 13. g4 Nxb3 14. axb3 Be6 15.
+Bg3 Rfe8 16. Qd2 Rad8 17. Qd3 Qc6 18. Rad1
+{ In this game, ShashChess from the White side with rating 3 6 0 7 converted the advantage and defeated Koivisto as Black rated 3 5 2 3.1-0 }
+) 12. dxe5 Nxb3 13. axb3 a6 14. Rd1 Qc8 15. Bf4 h6 16. Be3 Be6 17. Rd2 c5 18.
+Ne1
+{ In this game, After a long struggle, Motor handling the White pieces rated 3 5 6 1 and Velvet handling the Black pieces rated 3 5 3 2 shared the point.1/2-1/2 }
+) ( 10... Bd7 { played by 3 5 8 1 rated Integral } 11. Bg5 dxe5
+{ played by 3 5 8 1 rated Integral } ( 11... Nxb3
+{ played by 3 2 2 2 rated Fizbo } 12. axb3 f6 13. e6 Bc6 14. Bf4 f5 15. Rfd1
+Bxf3 16. Qxf3 c6 17. Qe3 Bf6 18. Rd3
+{ Here we see that Neither Komodo, rated 3 3 6 2, had the White pieces nor Fizbo, rated 3 2 2 2, had the Black pieces could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 12. dxe5 h6 13. Be3 Bc6 14. Nd4 Qe8 15. f4 e6 16. Bf2 Nxb3 17. axb3 a6 18.
+Ne4
+{ Once again, Horsie, rated 3 5 7 4, had the White pieces converted the advantage and defeated Integral as Black rated 3 5 8 1. Small inaccuracies made the difference.1-0 }
+) 11. axb3 Bd7 { played by 3 5 7 4 rated Horsie } ( 11... h6
+{ played by 3 3 8 6 rated Xiphos } 12. Ne4 a5 13. c4 Bd7 14. Be3 a4 15. bxa4
+Rxa4 16. b3 Rxa1 17. Rxa1 Bf5 18. Ng3
+{ Here we see that Xiphos playing Black, rated 3 3 8 6 defended accurately and defeated Clover playing White, rated 3 2 1 8. Both sides showed good positional understanding.0-1 }
+) ( 11... Bf5 { played by 2 5 8 5 rated Chess } 12. Bf4 Qd7 13. Ra5 c6 14. Rfa1
+a6 15. Nh4 Be6 16. Ne4 Rfe8 17. exd6 Qd8 18. Bg5
+{ In this game, Chess, rated 2 5 8 5, had the Black pieces could not hold the position, allowing Chess handling the White pieces rated 2 6 3 3 to win. Both sides showed good positional understanding.1-0 }
+) 12. Bf4 a5 13. d5 a4 14. Rad1 Qc8 15. Qe3 Re8 16. Bh6 Bh8 17. Rfe1 e6 18. Qf4
+{ In this game, Integral playing White, rated 3 5 8 1 outplayed Horsie, rated 3 5 7 4, had the Black pieces and won the game. The position remained tense for most of the game.1-0 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 15 64-bit 4CPU"]
+[Black "rofChade 3.0 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "B04"]
+[Opening "Alekhine's defence"]
+[Variation "modern, fianchetto variation"]
+[WhiteElo "3622"]
+[BlackElo "3527"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 g6
+{ entered in ALEKHINE S Defence Modern Fianchetto Variation } 5. Bc4 Nb6
+{ played by 3 6 4 3 rated Stockfish } 6. Bb3 Bg7
+{ played by 3 6 4 3 rated Stockfish } 7. O-O O-O
+{ played by 3 6 2 2 rated Stockfish } 8. h3 Nc6 9. Qe2 a5
+{ played by 3 3 7 7 rated Komodo } ( 9... Na5
+{ played by 3 6 2 2 rated Stockfish } 10. Nc3 Nxb3
+{ played by 3 6 0 7 rated ShashChess } ( 10... Bf5
+{ played by 3 6 0 7 rated PlentyChess } 11. Re1 Nxb3
+{ played by 3 5 6 4 rated Caissa } 12. axb3 h6
+{ played by 3 5 6 4 rated Caissa } ( 12... a5
+{ played by 3 5 2 7 rated rofChade } 13. Bf4 Re8
+{ we will see this position later on1-0 } ) ( 12... Re8
+{ played by 3 4 4 5 rated SugaR } 13. Nh4 Bd7 14. Nf3 h6 15. Nh2 Bf5 16. Nf1
+dxe5 17. dxe5 Nd5 18. Rd1
+{ In an interesting battle, Ethereal playing Black, rated 3 2 9 5 could not hold the position, allowing SugaR playing White, rated 3 4 4 5 to win. The outcome was decided in the later stages.1-0 }
+) 13. Ne4 Re8 14. Ng3 e6 15. exd6 cxd6 16. Nxf5 gxf5 17. c3 Nd5 18. Nd2
+{ Here we see that Titan on White with Elo 3 5 4 7 and Caissa from the Black side with rating 3 5 6 4 played a balanced game which ended in a draw. Both sides showed good positional understanding.1/2-1/2 }
+) 11. axb3 a5 { played by 3 6 0 7 rated ShashChess } 12. Re1 Re8
+{ played by 3 6 0 7 rated ShashChess } ( 12... dxe5
+{ played by 3 5 4 8 rated RubiChess } 13. dxe5 Nd5 14. Ne4 c6 15. Ng3 b6 16. c3
+Nc7 17. Qe4 Ne6 18. Qxc6
+{ In an interesting battle, After a long struggle, Caissa as White rated 3 5 4 6 and RubiChess as Black rated 3 5 4 8 shared the point.1/2-1/2 }
+) ( 12... h6 { played by 2 6 6 4 rated Igel } 13. Bd2 Bf5 14. Ne4 dxe5 15. dxe5
+a4 16. bxa4 Rxa4 17. Rxa4 Nxa4 18. b3
+{ After a long struggle, Igel as White rated 2 6 6 4 and CM10th from the Black side with rating 2 6 6 0 shared the point. The position remained tense for most of the game.1/2-1/2 }
+) 13. Bf4 Bf5 14. Rad1 c6 15. g4 Bd7 16. Bg3 Nd5 17. Ne4 Bh6 18. Qf1
+{ Stockfish from the White side with rating 3 6 2 2 outplayed rofChade from the Black side with rating 3 5 2 7 and won the game.1-0 }
+) 10. a4 dxe5 { played by 3 1 4 7 rated Andscacs } 11. dxe5 e6
+{ played by 3 0 0 0 rated Texel } ( 11... Be6 { played by 2 9 1 2 rated Spark }
+12. Bxe6 fxe6 13. Rd1 Qc8 14. b3 Rf5 15. Bb2 Nd5 16. g3 Qf8 17. Nbd2 Ndb4 18.
+g4
+{ Here we see that Texel, rated 2 9 4 6, had the White pieces converted the advantage and defeated Spark on Black with Elo 2 9 1 2. The opening quickly led to complex middlegame play.1-0 }
+) 12. Rd1 Nd7 13. Nc3 b6 14. Bg5 Qe8 15. Nb5 Ba6 16. Bf4 Nc5 17. Bc4 Qc8 18. c3
+{ In an interesting battle, Sting from the White side with rating 3 0 5 6 and Texel from the Black side with rating 3 0 0 0 played a balanced game which ended in a draw. The outcome was decided in the later stages.1/2-1/2 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 15 64-bit 4CPU"]
+[Black "rofChade 3.0 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "B04"]
+[Opening "Alekhine's defence"]
+[Variation "modern, fianchetto variation"]
+[WhiteElo "3622"]
+[BlackElo "3527"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 g6
+{ entered in ALEKHINE S Defence Modern Fianchetto Variation } 5. Bc4 Nb6
+{ played by 3 6 4 3 rated Stockfish } 6. Bb3 Bg7
+{ played by 3 6 4 3 rated Stockfish } 7. O-O O-O
+{ played by 3 6 2 2 rated Stockfish } 8. h3 Nc6 9. Qe2 Na5
+{ played by 3 6 2 2 rated Stockfish } ( 9... a5
+{ played by 3 3 7 7 rated Komodo } 10. a4 Be6
+{ played by 3 0 6 9 rated Hannibal } 11. Bxe6 fxe6 12. Rd1 Qd7
+{ played by 3 0 6 9 rated Hannibal } ( 12... Qe8
+{ played by 2 6 9 0 rated BugChess2 } 13. Nc3 Rf5 14. Ng5 dxe5 15. Nb5 Qc8 16.
+g4 Rxg5 17. Bxg5 exd4 18. c3
+{ Once again, Neither MinkoChess, rated 2 7 4 1, had the White pieces nor BugChess2 as Black rated 2 6 9 0 could convert, and the game was drawn. Both sides showed good positional understanding.1/2-1/2 }
+) 13. Nc3 Rad8 14. Bg5 h6 15. Bh4 g5 16. Bg3 Nd5 17. h4 g4 18. Ne1
+{ Fire playing White, rated 3 1 8 9 outplayed Hannibal handling the Black pieces rated 3 0 6 9 and won the game. Small inaccuracies made the difference.1-0 }
+) ( 9... dxe5 { played by 3 1 3 9 rated Critter } 10. dxe5 Nd4 11. Nxd4 Qxd4
+12. Re1 a5 { played by 3 0 8 8 rated DeepSaros } ( 12... e6
+{ played by 3 0 3 8 rated Texel } 13. Nd2 Qc5 14. Nf3 a5 15. Be3 Qc6 16. Nd4
+Qd7 17. Rad1 Qe7 18. Nb5
+{ In this game, Fizbo from the White side with rating 3 0 9 8 remained in control, handing Texel as Black rated 3 0 3 8 a loss. Small inaccuracies made the difference.1-0 }
+) ( 12... Be6 { played by 2 4 4 4 rated Carballo } 13. Nc3 Qc5 14. Bg5 c6 15.
+Qe4 Rae8 16. Qh4 Bxb3 17. axb3 Bxe5 18. Be3
+{ Waxman handling the White pieces rated 2 3 2 0 remained in control, handing Carballo on Black with Elo 2 4 4 4 a loss. Small inaccuracies made the difference.1-0 }
+) 13. a4 { we will see this position later on1/2-1/2 } ) 10. Nc3 h6
+{ played by 3 5 5 8 rated Peacekeeper } 11. Re1 Bd7 12. Bf4 g5
+{ played by 3 5 5 8 rated Peacekeeper } 13. Bh2 Nxb3 14. axb3 Bf5 15. d5 Bh7
+16. Rad1 Nd7 17. Nb5 Qc8 18. c4
+{ In this game, After a long struggle, Clarity as White rated 3 5 7 0 and Peacekeeper playing Black, rated 3 5 5 8 shared the point. The opening quickly led to complex middlegame play.1/2-1/2 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 15 64-bit 4CPU"]
+[Black "rofChade 3.0 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "B04"]
+[Opening "Alekhine's defence"]
+[Variation "modern, fianchetto variation"]
+[WhiteElo "3622"]
+[BlackElo "3527"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 g6
+{ entered in ALEKHINE S Defence Modern Fianchetto Variation } 5. Bc4 c6
+{ played by 3 6 3 8 rated Stockfish } ( 5... Nb6
+{ played by 3 6 4 3 rated Stockfish } 6. Bb3 Bg7
+{ played by 3 6 4 3 rated Stockfish } 7. O-O O-O
+{ played by 3 6 2 2 rated Stockfish } 8. h3 Nc6 9. Qe2 Na5
+{ played by 3 6 2 2 rated Stockfish } ( 9... a5
+{ played by 3 3 7 7 rated Komodo } 10. a4 Bf5
+{ played by 3 3 7 7 rated Komodo } ( 10... dxe5
+{ played by 3 1 4 7 rated Andscacs } 11. dxe5 Nd4
+{ played by 3 1 4 7 rated Andscacs } 12. Nxd4 Qxd4 13. Re1 e6
+{ played by 2 8 2 0 rated NirvanaChess } ( 13... Bf5
+{ played by 2 6 8 1 rated Fridolin } 14. Nd2 Qd7 15. Nf3 c5 16. e6 Bxe6 17.
+Bxe6 fxe6 18. Qxe6+
+{ In an interesting battle, K2 handling the White pieces rated 2 7 1 4 remained in control, handing Fridolin as Black rated 2 6 8 1 a loss. The outcome was decided in the later stages.1-0 }
+) 14. Nd2 Nd5 15. Nf3 Qc5 16. c4 Nb4 17. Be3 Qc6 18. Qd1
+{ Here we see that Hiarcs on White with Elo 2 8 0 8 overpressed, and NirvanaChess playing Black, rated 2 8 2 0 secured the win.0-1 }
+) 11. Re1 dxe5 12. dxe5 Qc8 13. Be3 Nd7 { played by 3 3 0 2 rated Stockfish } (
+13... Be6 { played by 3 2 2 2 rated Fizbo } 14. Bxe6 Qxe6 15. Bxb6 cxb6 16. Na3
+Rfd8 17. c3 Rac8 18. Qe4
+{ Once again, Komodo, rated 3 3 7 7, had the White pieces converted the advantage and defeated Fizbo from the Black side with rating 3 2 2 2.1-0 }
+) 14. e6 Bxe6 15. Bxe6 fxe6 16. c3 Rf5 17. Nbd2 Rd5 18. c4
+{ Komodo handling the White pieces rated 3 3 4 4 outplayed Stockfish as Black rated 3 3 0 2 and won the game. Both sides showed good positional understanding.1-0 }
+) 10. Nc3 h6 { played by 3 5 5 8 rated Peacekeeper } 11. Re1 Bd7 12. Bf4 Nxb3
+{ played by 3 5 2 2 rated Calvin } 13. axb3 Bc6
+{ played by 3 5 2 2 rated Calvin } ( 13... g5
+{ played by 3 4 8 1 rated Quanticade } 14. Bd2 Bf5 15. Ra5 d5 16. Nd1 Bxc2 17.
+Bxg5 Bxd1 18. Qxd1
+{ Once again, Neither Velvet handling the White pieces rated 3 5 3 2 nor Quanticade handling the Black pieces rated 3 4 8 1 could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 14. Rad1 e6 15. Ne4 Bxe4 16. Qxe4 Nd5 17. Bd2 b6 18. h4
+{ In this game, Calvin handling the Black pieces rated 3 5 2 2 could not hold the position, allowing Astra, rated 3 5 6 6, had the White pieces to win. Both sides showed good positional understanding.1-0 }
+) 6. O-O Bg7 { played by 3 6 3 8 rated Stockfish } 7. exd6 Qxd6 8. h3 O-O
+{ played by 3 6 3 8 rated Stockfish } 9. Bb3 Bf5
+{ played by 3 3 8 1 rated Weiss } 10. Re1 Nd7 { played by 3 3 8 1 rated Weiss }
+11. c4 Nf4 12. c5 Qc7 { played by 3 1 4 7 rated Komodo } 13. Rxe7 Bf6 14. Re1
+Rfe8 15. Nc3 Rad8 16. Rxe8+ Rxe8 17. Be3 Nxh3+ 18. gxh3
+{ In this game, Critter on White with Elo 3 1 1 9 remained in control, handing Komodo from the Black side with rating 3 1 4 7 a loss. The position remained tense for most of the game.1-0 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 15 64-bit 4CPU"]
+[Black "rofChade 3.0 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "B04"]
+[Opening "Alekhine's defence"]
+[Variation "modern, fianchetto variation"]
+[WhiteElo "3622"]
+[BlackElo "3527"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 g6
+{ entered in ALEKHINE S Defence Modern Fianchetto Variation } 5. Bc4 Nb6
+{ played by 3 6 4 3 rated Stockfish } 6. Bb3 Bg7
+{ played by 3 6 4 3 rated Stockfish } 7. O-O O-O
+{ played by 3 6 2 2 rated Stockfish } 8. h3 Nc6 9. Qe2 dxe5
+{ played by 3 1 3 9 rated Critter } ( 9... a5
+{ played by 3 3 7 7 rated Komodo } 10. a4 dxe5
+{ played by 3 1 4 7 rated Andscacs } ( 10... Be6
+{ played by 3 0 6 9 rated Hannibal } 11. Bxe6 fxe6 12. Rd1 Qc8
+{ played by 2 9 8 9 rated Hannibal } 13. Nc3 Rf5 14. Ne4 Rb8
+{ played by 2 9 8 9 rated Hannibal } ( 14... Kh8
+{ played by 2 9 1 2 rated DiscoCheck } 15. Neg5 h6 16. Ne4 Rf8 17. Nh4 Qe8 18.
+f4
+{ DiscoCheck playing Black, rated 2 9 1 2 could not hold the position, allowing NirvanaChess handling the White pieces rated 3 0 1 2 to win. The position remained tense for most of the game.1-0 }
+) 15. c3 Nd5 16. Ng3 Nf4 17. Qe1 Rf8 18. Bxf4
+{ In this game, Hannibal, rated 2 9 8 9, had the Black pieces could not hold the position, allowing Arasan from the White side with rating 2 9 7 7 to win. Both sides showed good positional understanding.1-0 }
+) 11. dxe5 Nd4 { played by 3 1 4 7 rated Andscacs } 12. Nxd4 Qxd4 13. Re1 Qc5
+{ played by 3 1 4 7 rated Andscacs } ( 13... Bd7
+{ played by 3 0 5 0 rated Andscacs } 14. Nd2 Qc5
+{ we will see this position later on1-0 } ( 14... Bc6
+{ played by 2 6 8 8 rated Devel } 15. Nf3 Qb4 16. e6 f6 17. Nd2 f5 18. c3
+{ Once again, Devel, rated 2 6 8 8, had the Black pieces could not hold the position, allowing Shield on White with Elo 2 7 0 3 to win. The opening quickly led to complex middlegame play.1-0 }
+) ) 14. Nd2 Nd5 { played by 2 9 5 3 rated Crafty } 15. Ne4 Qc6 16. Qf3 Be6 17.
+Ng5 Rad8 18. Bd2
+{ In an interesting battle, Hakkapeliitta from the White side with rating 2 9 7 9 remained in control, handing Crafty from the Black side with rating 2 9 5 3 a loss. Small inaccuracies made the difference.1-0 }
+) 10. dxe5 Nd4 11. Nxd4 Qxd4 12. Re1 Qc5 { played by 3 1 3 9 rated Critter }
+13. Nd2 Bd7 { played by 3 1 3 9 rated Critter } ( 13... a5
+{ played by 3 1 2 4 rated Houdini } 14. a4
+{ we will see this position later on1/2-1/2 } ) 14. a4 a5
+{ we will see this position later on1-0 } 1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 15 64-bit 4CPU"]
+[Black "rofChade 3.0 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "B04"]
+[Opening "Alekhine's defence"]
+[Variation "modern, fianchetto variation"]
+[WhiteElo "3622"]
+[BlackElo "3527"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 g6
+{ entered in ALEKHINE S Defence Modern Fianchetto Variation } 5. Bc4 Nb6
+{ played by 3 6 4 3 rated Stockfish } 6. Bb3 Bg7
+{ played by 3 6 4 3 rated Stockfish } ( 6... a5
+{ played by 3 4 6 7 rated Igel } 7. e6 Bxe6 8. Bxe6 fxe6 9. Ng5 Qc8
+{ played by 3 4 6 7 rated Igel } 10. Qf3 Bh6 { played by 3 4 6 7 rated Igel }
+11. Qf7+ Kd7 12. Qxe6+ Ke8 13. Nc3 Bxg5 14. Qxc8+ Nxc8 15. Bxg5 Nb6
+{ played by 3 4 6 7 rated Igel } ( 15... h6
+{ played by 3 4 4 7 rated Stockfish } 16. Be3 e6 17. d5 exd5 18. Bd4
+{ Once again, Superultra from the White side with rating 3 4 5 7 outplayed Stockfish handling the Black pieces rated 3 4 4 7 and won the game. The position remained tense for most of the game.1-0 }
+) ( 15... Rf8 { played by 3 4 1 5 rated Wasp } 16. f3 Kd7 17. h4 Rf5 18. Rh3
+{ Igel from the White side with rating 3 4 6 7 converted the advantage and defeated Wasp as Black rated 3 4 1 5.1-0 }
+) ( 15... a4 { played by 3 2 7 7 rated Frozenight } 16. O-O-O
+{ In an interesting battle, Rice on White with Elo 3 3 2 1 and Frozenight as Black rated 3 2 7 7 played a balanced game which ended in a draw.1/2-1/2 }
+) 16. d5
+{ Once again, The game between Stockfish on White with Elo 3 4 4 7 and Superultra on Black with Elo 3 4 5 7 finished level.1/2-1/2 }
+) 7. O-O O-O { played by 3 6 2 2 rated Stockfish } 8. h3 Nc6 9. Qe2 a5
+{ played by 3 3 7 7 rated Komodo } 10. a4 dxe5
+{ played by 3 1 4 7 rated Andscacs } 11. dxe5 Nd4
+{ played by 3 1 4 7 rated Andscacs } 12. Nxd4 Qxd4 13. Re1 Qc5
+{ played by 3 1 4 7 rated Andscacs } 14. Nd2 Bd7
+{ played by 3 0 8 8 rated DeepSaros } 15. c3 Bc6
+{ played by 3 1 3 9 rated Critter } ( 15... e6
+{ we will see this position later on1/2-1/2 } ) 16. Nf3 e6
+{ we will see this position later on1-0 } 1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 15 64-bit 4CPU"]
+[Black "rofChade 3.0 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "B04"]
+[Opening "Alekhine's defence"]
+[Variation "modern, fianchetto variation"]
+[WhiteElo "3622"]
+[BlackElo "3527"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 g6
+{ entered in ALEKHINE S Defence Modern Fianchetto Variation } 5. Bc4 c6
+{ played by 3 6 3 8 rated Stockfish } ( 5... Nb6
+{ played by 3 6 4 3 rated Stockfish } 6. Bb3 Bg7
+{ played by 3 6 4 3 rated Stockfish } 7. O-O O-O
+{ played by 3 6 2 2 rated Stockfish } 8. h3 Nc6 9. Qe2 a5
+{ played by 3 3 7 7 rated Komodo } 10. a4 dxe5
+{ played by 3 1 4 7 rated Andscacs } 11. dxe5 Nd4
+{ played by 3 1 4 7 rated Andscacs } 12. Nxd4 Qxd4 13. Re1 Qc5
+{ played by 3 1 4 7 rated Andscacs } 14. Nd2 e6
+{ played by 3 1 4 7 rated Andscacs } ( 14... c6
+{ played by 3 1 2 4 rated Houdini } 15. Nf3 Nd5 16. c3 Qb6 17. Nd4 Bd7
+{ played by 3 1 2 4 rated Houdini } ( 17... e6
+{ played by 3 0 5 6 rated Sting } 18. h4
+{ Here we see that The game between Texel handling the White pieces rated 3 0 0 0 and Sting handling the Black pieces rated 3 0 5 6 finished level. The position remained tense for most of the game.1/2-1/2 }
+) 18. h4
+{ Here we see that Arasan on White with Elo 3 1 8 7 converted the advantage and defeated Houdini on Black with Elo 3 1 2 4. The position remained tense for most of the game.1-0 }
+) 15. c3 Bd7 16. Nf3 Bc6 { played by 3 1 4 7 rated Andscacs } ( 16... Rfb8
+{ played by 2 6 9 2 rated Gaviota } 17. Be3 Qe7 18. Qd2
+{ In an interesting battle, DiscoCheck on White with Elo 2 7 3 8 overpressed, and Gaviota from the Black side with rating 2 6 9 2 secured the win. Both sides showed good positional understanding.0-1 }
+) 17. Be3 Qe7 18. Nd4
+{ Once again, Stockfish handling the White pieces rated 3 2 4 0 converted the advantage and defeated Critter handling the Black pieces rated 3 1 3 9. The position remained tense for most of the game.1-0 }
+) 6. O-O Bg7 { played by 3 6 3 8 rated Stockfish } 7. exd6 Qxd6 8. h3 O-O
+{ played by 3 6 3 8 rated Stockfish } 9. Bb3 Bf5
+{ played by 3 3 8 1 rated Weiss } 10. Re1 Nd7 { played by 3 3 8 1 rated Weiss }
+11. c4 Nf4 12. c5 Nxc5 { played by 3 3 8 1 rated Weiss } 13. Bxf4 Qxf4 14. dxc5
+Bxb2 15. Nbd2 Rad8 { played by 3 3 8 1 rated Weiss } ( 15... Rae8
+{ played by 3 1 1 6 rated Perseus } 16. Rc1 Bxc1 17. Qxc1 Kh8 18. Qa3
+{ In an interesting battle, Simbelmyne from the White side with rating 3 1 9 4 outplayed Perseus, rated 3 1 1 6, had the Black pieces and won the game. The position remained tense for most of the game.1-0 }
+) 16. Rc1 Bxc1 17. Qxc1 Qc7 18. Nf1
+{ Weiss as Black rated 3 3 8 1 could not hold the position, allowing Revenge, rated 3 4 8 6, had the White pieces to win. The outcome was decided in the later stages.1-0 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 15 64-bit 4CPU"]
+[Black "rofChade 3.0 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "B04"]
+[Opening "Alekhine's defence"]
+[Variation "modern, fianchetto variation"]
+[WhiteElo "3622"]
+[BlackElo "3527"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 g6
+{ entered in ALEKHINE S Defence Modern Fianchetto Variation } 5. Bc4 Nb6
+{ played by 3 6 4 3 rated Stockfish } 6. Bb3 Bg7
+{ played by 3 6 4 3 rated Stockfish } 7. O-O O-O
+{ played by 3 6 2 2 rated Stockfish } 8. h3 Nc6 9. Qe2 a5
+{ played by 3 3 7 7 rated Komodo } 10. a4 dxe5
+{ played by 3 1 4 7 rated Andscacs } 11. dxe5 Nd4
+{ played by 3 1 4 7 rated Andscacs } 12. Nxd4 Qxd4 13. Re1 Bd7
+{ played by 3 0 5 0 rated Andscacs } 14. Nd2 e6
+{ played by 3 0 5 0 rated Andscacs } 15. Nf3 Qb4 16. Bd2 Qe7 17. Bg5 Qb4
+{ played by 3 0 5 0 rated Andscacs } ( 17... Qc5
+{ played by 3 0 3 8 rated Naum } 18. c3
+{ After a long struggle, Arasan handling the White pieces rated 2 9 2 4 and Naum as Black rated 3 0 3 8 shared the point. The position remained tense for most of the game.1/2-1/2 }
+) 18. Qd1
+{ In this game, Fizbo, rated 2 9 5 0, had the White pieces and Andscacs, rated 3 0 5 0, had the Black pieces played a balanced game which ended in a draw. The outcome was decided in the later stages.1/2-1/2 }
+1-0
+
+
+

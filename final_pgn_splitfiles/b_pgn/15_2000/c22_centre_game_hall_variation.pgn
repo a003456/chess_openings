@@ -1,0 +1,130 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17.1 64-bit 4CPU"]
+[Black "PlentyChess 5.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C22"]
+[Opening "Centre game"]
+[Variation "Hall variation"]
+[WhiteElo "3645"]
+[BlackElo "3621"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qc4
+{ entered in CENTRE Game Hall Variation } 4... Nf6 5. Nc3
+{ played by 3 6 4 5 rated Stockfish } ( 5. Nf3
+{ played by 3 3 4 4 rated Fritz } 5... d5 6. exd5 Qxd5 7. Qxd5
+{ played by 3 3 4 4 rated Fritz } 7... Nxd5 8. Bc4 Be6 9. O-O O-O-O 10. c3 Be7
+11. Re1 Nf4 12. Bxf4 Bxc4 13. Nbd2 Bd5 14. Nd4 Rhe8 15. Nb5 Rd7 16. Nb3 Red8
+17. N3d4
+{ Fritz as White rated 3 3 4 4 outplayed Rybka from the Black side with rating 3 1 5 2 and won the game. Small inaccuracies made the difference.1-0 }
+) 5... Bb4 6. Bg5 { played by 3 2 4 4 rated RukChess } ( 6. Bd3
+{ played by 3 6 4 5 rated Stockfish } 6... d5 7. exd5 Nxd5 8. Qe4+
+{ played by 3 0 7 6 rated Ethereal } 8... Nde7 9. Nf3 Bf5 10. Qc4 Bxd3 11. cxd3
+Qd5 12. Bd2 Bxc3 13. Bxc3 f6 14. O-O O-O-O 15. Rad1 Kb8 16. Rfe1 Rd7 17. h3
+{ Here we see that After a long struggle, Ethereal from the White side with rating 3 0 7 6 and Demolito playing Black, rated 2 9 3 1 shared the point. The outcome was decided in the later stages.1/2-1/2 }
+) ( 6. Bd2 { played by 3 6 1 9 rated Stockfish } 6... O-O 7. O-O-O d6 8. a3
+{ played by 3 5 5 0 rated Berserk } ( 8. Qe2
+{ played by 3 2 1 1 rated Princhess } 8... Re8 9. f3
+{ we will see this position later on0-1 } ) ( 8. Nf3
+{ played by 2 5 3 8 rated Capivara } 8... Re8 9. Ng5 Qe7 10. Bd3 Ng4 11. e5
+Bxc3 12. Bxh7+ Kf8 13. Qxc3 Qxe5 14. Qb3 Be6 15. Nxe6+ Qxe6 16. Qxe6 fxe6 17.
+Bg6
+{ In an interesting battle, Cheese from the Black side with rating 2 5 2 8 could not hold the position, allowing Capivara on White with Elo 2 5 3 8 to win. Small inaccuracies made the difference.1-0 }
+) 8... Bc5 9. Qe2 Re8 10. f3 a6 11. g4 b5 12. g5 Nd7 13. h4 Rb8 14. h5 b4 15.
+axb4 Nxb4 16. g6 Qf6 17. Kb1
+{ Once again, Stockfish from the Black side with rating 3 6 2 0 defended accurately and defeated Berserk on White with Elo 3 5 5 0. The position remained tense for most of the game.0-1 }
+) 6... Qe7 7. Bxf6 Qxf6 8. O-O-O Bxc3 9. Qxc3 Qxc3 10. bxc3 d6 11. Ne2 Be6 12.
+a4 Bc4 13. Nd4 Bxf1 14. Rhxf1 O-O-O 15. Rfe1 Ne5 16. Nf5 g6 17. Ne7+
+{ In an interesting battle, Cwtch as Black rated 3 2 3 5 defended accurately and defeated RukChess handling the White pieces rated 3 2 4 4. Both sides showed good positional understanding.0-1 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17.1 64-bit 4CPU"]
+[Black "PlentyChess 5.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C22"]
+[Opening "Centre game"]
+[Variation "Hall variation"]
+[WhiteElo "3645"]
+[BlackElo "3621"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qc4
+{ entered in CENTRE Game Hall Variation } 4... Nf6 5. Nf3
+{ played by 3 3 4 4 rated Fritz } ( 5. Nc3
+{ played by 3 6 4 5 rated Stockfish } 5... Bb4 6. Bd2
+{ played by 3 6 1 9 rated Stockfish } 6... O-O 7. O-O-O d6 8. f3
+{ played by 3 6 1 9 rated Stockfish } 8... Re8 9. Qb5
+{ played by 3 6 1 9 rated Stockfish } ( 9. Qe2
+{ played by 3 5 7 4 rated PlentyChess } 9... d5 10. a3 a5 11. Nh3 Bd7 12. Nf2
+b5 13. Nxb5 Ne5 14. Qe3 c6 15. Nc3 Bd6 16. Be2 Rb8 17. Qa7
+{ Here we see that PlentyChess from the White side with rating 3 5 7 4 overpressed, and Stockfish handling the Black pieces rated 3 6 1 9 secured the win. Both sides showed good positional understanding.0-1 }
+) ( 9. a3 { played by 3 5 5 0 rated Berserk } 9... Ba5 10. Qb5 Bb6 11. Qe2 Be6
+12. Qe1 Ne5 13. h4 a5 14. h5 h6 15. Be2 Bc5 16. g4 b5 17. Bxb5
+{ In an interesting battle, The game between Berserk, rated 3 5 5 0, had the White pieces and Rebel on Black with Elo 3 5 0 4 finished level. The opening quickly led to complex middlegame play.1/2-1/2 }
+) ( 9. Nge2 { played by 2 9 1 8 rated Deep } 9... Bc5 10. Nf4 a6 11. Qe2 b5 12.
+Be3 Bxe3+ 13. Qxe3 b4 14. Ncd5 Nxd5 15. Nxd5 a5 16. Bb5 Bd7 17. Rd2
+{ In an interesting battle, Neither Vengeance from the White side with rating 2 7 5 9 nor Deep, rated 2 9 1 8, had the Black pieces could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+) 9... a5 10. Qg5 Ne5 11. Nd5 Nxd5 12. Qxd8 Rxd8 13. exd5 Re8 14. Ne2 Nc4 15.
+Nc3 Nxd2 16. Bb5 Re5 17. Rxd2
+{ Once again, Stockfish from the White side with rating 3 6 1 9 and PlentyChess handling the Black pieces rated 3 5 7 4 played a balanced game which ended in a draw.1/2-1/2 }
+) 5... d5 6. exd5 Qxd5 7. Nc3 { played by 3 3 1 1 rated Fire } 7... Bb4 8. a3
+{ played by 3 3 1 1 rated Fire } ( 8. Bd2 { played by 3 1 5 2 rated Rybka }
+8... Qe6+ 9. Qxe6+ Bxe6 10. a3 Bc5 11. Na4 Bd6 12. Nc3 O-O-O 13. Ng5 Bf5 14.
+Nxf7 Rhe8+ 15. Be3 Rd7 16. Nxd6+ Rxd6 17. Be2
+{ Rybka from the White side with rating 3 1 5 2 and Fritz from the Black side with rating 3 3 4 4 played a balanced game which ended in a draw. Small inaccuracies made the difference.1/2-1/2 }
+) 8... Qxc4 9. Bxc4 Bxc3+ 10. bxc3 O-O 11. O-O Bf5 12. Bb3 Rfe8 13. Bf4 Ne4 14.
+Ng5 Nxg5 15. Bxg5 Na5 16. Bf4 c6 17. Rfe1
+{ Here we see that Neither Fire from the White side with rating 3 2 5 3 nor Fire on Black with Elo 3 3 1 1 could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17.1 64-bit 4CPU"]
+[Black "PlentyChess 5.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C22"]
+[Opening "Centre game"]
+[Variation "Hall variation"]
+[WhiteElo "3645"]
+[BlackElo "3621"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qc4
+{ entered in CENTRE Game Hall Variation } 4... Nf6 5. Nc3
+{ played by 3 6 4 5 rated Stockfish } 5... Bb4 6. Bd3
+{ played by 3 6 4 5 rated Stockfish } ( 6. Bd2
+{ played by 3 6 1 9 rated Stockfish } 6... O-O 7. O-O-O d6 8. f3
+{ played by 3 6 1 9 rated Stockfish } 8... Re8 9. g4
+{ played by 3 5 1 5 rated Revenge } 9... Be6 10. Qe2 d5 11. a3 a5 12. g5 Nh5
+13. Kb1 { played by 3 5 1 5 rated Revenge } ( 13. Qg2
+{ played by 3 5 0 7 rated RubiChess } 13... d4 14. Nb5 Ne5 15. Nxd4 Qxd4 16.
+Bxb4 Qxd1+ 17. Kxd1
+{ Here we see that Neither RubiChess as White rated 3 5 0 7 nor Revenge from the Black side with rating 3 5 1 5 could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
+) 13... Bxc3 14. Bxc3 d4 15. Qf2 Qxg5 16. Bd2 Qe5 17. Ne2
+{ Revenge, rated 3 5 1 5, had the White pieces and RubiChess handling the Black pieces rated 3 5 0 7 played a balanced game which ended in a draw. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 6... d5 7. exd5 Nxd5 8. Ne2 { played by 3 6 4 5 rated Stockfish } 8... Be6 9.
+Qe4 Qf6 10. O-O O-O-O 11. a3 { played by 3 6 4 5 rated Stockfish } ( 11. Nxd5
+{ played by 3 6 2 1 rated PlentyChess } 11... Rxd5 12. c3
+{ played by 3 6 2 1 rated PlentyChess } ( 12. Be3
+{ played by 3 4 7 6 rated SugaR } 12... Bd6 13. f4 Ra5 14. Nd4 Ra4 15. c4 Bd7
+16. Nxc6 Bxc6 17. Qf5+
+{ In an interesting battle, After a long struggle, SugaR on White with Elo 3 4 7 6 and Minic as Black rated 3 5 3 0 shared the point. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 12... Bd6 13. Ng3 Qe7 14. Qe2 f5 15. c4 Re5 16. Qc2 Nb4 17. Qc3
+{ Neither PlentyChess as White rated 3 6 2 1 nor Stockfish from the Black side with rating 3 6 4 5 could convert, and the game was drawn. Both sides showed good positional understanding.1/2-1/2 }
+) 11... Nxc3 12. Nxc3 Ba5 13. Re1 h6 14. Rb1 Rhe8 15. Qf4 Qxf4 16. Bxf4 Bxc3
+17. bxc3
+{ Once again, After a long struggle, Stockfish, rated 3 6 4 5, had the White pieces and PlentyChess handling the Black pieces rated 3 6 2 1 shared the point.1/2-1/2 }
+1/2-1/2
+
+
+

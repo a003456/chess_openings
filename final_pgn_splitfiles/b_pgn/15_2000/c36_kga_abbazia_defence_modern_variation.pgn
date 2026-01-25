@@ -1,0 +1,949 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17 64-bit 4CPU"]
+[Black "Stormphrax 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[WhiteElo "3643"]
+[BlackElo "3580"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6
+{ entered in Kings Gambit Accepted Abbazia Defence Modern Variation } 5. c4
+{ played by 3 6 4 3 rated Stockfish } ( 5. Bc4
+{ played by 3 6 4 0 rated Stockfish } 5... Bd6 6. O-O
+{ played by 3 1 4 7 rated Komodo } 6... O-O 7. d4 Nbd7 8. Nc3 Nb6 9. Bb3 h6 10.
+a4 a5 11. Ne5 g5 12. Qf3 Nbd7 13. Nd3 Nb6 14. h3 Ra6 15. Bd2 c6 16. dxc6 bxc6
+17. Rae1 Nbd5 18. Ne5
+{ Deep playing White, rated 2 9 6 4 and Komodo from the Black side with rating 3 1 4 7 played a balanced game which ended in a draw.1/2-1/2 }
+) ( 5. d4 { played by 3 2 5 5 rated DanaSah } 5... Nxd5 6. Bd3
+{ played by 2 7 8 7 rated Bright } 6... Be7 7. O-O O-O 8. Na3 Bg4 9. c4 Ne3 10.
+Bxe3 fxe3 11. Nc2 Nc6 12. h3 Bxf3 13. Rxf3 g6 14. Be4 e2 15. Qxe2 Nxd4 16. Nxd4
+Qxd4+ 17. Kh1 Qe5 18. Re1
+{ In this game, Bright, rated 2 7 8 7, had the Black pieces outplayed Alaric, rated 2 6 5 5, had the White pieces and won as Black. The outcome was decided in the later stages.0-1 }
+) ( 5. Bb5+ { played by 3 6 3 1 rated Alexandria } 5... Bd7 6. Bc4
+{ played by 3 6 1 5 rated Obsidian } 6... b5 7. Be2
+{ played by 2 4 0 0 rated Teki } 7... Nxd5 8. Nc3 c6 9. O-O Bd6 10. a4 b4 11.
+Ne4 Bc7 12. c4 bxc3 13. bxc3 O-O 14. Bd3 Re8 15. Qc2 Bg4 16. Ba3 Nd7 17. c4
+Bxf3 18. Rxf3
+{ Here we see that Asymptote from the Black side with rating 2 4 7 8 outplayed Teki, rated 2 4 0 0, had the White pieces and won as Black. The opening quickly led to complex middlegame play.0-1 }
+) 5... c6 6. Qa4 { played by 2 4 5 9 rated Pawny } ( 6. d4
+{ played by 3 6 2 0 rated Stockfish } 6... Bb4+ 7. Kf2
+{ played by 2 4 0 0 rated Gaia } 7... cxd5 8. Bxf4 O-O 9. Kg1 Bg4 10. a3 Bd6
+11. Bg5 h6 12. Be3 Re8 13. Qb3 Nc6 14. c5 Bxf3 15. gxf3 Bc7 16. h4 Nh5 17. Rh3
+Qf6 18. Qd3
+{ Gaia from the White side with rating 2 4 0 0 overpressed, and Phalanx on Black with Elo 2 3 2 7 secured the win. Small inaccuracies made the difference.0-1 }
+) ( 6. dxc6 { played by 3 5 8 1 rated SugaR } 6... bxc6 7. Nc3
+{ played by 3 3 0 4 rated RukChess } 7... g6 8. d4 Bh6 9. Ne5 Nh5 10. Nf3 O-O
+11. Be2 Ng7 12. O-O Nf5 13. d5 c5 14. Ne5 Bg7 15. Nd3 g5 16. Bg4 Nd6 17. Bxc8
+Qxc8 18. h4
+{ In an interesting battle, RubiChess as Black rated 3 3 4 8 seized the initiative and handed RukChess as White rated 3 3 0 4 a loss. The opening quickly led to complex middlegame play.0-1 }
+) 6... Be7 7. d4 O-O 8. Nc3 cxd5 9. Bxf4 Nc6 10. O-O-O Bf5 11. Ne5 Nb4 12. c5
+a5 13. Rd2 Ne4 14. Nxe4 Bxe4 15. Nd7 Nxa2+ 16. Kd1 Qc8 17. Be5 Nb4 18. Nxf8
+{ In this game, N2 from the Black side with rating 2 5 5 4 outplayed Pawny on White with Elo 2 4 5 9 and won as Black. Small inaccuracies made the difference.0-1 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17 64-bit 4CPU"]
+[Black "Stormphrax 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[WhiteElo "3643"]
+[BlackElo "3580"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6
+{ entered in Kings Gambit Accepted Abbazia Defence Modern Variation } 5. Bb5+
+{ played by 3 6 3 1 rated Alexandria } ( 5. d4
+{ played by 3 2 5 5 rated DanaSah } 5... Nxd5 6. Bc4
+{ played by 3 2 5 5 rated DanaSah } 6... Be7 7. Nc3
+{ played by 3 5 8 1 rated SugaR } 7... Nxc3 8. bxc3 O-O 9. Bxf4 Bd6 10. Bxd6
+cxd6 11. O-O Nd7 12. Bd3 Nf6 13. h3 d5 14. c4 b6 15. Ne5 Be6 16. cxd5 Nxd5 17.
+Qh5 h6 18. c4
+{ In an interesting battle, Neither Dragon playing White, rated 3 5 6 0 nor SugaR as Black rated 3 5 8 1 could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
+) ( 5. c4 { played by 3 6 4 3 rated Stockfish } 5... c6 6. Nc3
+{ played by 3 6 4 3 rated Stockfish } ( 6. dxc6
+{ played by 3 5 8 1 rated SugaR } 6... bxc6 7. d4
+{ played by 3 5 8 1 rated SugaR } 7... Bd6 8. c5
+{ played by 3 4 7 2 rated SlowChess } ( 8. Bd3
+{ played by 3 3 4 8 rated RubiChess } 8... O-O 9. O-O Bc7 10. Nc3 Bg4 11. Ne2
+Re8 12. h3 Bxf3 13. Rxf3 g5 14. g3 Nbd7 15. gxf4 g4 16. hxg4 Nxg4 17. Kg2 Ndf6
+18. Qc2
+{ Once again, The game between RubiChess as White rated 3 3 4 8 and RukChess on Black with Elo 3 3 0 4 finished level. The outcome was decided in the later stages.1/2-1/2 }
+) 8... Bc7 9. Bc4 Qe7+ 10. Be2 Ba6 11. Nc3 Nd5 12. Bd2 Nd7 13. Nxd5 cxd5 14. b4
+O-O 15. Kf2 Bc8 16. Bd3 Nf6 17. Rf1 Ne4+ 18. Kg1
+{ Once again, SugaR, rated 3 5 8 1, had the Black pieces seized the initiative and handed SlowChess as White rated 3 4 7 2 a loss. Both sides showed good positional understanding.0-1 }
+) 6... cxd5 7. d4 { played by 3 6 2 6 rated Dragon } 7... Bd6 8. Qe2+
+{ played by 2 9 1 3 rated Zangdar } ( 8. Ne5
+{ played by 2 8 7 6 rated Gaviota } 8... Nc6 9. Bxf4 Be6 10. c5 Bxe5 11. Bxe5
+O-O 12. Be2 Nxe5 13. dxe5 Ne4 14. Qd4 Nxc3 15. bxc3 Qa5 16. a4 Rfc8 17. Rb1
+Rxc5 18. Rxb7
+{ Deuterium handling the Black pieces rated 2 9 0 8 seized the initiative and handed Gaviota, rated 2 8 7 6, had the White pieces a loss. The opening quickly led to complex middlegame play.0-1 }
+) 8... Kf8 9. cxd5 Nbd7 10. g3 fxg3 11. hxg3 Bxg3+ 12. Kd1 Nb6 13. Rg1 Bc7 14.
+Bg5 h6 15. Bxf6 Qxf6 16. Ne5 Bf5 17. Rc1 Re8 18. Ne4
+{ The playing Black, rated 2 9 0 9 outplayed Zangdar as White rated 2 9 1 3 and won as Black. The position remained tense for most of the game.0-1 }
+) 5... Bd7 6. Bxd7+ { played by 3 5 8 1 rated SugaR } 6... Qxd7 7. d4
+{ played by 2 9 7 8 rated Deuterium } 7... Nxd5 8. O-O Nc6 9. Re1+ Be7 10. Nc3
+Nb6 11. a4 O-O 12. a5 Nc4 13. Qe2 Ne3 14. Bxe3 fxe3 15. Qxe3 Rae8 16. Qd3 Bf6
+17. Ne2 Qd5 18. c3
+{ In this game, Neither Deuterium from the White side with rating 2 9 7 8 nor Tucano on Black with Elo 2 8 5 8 could convert, and the game was drawn. Small inaccuracies made the difference.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17 64-bit 4CPU"]
+[Black "Stormphrax 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[WhiteElo "3643"]
+[BlackElo "3580"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6
+{ entered in Kings Gambit Accepted Abbazia Defence Modern Variation } 5. Bc4
+{ played by 3 6 4 0 rated Stockfish } ( 5. Bb5+
+{ played by 3 6 3 1 rated Alexandria } 5... Bd7 6. Qe2+
+{ played by 3 6 3 1 rated Alexandria } 6... Qe7 7. Qxe7+
+{ played by 3 6 3 1 rated Alexandria } ( 7. Bxd7+
+{ played by 2 7 0 3 rated Chess } 7... Nbxd7 8. Qxe7+
+{ played by 2 7 0 3 rated Chess } ( 8. c4 { played by 2 2 9 9 rated Napoleon }
+8... Qxe2+ 9. Kxe2 O-O-O 10. d4 Bd6 11. Rf1 Rhe8+ 12. Kd3 b5 13. b3 bxc4+ 14.
+bxc4 c5 15. Nc3 cxd4 16. Nb5 Nc5+ 17. Kxd4 Re4+ 18. Kc3
+{ Once again, Neither Schooner as White rated 3 1 5 0 nor Arasan, rated 3 1 1 9, had the Black pieces could convert, and the game was drawn. Both sides showed good positional understanding.1/2-1/2 }
+) 8... Bxe7 { we will see this position later on1/2-1/2 } ) 7... Bxe7 8. Bc4
+{ played by 3 6 3 1 rated Alexandria } ( 8. Bxd7+
+{ played by 3 5 1 6 rated RubiChess } 8... Nbxd7 9. c4 O-O-O 10. Kd1 Rhe8 11.
+Kc2 b5 12. b3 Nb6 13. Ne5 Nfxd5 14. cxd5 Bf6 15. d4 Nxd5 16. a3 c5 17. Nxf7 Rd7
+18. Ne5
+{ In this game, After a long struggle, RubiChess from the White side with rating 3 5 1 6 and Ethereal, rated 3 5 3 5, had the Black pieces shared the point. Both sides showed good positional understanding.1/2-1/2 }
+) 8... b5 9. Bb3 a5 10. a3 h6 11. d4 g5 12. O-O O-O 13. Nc3 a4 14. Ba2 b4 15.
+axb4 Na6 16. b5 Nb4 17. Bb1 Bf5 18. g3
+{ Once again, Neither Alexandria playing White, rated 3 6 3 1 nor Astra playing Black, rated 3 6 1 2 could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+) 5... Bd6 6. Qe2+ { played by 3 6 4 0 rated Stockfish } 6... Kf8 7. Nc3
+{ played by 3 6 4 0 rated Stockfish } ( 7. d4 { played by 3 5 5 8 rated Seer }
+7... Bg4 8. Nc3 { played by 3 5 5 8 rated Seer } 8... Nbd7 9. Bd2 Qe8 10. O-O
+Qxe2 11. Bxe2 Nb6 12. Rae1 Re8 13. Ne5 Bxe2 14. Nxe2 g5 15. c4 Ne4 16. Ba5 f6
+17. Nxf4 gxf4 18. Rxe4
+{ In an interesting battle, Seer as White rated 3 5 5 8 and Alexandria handling the Black pieces rated 3 5 6 6 played a balanced game which ended in a draw. The position remained tense for most of the game.1/2-1/2 }
+) 7... Bg4 8. d3 { played by 3 6 4 0 rated Stockfish } 8... Nbd7 9. Bd2 Bxf3
+10. gxf3 a6 11. a4 g6 12. O-O-O b5 13. Ba2 Kg7 14. Rhe1 Re8 15. Qf2 Bc5 16. d4
+Bb4 17. Rxe8 Nxe8 18. Ne4
+{ In an interesting battle, Quanticade on Black with Elo 3 5 8 9 seized the initiative and handed Arasan playing White, rated 3 5 7 4 a loss. The position remained tense for most of the game.0-1 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17 64-bit 4CPU"]
+[Black "Stormphrax 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[WhiteElo "3643"]
+[BlackElo "3580"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6
+{ entered in Kings Gambit Accepted Abbazia Defence Modern Variation } 5. Bb5+
+{ played by 3 6 3 1 rated Alexandria } ( 5. c4
+{ played by 3 6 4 3 rated Stockfish } 5... c6 6. Nc3
+{ played by 3 6 4 3 rated Stockfish } ( 6. d4
+{ played by 3 6 2 0 rated Stockfish } 6... Bb4+ 7. Nc3
+{ played by 3 6 2 0 rated Stockfish } 7... cxd5 8. Bd3
+{ played by 3 6 2 0 rated Stockfish } ( 8. Be2
+{ played by 3 4 9 3 rated Arasan } 8... Nc6 9. a3
+{ played by 2 8 7 0 rated Deuterium } 9... Ba5 10. Bxf4 dxc4 11. Bxc4 O-O 12.
+O-O Bb6 13. Kh1 Nxd4 14. Nxd4 Qxd4 15. Qb3 Bg4 16. Nb5 Qd7 17. Nd6 Be6 18. Rad1
+{ Once again, The game between Deuterium handling the White pieces rated 2 8 7 0 and Rodent handling the Black pieces rated 2 7 9 2 finished level. The outcome was decided in the later stages.1/2-1/2 }
+) ( 8. Bxf4 { played by 3 4 2 4 rated Stockfish } 8... Nc6 9. Bg5
+{ played by 3 3 9 0 rated Houdini } ( 9. Be2
+{ we will see this position later on0-1 } ) ( 9. Bd3
+{ played by 3 2 9 0 rated Houdini } 9... dxc4 10. Bxc4
+{ we will see this position later on0-1 } ) 9... Bg4 10. cxd5 Qxd5 11. Bxf6
+gxf6 12. a3 Bxc3+ 13. bxc3 Qa5 14. Qe2+ Kf8 15. Qd2 Bxf3 16. gxf3 h5 17. Rg1
+Rd8 18. Rb1
+{ In an interesting battle, After a long struggle, Houdini playing White, rated 3 3 9 0 and Velvet from the Black side with rating 3 4 3 1 shared the point. Small inaccuracies made the difference.1/2-1/2 }
+) 8... dxc4 9. Qe2+ { played by 3 3 1 2 rated Andscacs } 9... Be6 10. Bxc4 Nd5
+11. O-O O-O 12. Nxd5 Bxd5 13. Bxf4 Nc6 14. Rac1 Rc8 15. Be3 Be7 16. b3 Re8 17.
+Ne5 Bf6 18. Qf2
+{ In this game, After a long struggle, Andscacs playing White, rated 3 3 1 2 and Fritz, rated 3 3 2 2, had the Black pieces shared the point. The outcome was decided in the later stages.1/2-1/2 }
+) 6... cxd5 7. d4 { played by 3 6 2 6 rated Dragon } 7... Bd6 8. c5
+{ played by 3 6 2 6 rated Dragon } 8... Bc7 9. Ne5
+{ played by 3 6 2 6 rated Dragon } 9... Nc6 10. Bxf4 O-O 11. Be2 Re8 12. Nxc6
+bxc6 13. Bxc7 Qxc7 14. O-O a5 15. a3 h5 16. Qd2 Ng4 17. Rf4 Ne3 18. Rf3
+{ Once again, The game between Stormphrax from the White side with rating 3 5 8 0 and Stockfish playing Black, rated 3 6 4 3 finished level. The position remained tense for most of the game.1/2-1/2 }
+) 5... Bd7 6. Bxd7+ { played by 3 5 8 1 rated SugaR } 6... Qxd7 7. c4
+{ played by 3 4 4 7 rated Stockfish } 7... c6 8. O-O
+{ played by 3 1 4 5 rated Fritz } ( 8. Ne5 { played by 2 8 5 8 rated Tucano }
+8... Qf5 9. Qe2 Bc5 10. b4 Be7 11. d6 Bxd6 12. Ng6+ Kd7 13. Nxh8 Na6
+{ In an interesting battle, Tucano, rated 2 8 5 8, had the White pieces remained in control, handing Deuterium playing Black, rated 2 9 7 8 a loss. Both sides showed good positional understanding.1-0 }
+) 8... cxd5 9. Ne5 Qd8 10. d4 Nc6 11. Nxc6 bxc6 12. Qa4 Rc8 13. Bxf4 Be7 14. c5
+Nh5 15. Bc1 O-O 16. Nc3 Re8 17. Qxa7 Bf6 18. Kh1
+{ Here we see that Stockfish as Black rated 3 4 4 7 defended accurately and defeated Fritz handling the White pieces rated 3 1 4 5. The outcome was decided in the later stages.0-1 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17 64-bit 4CPU"]
+[Black "Stormphrax 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[WhiteElo "3643"]
+[BlackElo "3580"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6
+{ entered in Kings Gambit Accepted Abbazia Defence Modern Variation } 5. Bc4
+{ played by 3 6 4 0 rated Stockfish } ( 5. Nc3
+{ played by 3 6 3 4 rated Obsidian } 5... c6 6. d4 Nxd5 7. Nxd5 Qxd5 8. Bxf4
+Bd6 9. Qd2 { played by 3 2 3 9 rated Fritz } 9... Qe4+ 10. Be3 Bf4 11. Kf2
+Qxe3+ 12. Qxe3+ Bxe3+ 13. Kxe3 O-O 14. Bd3 h6 15. Rhe1 Be6 16. c4 a5 17. Kd2
+Nd7 18. a4
+{ In an interesting battle, Neither Fritz handling the White pieces rated 3 2 3 9 nor Ethereal on Black with Elo 3 3 4 7 could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
+) ( 5. Bb5+ { played by 3 6 3 1 rated Alexandria } 5... Bd7 6. Qe2+
+{ played by 3 6 3 1 rated Alexandria } 6... Qe7 7. O-O
+{ played by 3 6 1 2 rated Astra } ( 7. Bc4 { played by 2 8 5 1 rated Fruit }
+7... Qxe2+ 8. Kxe2 Bd6 9. d4 { played by 2 8 5 1 rated Fruit } ( 9. Re1
+{ played by 2 6 9 3 rated ECE } 9... O-O 10. Kd1 Bf5 11. h3 Nbd7 12. Nh4 Bg6
+13. Nxg6 hxg6 14. Nc3 Rfe8 15. Be2 Bb4 16. Rf1 g5 17. a3 Bxc3 18. bxc3
+{ The game between ECE on White with Elo 2 6 9 3 and Chess, rated 2 7 0 3, had the Black pieces finished level.1/2-1/2 }
+) 9... b5 10. Bb3 a5 11. a3 O-O 12. Ne5 g5 13. g3 a4 14. Ba2 c5 15. Nxd7 Nbxd7
+16. dxc5 Nxc5 17. gxf4 Rfe8+ 18. Kf1
+{ Once again, Rodent as Black rated 3 0 1 4 seized the initiative and handed Fruit handling the White pieces rated 2 8 5 1 a loss. The outcome was decided in the later stages.0-1 }
+) 7... Qxe2 8. Bxe2 Nxd5 9. Nc3 { played by 2 6 9 6 rated Pirarucu } 9... Nxc3
+10. bxc3 Bd6 11. Rb1 b6 12. Nd4 c6 13. Bf3 Kd8 14. h4 h6 15. h5 g5 16. hxg6
+fxg6 17. Bb2 g5 18. Rbe1
+{ In this game, The game between Combusken playing White, rated 2 9 6 0 and Roc from the Black side with rating 3 1 5 8 finished level. Small inaccuracies made the difference.1/2-1/2 }
+) 5... Bd6 6. Qe2+ { played by 3 6 4 0 rated Stockfish } 6... Kf8 7. d4
+{ played by 3 5 5 8 rated Seer } 7... Bg4 8. Bd2
+{ played by 3 5 5 1 rated Koivisto } 8... Nbd7 9. Nc3
+{ we will see this position later on1/2-1/2 } ( 9. O-O
+{ played by 3 5 4 8 rated Clover } 9... g5 10. h3 Nh5 11. Be1 Bxf3 12. Qxf3
+Ndf6 13. Nd2 Rg8 14. Be2 Qe7 15. Bf2 g4 16. hxg4 Nxg4 17. Rae1 Rg7 18. Bd1
+{ In an interesting battle, After a long struggle, Clover on White with Elo 3 5 4 8 and Stockfish as Black rated 3 6 4 0 shared the point. Both sides showed good positional understanding.1/2-1/2 }
+) 1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17 64-bit 4CPU"]
+[Black "Stormphrax 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[WhiteElo "3643"]
+[BlackElo "3580"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6
+{ entered in Kings Gambit Accepted Abbazia Defence Modern Variation } 5. Bb5+
+{ played by 3 6 3 1 rated Alexandria } 5... Bd7 6. Qe2+
+{ played by 3 6 3 1 rated Alexandria } ( 6. Bc4
+{ played by 3 6 1 5 rated Obsidian } 6... b5 7. Bb3
+{ played by 3 6 1 5 rated Obsidian } ( 7. Qe2+
+{ played by 3 5 9 1 rated PlentyChess } 7... Be7 8. Bxb5 O-O 9. d4
+{ played by 3 5 4 8 rated Booot } 9... Bb4+ 10. c3 Re8 11. Ne5 Bc5 12. Bxf4
+Bxb5 13. Qxb5 Qxd5 14. Nd2 Bxd4 15. Qxd5 Nxd5 16. cxd4 Nxf4 17. O-O Ne2+ 18.
+Kh1
+{ In this game, The game between Booot playing White, rated 3 5 4 8 and RubiChess as Black rated 3 5 6 8 finished level. Small inaccuracies made the difference.1/2-1/2 }
+) 7... a5 8. a4 { played by 3 6 1 5 rated Obsidian } 8... bxa4 9. Bxa4
+{ played by 3 6 1 5 rated Obsidian } ( 9. Rxa4
+{ played by 3 6 1 4 rated Horsie } 9... Bd6 10. Qe2+ Kf8 11. Ra1 h6 12. O-O g5
+13. d3 Kg7 14. Nc3 Bg4 15. Ba4 Nbd7 16. Qf2 Bxf3 17. gxf3 Rb8 18. Kh1
+{ Once again, After a long struggle, Horsie as White rated 3 6 1 4 and Stormphrax, rated 3 6 1 3, had the Black pieces shared the point. Both sides showed good positional understanding.1/2-1/2 }
+) ( 9. Bc4 { played by 3 6 1 3 rated Stormphrax } 9... Bd6 10. Qe2+ Qe7 11.
+Qxe7+ Kxe7 12. O-O h6 13. Na3 Na6 14. c3 Nc5 15. d4 Nb3 16. Bxb3 axb3 17. c4 g5
+18. c5
+{ In an interesting battle, The game between Stormphrax handling the White pieces rated 3 6 1 3 and Horsie, rated 3 6 1 4, had the Black pieces finished level. The position remained tense for most of the game.1/2-1/2 }
+) 9... Nxd5 10. O-O Bxa4 11. Rxa4 Bc5+ 12. d4 Be7 13. Nc3 Nxc3 14. bxc3 O-O 15.
+Bxf4 Nd7 16. Qa1 c5 17. Ne5 Bf6 18. Nxd7
+{ The game between Rebel playing White, rated 3 5 7 9 and Obsidian, rated 3 6 1 5, had the Black pieces finished level. Small inaccuracies made the difference.1/2-1/2 }
+) 6... Qe7 7. Nc3 { played by 2 6 4 7 rated Winter } 7... Bxb5 8. Nxb5 Nxd5 9.
+d4 { played by 2 6 4 7 rated Winter } ( 9. c4 { played by 2 6 4 0 rated GreKo }
+9... a6 10. Nbd4 Nb4 11. a3 Nd3+ 12. Kd1 Qxe2+ 13. Kxe2 Nxc1+ 14. Raxc1 c5 15.
+Nb3 Nc6 16. Kd1 O-O-O 17. Ng5 Ne5 18. Kc2
+{ Once again, Betsabe handling the Black pieces rated 2 4 9 0 outplayed GreKo, rated 2 6 4 0, had the White pieces and won as Black. Both sides showed good positional understanding.0-1 }
+) 9... Na6 10. c4 Ndb4 11. Ne5 f6 12. O-O fxe5 13. dxe5 g5 14. a3 Nc6 15. Qh5+
+Kd8 16. b4 Kc8 17. Bb2 Bg7 18. Qh3+
+{ Neither Winter, rated 2 6 4 7, had the White pieces nor Pirarucu playing Black, rated 2 6 9 6 could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17 64-bit 4CPU"]
+[Black "Stormphrax 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[WhiteElo "3643"]
+[BlackElo "3580"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6
+{ entered in Kings Gambit Accepted Abbazia Defence Modern Variation } 5. Bb5+
+{ played by 3 6 3 1 rated Alexandria } ( 5. Be2
+{ played by 3 6 2 2 rated Stockfish } 5... Nxd5 6. c4 Nf6 7. d4 Bd6 8. c5 Be7
+9. O-O { played by 2 7 6 8 rated GreKo } 9... O-O 10. Bxf4 b6 11. cxb6 axb6 12.
+Nc3 Nc6 13. Bb5 Bb7 14. Kh1 Nd5 15. Nxd5 Qxd5 16. Qb3 Qe4 17. Bxc6 Qxc6 18.
+Rfc1
+{ Once again, Velvet as Black rated 2 8 8 1 defended accurately and defeated Peacekeeper playing White, rated 2 7 7 3. The opening quickly led to complex middlegame play.0-1 }
+) ( 5. d4 { played by 3 2 5 5 rated DanaSah } 5... Nxd5 6. Bc4
+{ played by 3 2 5 5 rated DanaSah } 6... Be7 7. O-O
+{ played by 2 8 2 8 rated Godel } 7... Be6 8. Bxd5
+{ played by 3 6 2 0 rated Stockfish } 8... Bxd5 9. Nc3
+{ played by 3 5 5 1 rated Lizard } 9... Bc4 10. Re1 O-O 11. Bxf4
+{ we will see this position later on1/2-1/2 } ) ( 5. c4
+{ played by 3 6 4 3 rated Stockfish } 5... c6 6. Nc3
+{ played by 3 6 4 3 rated Stockfish } 6... cxd5 7. cxd5
+{ played by 3 6 4 3 rated Stockfish } ( 7. d4
+{ played by 3 6 2 6 rated Dragon } 7... Bd6 8. c5
+{ played by 3 6 2 6 rated Dragon } 8... Bc7 9. Bb5+
+{ played by 3 5 1 5 rated Caissa } 9... Nc6 10. Ne5
+{ played by 3 1 2 2 rated Invictus } 10... O-O 11. Nxc6 bxc6 12. Bxc6 Bg4 13.
+Qd3 Qe7+ 14. Kf2 Rab8 15. h3 Ne4+ 16. Nxe4 dxe4 17. Qxe4 Qh4+ 18. Kg1
+{ In an interesting battle, Little as Black rated 3 1 6 2 outplayed Invictus playing White, rated 3 1 2 2 and won as Black. The opening quickly led to complex middlegame play.0-1 }
+) 7... Bd6 8. Bb5+ Nbd7 9. Qe2+ Qe7 10. d4 { played by 3 3 2 2 rated Fritz }
+10... Qxe2+ 11. Bxe2 Nb6 12. Bb5+ Kf8 13. O-O h6 14. Ne5 g5 15. Bd2 Nbxd5 16.
+Rae1 Rg8 17. Bc4 Be6 18. Nb5
+{ In this game, Neither Fritz playing White, rated 3 3 2 2 nor Andscacs on Black with Elo 3 3 1 2 could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+) 5... Bd7 6. Bxd7+ { played by 3 5 8 1 rated SugaR } 6... Qxd7 7. O-O
+{ played by 3 5 8 1 rated SugaR } 7... Qxd5 8. d4 Nc6 9. Re1+
+{ played by 3 5 8 1 rated SugaR } ( 9. Bxf4 { played by 3 3 9 1 rated Igel }
+9... O-O-O 10. c3 Re8 11. Qd3 Qe4 12. Qxe4 Nxe4 13. Nbd2 Nxd2 14. Nxd2 f6 15.
+h3 Kd7 16. Nc4 Ne7 17. Rfe1 h5 18. Bd2
+{ In this game, Neither Igel from the White side with rating 3 3 9 1 nor SugaR, rated 3 5 8 1, had the Black pieces could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+) 9... Be7 10. Bxf4 O-O-O 11. Nbd2 Rhe8 12. c3 a6 13. Qc2 h6 14. Nb3 Bf8 15.
+Be5 Ng4 16. c4 Qd7 17. Bf4 Nb4 18. Qd2
+{ In an interesting battle, Shredder from the White side with rating 3 2 4 6 and Stockfish on Black with Elo 3 4 2 4 played a balanced game which ended in a draw. Small inaccuracies made the difference.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17 64-bit 4CPU"]
+[Black "Stormphrax 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[WhiteElo "3643"]
+[BlackElo "3580"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6
+{ entered in Kings Gambit Accepted Abbazia Defence Modern Variation } 5. Nc3
+{ played by 3 6 3 4 rated Obsidian } ( 5. Bb5+
+{ played by 3 6 3 1 rated Alexandria } 5... Bd7 6. Qe2+
+{ played by 3 6 3 1 rated Alexandria } 6... Qe7 7. O-O
+{ played by 3 6 1 2 rated Astra } 7... Qxe2 8. Bxe2 Nxd5 9. Re1
+{ played by 3 6 1 2 rated Astra } 9... Be7 10. Nc3
+{ played by 3 6 1 2 rated Astra } ( 10. d4 { played by 3 1 5 8 rated Roc }
+10... Nc6 11. Nc3 Ne3 12. Bxe3 fxe3 13. Nd5 O-O-O 14. Nxe3 Rhe8 15. c3 Bf8 16.
+Bc4 f6 17. Kf2 Kb8 18. h3
+{ In this game, The game between Roc handling the White pieces rated 3 1 5 8 and Combusken playing Black, rated 2 9 6 0 finished level. Small inaccuracies made the difference.1/2-1/2 }
+) 10... Nb6 11. a4 a5 12. d4 g5 13. Nb5 Kd8 14. Ne5 Be8 15. Bh5 Rf8 16. Nd3 Na6
+17. b3 Nc8 18. Bf3
+{ Once again, After a long struggle, Astra, rated 3 6 1 2, had the White pieces and Alexandria from the Black side with rating 3 6 3 1 shared the point. Small inaccuracies made the difference.1/2-1/2 }
+) ( 5. Be2 { played by 3 6 2 2 rated Stockfish } 5... Nxd5 6. c4 Nf6 7. d4 Bd6
+8. c5 Be7 9. Nc3 { played by 3 6 2 2 rated Stockfish } 9... O-O 10. O-O
+{ played by 3 4 0 5 rated Nemorino } 10... Be6 11. Bxf4
+{ we will see this position later on1/2-1/2 } ) 5... c6 6. d4 Nxd5 7. Nxd5 Qxd5
+8. Bxf4 Bd6 9. Bxd6 { played by 3 6 3 4 rated Obsidian } ( 9. Qe2+
+{ played by 3 5 8 9 rated Titan } 9... Be6 10. Qe3
+{ played by 3 3 3 4 rated Velvet } 10... Nd7 11. Bd3 O-O-O 12. O-O Nf6 13. Rae1
+h6 14. a4 Rhe8 15. Qc1 Bxf4 16. Qxf4 Qa2 17. Qd2 Kb8 18. b4
+{ Here we see that After a long struggle, Velvet on White with Elo 3 3 3 4 and Stash from the Black side with rating 3 3 0 3 shared the point. Small inaccuracies made the difference.1/2-1/2 }
+) 9... Qxd6 10. Qe2+ { played by 3 3 4 7 rated Ethereal } ( 10. Bd3
+{ played by 2 5 2 9 rated FrankWalter } 10... Be6 11. O-O Nd7 12. c3 h6 13. Qc2
+O-O-O 14. Bf5 Rhe8 15. Rae1 Kb8 16. Bxe6 Rxe6 17. Qf5 Rf6 18. Qg4
+{ In this game, FrankWalter on White with Elo 2 5 2 9 outplayed Orion as Black rated 2 5 1 2 and won the game. The position remained tense for most of the game.1-0 }
+) 10... Be6 11. Ng5 Nd7 12. Nxe6 fxe6 13. O-O-O O-O-O 14. Qg4 Nf6 15. Qxg7 Ne4
+16. Re1 Nf2 17. Rg1 Qxh2 18. Bc4
+{ Neither Ethereal handling the White pieces rated 3 3 4 7 nor Fritz on Black with Elo 3 2 3 9 could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17 64-bit 4CPU"]
+[Black "Stormphrax 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[WhiteElo "3643"]
+[BlackElo "3580"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6
+{ entered in Kings Gambit Accepted Abbazia Defence Modern Variation } 5. c4
+{ played by 3 6 4 3 rated Stockfish } 5... c6 6. Nc3
+{ played by 3 6 4 3 rated Stockfish } ( 6. d4
+{ played by 3 6 2 0 rated Stockfish } 6... Bb4+ 7. Nc3
+{ played by 3 6 2 0 rated Stockfish } 7... cxd5 8. Be2
+{ played by 3 4 9 3 rated Arasan } 8... Nc6 9. Bxf4
+{ played by 3 4 0 3 rated Komodo } 9... dxc4 10. Bxc4 Qe7+ 11. Qe2
+{ played by 2 8 4 8 rated Deep } 11... Qxe2+ 12. Kxe2 O-O 13. Rhd1 Bf5 14. Rac1
+Rac8 15. Nd5 Nxd5 16. Bxd5 Rfd8 17. Bxc6 Rxc6 18. a3
+{ Here we see that Deep, rated 2 8 4 8, had the White pieces remained in control, handing Protector from the Black side with rating 2 8 6 7 a loss. The outcome was decided in the later stages.1-0 }
+) ( 6. dxc6 { played by 3 5 8 1 rated SugaR } 6... bxc6 7. d4
+{ played by 3 5 8 1 rated SugaR } 7... Bd6 8. Be2
+{ played by 3 5 8 1 rated SugaR } 8... O-O 9. Nc3 Re8 10. O-O Bg4 11. h3
+{ played by 3 5 8 1 rated SugaR } ( 11. Nh4 { played by 3 1 2 7 rated Strelka }
+11... Be6 12. Qd3 g5 13. Nf3 h6 14. h4 Nh7 15. c5 Bf8 16. Bd1 Bg7 17. Bc2 Nf8
+18. Rd1
+{ In an interesting battle, Vajolet2 playing Black, rated 3 1 4 3 defended accurately and defeated Strelka as White rated 3 1 2 7. The position remained tense for most of the game.0-1 }
+) 11... Bh5 12. Ne5 Bxe2 13. Qxe2 Bxe5 14. dxe5 Qd4+ 15. Qf2 Qxf2+ 16. Rxf2 Nh5
+17. Bxf4 Nxf4 18. Rxf4
+{ SugaR on White with Elo 3 5 8 1 outplayed SlowChess on Black with Elo 3 4 7 2 and won the game. The outcome was decided in the later stages.1-0 }
+) 6... cxd5 7. cxd5 { played by 3 6 4 3 rated Stockfish } ( 7. d4
+{ played by 3 6 2 6 rated Dragon } 7... Bd6 8. c5
+{ played by 3 6 2 6 rated Dragon } 8... Bc7 9. Bb5+
+{ played by 3 5 1 5 rated Caissa } 9... Nc6 10. Qe2+
+{ played by 3 5 1 5 rated Caissa } 10... Be6 11. Ng5
+{ played by 3 2 0 4 rated WhiteCore } 11... O-O 12. Nxe6 fxe6 13. Qxe6+ Kh8 14.
+Bxc6 bxc6 15. O-O Nh5 16. Rf2 Qh4 17. Qxc6 Nf6 18. Qxc7
+{ Once again, Odonata from the Black side with rating 3 2 6 5 seized the initiative and handed WhiteCore as White rated 3 2 0 4 a loss. The position remained tense for most of the game.0-1 }
+) 7... Bd6 8. Bb5+ Nbd7 9. Qe2+ Qe7 10. Qxe7+
+{ played by 3 6 4 3 rated Stockfish } 10... Kxe7 11. Bc4
+{ played by 3 3 8 2 rated chess.cpp } ( 11. Bxd7
+{ played by 3 1 0 3 rated Rodent } 11... Bxd7 12. d4 Rhg8 13. O-O g5 14. Bd2
+Rad8 15. Ne5 Bc8 16. Rfe1 Kf8 17. Nb5 Bb8 18. d6
+{ In this game, The game between Rodent as White rated 3 1 0 3 and Senpai from the Black side with rating 3 1 5 5 finished level. The outcome was decided in the later stages.1/2-1/2 }
+) 11... Nb6 12. Bb3 Rd8 13. d4 a5 14. a3 Bb8 15. d6+ Bxd6 16. Ng5 Bb8 17. O-O
+Nbd5 18. Re1+
+{ In an interesting battle, chess.cpp, rated 3 3 8 2, had the White pieces and Molybdenum from the Black side with rating 3 3 4 2 played a balanced game which ended in a draw. Small inaccuracies made the difference.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17 64-bit 4CPU"]
+[Black "Stormphrax 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[WhiteElo "3643"]
+[BlackElo "3580"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6
+{ entered in Kings Gambit Accepted Abbazia Defence Modern Variation } 5. Nc3
+{ played by 3 6 3 4 rated Obsidian } ( 5. Be2
+{ played by 3 6 2 2 rated Stockfish } 5... Nxd5 6. c4 Nf6 7. d4 Bd6 8. c5 Be7
+9. Nc3 { played by 3 6 2 2 rated Stockfish } 9... O-O 10. Bxf4
+{ played by 3 6 2 2 rated Stockfish } 10... Be6 11. Ne5
+{ played by 2 1 8 5 rated SpaceDog } ( 11. Bb5
+{ played by 2 1 4 1 rated Embla } 11... c6 12. Bd3 Nd5 13. Nxd5 Bxd5 14. Kf2
+Bf6 15. Bd6 Bxf3 16. Kxf3 Re8 17. Re1 Nd7 18. Rxe8+
+{ Once again, EveAnn, rated 2 2 8 1, had the Black pieces outplayed Embla from the White side with rating 2 1 4 1 and won as Black. The outcome was decided in the later stages.0-1 }
+) 11... Nc6 12. Nxc6 bxc6 13. Qa4 Nd5 14. Nxd5 Qxd5 15. Bf3 Bh4+ 16. Kd2 Qf5
+17. Bxc7 Qg5+ 18. Kc2
+{ In this game, Isa handling the Black pieces rated 2 3 3 3 outplayed SpaceDog handling the White pieces rated 2 1 8 5 and won as Black. The position remained tense for most of the game.0-1 }
+) ( 5. d4 { played by 3 2 5 5 rated DanaSah } 5... Nxd5 6. Bc4
+{ played by 3 2 5 5 rated DanaSah } 6... Be7 7. O-O
+{ played by 2 8 2 8 rated Godel } 7... Be6 8. Bb3
+{ played by 3 6 0 2 rated Fat } 8... O-O 9. Bxd5
+{ played by 3 0 5 6 rated Sting } 9... Bxd5 10. Bxf4 c5 11. c3
+{ played by 2 6 3 9 rated Cyrano } 11... Qb6 12. b3 Nc6 13. dxc5 Qxc5+ 14. Kh1
+Rad8 15. Qe1 Bf6 16. Qg3 Rfe8 17. Bg5 Bxg5 18. Qxg5
+{ Tucano from the Black side with rating 2 6 6 3 defended accurately and defeated Cyrano, rated 2 6 3 9, had the White pieces.0-1 }
+) ( 5. c4 { played by 3 6 4 3 rated Stockfish } 5... c6 6. Nc3
+{ played by 3 6 4 3 rated Stockfish } 6... cxd5 7. cxd5
+{ played by 3 6 4 3 rated Stockfish } 7... Bd6 8. Bb5+ Nbd7 9. Qe2+ Qe7 10.
+Qxe7+ { played by 3 6 4 3 rated Stockfish } 10... Kxe7 11. O-O
+{ played by 3 6 4 3 rated Stockfish } 11... Rd8 12. Bc4
+{ played by 3 6 4 3 rated Stockfish } ( 12. b3
+{ played by 3 1 7 8 rated Schooner } 12... a6 13. Bd3 Kf8 14. Bb2 b5 15. Rac1
+Re8 16. Bf5 Nb6 17. Bd3 h6 18. a4
+{ In an interesting battle, ShashChess playing Black, rated 3 4 2 9 outplayed Schooner as White rated 3 1 7 8 and won as Black. The opening quickly led to complex middlegame play.0-1 }
+) 12... Nb6 13. b3 Kf8 14. Nb5 Bb4 15. a3 Ba5 16. d6 Nbd5 17. a4 a6 18. Nc7
+{ In this game, Stockfish as White rated 3 6 4 3 and Stormphrax playing Black, rated 3 5 8 0 played a balanced game which ended in a draw. The position remained tense for most of the game.1/2-1/2 }
+) 5... c6 6. d4 Nxd5 7. Nxd5 Qxd5 8. Bxf4 Bd6 9. Qe2+
+{ played by 3 5 8 9 rated Titan } 9... Be6 10. c4
+{ played by 3 5 8 9 rated Titan } 10... Bb4+ 11. Bd2
+{ played by 3 5 8 9 rated Titan } 11... Qd6 12. Bxb4 Qxb4+ 13. Qd2 Qe7 14.
+O-O-O Na6 15. a3 O-O-O 16. Bd3 Rhe8 17. Rhe1 Nc7 18. Qc3
+{ Here we see that Neither Titan as White rated 3 5 8 9 nor Uralochka from the Black side with rating 3 5 8 5 could convert, and the game was drawn.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17 64-bit 4CPU"]
+[Black "Stormphrax 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[WhiteElo "3643"]
+[BlackElo "3580"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6
+{ entered in Kings Gambit Accepted Abbazia Defence Modern Variation } 5. c4
+{ played by 3 6 4 3 rated Stockfish } ( 5. Bc4
+{ played by 3 6 4 0 rated Stockfish } 5... Bd6 6. Qe2+
+{ played by 3 6 4 0 rated Stockfish } 6... Kf8 7. Nc3
+{ played by 3 6 4 0 rated Stockfish } 7... Bg4 8. b3
+{ played by 3 6 1 1 rated PlentyChess } 8... Nbd7 9. Bb2 Qe7 10. Qxe7+ Bxe7 11.
+O-O-O a6 12. Rde1 { played by 3 6 1 1 rated PlentyChess } ( 12. Be2
+{ played by 3 3 9 1 rated Igel } 12... h5 13. h3 Bf5 14. Rde1 Re8 15. Bd1 h4
+16. Rhf1 Bg6 17. d3 Bc5 18. Rxe8+
+{ Once again, Neither Igel on White with Elo 3 3 9 1 nor SugaR from the Black side with rating 3 5 8 1 could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+) 12... b5 13. Be2 Bd6 14. a4 b4 15. Nd1 h5 16. Nf2 Nxd5 17. h3 Bf5 18. Nd4
+{ In an interesting battle, PlentyChess, rated 3 6 1 1, had the White pieces and Koivisto handling the Black pieces rated 3 5 5 1 played a balanced game which ended in a draw. Both sides showed good positional understanding.1/2-1/2 }
+) ( 5. Nc3 { played by 3 6 3 4 rated Obsidian } 5... c6 6. d4 Nxd5 7. Nxd5 Qxd5
+8. Bxf4 Bd6 9. Bxd6 { played by 3 6 3 4 rated Obsidian } 9... Qxd6 10. Bc4
+{ played by 3 6 3 4 rated Obsidian } 10... O-O 11. O-O Bg4 12. c3
+{ played by 3 6 3 4 rated Obsidian } 12... Nd7 13. Qb3 Bh5 14. Qxb7 Rab8 15.
+Qa6 Rxb2 16. Rae1 Nb6 17. Ne5 Qd8 18. Re3
+{ Here we see that The game between Obsidian on White with Elo 3 6 3 4 and Chess, rated 3 5 8 3, had the Black pieces finished level. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 5... c6 6. Nc3 { played by 3 6 4 3 rated Stockfish } ( 6. d4
+{ played by 3 6 2 0 rated Stockfish } 6... Bb4+ 7. Bd2
+{ played by 3 1 2 9 rated Naum } 7... Bxd2+ 8. Qxd2 cxd5 9. Nc3 Nc6 10. O-O-O
+O-O 11. Qxf4 Be6 12. c5 { played by 3 1 2 9 rated Naum } ( 12. Ng5
+{ played by 3 1 2 9 rated Naum } 12... Bg4 13. Nf3 Re8 14. h3 Bh5 15. g4 Bg6
+16. Ne5 Rc8 17. Nxg6 hxg6 18. Kb1
+{ Once again, Naum handling the White pieces rated 3 1 2 9 overpressed, and Stockfish playing Black, rated 3 3 4 5 secured the win. The outcome was decided in the later stages.0-1 }
+) 12... Ne4 13. Nxe4 dxe4 14. d5 Bxd5 15. Bc4 exf3 16. Bxd5 fxg2 17. Rhg1
+{ Here we see that Naum playing White, rated 3 1 2 9 overpressed, and Komodo on Black with Elo 3 3 3 8 secured the win. Small inaccuracies made the difference.0-1 }
+) 6... cxd5 7. d4 { played by 3 6 2 6 rated Dragon } 7... Bd6 8. c5
+{ played by 3 6 2 6 rated Dragon } 8... Bc7 9. Bb5+
+{ played by 3 5 1 5 rated Caissa } 9... Nc6 10. Qe2+
+{ played by 3 5 1 5 rated Caissa } 10... Be6 11. Ne5
+{ played by 3 5 1 5 rated Caissa } 11... Bxe5 12. Bxc6+
+{ played by 2 5 8 9 rated Nawito } 12... bxc6 13. Qxe5 Rb8 14. O-O O-O 15. b3
+Nd7 16. Qxf4 Qf6 17. Bd2 Qxf4 18. Rxf4
+{ Here we see that JikChess, rated 2 5 4 5, had the White pieces converted the advantage and defeated Nawito from the Black side with rating 2 5 8 9. The outcome was decided in the later stages.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17 64-bit 4CPU"]
+[Black "Stormphrax 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[WhiteElo "3643"]
+[BlackElo "3580"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6
+{ entered in Kings Gambit Accepted Abbazia Defence Modern Variation } 5. Nc3
+{ played by 3 6 3 4 rated Obsidian } ( 5. Bb5+
+{ played by 3 6 3 1 rated Alexandria } 5... Bd7 6. Bc4
+{ played by 3 6 1 5 rated Obsidian } 6... b5 7. Bb3
+{ played by 3 6 1 5 rated Obsidian } 7... a5 8. a3
+{ played by 2 6 1 9 rated Nebula } 8... Bd6 9. Qe2+ Qe7 10. Qxe7+ Kxe7 11. O-O
+Re8 12. d4 { played by 2 4 8 6 rated Jumbo } ( 12. Re1+
+{ played by 2 4 7 8 rated Asymptote } 12... Kf8 13. Rxe8+ Bxe8 14. Nc3 h6 15.
+d4 Na6 16. Ne2 g5 17. h4 a4 18. Ba2
+{ Asymptote from the White side with rating 2 4 7 8 outplayed Teki as Black rated 2 4 0 0 and won the game. Small inaccuracies made the difference.1-0 }
+) 12... Kf8 13. Nc3 a4 14. Ba2 b4 15. axb4 Na6 16. Ne5 Nxb4 17. Bxf4 Nxc2 18.
+Rad1
+{ Here we see that Jumbo from the White side with rating 2 4 8 6 and Nebula playing Black, rated 2 6 1 9 played a balanced game which ended in a draw. The outcome was decided in the later stages.1/2-1/2 }
+) ( 5. Be2 { played by 3 6 2 2 rated Stockfish } 5... Nxd5 6. c4 Nf6 7. d4 Bd6
+8. c5 Be7 9. Nc3 { played by 3 6 2 2 rated Stockfish } 9... O-O 10. Bxf4
+{ played by 3 6 2 2 rated Stockfish } 10... Be6 11. Qd2
+{ played by 3 6 2 2 rated Stockfish } 11... Nd5 12. Rd1
+{ played by 3 6 2 2 rated Stockfish } ( 12. Bg3
+{ played by 3 6 1 5 rated Dragon } 12... b6 13. O-O bxc5 14. Ne4 Nd7 15. Nfg5
+cxd4 16. Nxe6 fxe6 17. Qxd4 c5 18. Rxf8+
+{ Once again, Neither Reckless from the White side with rating 3 6 0 6 nor Stockfish on Black with Elo 3 6 2 2 could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 12... Nd7 13. Nxd5 Bxd5 14. O-O c6 15. Qc2 Re8 16. Bg3 b5 17. Bd3 Nf8 18. Be4
+{ In an interesting battle, After a long struggle, Stockfish from the White side with rating 3 6 2 2 and Reckless from the Black side with rating 3 6 0 6 shared the point. The position remained tense for most of the game.1/2-1/2 }
+) 5... c6 6. d4 Nxd5 7. Nxd5 Qxd5 8. Bxf4 Bd6 9. Qe2+
+{ played by 3 5 8 9 rated Titan } 9... Be6 10. c4
+{ played by 3 5 8 9 rated Titan } 10... Bb4+ 11. Kf2
+{ played by 3 2 6 3 rated Komodo } 11... Qd8 12. a3
+{ played by 3 2 6 3 rated Komodo } ( 12. Bg5
+{ played by 3 1 6 2 rated ChessBrainVB } 12... Be7 13. Bxe7 Qxe7 14. Re1 O-O
+15. Qc2 Na6 16. a3 Qf6 17. Qe4 g6 18. Qe5
+{ In this game, The game between ChessBrainVB from the White side with rating 3 1 6 2 and Equinox playing Black, rated 3 2 1 6 finished level. Both sides showed good positional understanding.1/2-1/2 }
+) 12... Be7 13. Rd1 O-O 14. Qd2 Re8 15. h3 Bf5 16. Be2 Be4 17. Ng5 Bxg5 18.
+Bxg5
+{ In this game, Komodo handling the White pieces rated 3 2 6 3 and Ethereal, rated 3 2 7 3, had the Black pieces played a balanced game which ended in a draw.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17 64-bit 4CPU"]
+[Black "Stormphrax 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[WhiteElo "3643"]
+[BlackElo "3580"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6
+{ entered in Kings Gambit Accepted Abbazia Defence Modern Variation } 5. Be2
+{ played by 3 6 2 2 rated Stockfish } ( 5. d4
+{ played by 3 2 5 5 rated DanaSah } 5... Nxd5 6. Bc4
+{ played by 3 2 5 5 rated DanaSah } 6... Be7 7. O-O
+{ played by 2 8 2 8 rated Godel } 7... Be6 8. Bxd5
+{ played by 3 6 2 0 rated Stockfish } ( 8. Bb3 { played by 3 6 0 2 rated Fat }
+8... O-O 9. Re1 { played by 3 1 9 7 rated Houdini } 9... Bf6 10. Nc3 Nc6 11.
+Ne4 Bg4 12. Nxf6+ { played by 3 1 0 9 rated Bouquet } ( 12. c3
+{ played by 3 0 7 5 rated DeepSaros } 12... Bh4 13. g3 fxg3 14. hxg3 Be7 15.
+Qd3 Qd7 16. Bg5 f6 17. Nc5 Bxc5 18. dxc5
+{ Here we see that Houdini playing Black, rated 3 1 9 7 outplayed DeepSaros from the White side with rating 3 0 7 5 and won as Black. The outcome was decided in the later stages.0-1 }
+) 12... Nxf6 13. Bxf4 Bxf3 14. Qxf3 Qxd4+ 15. Kh1 Qxb2 16. Bxc7 Rae8 17. Bd6
+Rxe1+ 18. Rxe1
+{ After a long struggle, Bouquet as White rated 3 1 0 9 and Sting playing Black, rated 3 0 5 6 shared the point. Both sides showed good positional understanding.1/2-1/2 }
+) 8... Bxd5 9. Bxf4 { played by 3 6 2 0 rated Stockfish } 9... O-O 10. Nc3 Bc4
+11. Re1 c6 12. b3 { played by 3 6 1 9 rated ShashChess } ( 12. Ne4
+{ played by 3 5 5 1 rated Lizard } 12... Re8 13. b3 Be6 14. Nc5 Bxc5 15. dxc5
+Nd7 16. Qd4 Qf6 17. Qxf6 Nxf6 18. Be5
+{ The game between Chess playing White, rated 3 5 4 0 and ShashChess handling the Black pieces rated 3 6 1 9 finished level. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 12... Be6 13. Ne4 Nd7 14. c4 Re8 15. Bd6 Bg4 16. Bxe7 Rxe7 17. h3 Bh5 18. Qe2
+{ Here we see that After a long struggle, ShashChess, rated 3 6 1 9, had the White pieces and Chess playing Black, rated 3 5 4 0 shared the point.1/2-1/2 }
+) 5... Nxd5 6. c4 Nf6 7. d4 Bd6 8. c5 Be7 9. Nc3
+{ played by 3 6 2 2 rated Stockfish } 9... O-O 10. Bxf4
+{ played by 3 6 2 2 rated Stockfish } 10... Be6 11. O-O
+{ played by 3 5 7 7 rated Stockfish } 11... Nd5 12. Qd2
+{ we will see this position later on1/2-1/2 } ( 12. Qc1
+{ played by 3 4 0 5 rated Nemorino } 12... Nxf4 13. Qxf4
+{ we will see this position later on1/2-1/2 } ) 1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17 64-bit 4CPU"]
+[Black "Stormphrax 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[WhiteElo "3643"]
+[BlackElo "3580"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6
+{ entered in Kings Gambit Accepted Abbazia Defence Modern Variation } 5. c4
+{ played by 3 6 4 3 rated Stockfish } ( 5. d4
+{ played by 3 2 5 5 rated DanaSah } 5... Nxd5 6. Bc4
+{ played by 3 2 5 5 rated DanaSah } 6... Be7 7. O-O
+{ played by 2 8 2 8 rated Godel } 7... Be6 8. Bxd5
+{ played by 3 6 2 0 rated Stockfish } ( 8. Bb3 { played by 3 6 0 2 rated Fat }
+8... O-O 9. c4 { played by 3 1 1 2 rated Laser } 9... Ne3 10. Bxe3 fxe3 11. Qd3
+{ played by 3 1 1 2 rated Laser } 11... Bg4 12. Nc3 Nc6 13. Rad1
+{ played by 3 1 1 2 rated Laser } ( 13. Qxe3
+{ played by 2 8 2 2 rated Ethereal } 13... Bxf3 14. d5 Bh5 15. dxc6 bxc6 16.
+Kh1 Qd7 17. Ba4 Rab8 18. Nd5
+{ Here we see that Devel on White with Elo 2 6 8 8 and Ethereal playing Black, rated 2 8 2 2 played a balanced game which ended in a draw. Small inaccuracies made the difference.1/2-1/2 }
+) 13... Bg5 14. Nxg5 Qxg5 15. Rde1 Rae8 16. Nd5 e2 17. Rf2 Bh5 18. Nf4
+{ Once again, After a long struggle, Laser from the White side with rating 3 1 1 2 and iCE playing Black, rated 3 0 7 5 shared the point.1/2-1/2 }
+) 8... Bxd5 9. Bxf4 { played by 3 6 2 0 rated Stockfish } 9... O-O 10. Nc3 Bc4
+11. Re1 c6 12. Qd2 { played by 3 6 2 0 rated Stockfish } 12... Na6 13. Rad1
+{ played by 3 6 2 0 rated Stockfish } ( 13. b3
+{ played by 3 5 5 0 rated Berserk } 13... Be6 14. Bg5 Bxg5 15. Nxg5 Bf5 16. Nf3
+Nc7 17. Ne4 Re8 18. Qf4
+{ In this game, Neither Berserk as White rated 3 5 5 0 nor Stockfish as Black rated 3 6 2 0 could convert, and the game was drawn. Both sides showed good positional understanding.1/2-1/2 }
+) 13... Nc7 14. Bg3 f6 15. Nh4 g6 16. Nf3 b5 17. Ne4 Ne6 18. Qf2
+{ Here we see that Neither Stockfish, rated 3 6 2 0, had the White pieces nor Berserk as Black rated 3 5 5 0 could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 5... c6 6. Nc3 { played by 3 6 4 3 rated Stockfish } 6... cxd5 7. d4
+{ played by 3 6 2 6 rated Dragon } 7... Bd6 8. cxd5
+{ played by 2 8 6 7 rated Protector } 8... O-O 9. Be2 Na6 10. O-O Nb4 11. Bc4
+Bf5 12. a3 Rc8 13. Bb3 { played by 2 8 6 7 rated Protector } ( 13. b3
+{ played by 2 6 4 7 rated Winter } 13... Nc2 14. Nh4 Nxd4 15. Qxd4 Bc5
+{ In an interesting battle, Winter from the White side with rating 2 6 4 7 outplayed Galjoen as Black rated 2 3 5 6 and won the game. The position remained tense for most of the game.1-0 }
+) 13... Na6 14. Kh1 h6 15. Ne5 g5 16. Be3 Ne4 17. Nxe4 Bxe4 18. Bf2
+{ Once again, Protector, rated 2 8 6 7, had the White pieces and Deep, rated 2 8 4 8, had the Black pieces played a balanced game which ended in a draw.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17 64-bit 4CPU"]
+[Black "Stormphrax 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[WhiteElo "3643"]
+[BlackElo "3580"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6
+{ entered in Kings Gambit Accepted Abbazia Defence Modern Variation } 5. d4
+{ played by 3 2 5 5 rated DanaSah } ( 5. c4
+{ played by 3 6 4 3 rated Stockfish } 5... c6 6. d4
+{ played by 3 6 2 0 rated Stockfish } 6... Bb4+ 7. Nc3
+{ played by 3 6 2 0 rated Stockfish } 7... cxd5 8. Bd3
+{ played by 3 6 2 0 rated Stockfish } ( 8. Be2
+{ played by 3 4 9 3 rated Arasan } 8... Nc6 9. Bxf4
+{ played by 3 4 0 3 rated Komodo } 9... dxc4 10. Bxc4 Qe7+ 11. Be5
+{ played by 3 4 0 3 rated Komodo } 11... Nxe5 12. Nxe5 O-O 13. O-O Be6 14. Qb3
+{ played by 3 4 0 3 rated Komodo } ( 14. Bxe6
+{ played by 3 2 9 0 rated Houdini } 14... Qxe6 15. Qa4 Qb6 16. Rad1 Bd6 17. Nc4
+Qb4 18. Nxd6
+{ Once again, The game between Houdini from the White side with rating 3 2 9 0 and Fire from the Black side with rating 3 2 4 4 finished level.1/2-1/2 }
+) 14... Bxc4 15. Nxc4 Rac8 16. Rf3 Bd6 17. Raf1 Rfd8 18. Ne3
+{ Here we see that Stockfish as Black rated 3 6 1 3 seized the initiative and handed Komodo from the White side with rating 3 4 0 3 a loss.0-1 }
+) 8... dxc4 9. Bxc4 { played by 3 5 4 7 rated Titan } 9... Qe7+ 10. Ne5 O-O 11.
+O-O Be6 12. Bxf4 Nc6 13. Nxc6 bxc6 14. Bxe6
+{ played by 3 6 2 0 rated Stockfish } ( 14. Qe2
+{ played by 3 5 2 3 rated Rebel } 14... Rad8 15. Bxe6 Qxe6 16. Qxe6 fxe6 17.
+Rae1 Rfe8 18. Rd1
+{ In an interesting battle, The game between Rebel from the White side with rating 3 5 2 3 and Arasan handling the Black pieces rated 3 4 9 3 finished level. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 14... Qxe6 15. Qa4 a5 16. Rae1 Qd7 17. a3 Bd6 18. Bxd6
+{ Stockfish handling the White pieces rated 3 6 2 0 and Arasan as Black rated 3 4 9 3 played a balanced game which ended in a draw. Both sides showed good positional understanding.1/2-1/2 }
+) 5... Nxd5 6. Bc4 { played by 3 2 5 5 rated DanaSah } 6... Be7 7. O-O
+{ played by 2 8 2 8 rated Godel } 7... Be6 8. Bb3
+{ played by 3 6 0 2 rated Fat } 8... O-O 9. c4
+{ played by 3 1 1 2 rated Laser } ( 9. Bxd5 { played by 3 0 5 6 rated Sting }
+9... Bxd5 10. Bxf4 c5 11. Nc3 { played by 3 0 5 6 rated Sting } 11... Bxf3 12.
+Qxf3 cxd4 13. Rad1 { played by 2 6 6 3 rated Tucano } 13... Nc6 14. Kh1 Rc8 15.
+b3 Kh8 16. Ne2 Qb6 17. c3 dxc3 18. Nxc3
+{ In an interesting battle, Tucano from the White side with rating 2 6 6 3 overpressed, and Cyrano on Black with Elo 2 6 3 9 secured the win.0-1 }
+) 9... Ne3 10. Bxe3 fxe3 11. Nc3 { played by 3 0 9 9 rated Bit-Genie } 11...
+Bf6 12. Qd3 Bg4 13. Nd5 { played by 3 0 9 9 rated Bit-Genie } ( 13. Bc2
+{ played by 3 0 1 6 rated Bagatur } 13... g6 14. Qxe3 Bxf3 15. Qxf3 Bxd4+ 16.
+Kh1 Nc6 17. Be4 Qh4 18. Bxc6
+{ Here we see that Bit-Genie playing Black, rated 3 0 9 9 outplayed Bagatur handling the White pieces rated 3 0 1 6 and won as Black. The opening quickly led to complex middlegame play.0-1 }
+) 13... e2 14. Qxe2 Bxd4+ 15. Kh1 Nc6 16. Qe4 Bxf3 17. Rxf3 Bxb2 18. Raf1
+{ In an interesting battle, After a long struggle, Bit-Genie handling the White pieces rated 3 0 9 9 and Bagatur handling the Black pieces rated 3 0 1 6 shared the point. The opening quickly led to complex middlegame play.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17 64-bit 4CPU"]
+[Black "Stormphrax 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[WhiteElo "3643"]
+[BlackElo "3580"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6
+{ entered in Kings Gambit Accepted Abbazia Defence Modern Variation } 5. Bb5+
+{ played by 3 6 3 1 rated Alexandria } ( 5. Be2
+{ played by 3 6 2 2 rated Stockfish } 5... Nxd5 6. c4 Nf6 7. d4 Bd6 8. c5 Be7
+9. Nc3 { played by 3 6 2 2 rated Stockfish } 9... O-O 10. Bxf4
+{ played by 3 6 2 2 rated Stockfish } 10... Be6 11. Qd2
+{ played by 3 6 2 2 rated Stockfish } 11... Nd5 12. O-O
+{ played by 3 6 0 0 rated Dragon } 12... Nxf4 13. Qxf4 Nc6 14. a3
+{ played by 3 6 0 0 rated Dragon } ( 14. Rad1
+{ played by 3 3 9 8 rated Berserk } 14... Nb4 15. b3 Nd5 16. Nxd5 Bxd5 17. Ne5
+c6 18. Kh1
+{ Here we see that After a long struggle, Berserk, rated 3 3 9 8, had the White pieces and Nemorino on Black with Elo 3 4 0 5 shared the point. The outcome was decided in the later stages.1/2-1/2 }
+) 14... Bb3 15. Bb5 h6 16. Bxc6 bxc6 17. h4 Bf6 18. Rae1
+{ In an interesting battle, Neither Dragon playing White, rated 3 6 0 0 nor PlentyChess on Black with Elo 3 5 7 7 could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+) ( 5. d4 { played by 3 2 5 5 rated DanaSah } 5... Nxd5 6. Bc4
+{ played by 3 2 5 5 rated DanaSah } 6... Be7 7. O-O
+{ played by 2 8 2 8 rated Godel } 7... Be6 8. Bb3
+{ played by 3 6 0 2 rated Fat } 8... O-O 9. c4
+{ played by 3 1 1 2 rated Laser } 9... Ne3 10. Bxe3 fxe3 11. Qd3
+{ played by 3 1 1 2 rated Laser } 11... Bg4 12. Nc3 Nc6 13. Nd5
+{ played by 3 0 7 5 rated iCE } 13... Bxf3 14. Bc2
+{ In this game, iCE on White with Elo 3 0 7 5 overpressed, and Laser, rated 3 1 1 2, had the Black pieces secured the win. Both sides showed good positional understanding.0-1 }
+( 14. Rxf3 { played by 2 9 4 1 rated Dirty } 14... Bg5 15. Bc2 g6 16. Ba4 Rb8
+17. b4 Qd6 18. a3
+{ Here we see that Laser on Black with Elo 3 1 1 2 defended accurately and defeated iCE, rated 3 0 7 5, had the White pieces. The opening quickly led to complex middlegame play.0-1 }
+) ) 5... Bd7 6. Bc4 { played by 3 6 1 5 rated Obsidian } 6... b5 7. Qe2+
+{ played by 3 5 9 1 rated PlentyChess } 7... Be7 8. Bxb5 O-O 9. O-O
+{ played by 3 5 9 1 rated PlentyChess } 9... Re8 10. d4 Nxd5 11. Bd3
+{ played by 3 5 8 5 rated Berserk } 11... Nc6 12. Qe4 Nf6 13. Qxf4 Nb4 14. Nc3
+{ played by 3 5 8 5 rated Berserk } ( 14. Ne5
+{ played by 3 5 6 8 rated RubiChess } 14... Nxd3 15. cxd3 Be6 16. Nc3 Qd6 17.
+Kh1 Rac8 18. Qg3
+{ In an interesting battle, Neither RubiChess handling the White pieces rated 3 5 6 8 nor Booot handling the Black pieces rated 3 5 4 8 could convert, and the game was drawn.1/2-1/2 }
+) 14... c5 15. Kh1 Nxd3 16. cxd3 Bc8 17. dxc5 Bxc5 18. Qc4
+{ Neither Berserk on White with Elo 3 5 8 5 nor PlentyChess on Black with Elo 3 5 9 1 could convert, and the game was drawn. Both sides showed good positional understanding.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17 64-bit 4CPU"]
+[Black "Stormphrax 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[WhiteElo "3643"]
+[BlackElo "3580"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6
+{ entered in Kings Gambit Accepted Abbazia Defence Modern Variation } 5. d4
+{ played by 3 2 5 5 rated DanaSah } ( 5. c4
+{ played by 3 6 4 3 rated Stockfish } 5... c6 6. d4
+{ played by 3 6 2 0 rated Stockfish } 6... Bb4+ 7. Nc3
+{ played by 3 6 2 0 rated Stockfish } 7... cxd5 8. Be2
+{ played by 3 4 9 3 rated Arasan } 8... Nc6 9. O-O
+{ played by 3 4 9 3 rated Arasan } 9... Be6 10. Qb3 dxc4 11. Bxc4 Bxc4 12. Qxc4
+O-O 13. Bxf4 Rc8 14. Bg5 h6 15. Bh4 { played by 3 4 9 2 rated Astra } 15... Be7
+16. Rad1 Ng4 17. Bxe7 Nxe7 18. Qd3
+{ In this game, Neither Astra from the White side with rating 3 4 9 2 nor Yukari playing Black, rated 3 4 2 5 could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
+) ( 5. Nc3 { played by 3 6 3 4 rated Obsidian } 5... c6 6. d4 Nxd5 7. Nxd5 Qxd5
+8. Bxf4 Bd6 9. Bxd6 { played by 3 6 3 4 rated Obsidian } 9... Qxd6 10. Bc4
+{ played by 3 6 3 4 rated Obsidian } 10... O-O 11. O-O Bg4 12. Qd3
+{ played by 3 5 8 5 rated Uralochka } 12... Bxf3 13. Rxf3 Nd7 14. Raf1 Nf6 15.
+Bb3 { played by 3 5 8 5 rated Uralochka } ( 15. c3
+{ played by 3 5 8 3 rated Chess } 15... Rae8 16. Bb3 Qe7 17. Qf5 h6 18. h3
+{ Once again, Neither Chess handling the White pieces rated 3 5 8 3 nor Obsidian on Black with Elo 3 6 3 4 could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
+) 15... Rae8 16. Rh3 Ne4 17. c3 Qd8 18. Rf4
+{ In this game, Uralochka from the White side with rating 3 5 8 5 and Titan playing Black, rated 3 5 8 9 played a balanced game which ended in a draw.1/2-1/2 }
+) 5... Nxd5 6. Bc4 { played by 3 2 5 5 rated DanaSah } 6... Be7 7. O-O
+{ played by 2 8 2 8 rated Godel } 7... Be6 8. Bb3
+{ played by 3 6 0 2 rated Fat } 8... O-O 9. Bxd5
+{ played by 3 0 5 6 rated Sting } ( 9. Nc3 { played by 3 6 0 2 rated Fat } 9...
+c5 10. Nxd5 Bxd5 11. Bxf4 Nc6 12. dxc5 Bxc5+ 13. Kh1 Bxb3 14. axb3 Qxd1 15.
+Raxd1 { played by 3 5 9 1 rated PlentyChess } 15... Rad8 16. c3 a5 17. Bc7 Rxd1
+18. Rxd1
+{ Here we see that The game between PlentyChess handling the White pieces rated 3 5 9 1 and Viridithas from the Black side with rating 3 5 6 9 finished level.1/2-1/2 }
+) 9... Bxd5 10. Bxf4 c5 11. Nc3 { played by 3 0 5 6 rated Sting } 11... Bxf3
+12. Qxf3 cxd4 13. Nd5 { played by 3 0 5 6 rated Sting } 13... Nc6 14. a3
+{ played by 3 0 5 6 rated Sting } ( 14. Rae1 { played by 2 6 5 4 rated Pawny }
+14... Qd7 15. Bh6 f5 16. Bxg7 Kxg7 17. Qg3+ Kf7 18. Qb3
+{ In an interesting battle, Pawny, rated 2 6 5 4, had the White pieces outplayed Tucano handling the Black pieces rated 2 5 7 5 and won the game.1-0 }
+) 14... Bd6 15. Rae1 Bxf4 16. Nxf4 Qd7 17. Qg3 Qd6 18. Qb3
+{ Once again, Bouquet on Black with Elo 3 1 0 9 defended accurately and defeated Sting as White rated 3 0 5 6. The opening quickly led to complex middlegame play.0-1 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17 64-bit 4CPU"]
+[Black "Stormphrax 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[WhiteElo "3643"]
+[BlackElo "3580"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6
+{ entered in Kings Gambit Accepted Abbazia Defence Modern Variation } 5. c4
+{ played by 3 6 4 3 rated Stockfish } ( 5. Bb5+
+{ played by 3 6 3 1 rated Alexandria } 5... Bd7 6. Bc4
+{ played by 3 6 1 5 rated Obsidian } 6... b5 7. Qe2+
+{ played by 3 5 9 1 rated PlentyChess } 7... Be7 8. Bxb5 O-O 9. O-O
+{ played by 3 5 9 1 rated PlentyChess } 9... Re8 10. d4 Nxd5 11. Ne5
+{ played by 3 5 9 1 rated PlentyChess } 11... Bc5 12. dxc5 Bxb5 13. Qxb5 Rxe5
+14. Nc3 Nxc3 15. bxc3 g5 16. h4 { played by 3 5 9 1 rated PlentyChess } ( 16.
+Ba3 { played by 2 8 8 8 rated Hannibal } 16... Qe8 17. Qxe8+ Rxe8 18. Rab1
+{ Here we see that Hannibal, rated 2 8 8 8, had the White pieces and Francesca, rated 2 8 7 9, had the Black pieces played a balanced game which ended in a draw. Both sides showed good positional understanding.1/2-1/2 }
+) 16... h6 17. Bb2 a6 18. Qb7
+{ In this game, PlentyChess as White rated 3 5 9 1 and Berserk handling the Black pieces rated 3 5 8 5 played a balanced game which ended in a draw. The outcome was decided in the later stages.1/2-1/2 }
+) 5... c6 6. Nc3 { played by 3 6 4 3 rated Stockfish } ( 6. d4
+{ played by 3 6 2 0 rated Stockfish } 6... Bb4+ 7. Nc3
+{ played by 3 6 2 0 rated Stockfish } 7... cxd5 8. Be2
+{ played by 3 4 9 3 rated Arasan } 8... Nc6 9. O-O
+{ played by 3 4 9 3 rated Arasan } 9... Be6 10. Qb3 dxc4 11. Bxc4 Bxc4 12. Qxc4
+O-O 13. Bxf4 Rc8 14. Bg5 h6 15. Bxf6 { played by 3 4 9 3 rated Arasan } 15...
+Qxf6 16. Kh1 { played by 3 4 9 3 rated Arasan } ( 16. Qb5
+{ played by 3 0 6 4 rated Kobra } 16... Qd6 17. Rad1 Rfd8 18. h3
+{ In an interesting battle, Kobra, rated 3 0 6 4, had the White pieces outplayed EveAnn, rated 3 1 5 1, had the Black pieces and won the game. Small inaccuracies made the difference.1-0 }
+) 16... a6 17. a3 Ba5 18. Qd3
+{ In an interesting battle, The game between Arasan as White rated 3 4 9 3 and Rebel, rated 3 5 2 3, had the Black pieces finished level. Small inaccuracies made the difference.1/2-1/2 }
+) 6... cxd5 7. d4 { played by 3 6 2 6 rated Dragon } 7... Bd6 8. c5
+{ played by 3 6 2 6 rated Dragon } 8... Bc7 9. Bb5+
+{ played by 3 5 1 5 rated Caissa } 9... Nc6 10. Qe2+
+{ played by 3 5 1 5 rated Caissa } 10... Be6 11. Ne5
+{ played by 3 5 1 5 rated Caissa } 11... Bxe5 12. Qxe5
+{ played by 3 5 1 5 rated Caissa } 12... O-O 13. Bxc6 bxc6 14. O-O Re8 15. Bxf4
+Ne4 16. Rae1 { played by 3 5 1 5 rated Caissa } ( 16. Rfe1
+{ played by 3 4 8 8 rated Seer } 16... f6 17. Qh5 Bf7 18. Qf3
+{ In an interesting battle, Caissa as Black rated 3 5 1 5 outplayed Seer, rated 3 4 8 8, had the White pieces and won as Black. Both sides showed good positional understanding.0-1 }
+) 16... f6 17. Qc7 Qxc7 18. Bxc7
+{ In an interesting battle, Neither Caissa handling the White pieces rated 3 5 1 5 nor Seer on Black with Elo 3 4 8 8 could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17 64-bit 4CPU"]
+[Black "Stormphrax 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[WhiteElo "3643"]
+[BlackElo "3580"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6
+{ entered in Kings Gambit Accepted Abbazia Defence Modern Variation } 5. d4
+{ played by 3 2 5 5 rated DanaSah } 5... Nxd5 6. Bc4
+{ played by 3 2 5 5 rated DanaSah } 6... Be7 7. O-O
+{ played by 2 8 2 8 rated Godel } 7... Be6 8. Bb3
+{ played by 3 6 0 2 rated Fat } 8... O-O 9. Nc3 { played by 3 6 0 2 rated Fat }
+9... c5 10. Nxd5 Bxd5 11. Bxf4 Nc6 12. dxc5 Bxc5+ 13. Kh1 Bxb3 14. axb3 Qxd1
+15. Rfxd1 { played by 3 6 0 2 rated Fat } 15... Rad8 16. c3 a5 17. Bc7
+{ played by 3 6 0 2 rated Fat } ( 17. g3 { played by 3 4 8 2 rated Ginkgo }
+17... f6 18. Nd2
+{ In an interesting battle, After a long struggle, Ginkgo on White with Elo 3 4 8 2 and SlowChess handling the Black pieces rated 3 5 0 8 shared the point.1/2-1/2 }
+) ( 17. h4 { played by 3 3 9 8 rated Wasp } 17... f6 18. g4
+{ The game between Wasp as White rated 3 3 9 8 and SlowChess as Black rated 3 5 0 9 finished level. Small inaccuracies made the difference.1/2-1/2 }
+) 17... Rxd1+ 18. Rxd1
+{ In this game, Fat on White with Elo 3 6 0 2 and Uralochka as Black rated 3 4 9 4 played a balanced game which ended in a draw. The outcome was decided in the later stages.1/2-1/2 }
+1/2-1/2
+
+
+

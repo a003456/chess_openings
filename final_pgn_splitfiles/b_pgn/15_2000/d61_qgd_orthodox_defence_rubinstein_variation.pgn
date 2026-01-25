@@ -1,0 +1,473 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Obsidian 15.0 64-bit 4CPU"]
+[Black "Stockfish 17.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "D61"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Rubinstein variation"]
+[WhiteElo "3625"]
+[BlackElo "3645"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 Nbd7 7. Qc2
+{ entered in Queens Gambit Declined Orthodox Defence Rubinstein Variation }
+7... h6 8. Bh4 { played by 3 6 4 0 rated Stockfish } ( 8. Bf4
+{ played by 3 6 2 6 rated Dragon } 8... c6 9. g4
+{ played by 3 6 2 6 rated Dragon } ( 9. a3
+{ played by 3 5 9 0 rated Viridithas } 9... c5 10. dxc5 Nxc5 11. Rd1 Nce4 12.
+Nxe4 Nxe4 13. cxd5 exd5 14. Bc7 Qd7 15. Bd3 Qc6 16. Nd4 Qxc2 17. Bxc2 Be6 18.
+Nxe6 fxe6 19. Bxe4 dxe4 20. Be5
+{ Here we see that Viridithas, rated 3 5 9 0, had the White pieces and Dragon on Black with Elo 3 6 2 6 played a balanced game which ended in a draw.1/2-1/2 }
+) ( 9. Rd1 { played by 3 0 4 1 rated Spike } 9... Qa5 10. cxd5 Nxd5 11. Bg3 Bb4
+12. Rc1 Qxa2 13. Bd6 Bxc3+ 14. bxc3 Qxc2 15. Rxc2 Rd8 16. c4 N5f6 17. g3 a5 18.
+Bg2 Nf8 19. Be7 Re8 20. Bd6
+{ The game between Spike from the White side with rating 3 0 4 1 and Deep from the Black side with rating 3 0 3 8 finished level. Small inaccuracies made the difference.1/2-1/2 }
+) ( 9. Bd3 { played by 2 8 5 0 rated Loop } 9... dxc4 10. Bxc4
+{ we will see this position later on0-1 } ) 9... dxc4 10. g5 hxg5 11. Bxg5 b5
+12. Rg1 Rb8 13. Ne5 Nxe5 14. dxe5 Nh7 15. Bh6 Ng5 16. Bxg5 Bxg5 17. Qe2 Bh6 18.
+Rd1 Qe7 19. Qh5 Kh7 20. Ne4
+{ In this game, Dragon playing White, rated 3 6 2 6 remained in control, handing Viridithas handling the Black pieces rated 3 5 9 0 a loss. Small inaccuracies made the difference.1-0 }
+) 8... c5 9. Be2 { played by 3 2 7 7 rated Houdini } ( 9. Bg3
+{ played by 2 9 8 0 rated Viridithas } 9... Qa5 10. Nd2 cxd4 11. exd4 Nh5 12.
+Bd3 Nxg3 13. hxg3 Nb8 14. Nb3 Qd8 15. a3 dxc4 16. Bxc4 Nd7 17. O-O Nf6 18. Rfd1
+Qc7 19. Qe2 Bd7 20. d5
+{ Here we see that The game between Viridithas handling the White pieces rated 2 9 8 0 and Fritz, rated 3 1 3 6, had the Black pieces finished level. Small inaccuracies made the difference.1/2-1/2 }
+) 9... cxd4 10. Nxd4 dxc4 11. Bxc4 Ne5 12. Be2 Bd7 13. O-O Qa5 14. Bg3 Rac8 15.
+Qb3 b6 16. a3 Rfd8 17. Rfc1 Nc6 18. Ndb5 a6 19. Nd6 Bxd6 20. Bxd6
+{ Here we see that Houdini, rated 3 2 7 7, had the White pieces outplayed Deep playing Black, rated 3 0 4 5 and won the game. The position remained tense for most of the game.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Obsidian 15.0 64-bit 4CPU"]
+[Black "Stockfish 17.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "D61"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Rubinstein variation"]
+[WhiteElo "3625"]
+[BlackElo "3645"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 Nbd7 7. Qc2
+{ entered in Queens Gambit Declined Orthodox Defence Rubinstein Variation }
+7... h6 8. Bxf6 { played by 3 5 6 5 rated RubiChess } ( 8. h4
+{ played by 3 1 2 4 rated Avalanche } 8... c5 9. cxd5
+{ played by 3 1 2 4 rated Avalanche } ( 9. dxc5
+{ played by 2 5 6 8 rated Petir } 9... dxc4 10. O-O-O Qa5 11. Bxc4 Qxc5 12. Bd3
+b6 13. Be4 Rb8 14. Bf4 e5 15. Bg3 Nxe4 16. Qxe4 f6 17. Kb1 b5 18. Qg6 Nb6 19.
+Ka1 Qb4 20. Rb1
+{ Here we see that Protej, rated 2 8 6 1, had the Black pieces defended accurately and defeated OliThink on White with Elo 2 8 5 9. The outcome was decided in the later stages.0-1 }
+) 9... exd5 10. Be2 c4 11. Bf4 a6 12. a4 Qa5 13. O-O Nb6 14. Rfb1 Bb4 15. Na2
+Be7 16. b3 cxb3 17. Qxb3 Nc4 18. Nc3 Bf5 19. Rc1 Nd6 20. Be5
+{ Here we see that Avalanche, rated 3 1 2 4, had the Black pieces defended accurately and defeated Bit-Genie handling the White pieces rated 3 0 9 9.0-1 }
+) ( 8. Bh4 { played by 3 6 4 0 rated Stockfish } 8... c5 9. dxc5
+{ played by 3 6 2 5 rated Obsidian } ( 9. O-O-O
+{ played by 3 0 3 3 rated Sting } 9... b6 10. Ne5
+{ played by 3 0 3 3 rated Sting } ( 10. cxd5
+{ played by 2 7 5 9 rated Colossus } 10... Nxd5 11. Nxd5 exd5 12. Bxe7 Qxe7 13.
+Bb5 Nf6 14. dxc5 bxc5 15. Bc6 Bb7 16. Bxb7 Qxb7 17. Nh4 g6 18. Nf3 Ne4 19. h4
+Rae8 20. h5
+{ Colossus on White with Elo 2 7 5 9 overpressed, and Protej as Black rated 2 7 5 4 secured the win. Small inaccuracies made the difference.0-1 }
+) 10... Bb7 11. Nxd7 Nxd7 12. Bxe7 Qxe7 13. cxd5 Bxd5 14. Nxd5 exd5 15. Kb1 Nf6
+16. g3 Rac8 17. Bh3 Rc7 18. Rc1 Re8 19. Bg2 Qe6 20. Rhe1
+{ Houdini, rated 3 1 2 4, had the Black pieces outplayed Sting on White with Elo 3 0 3 3 and won as Black. Small inaccuracies made the difference.0-1 }
+) 9... Nxc5 10. Rd1 { played by 3 0 0 5 rated Gull } 10... Nce4 11. Nxe4 Nxe4
+12. Bxe7 Qxe7 13. Bd3 Qb4+ 14. Nd2 Nf6 15. a3 Qa5 16. O-O Bd7 17. e4 Rac8 18.
+Rfe1 Qc7 19. exd5 exd5 20. Rc1
+{ In this game, The game between Gull handling the White pieces rated 3 0 0 5 and Vitruvius, rated 3 0 6 2, had the Black pieces finished level. The outcome was decided in the later stages.1/2-1/2 }
+) 8... Nxf6 9. cxd5 { played by 3 2 3 2 rated Drofa } 9... exd5 10. Bd3 Bd6 11.
+O-O-O Be6 12. Kb1 Rc8 13. Rc1 c5 14. dxc5 Bxc5 15. Qa4 a6 16. h3 Qd6 17. Qh4
+Bb4 18. Ne2 Ne4 19. Nfd4 Qb6 20. Bxe4
+{ In an interesting battle, Drofa from the White side with rating 3 2 3 2 outplayed Winter from the Black side with rating 3 2 2 8 and won the game. Both sides showed good positional understanding.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Obsidian 15.0 64-bit 4CPU"]
+[Black "Stockfish 17.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "D61"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Rubinstein variation"]
+[WhiteElo "3625"]
+[BlackElo "3645"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 Nbd7 7. Qc2
+{ entered in Queens Gambit Declined Orthodox Defence Rubinstein Variation }
+7... h6 8. cxd5 { played by 3 6 3 1 rated Alexandria } ( 8. Bf4
+{ played by 3 6 2 6 rated Dragon } 8... c6 9. cxd5
+{ played by 3 5 7 0 rated Clarity } 9... Nxd5 10. Bg3
+{ played by 3 1 7 6 rated Arasan } ( 10. Nxd5
+{ played by 3 5 7 0 rated Clarity } 10... exd5 11. Be2
+{ played by 3 5 7 0 rated Clarity } ( 11. Bd3 { played by 3 2 5 5 rated Laser }
+11... Qa5+ 12. Nd2 Nf6 13. a3 Nh5 14. Be5 f6 15. Bg3 Nxg3 16. hxg3 Bd6 17.
+O-O-O Bg4 18. Nf3 Qc7 19. Kb1 a5 20. Rc1
+{ In this game, Laser on White with Elo 3 2 5 5 remained in control, handing Arasan as Black rated 3 1 7 6 a loss. Small inaccuracies made the difference.1-0 }
+) 11... Bb4+ 12. Nd2 Re8 13. O-O a5 14. h3 Bf8 15. a3 Qb6 16. Bd3 c5 17. Rac1
+c4 18. Be2 Nf6 19. Be5 Qd8 20. Nb1
+{ In an interesting battle, The game between Clarity playing White, rated 3 5 7 0 and Fire, rated 3 5 5 6, had the Black pieces finished level. The outcome was decided in the later stages.1/2-1/2 }
+) 10... Qa5 11. Be2 b6 12. O-O Nxc3 13. bxc3 c5 14. Rfd1 Bb7 15. Nd2 cxd4 16.
+Nc4 Qg5 17. cxd4 Rac8 18. Rac1 Rfd8 19. h4 Qf6 20. Qb1
+{ Neither Arasan, rated 3 1 7 6, had the White pieces nor Vajolet2 as Black rated 3 1 3 1 could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+) ( 8. Bxf6 { played by 3 5 6 5 rated RubiChess } 8... Nxf6 9. c5
+{ played by 3 5 6 5 rated RubiChess } 9... c6 10. b4
+{ played by 3 5 0 4 rated Clover } ( 10. Bd3 { played by 3 2 2 8 rated Winter }
+10... Nd7 11. O-O Qc7 12. e4 dxe4 13. Bxe4 e5 14. Rae1 Re8 15. Nxe5 Nxe5 16.
+Bh7+ Kh8 17. Rxe5 Rd8 18. Rfe1 Be6 19. Bf5 Bf6 20. R5e2
+{ Here we see that RubiChess handling the White pieces rated 3 5 6 5 and Clover handling the Black pieces rated 3 5 0 4 played a balanced game which ended in a draw. The outcome was decided in the later stages.1/2-1/2 }
+) 10... Nd7 11. Be2 e5 12. b5 e4 13. Nd2 f5 14. g3 g5 15. a4 Kh8 16. O-O Nf6
+17. f3 Qe8 18. fxe4 fxe4 19. a5 a6 20. bxc6
+{ Once again, RubiChess playing Black, rated 3 5 6 5 outplayed Clover, rated 3 5 0 4, had the White pieces and won as Black. The opening quickly led to complex middlegame play.0-1 }
+) ( 8. Bh4 { played by 3 6 4 0 rated Stockfish } 8... c5 9. Rd1
+{ played by 3 5 2 5 rated Caissa } 9... cxd4 10. Nxd4
+{ played by 2 1 6 8 rated Gibbon } 10... Nb6 11. cxd5
+{ played by 2 9 9 0 rated Alfil } 11... Nfxd5 12. Bxe7 Qxe7 13. Nxd5 Nxd5 14.
+Bc4 Qb4+ 15. Rd2 Nf6 16. a3 Qa5 17. O-O Bd7 18. Qd3 b5 19. Ba2 Rac8 20. b4
+{ In this game, Alfil, rated 2 9 9 0, had the White pieces overpressed, and Pirarucu on Black with Elo 2 9 9 3 secured the win. The outcome was decided in the later stages.0-1 }
+) 8... exd5 9. Bh4 { played by 3 6 0 3 rated Obsidian } 9... c6 10. Be2
+{ played by 3 1 3 7 rated Toga } 10... Ne4 11. Bxe7 Qxe7 12. O-O Re8 13. Bd3 b6
+14. Rfb1 a5 15. Rd1 Nxc3 16. Qxc3 Bb7 17. Rac1 a4 18. h3 Qe6 19. Nh4 g6 20. Nf3
+{ In this game, Toga, rated 3 1 3 7, had the White pieces remained in control, handing Marvin on Black with Elo 3 1 6 7 a loss.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Obsidian 15.0 64-bit 4CPU"]
+[Black "Stockfish 17.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "D61"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Rubinstein variation"]
+[WhiteElo "3625"]
+[BlackElo "3645"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 Nbd7 7. Qc2
+{ entered in Queens Gambit Declined Orthodox Defence Rubinstein Variation }
+7... h6 8. Bf4 { played by 3 6 2 6 rated Dragon } ( 8. h4
+{ played by 3 1 2 4 rated Avalanche } 8... c5 9. O-O-O
+{ played by 2 5 2 4 rated AnMon } 9... cxd4 10. Nxd4 Bb4 11. g4
+{ played by 3 4 1 6 rated Patricia } ( 11. cxd5
+{ played by 3 2 8 2 rated Smallbrain } 11... Bxc3 12. Qxc3 Nxd5 13. Bxd8 Nxc3
+14. bxc3 Rxd8 15. Nb3 Kf8 16. f4 Rb8 17. e4 a6 18. e5 b5 19. Rh3 Bb7 20. Rd6
+{ Smallbrain playing White, rated 3 2 8 2 and Counter handling the Black pieces rated 3 3 0 4 played a balanced game which ended in a draw. Both sides showed good positional understanding.1/2-1/2 }
+) 11... Bxc3 12. Qxc3 e5 13. Nf5 hxg5 14. hxg5 Nxg4 15. Be2 Nxf2 16. Rh2 Qxg5
+17. Rxf2 g6 18. Rh1 Nf6 19. Qxe5 Bxf5 20. Rfh2
+{ In this game, After a long struggle, Patricia from the White side with rating 3 4 1 6 and Lambergar from the Black side with rating 3 3 7 7 shared the point. Small inaccuracies made the difference.1/2-1/2 }
+) 8... c6 9. h3 { played by 3 3 9 0 rated Houdini } ( 9. Be2
+{ played by 3 1 3 1 rated Vajolet2 } 9... dxc4 10. Bxc4 b5 11. Be2
+{ played by 3 1 3 1 rated Vajolet2 } ( 11. Bd3 { played by 2 8 5 0 rated Loop }
+11... Bb7 12. O-O b4 13. Ne4 Nxe4 14. Bxe4 Nf6 15. Nd2 Rc8 16. Rfd1 Qd7 17. Qa4
+Rfd8 18. Rdc1 Ba8 19. Rc2 c5 20. Qxd7
+{ In an interesting battle, Loop playing White, rated 2 8 5 0 and Igel playing Black, rated 2 8 6 1 played a balanced game which ended in a draw. Small inaccuracies made the difference.1/2-1/2 }
+) 11... Bb7 12. O-O Rc8 13. a3 c5 14. Bxb5 cxd4 15. exd4 Nh5 16. Bg3 Ndf6 17.
+Qd3 Bxf3 18. gxf3 Nd5 19. Ba6 Ndf4 20. Qe3
+{ In this game, Vajolet2 handling the White pieces rated 3 1 3 1 overpressed, and Arasan as Black rated 3 1 7 6 secured the win.0-1 }
+) 9... dxc4 10. Bxc4 Nb6 11. Bd3 { played by 3 3 9 0 rated Houdini } ( 11. Be2
+{ played by 3 1 7 8 rated Schooner } 11... Nbd5 12. Be5 Nxc3 13. Qxc3 Nd5 14.
+Qc2 Qa5+ 15. Nd2 c5 16. O-O f6 17. Nb3 Qa4 18. Bh2 cxd4 19. Qe4 f5 20. Qxd4
+{ In an interesting battle, Schooner handling the White pieces rated 3 1 7 8 and Houdini handling the Black pieces rated 3 3 9 0 played a balanced game which ended in a draw. Both sides showed good positional understanding.1/2-1/2 }
+) 11... Nbd5 12. Nxd5 Nxd5 13. O-O Nxf4 14. exf4 Qd6 15. Ne5 Qxd4 16. g3 Qc5
+17. Qe2 a5 18. Rad1 a4 19. a3 Bd6 20. Rfe1
+{ In this game, Houdini, rated 3 3 9 0, had the White pieces converted the advantage and defeated Schooner from the Black side with rating 3 1 7 8. The outcome was decided in the later stages.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Obsidian 15.0 64-bit 4CPU"]
+[Black "Stockfish 17.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "D61"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Rubinstein variation"]
+[WhiteElo "3625"]
+[BlackElo "3645"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 Nbd7 7. Qc2
+{ entered in Queens Gambit Declined Orthodox Defence Rubinstein Variation }
+7... h6 8. Bh4 { played by 3 6 4 0 rated Stockfish } ( 8. cxd5
+{ played by 3 6 3 1 rated Alexandria } 8... exd5 9. Bf4
+{ played by 3 6 3 1 rated Alexandria } 9... c6 10. h3 Ne4 11. Bd3 Ndf6 12. a4
+{ played by 3 5 8 0 rated Igel } 12... Bf5 13. O-O
+{ we will see this position later on1/2-1/2 } ) ( 8. Bxf6
+{ played by 3 5 6 5 rated RubiChess } 8... Nxf6 9. Be2
+{ played by 2 6 1 2 rated Bison } 9... c5 10. cxd5 exd5 11. O-O Be6 12. Rac1
+{ played by 2 6 1 2 rated Bison } 12... Rc8 13. Bd3 Bd6 14. Bf5 Qd7 15. Bxe6
+fxe6 16. Qe2 a6 17. a4 Qf7 18. dxc5 Rxc5 19. e4 Nh5 20. Qe3
+{ In an interesting battle, Chronos, rated 2 6 3 5, had the Black pieces outplayed Bison as White rated 2 6 1 2 and won as Black.0-1 }
+) 8... c5 9. dxc5 { played by 3 6 2 5 rated Obsidian } ( 9. cxd5
+{ played by 3 6 0 1 rated RubiChess } 9... cxd4 10. Nxd4 Nxd5 11. Bxe7 Nxe7 12.
+Bd3 { played by 3 0 9 1 rated Protector } 12... a6 13. O-O b5 14. Bh7+ Kh8 15.
+Be4 Ra7 16. Rfd1 Qb6 17. Qb3 Rc7 18. Qb4 Qc5 19. Nc2 Nb6 20. Qxc5
+{ In this game, Neither Protector from the White side with rating 3 0 9 1 nor Komodo handling the Black pieces rated 3 2 6 3 could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+) ( 9. Rd1 { played by 3 5 2 5 rated Caissa } 9... cxd4 10. Rxd4
+{ played by 3 5 2 5 rated Caissa } ( 10. Nxd4
+{ played by 2 1 6 8 rated Gibbon } 10... Nb6 11. Be2
+{ played by 2 9 9 3 rated Pirarucu } 11... Bd7 12. cxd5
+{ played by 2 7 5 8 rated NirvanaChess } 12... Nbxd5 13. Nxd5 Nxd5 14. Bxe7
+Qxe7 15. O-O Rac8 16. Qb3 Rc7 17. Nb5 Bxb5 18. Bxb5 Qb4 19. Qxb4 Nxb4 20. a3
+{ In an interesting battle, NirvanaChess from the Black side with rating 2 7 5 8 outplayed Minic as White rated 2 6 5 1 and won as Black. Both sides showed good positional understanding.0-1 }
+) 10... Nb6 11. Be2 Bd7 12. Ne5 { played by 2 6 3 9 rated Cyrano } 12... Rc8
+13. O-O { we will see this position later on1/2-1/2 } ) 9... Nxc5 10. O-O-O
+{ played by 2 7 5 1 rated Crafty } 10... Bd7 11. Ne5 Rc8 12. f4
+{ played by 2 7 5 1 rated Crafty } 12... Be8 13. Rd4 Nfe4 14. cxd5 Bxh4 15.
+dxe6 Nd6 16. Nc4 Rc6 17. Nb5 Nxb5 18. Rxd8 Bxd8 19. Kb1 Nxe6 20. f5
+{ Once again, Chess handling the Black pieces rated 2 7 0 3 defended accurately and defeated Crafty handling the White pieces rated 2 7 5 1. The position remained tense for most of the game.0-1 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Obsidian 15.0 64-bit 4CPU"]
+[Black "Stockfish 17.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "D61"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Rubinstein variation"]
+[WhiteElo "3625"]
+[BlackElo "3645"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 Nbd7 7. Qc2
+{ entered in Queens Gambit Declined Orthodox Defence Rubinstein Variation }
+7... h6 8. Bh4 { played by 3 6 4 0 rated Stockfish } ( 8. cxd5
+{ played by 3 6 3 1 rated Alexandria } 8... exd5 9. Bf4
+{ played by 3 6 3 1 rated Alexandria } 9... c6 10. h3 Ne4 11. Bd3 Ndf6 12. O-O
+{ played by 3 6 1 5 rated Dragon } 12... Bf5 13. a4
+{ played by 3 6 1 5 rated Dragon } ( 13. Ne5 { played by 3 5 8 2 rated Lizard }
+13... Bh7 14. f3 Ng5 15. Rad1 Bxd3 16. Nxd3 Re8 17. Qf2 Ne6 18. Bh2 Qb6 19. Kh1
+Rad8 20. Be5
+{ In an interesting battle, Neither Lizard handling the White pieces rated 3 5 8 2 nor Arasan on Black with Elo 3 5 4 7 could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 13... Bd6 14. Bxd6 Qxd6 15. Ne5 Bh7 16. a5 Rac8 17. Rfc1 a6 18. Na4 Qe7 19.
+Nb6 Rc7 20. b4
+{ In this game, The game between Igel from the White side with rating 3 5 8 0 and Alexandria, rated 3 6 3 1, had the Black pieces finished level. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 8... c5 9. dxc5 { played by 3 6 2 5 rated Obsidian } ( 9. Rd1
+{ played by 3 5 2 5 rated Caissa } 9... cxd4 10. Rxd4
+{ played by 3 5 2 5 rated Caissa } ( 10. Nxd4
+{ played by 2 1 6 8 rated Gibbon } 10... Nb6 11. Be2
+{ played by 2 9 9 3 rated Pirarucu } 11... Bd7 12. Bxf6
+{ played by 2 9 9 3 rated Pirarucu } 12... Bxf6 13. c5
+{ played by 2 6 6 4 rated Igel } 13... Nc8 14. O-O Ne7 15. e4 Bxd4 16. Rxd4 e5
+17. Rdd1 d4 18. Nb5 Ng6 19. g3 Bh3 20. Rfe1
+{ After a long struggle, Igel playing White, rated 2 6 6 4 and Phalanx playing Black, rated 2 6 1 0 shared the point. Small inaccuracies made the difference.1/2-1/2 }
+) 10... Nb6 11. Be2 Bd7 12. O-O { played by 3 5 8 1 rated SugaR } 12... Rc8 13.
+Rfd1 { played by 3 5 2 5 rated Caissa } ( 13. Ne5
+{ played by 2 8 6 8 rated Zappa } 13... Be8 14. Rfd1 Qc7 15. Bg3 Bd6 16. Ng4
+Nxg4 17. Bxd6 Qxd6 18. Rxg4 Qe5 19. cxd5 Nxd5 20. Re4
+{ The game between Zappa from the White side with rating 2 8 6 8 and Rybka as Black rated 3 0 4 7 finished level.1/2-1/2 }
+) 13... Bc5 14. e4 Bxd4 15. Rxd4 Nxc4 16. e5 Nxe5 17. Nxe5 g5 18. Bg3 Be8 19.
+Qd2 Nh7 20. h4
+{ In this game, Caissa playing White, rated 3 5 2 5 converted the advantage and defeated Seer from the Black side with rating 3 5 3 4. The position remained tense for most of the game.1-0 }
+) 9... Nxc5 10. cxd5 { played by 3 6 2 5 rated Obsidian } 10... Nxd5 11. Bxe7
+Qxe7 12. Nxd5 exd5 13. Rc1 { played by 2 8 3 9 rated Deep } 13... Ne4 14. Qa4
+Bd7 15. Bb5 Bg4 16. Be2 Rac8 17. Rxc8 Rxc8 18. O-O a6 19. Re1 Qc5 20. Bd3
+{ Here we see that After a long struggle, Deep as White rated 2 8 3 9 and Ktulu playing Black, rated 2 7 5 8 shared the point. The outcome was decided in the later stages.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Obsidian 15.0 64-bit 4CPU"]
+[Black "Stockfish 17.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "D61"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Rubinstein variation"]
+[WhiteElo "3625"]
+[BlackElo "3645"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 Nbd7 7. Qc2
+{ entered in Queens Gambit Declined Orthodox Defence Rubinstein Variation }
+7... h6 8. Bxf6 { played by 3 5 6 5 rated RubiChess } ( 8. Bh4
+{ played by 3 6 4 0 rated Stockfish } 8... c5 9. dxc5
+{ played by 3 6 2 5 rated Obsidian } ( 9. cxd5
+{ played by 3 6 0 1 rated RubiChess } 9... cxd4 10. Nxd4 Nxd5 11. Bxe7 Nxe7 12.
+Be2 { played by 3 6 0 1 rated RubiChess } 12... Nf6 13. O-O
+{ played by 3 5 6 3 rated RubiChess } 13... Bd7 14. Rac1
+{ we will see this position later on1/2-1/2 } ( 14. Qb3
+{ played by 3 5 0 7 rated RubiChess } 14... Qa5 15. Rfd1 Rab8 16. a4 Nf5 17.
+Qa3 Nxd4 18. Rxd4 Rbc8 19. Rad1 Rc7 20. h3
+{ In this game, After a long struggle, Viridithas as White rated 3 4 6 1 and Caissa handling the Black pieces rated 3 5 1 2 shared the point. The opening quickly led to complex middlegame play.1/2-1/2 }
+) ) 9... Nxc5 10. O-O-O { played by 2 7 5 1 rated Crafty } 10... Bd7 11. Ne5
+Rc8 12. b4 { played by 2 6 2 5 rated RedQueen } 12... Na6 13. a3 Nb8 14. Bg3
+{ played by 2 6 2 5 rated RedQueen } ( 14. e4
+{ played by 2 5 9 4 rated Seawall } 14... Nxe4 15. Bxe7 Qxe7 16. Nxe4 dxe4 17.
+Qxe4 Bc6 18. Nxc6 Nxc6 19. Kc2 Qf6 20. Bd3
+{ Here we see that Bobcat as Black rated 2 6 7 8 outplayed Seawall, rated 2 5 9 4, had the White pieces and won as Black. The opening quickly led to complex middlegame play.0-1 }
+) 14... a5 15. Qb3 axb4 16. axb4 Nc6 17. Nxc6 Bxc6 18. c5 Ra8 19. f3 Nd7 20.
+Bb5
+{ Once again, RedQueen from the White side with rating 2 6 2 5 overpressed, and Delfi, rated 2 6 9 5, had the Black pieces secured the win. The opening quickly led to complex middlegame play.0-1 }
+) 8... Nxf6 9. Be2 { played by 2 6 1 2 rated Bison } 9... c5 10. cxd5 exd5 11.
+O-O Be6 12. dxc5 { played by 2 6 1 2 rated Bison } 12... Bxc5 13. Rfd1
+{ played by 2 6 1 2 rated Bison } ( 13. Rac1 { played by 2 3 5 5 rated Comet }
+13... Rc8 14. Rfd1 Bd6 15. Qb1 a6 16. Nd4 Be5 17. Qd3 Qa5 18. Rc2 Rfe8 19. Rdc1
+Rc7 20. a3
+{ Here we see that Comet handling the White pieces rated 2 3 5 5 overpressed, and Brutus as Black rated 2 4 9 7 secured the win. Small inaccuracies made the difference.0-1 }
+) 13... Rc8 14. Nd4 Bd6 15. Qb3 Qd7 16. Bf3 Rc5 17. g3 Be5 18. Rd3 b6 19. Rad1
+g5 20. Qa3
+{ In an interesting battle, The game between Bison from the White side with rating 2 6 1 2 and Ruffian as Black rated 2 6 1 2 finished level. Small inaccuracies made the difference.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Obsidian 15.0 64-bit 4CPU"]
+[Black "Stockfish 17.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "D61"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Rubinstein variation"]
+[WhiteElo "3625"]
+[BlackElo "3645"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 Nbd7 7. Qc2
+{ entered in Queens Gambit Declined Orthodox Defence Rubinstein Variation }
+7... h6 8. cxd5 { played by 3 6 3 1 rated Alexandria } ( 8. Bh4
+{ played by 3 6 4 0 rated Stockfish } 8... c5 9. dxc5
+{ played by 3 6 2 5 rated Obsidian } ( 9. cxd5
+{ played by 3 6 0 1 rated RubiChess } 9... cxd4 10. Nxd4 Nxd5 11. Bxe7 Nxe7 12.
+Be2 { played by 3 6 0 1 rated RubiChess } 12... Nf6 13. O-O
+{ played by 3 5 6 3 rated RubiChess } 13... Bd7 14. Rfd1
+{ played by 3 4 7 4 rated Turbulence } 14... Qb6 15. Qb3
+{ played by 3 4 7 4 rated Turbulence } ( 15. Rac1
+{ played by 3 0 8 2 rated Ethereal } 15... Rac8 16. Qb3 Qxb3 17. Nxb3 Rc7 18.
+Ne4 Rxc1 19. Nxf6+ gxf6 20. Rxc1
+{ The game between Ethereal, rated 3 0 8 2, had the White pieces and Andscacs as Black rated 3 2 1 4 finished level. The position remained tense for most of the game.1/2-1/2 }
+) ( 15. a4 { played by 2 2 9 0 rated Amundsen } 15... Rac8 16. Bf3 Rfd8 17. Kh1
+e5 18. Ndb5 Bf5 19. e4 Be6 20. Rxd8+
+{ Once again, Neither Amundsen on White with Elo 2 2 9 0 nor LittleThought handling the Black pieces rated 2 4 4 5 could convert, and the game was drawn. Both sides showed good positional understanding.1/2-1/2 }
+) 15... Qxb3 16. Nxb3 Rfc8 17. Rac1 Kf8 18. f3 g5 19. Kf2 Ng6 20. e4
+{ Turbulence playing White, rated 3 4 7 4 and Zangdar on Black with Elo 3 4 9 3 played a balanced game which ended in a draw. The position remained tense for most of the game.1/2-1/2 }
+) 9... Nxc5 10. cxd5 { played by 3 6 2 5 rated Obsidian } 10... Nxd5 11. Bxe7
+Qxe7 12. Nxd5 exd5 13. Be2 { played by 3 6 2 5 rated Obsidian } 13... Be6 14.
+O-O Rfc8 15. Qc3 { played by 3 6 2 0 rated Stockfish } ( 15. Rac1
+{ played by 2 5 8 7 rated Sloppy } 15... Qd8 16. Nd4 Bd7 17. b4 Ne4 18. Qb2 Qf6
+19. Bd3 a6 20. Rfe1
+{ In this game, Sloppy, rated 2 5 8 7, had the White pieces remained in control, handing Aristarch playing Black, rated 2 5 7 5 a loss. The opening quickly led to complex middlegame play.1-0 }
+) 15... Ne4 16. Qe5 Rc5 17. Bd3 Rac8 18. Bxe4 dxe4 19. Qxe4 Qf6 20. Nd4
+{ Once again, The game between Stockfish from the White side with rating 3 6 2 0 and Lizard handling the Black pieces rated 3 5 5 0 finished level. The position remained tense for most of the game.1/2-1/2 }
+) 8... exd5 9. Bf4 { played by 3 6 3 1 rated Alexandria } 9... c6 10. h3 Ne4
+11. Bd3 Ndf6 12. Ne5 { played by 3 6 0 6 rated Reckless } 12... Nxc3 13. bxc3
+c5 14. Qb2 { played by 3 6 0 6 rated Reckless } ( 14. a4
+{ played by 3 5 3 3 rated SugaR } 14... c4 15. Be2 Be6 16. O-O Qc8 17. Bd1 Bf5
+18. Qb2 Re8 19. Ng4 Nxg4 20. Bxg4
+{ SugaR, rated 3 5 3 3, had the White pieces remained in control, handing rofChade handling the Black pieces rated 3 3 3 1 a loss. Both sides showed good positional understanding.1-0 }
+) 14... Qb6 15. Qc1 Bd6 16. O-O Re8 17. a4 Qc7 18. Qd2 Ne4 19. Qe1 Nf6 20. Bh2
+{ Neither Reckless handling the White pieces rated 3 6 0 6 nor Obsidian as Black rated 3 6 0 3 could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Obsidian 15.0 64-bit 4CPU"]
+[Black "Stockfish 17.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "D61"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Rubinstein variation"]
+[WhiteElo "3625"]
+[BlackElo "3645"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 Nbd7 7. Qc2
+{ entered in Queens Gambit Declined Orthodox Defence Rubinstein Variation }
+7... h6 8. Bh4 { played by 3 6 4 0 rated Stockfish } ( 8. cxd5
+{ played by 3 6 3 1 rated Alexandria } 8... exd5 9. Bh4
+{ played by 3 6 0 3 rated Obsidian } 9... c6 10. Bd3
+{ played by 3 6 0 3 rated Obsidian } 10... Re8 11. O-O Ne4 12. Bxe4 Bxh4 13.
+Bh7+ Kh8 14. Nxh4 Qxh4 15. Bd3 Qe7 16. Rab1
+{ played by 3 6 0 3 rated Obsidian } ( 16. a3
+{ played by 3 5 4 7 rated Arasan } 16... Nf6 17. b4 h5 18. h3 Bd7 19. a4 a6 20.
+Qb2
+{ Here we see that The game between Arasan, rated 3 5 4 7, had the White pieces and Lizard on Black with Elo 3 5 8 2 finished level. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 16... Nf6 17. Rfe1 Bd7 18. b4 g6 19. f3 Kg7 20. e4
+{ In this game, Neither Obsidian as White rated 3 6 0 3 nor Reckless on Black with Elo 3 6 0 6 could convert, and the game was drawn. Small inaccuracies made the difference.1/2-1/2 }
+) 8... c5 9. dxc5 { played by 3 6 2 5 rated Obsidian } ( 9. Rd1
+{ played by 3 5 2 5 rated Caissa } 9... cxd4 10. Nxd4
+{ played by 2 1 6 8 rated Gibbon } 10... Nb6 11. Be2
+{ played by 2 9 9 3 rated Pirarucu } 11... Bd7 12. Bxf6
+{ played by 2 9 9 3 rated Pirarucu } 12... Bxf6 13. cxd5
+{ played by 2 9 9 3 rated Pirarucu } 13... Nxd5 14. Nxd5 exd5 15. O-O Qb6 16.
+Bf3 { played by 2 9 9 3 rated Pirarucu } ( 16. Rd3
+{ played by 2 6 1 0 rated Phalanx } 16... Rac8 17. Qd2 Qd6 18. Rb3 b6 19. Nb5
+Bxb5 20. Bxb5
+{ Once again, The game between Phalanx from the White side with rating 2 6 1 0 and Igel from the Black side with rating 2 6 6 4 finished level.1/2-1/2 }
+) 16... Rac8 17. Qb1 Be5 18. h3 Qd6 19. Rd2 Be6 20. Rfd1
+{ Once again, After a long struggle, Pirarucu as White rated 2 9 9 3 and Alfil, rated 2 9 9 0, had the Black pieces shared the point. The outcome was decided in the later stages.1/2-1/2 }
+) 9... Nxc5 10. cxd5 { played by 3 6 2 5 rated Obsidian } 10... Nxd5 11. Bxe7
+Qxe7 12. Nxd5 exd5 13. Be2 { played by 3 6 2 5 rated Obsidian } 13... Be6 14.
+O-O Rfc8 15. Nd4 { played by 3 6 2 5 rated Obsidian } 15... Ne4 16. Qa4
+{ played by 3 4 8 7 rated Rebel } ( 16. Qd3
+{ played by 3 6 2 5 rated Obsidian } 16... b6 17. Rac1 Qf6 18. Rc2
+{ played by 3 5 6 7 rated Integral } 18... g6 19. Bd1 Bf5 20. Nxf5
+{ In an interesting battle, After a long struggle, Integral handling the White pieces rated 3 5 6 7 and Elixir handling the Black pieces rated 3 4 9 7 shared the point. The outcome was decided in the later stages.1/2-1/2 }
+) 16... b6 17. Rac1 a5 18. Bd3 Bd7 19. Bb5 Nc5 20. Qd1
+{ In this game, Neither Rebel playing White, rated 3 4 8 7 nor RubiChess as Black rated 3 5 0 7 could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Obsidian 15.0 64-bit 4CPU"]
+[Black "Stockfish 17.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "D61"]
+[Opening "QGD"]
+[Variation "Orthodox defence, Rubinstein variation"]
+[WhiteElo "3625"]
+[BlackElo "3645"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 Nbd7 7. Qc2
+{ entered in Queens Gambit Declined Orthodox Defence Rubinstein Variation }
+7... h6 8. Bh4 { played by 3 6 4 0 rated Stockfish } 8... c5 9. cxd5
+{ played by 3 6 0 1 rated RubiChess } ( 9. dxc5
+{ played by 3 6 2 5 rated Obsidian } 9... Nxc5 10. cxd5
+{ played by 3 6 2 5 rated Obsidian } 10... Nxd5 11. Bxe7 Qxe7 12. Nxd5 exd5 13.
+Be2 { played by 3 6 2 5 rated Obsidian } 13... Be6 14. O-O Rfc8 15. Nd4
+{ played by 3 6 2 5 rated Obsidian } 15... Ne4 16. Qd3
+{ played by 3 6 2 5 rated Obsidian } 16... b6 17. Rac1 Qf6 18. Rxc8+
+{ played by 3 6 2 5 rated Obsidian } 18... Rxc8 19. Qd1
+{ played by 3 6 2 5 rated Obsidian } ( 19. a3
+{ played by 3 4 9 3 rated Zangdar } 19... Rc5 20. Qd1
+{ Here we see that Neither Zangdar as White rated 3 4 9 3 nor Turbulence on Black with Elo 3 4 7 4 could convert, and the game was drawn. Both sides showed good positional understanding.1/2-1/2 }
+) 19... Bd7 20. Bd3
+{ Here we see that Neither Obsidian playing White, rated 3 6 2 5 nor Stockfish on Black with Elo 3 6 4 5 could convert, and the game was drawn. Small inaccuracies made the difference.1/2-1/2 }
+) 9... cxd4 10. Nxd4 Nxd5 11. Bxe7 Nxe7 12. Be2
+{ played by 3 6 0 1 rated RubiChess } 12... Nf6 13. Rc1
+{ played by 3 6 0 1 rated RubiChess } 13... Bd7 14. O-O Rc8 15. Qb3 Qa5 16. a3
+Rc7 17. Ndb5 Rc6 18. Nd4 { played by 3 5 6 3 rated RubiChess } ( 18. Qa2
+{ RubiChess, rated 3 5 6 3, had the White pieces and Torch handling the Black pieces rated 3 6 0 7 played a balanced game which ended in a draw. The outcome was decided in the later stages.1/2-1/2 }
+) 18... Rc7 { we will see this position later on1/2-1/2 } 1/2-1/2
+
+
+

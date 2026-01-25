@@ -1,0 +1,275 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Obsidian 16.0 64-bit 4CPU"]
+[Black "Heimdall 1.4.0 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "E70"]
+[Opening "King's Indian"]
+[Variation "accelerated Averbakh system"]
+[WhiteElo "3634"]
+[BlackElo "3550"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Bg5
+{ entered in KING S Indian Accelerated Averbakh System } 5... h6 6. Bd2
+{ played by 3 5 2 1 rated Igel } ( 6. Bc1 { played by 3 1 1 2 rated Rybka }
+6... O-O 7. Nf3 e5 8. d5 Nbd7 9. Bd3 c6 10. O-O cxd5 11. cxd5 Nc5 12. Bc2 a5
+13. Be3 b6 14. a3 Ng4 15. Bd2 Ba6 16. Re1 Bd3 17. h3 Nf6 18. Bxd3
+{ Once again, Neither Rybka handling the White pieces rated 3 1 1 2 nor Stash on Black with Elo 3 1 3 0 could convert, and the game was drawn. Small inaccuracies made the difference.1/2-1/2 }
+) ( 6. Be3 { played by 3 6 1 9 rated ShashChess } 6... Ng4 7. Bf4
+{ played by 2 3 5 0 rated RomiChess } 7... e5 8. dxe5 Nxe5 9. c5 O-O 10. cxd6
+cxd6 11. Be2 Nbc6 12. Qd2 g5 13. Be3 f5 14. Qd5+ Nf7 15. Nf3 fxe4 16. Qxe4 Re8
+17. Qa4 Bd7 18. Qb3
+{ Once again, Neither RomiChess as White rated 2 3 5 0 nor Twisted from the Black side with rating 2 4 7 6 could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
+) ( 6. Bf4 { played by 3 6 0 9 rated Torch } 6... Nc6 7. Be2
+{ played by 2 2 0 8 rated Esc } 7... O-O 8. Nf3 Bg4 9. d5 Bxf3 10. Bxf3 Ne5 11.
+Be2 c6 12. Bxe5 dxe5 13. dxc6 bxc6 14. Qc2 Qb6 15. O-O Rad8 16. Rfd1 Rd4 17.
+Bd3 Rb8 18. Na4
+{ After a long struggle, Esc handling the White pieces rated 2 2 0 8 and KnightX playing Black, rated 2 3 1 7 shared the point. Small inaccuracies made the difference.1/2-1/2 }
+) ( 6. Bh4 { played by 3 6 3 4 rated Obsidian } 6... c5 7. dxc5
+{ played by 3 1 4 2 rated Strelka } 7... Qa5 8. f3
+{ played by 3 1 4 2 rated Strelka } ( 8. Bd3
+{ played by 3 0 6 3 rated Pirarucu } 8... g5 9. Bg3 Qxc5 10. h4 Be6 11. Rc1
+Nbd7 12. hxg5 hxg5 13. Rxh8+ Bxh8 14. Kf1 Rc8 15. b3 Ne5 16. Be2 g4 17. Qd2 Nh5
+18. Bh2
+{ After a long struggle, chess22k handling the White pieces rated 3 0 4 1 and Strelka on Black with Elo 3 1 4 2 shared the point. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 8... dxc5 9. Bd3 O-O 10. Ne2 g5 11. Bf2 Rd8 12. O-O Nc6 13. Qb1 Ne5 14. Rd1
+e6 15. Qc2 Qc7 16. Ng3 b6 17. Nb5 Qe7 18. Bf1
+{ Neither Strelka from the White side with rating 3 1 4 2 nor Pirarucu handling the Black pieces rated 3 0 6 3 could convert, and the game was drawn. Both sides showed good positional understanding.1/2-1/2 }
+) 6... O-O 7. Bd3 c5 8. d5 e6 9. h3 exd5 10. exd5 Nbd7 11. Nf3 Re8+ 12. Be3 Nh5
+13. O-O Ne5 14. Re1 Nxd3 15. Qxd3 Bd7 16. Rac1 Qf6 17. Ne4 Qe7 18. Nc3
+{ Here we see that The game between Igel on White with Elo 3 5 2 1 and Lizard as Black rated 3 5 5 9 finished level. Both sides showed good positional understanding.1/2-1/2 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Obsidian 16.0 64-bit 4CPU"]
+[Black "Heimdall 1.4.0 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "E70"]
+[Opening "King's Indian"]
+[Variation "accelerated Averbakh system"]
+[WhiteElo "3634"]
+[BlackElo "3550"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Bg5
+{ entered in KING S Indian Accelerated Averbakh System } 5... h6 6. Be3
+{ played by 3 6 1 9 rated ShashChess } ( 6. Bh4
+{ played by 3 6 3 4 rated Obsidian } 6... c5 7. d5
+{ played by 3 6 3 4 rated Obsidian } 7... O-O 8. Bd3 e6 9. dxe6
+{ played by 3 6 3 4 rated Obsidian } ( 9. h3 { played by 3 2 5 3 rated Fire }
+9... exd5 10. cxd5 Nbd7 11. Nge2 Ne5 12. Bc2 g5 13. Bg3 Nh5 14. Bh2 b5 15. Nxb5
+Rb8 16. a4 a6 17. Na7 Qa5+ 18. Qd2
+{ In an interesting battle, The game between Fire playing White, rated 3 2 5 3 and Fire from the Black side with rating 3 3 1 1 finished level. Small inaccuracies made the difference.1/2-1/2 }
+) ( 9. f4 { played by 2 9 1 3 rated EXchess } 9... exd5 10. cxd5 Re8 11. Nge2
+Qb6 12. Qb3 Bd7 13. Qxb6 axb6 14. a3 Na6 15. Bxf6 Bxf6 16. Kd2 Bg7 17. Rhe1 Nc7
+18. a4
+{ Here we see that EXchess playing White, rated 2 9 1 3 remained in control, handing Ethereal handling the Black pieces rated 2 9 9 5 a loss. Small inaccuracies made the difference.1-0 }
+) 9... Bxe6 10. f4 Nc6 11. Nf3 Qb6 12. Qd2 Qb4 13. a3 Qb3 14. Qc1 Nd4 15. Nd2
+Qb6 16. O-O Nd7 17. Kh1 f5 18. exf5
+{ Here we see that Obsidian, rated 3 6 3 4, had the White pieces remained in control, handing Heimdall playing Black, rated 3 5 5 0 a loss. The outcome was decided in the later stages.1-0 }
+) 6... Ng4 7. Bc1 { played by 3 6 1 9 rated ShashChess } 7... e5 8. Nf3
+{ played by 2 4 7 6 rated Twisted } ( 8. d5
+{ played by 3 6 1 9 rated ShashChess } 8... f5 9. f3
+{ played by 3 5 9 1 rated PlentyChess } ( 9. h3
+{ played by 3 2 6 4 rated Weiss } 9... Nf6 10. exf5 gxf5
+{ we will see this position later on1-0 } ) ( 9. Be2
+{ played by 3 2 5 3 rated Stockfish } 9... Na6 10. Bxg4 fxg4 11. Nge2 b6 12.
+O-O O-O 13. Be3 Nb8 14. Qd2 Kh7 15. b4 Nd7 16. a3 Qe7 17. Ng3 Nf6 18. Rfc1
+{ In this game, Neither Stockfish playing White, rated 3 2 5 3 nor RobboLito on Black with Elo 3 1 4 7 could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+) ( 9. Bd3 { played by 3 2 0 7 rated Stockfish } 9... f4 10. Nf3 O-O 11. O-O a5
+12. Bd2 Nf6 13. a3 Bg4 14. h3 Bh5 15. Qe2 Na6 16. Bc2 c6 17. g4 fxg3 18. fxg3
+{ Stockfish as White rated 3 2 0 7 remained in control, handing Gull from the Black side with rating 3 1 3 0 a loss. The opening quickly led to complex middlegame play.1-0 }
+) 9... Nf6 10. exf5 gxf5 { we will see this position later on1/2-1/2 } ) 8...
+exd4 9. Nxd4 Qh4 10. g3 Qf6 11. Nf3 Qe7 12. Bd2 Na6 13. Qc2 Nf6 14. O-O-O Bg4
+15. Bg2 O-O 16. a3 Rfe8 17. Rde1 Bd7 18. Re2
+{ Once again, RomiChess as Black rated 2 3 5 0 could not hold the position, allowing Twisted, rated 2 4 7 6, had the White pieces to win. The position remained tense for most of the game.1-0 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Obsidian 16.0 64-bit 4CPU"]
+[Black "Heimdall 1.4.0 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "E70"]
+[Opening "King's Indian"]
+[Variation "accelerated Averbakh system"]
+[WhiteElo "3634"]
+[BlackElo "3550"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Bg5
+{ entered in KING S Indian Accelerated Averbakh System } 5... h6 6. Bh4
+{ played by 3 6 3 4 rated Obsidian } ( 6. Be3
+{ played by 3 6 1 9 rated ShashChess } 6... Ng4 7. Bc1
+{ played by 3 6 1 9 rated ShashChess } 7... e5 8. d5
+{ played by 3 6 1 9 rated ShashChess } 8... f5 9. Nf3
+{ played by 2 6 2 5 rated CM9000 } ( 9. exf5
+{ played by 3 6 1 9 rated ShashChess } 9... gxf5 10. f3
+{ played by 3 6 1 9 rated ShashChess } ( 10. h3
+{ played by 3 1 9 1 rated Schneckbert } 10... Nf6 11. Bd3
+{ played by 3 2 6 4 rated Weiss } ( 11. Nf3 { played by 3 1 0 7 rated Critter }
+11... Na6 12. g3 O-O 13. Bg2 f4 14. gxf4 exf4 15. Rg1 Qe8+ 16. Kf1 Nc5 17. Ne2
+Qe4 18. Qd4
+{ Here we see that Critter, rated 3 1 0 7, had the Black pieces defended accurately and defeated Deep playing White, rated 2 9 2 9. The outcome was decided in the later stages.0-1 }
+) ( 11. g3 { played by 2 6 6 1 rated K2 } 11... Na6 12. Nge2 Bd7 13. Bg2 Qe7
+14. O-O O-O-O 15. Nb5 h5 16. Be3 Bh6 17. Bxh6 Rxh6 18. Qb3
+{ Once again, Booot playing Black, rated 2 8 6 0 seized the initiative and handed K2, rated 2 6 6 1, had the White pieces a loss. Both sides showed good positional understanding.0-1 }
+) 11... O-O 12. Bc2 Qe8 13. Nf3 Qh5 14. O-O Ne8 15. Re1 b6 16. a3 Nd7 17. Ne2
+f4 18. b4
+{ In an interesting battle, Mr on Black with Elo 3 2 2 4 could not hold the position, allowing Weiss handling the White pieces rated 3 2 6 4 to win. The outcome was decided in the later stages.1-0 }
+) 10... Nf6 11. Be3 { played by 2 8 6 0 rated Booot } 11... Qe7 12. Qa4+ Bd7
+13. Qb3 b6 14. Nb5 Na6 15. O-O-O O-O 16. Qa3 Bc8 17. Bf2 Bb7 18. Ne2
+{ Once again, Booot handling the White pieces rated 2 8 6 0 outplayed K2 handling the Black pieces rated 2 6 6 1 and won the game. Both sides showed good positional understanding.1-0 }
+) 9... O-O 10. h3 { played by 2 8 6 5 rated Clovis } ( 10. Bd3
+{ played by 2 6 2 5 rated CM9000 } 10... Nd7 11. O-O Nc5 12. Bc2 a5 13. h3 Nf6
+14. exf5 Bxf5 15. Be3 Nfd7 16. Nd2 a4 17. Nde4 Nxe4 18. Nxe4
+{ K2 from the Black side with rating 2 6 6 1 seized the initiative and handed CM9000 on White with Elo 2 6 2 5 a loss.0-1 }
+) 10... Nf6 11. exf5 gxf5 12. Be2 { we will see this position later on0-1 } )
+6... c5 7. d5 { played by 3 6 3 4 rated Obsidian } 7... O-O 8. Bd3 e6 9. Nge2
+{ played by 3 5 5 0 rated Heimdall } 9... exd5 10. Nxd5
+{ played by 3 5 2 9 rated Stormphrax } ( 10. exd5
+{ played by 3 5 5 0 rated Heimdall } 10... Nbd7 11. Bc2
+{ played by 3 2 2 4 rated NirvanaChess } 11... Ne5 12. b3 g5 13. Bg3 Ng6 14.
+O-O Nh5 15. Bxg6 fxg6 16. Rc1 b6 17. Ne4 Nxg3 18. N2xg3
+{ Here we see that The game between NirvanaChess from the White side with rating 3 2 2 4 and Xiphos handling the Black pieces rated 3 1 3 8 finished level. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 10... g5 11. Bg3 Nxd5 12. cxd5 Bxb2 13. h4 Re8 14. Rb1 Bg7 15. hxg5 hxg5 16.
+Qd2 Na6 17. f3 f5 18. Bf2
+{ Fire, rated 3 5 2 2, had the Black pieces defended accurately and defeated Stormphrax on White with Elo 3 5 2 9. Both sides showed good positional understanding.0-1 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Obsidian 16.0 64-bit 4CPU"]
+[Black "Heimdall 1.4.0 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "E70"]
+[Opening "King's Indian"]
+[Variation "accelerated Averbakh system"]
+[WhiteElo "3634"]
+[BlackElo "3550"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Bg5
+{ entered in KING S Indian Accelerated Averbakh System } 5... h6 6. Be3
+{ played by 3 6 1 9 rated ShashChess } ( 6. Bf4
+{ played by 3 6 0 9 rated Torch } 6... Nc6 7. d5
+{ played by 3 6 0 9 rated Torch } 7... e5 8. Be3 Nd4 9. Nge2
+{ played by 3 6 0 9 rated Torch } ( 9. f3 { played by 2 4 7 7 rated Philou }
+9... c5 10. Qd2 Bd7 11. Nb5 Qb8 12. Bd3 a6 13. Nc3
+{ played by 2 4 7 7 rated Philou } ( 13. Na3 { played by 2 4 1 4 rated Taltos }
+13... h5 14. Ne2 h4 15. Kf2 Qc7 16. b4 h3 17. g3 b6 18. Nc2
+{ Philou handling the Black pieces rated 2 4 7 7 could not hold the position, allowing Taltos from the White side with rating 2 4 1 4 to win. The position remained tense for most of the game.1-0 }
+) 13... b5 14. Nge2 b4 15. Nd1 h5 16. O-O h4 17. Nf2 h3 18. Nxh3
+{ In an interesting battle, Taltos playing Black, rated 2 4 1 4 defended accurately and defeated Philou handling the White pieces rated 2 4 7 7.0-1 }
+) 9... Ng4 10. Bxd4 exd4 11. Nxd4 c5 12. Nf3 Ne5 13. Be2
+{ played by 3 6 0 9 rated Torch } ( 13. Nxe5
+{ played by 3 5 5 2 rated Halogen } 13... Bxe5 14. Bd3 g5 15. Rb1 Qf6 16. Qd2
+g4 17. O-O a5 18. Kh1
+{ Torch as Black rated 3 6 0 9 outplayed Halogen handling the White pieces rated 3 5 5 2 and won as Black. Small inaccuracies made the difference.0-1 }
+) 13... Nxf3+ 14. Bxf3 Be5 15. Qd2 Bd7 16. a4 Qe7 17. Ra3 g5 18. a5
+{ In this game, Torch handling the White pieces rated 3 6 0 9 and Halogen on Black with Elo 3 5 5 2 played a balanced game which ended in a draw. The outcome was decided in the later stages.1/2-1/2 }
+) 6... Ng4 7. Bc1 { played by 3 6 1 9 rated ShashChess } 7... e5 8. d5
+{ played by 3 6 1 9 rated ShashChess } 8... f5 9. exf5
+{ played by 3 6 1 9 rated ShashChess } 9... gxf5 10. Be2
+{ played by 3 1 3 0 rated Gull } 10... O-O 11. Nf3
+{ played by 3 1 3 0 rated Gull } ( 11. f3 { played by 2 8 5 5 rated Arasan }
+11... Nf6 12. Nh3 c6 13. Be3 f4 14. Bf2 Bf5 15. Bd3 Bxh3 16. gxh3 Qd7 17. Bf1
+cxd5 18. Nxd5
+{ In an interesting battle, Arasan from the White side with rating 2 8 5 5 remained in control, handing Doch as Black rated 2 8 7 1 a loss. The position remained tense for most of the game.1-0 }
+) 11... Na6 12. h3 Nf6 13. O-O f4 14. Re1 Nc5 15. b4 Nce4 16. Nxe4 Nxe4 17. Bb2
+a5 18. a3
+{ Here we see that Stockfish playing Black, rated 3 2 0 7 outplayed Gull as White rated 3 1 3 0 and won as Black. The position remained tense for most of the game.0-1 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Obsidian 16.0 64-bit 4CPU"]
+[Black "Heimdall 1.4.0 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "E70"]
+[Opening "King's Indian"]
+[Variation "accelerated Averbakh system"]
+[WhiteElo "3634"]
+[BlackElo "3550"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Bg5
+{ entered in KING S Indian Accelerated Averbakh System } 5... h6 6. Be3
+{ played by 3 6 1 9 rated ShashChess } 6... Ng4 7. Bc1
+{ played by 3 6 1 9 rated ShashChess } 7... e5 8. d5
+{ played by 3 6 1 9 rated ShashChess } 8... f5 9. exf5
+{ played by 3 6 1 9 rated ShashChess } 9... gxf5 10. f3
+{ played by 3 6 1 9 rated ShashChess } ( 10. Be2
+{ played by 3 1 3 0 rated Gull } 10... O-O 11. h3
+{ played by 2 9 8 3 rated SmarThink } 11... Nf6 12. Nf3 a5 13. O-O Na6 14. Re1
+{ played by 3 1 0 7 rated Critter } ( 14. Nd2
+{ played by 2 9 8 3 rated SmarThink } 14... Qe8 15. f4 Nc5 16. fxe5 dxe5 17.
+Qc2 b6 18. Nb5
+{ Fritz on Black with Elo 3 1 3 6 outplayed SmarThink playing White, rated 2 9 8 3 and won as Black. The position remained tense for most of the game.0-1 }
+) 14... Bd7 15. a3 a4 16. Nxa4 Ne4 17. Rb1 Qe8 18. Nc3
+{ In this game, After a long struggle, Rybka, rated 3 0 6 3, had the White pieces and Komodo as Black rated 2 9 3 8 shared the point. Both sides showed good positional understanding.1/2-1/2 }
+) 10... Nf6 11. Bd3 { played by 3 6 1 9 rated ShashChess } 11... O-O 12. Nge2
+e4 13. fxe4 { played by 3 5 9 1 rated PlentyChess } ( 13. Bc2
+{ played by 3 6 1 9 rated ShashChess } 13... exf3 14. gxf3 Nh5 15. Be3
+{ played by 3 6 1 9 rated ShashChess } ( 15. O-O
+{ played by 2 8 7 1 rated Doch } 15... Qh4 16. Kh1 Nd7 17. Rg1 Kh8 18. f4
+{ In this game, Neither Doch on White with Elo 2 8 7 1 nor Arasan handling the Black pieces rated 2 8 5 5 could convert, and the game was drawn. Both sides showed good positional understanding.1/2-1/2 }
+) 15... Nd7 16. f4 Qe7 17. Kd2 Ndf6 18. Qg1
+{ Once again, After a long struggle, ShashChess, rated 3 6 1 9, had the White pieces and PlentyChess handling the Black pieces rated 3 5 9 1 shared the point. The outcome was decided in the later stages.1/2-1/2 }
+) 13... fxe4 14. Bc2 { played by 3 5 9 1 rated PlentyChess } ( 14. Bb1
+{ played by 3 2 2 4 rated Mr } 14... Nh5 15. Ng3 { played by 3 2 2 4 rated Mr }
+( 15. Bxe4 { played by 2 6 3 7 rated DanaSah } 15... Bg4 16. Qc2 Na6 17. Bh7+
+Kh8 18. Be4
+{ In this game, DanaSah, rated 2 6 3 7, had the White pieces overpressed, and Monolith handling the Black pieces rated 2 6 0 1 secured the win. The position remained tense for most of the game.0-1 }
+) 15... Nxg3 16. hxg3 Qe8 17. Nxe4 Qg6 18. Qe2
+{ In this game, Weiss handling the Black pieces rated 3 2 6 4 outplayed Mr from the White side with rating 3 2 2 4 and won as Black. Both sides showed good positional understanding.0-1 }
+) 14... Nh5 15. Ng3 Nxg3 16. hxg3 Qe7 17. Bf4 Nd7 18. Qe2
+{ Here we see that After a long struggle, PlentyChess as White rated 3 5 9 1 and ShashChess as Black rated 3 6 1 9 shared the point. Small inaccuracies made the difference.1/2-1/2 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Obsidian 16.0 64-bit 4CPU"]
+[Black "Heimdall 1.4.0 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "E70"]
+[Opening "King's Indian"]
+[Variation "accelerated Averbakh system"]
+[WhiteElo "3634"]
+[BlackElo "3550"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Bg5
+{ entered in KING S Indian Accelerated Averbakh System } 5... h6 6. Bh4
+{ played by 3 6 3 4 rated Obsidian } 6... c5 7. d5
+{ played by 3 6 3 4 rated Obsidian } 7... O-O 8. Bd3 e6 9. Nge2
+{ played by 3 5 5 0 rated Heimdall } 9... exd5 10. exd5
+{ played by 3 5 5 0 rated Heimdall } 10... Nbd7 11. f4
+{ played by 3 5 5 0 rated Heimdall } 11... g5 12. fxg5 Ng4 13. Qd2 Nde5 14. Ne4
+Qe7 15. O-O Nxc4 16. Bxc4 Qxe4 17. Bd3 { played by 3 5 5 0 rated Heimdall } (
+17. gxh6 { played by 3 1 3 8 rated Xiphos } 17... Bxh6 18. Bg5
+{ Xiphos from the White side with rating 3 1 3 8 and NirvanaChess, rated 3 2 2 4, had the Black pieces played a balanced game which ended in a draw. Both sides showed good positional understanding.1/2-1/2 }
+) 17... Qe5 18. Bg3
+{ Heimdall as White rated 3 5 5 0 and Obsidian from the Black side with rating 3 6 3 4 played a balanced game which ended in a draw. Small inaccuracies made the difference.1/2-1/2 }
+1-0
+
+
+

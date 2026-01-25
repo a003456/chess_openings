@@ -1,0 +1,76 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Revenge 3.0 64-bit"]
+[Black "Stockfish 16.1 64-bit"]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Blumenfeld attack"]
+[WhiteElo "3515"]
+[BlackElo "3620"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. Nb5
+{ entered in SCOTCH Blumenfeld Attack } 6... Bxe3 7. fxe3 Qh4+ 8. Kd2
+{ played by 2 4 3 3 rated Lynx } ( 8. g3 { played by 3 6 2 0 rated Stockfish }
+8... Qd8 9. Qg4 { played by 3 6 2 0 rated Stockfish } ( 9. N1c3
+{ played by 3 1 5 5 rated Orion } 9... a6 10. Nd4 Nf6 11. Qd2
+{ played by 3 1 5 5 rated Orion } ( 11. Nxc6 { played by 2 8 8 9 rated Lozza }
+11... dxc6 12. Qxd8+ Kxd8 13. O-O-O+ { played by 2 8 8 9 rated Lozza } ( 13. h3
+{ played by 2 5 2 3 rated Arasan } 13... Ke7 14. O-O-O
+{ we will see this position later on1/2-1/2 } ) 13... Ke7 14. h3 Be6 15. Bd3
+Nd7 16. Ne2 Ne5 17. Nd4 c5 18. Nxe6 fxe6 19. b3
+{ In an interesting battle, The game between Lozza as White rated 2 8 8 9 and Pluto from the Black side with rating 2 8 9 5 finished level. Small inaccuracies made the difference.1/2-1/2 }
+) 11... O-O 12. O-O-O Re8 13. Qg2 Qe7 14. g4 Nxe4 15. Nd5 Qg5 16. Nf5 d6 17.
+Rg1 Qd8 18. Nf4 Nc5 19. Nh5
+{ In an interesting battle, Perseus on Black with Elo 3 1 1 6 outplayed Orion from the White side with rating 3 1 5 5 and won as Black. The opening quickly led to complex middlegame play.0-1 }
+) 9... g6 10. N1c3 { played by 3 4 9 1 rated Deep } ( 10. Qf4
+{ played by 3 6 2 0 rated Stockfish } 10... d6 11. Be2
+{ played by 3 5 6 7 rated Clover } ( 11. Nd2
+{ played by 3 2 9 3 rated Publius } 11... a6 12. Nc3 Be6 13. Be2 Nf6 14. Nf3
+Nd7 15. O-O-O Nce5 16. Nxe5 Nxe5 17. Nd5 Nd7 18. h4 Bxd5 19. exd5
+{ Here we see that The game between Publius as White rated 3 2 9 3 and Princhess from the Black side with rating 3 2 3 3 finished level. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 11... Ne5 12. Nd2 a6 13. Nc3 Nf6 14. Nd5 Nfd7 15. h4 c6 16. Nb4 h5 17. O-O-O
+Qe7 18. Nd3 Nb6 19. Nxe5
+{ Clover, rated 3 5 6 7, had the White pieces overpressed, and Torch as Black rated 3 6 1 1 secured the win. Both sides showed good positional understanding.0-1 }
+) 10... d6 11. Qf4 { we will see this position later on0-1 } ) 8... Qd8 9. Kc1
+d6 10. N1c3 a6 11. Nd4 Ne5 12. h3 Nf6 13. g4 g6 14. Kb1 O-O 15. Bg2 h5 16. gxh5
+Nxh5 17. Rg1 Ng7 18. Nd5 c6 19. Nf4
+{ After a long struggle, Lynx handling the White pieces rated 2 4 3 3 and Hermann handling the Black pieces rated 2 5 1 0 shared the point. Small inaccuracies made the difference.1/2-1/2 }
+0-1
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Revenge 3.0 64-bit"]
+[Black "Stockfish 16.1 64-bit"]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Blumenfeld attack"]
+[WhiteElo "3515"]
+[BlackElo "3620"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. Nb5
+{ entered in SCOTCH Blumenfeld Attack } 6... Bxe3 7. fxe3 Qh4+ 8. g3
+{ played by 3 6 2 0 rated Stockfish } 8... Qd8 9. Qg4
+{ played by 3 6 2 0 rated Stockfish } 9... g6 10. Qf4
+{ played by 3 6 2 0 rated Stockfish } 10... d6 11. N1c3
+{ played by 3 6 2 0 rated Stockfish } 11... Ne5 12. O-O-O a6 13. Nd4 Bg4 14.
+Be2 h5 15. Kb1 { played by 3 2 3 3 rated Princhess } ( 15. h3
+{ played by 3 6 2 0 rated Stockfish } 15... Bxe2 16. Ndxe2 c6 17. Rhf1
+{ played by 3 5 1 5 rated Revenge } ( 17. Rdf1 { played by 3 4 9 1 rated Deep }
+17... Qe7 18. a4 b5 19. Nd4
+{ The game between Deep handling the White pieces rated 3 4 9 1 and Stockfish handling the Black pieces rated 3 6 2 0 finished level.1/2-1/2 }
+) 17... Kf8 18. Nd4 Qe7 19. Rf2
+{ In this game, Revenge from the White side with rating 3 5 1 5 overpressed, and Stockfish from the Black side with rating 3 6 2 0 secured the win. The outcome was decided in the later stages.0-1 }
+) 15... Qd7 16. Nf3 Bxf3 17. Bxf3 O-O-O 18. Rhf1 Kb8 19. a3
+{ Here we see that Neither Princhess from the White side with rating 3 2 3 3 nor Publius, rated 3 2 9 3, had the Black pieces could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+0-1
+
+
+

@@ -1,0 +1,279 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "RubiChess 20240112 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C71"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, Duras (Keres) variation"]
+[WhiteElo "3640"]
+[BlackElo "3601"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c4
+{ entered in RUY Lopez Modern Steinitz Defence Duras Keres Variation } 5... Bg4
+6. Nc3 { played by 3 6 4 0 rated Stockfish } ( 6. d3
+{ played by 3 6 2 0 rated Stockfish } 6... g6 7. Nc3
+{ played by 3 0 3 3 rated Cheng } 7... Bg7 8. h3 Bxf3 9. Qxf3
+{ we will see this position later on0-1 } ) ( 6. h3
+{ played by 3 6 0 2 rated Fat } 6... Bxf3 7. Qxf3 Ne7 8. O-O
+{ played by 2 0 3 3 rated Detroid } 8... Qd7 9. Nc3 Qe6 10. d3 O-O-O 11. Be3
+Nd4 12. Bxd4 exd4 13. Ne2 c5 14. Qf4 g6 15. Qd2 Bg7 16. Rae1 Be5 17. Qa5 Kb8
+18. f4
+{ RamJet playing Black, rated 2 1 1 6 could not hold the position, allowing Detroid from the White side with rating 2 0 3 3 to win.1-0 }
+) 6... Nf6 7. O-O { played by 2 7 5 9 rated Bison } ( 7. Bxc6+
+{ played by 2 3 3 5 rated Amateur } 7... bxc6 8. h3 Bh5 9. Qa4 Qd7 10. Nh4 g5
+11. Nf5 g4 12. d4 gxh3 13. Rxh3 Bg4 14. Rd3 Bxf5 15. exf5 exd4 16. Rxd4 c5 17.
+Rh4 Qxa4 18. Nxa4
+{ Here we see that Zevra playing Black, rated 2 3 4 8 could not hold the position, allowing Amateur as White rated 2 3 3 5 to win. Small inaccuracies made the difference.1-0 }
+) ( 7. h3 { played by 3 5 4 0 rated SlowChess } 7... Bxf3 8. Bxc6+
+{ played by 3 1 1 2 rated Rybka } 8... bxc6 9. Qxf3 Be7
+{ we will see this position later on1/2-1/2 } ) ( 7. Qb3
+{ played by 3 6 4 0 rated Stockfish } 7... Rb8 8. Qd1
+{ played by 3 6 4 0 rated Stockfish } 8... Nd7 9. O-O
+{ played by 3 4 7 2 rated Seer } ( 9. d3 { played by 3 3 8 5 rated Fire } 9...
+Be7 10. Bxc6 bxc6 11. h3 Bh5 12. O-O h6 13. Rb1 Nc5 14. Be3 Ne6 15. b4 Bg5 16.
+g4 Bg6 17. Qa4 Qd7 18. Qxa6
+{ In this game, Velvet, rated 3 2 5 0, had the Black pieces could not hold the position, allowing Fire from the White side with rating 3 3 8 5 to win. The opening quickly led to complex middlegame play.1-0 }
+) 9... h5 10. Bxc6 bxc6 11. a3 Qf6 12. b4 Be7 13. d3 O-O 14. Kh1 Rfd8 15. Be3
+Bxf3 16. Qxf3 Qxf3 17. gxf3 Rb7 18. Rfd1
+{ Seer on White with Elo 3 4 7 2 and Arasan as Black rated 3 4 8 9 played a balanced game which ended in a draw. Small inaccuracies made the difference.1/2-1/2 }
+) 7... Be7 8. h3 Bxf3 9. Qxf3 { we will see this position later on1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "RubiChess 20240112 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C71"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, Duras (Keres) variation"]
+[WhiteElo "3640"]
+[BlackElo "3601"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c4
+{ entered in RUY Lopez Modern Steinitz Defence Duras Keres Variation } 5... Bg4
+6. Nc3 { played by 3 6 4 0 rated Stockfish } ( 6. d3
+{ played by 3 6 2 0 rated Stockfish } 6... g6 7. h3
+{ played by 3 5 2 3 rated Koivisto } 7... Bxf3 8. Qxf3 Bg7 9. Bxc6+
+{ played by 3 5 2 3 rated Koivisto } 9... bxc6 10. b4 Rb8 11. a3 Qd7 12. O-O f5
+13. Qe2 f4 14. Bb2 h5 15. Rd1 c5 16. Nd2 g5 17. Bc3 g4 18. bxc5
+{ Here we see that Stockfish from the Black side with rating 3 6 2 0 defended accurately and defeated Koivisto, rated 3 5 2 3, had the White pieces.0-1 }
+) 6... Nf6 7. d3 { played by 3 6 1 1 rated Torch } ( 7. h3
+{ played by 3 5 4 0 rated SlowChess } 7... Bxf3 8. Qxf3
+{ played by 3 5 4 0 rated SlowChess } ( 8. gxf3
+{ played by 3 4 1 5 rated Wasp } 8... Be7 9. f4
+{ played by 3 4 1 5 rated Wasp } ( 9. d4 { played by 3 2 7 7 rated Frozenight }
+9... exd4 10. Bxc6+ bxc6 11. Qxd4 Rb8 12. b3 O-O 13. Be3 Nh5 14. O-O-O Bf6 15.
+Qd2 Qe7 16. Ne2 a5 17. Qxa5 Ra8 18. Qd2
+{ Once again, Wasp handling the Black pieces rated 3 4 1 5 seized the initiative and handed Frozenight playing White, rated 3 2 7 7 a loss.0-1 }
+) 9... O-O 10. d3 Rb8 11. h4 exf4 12. Bxf4 Nd4 13. Be3 c5 14. h5 b5 15. Bb3 Kh8
+16. Kf1 h6 17. Rb1 Qd7 18. f3
+{ In this game, Frozenight on Black with Elo 3 2 7 7 outplayed Wasp from the White side with rating 3 4 1 5 and won as Black. Both sides showed good positional understanding.0-1 }
+) 8... Be7 9. d3 { we will see this position later on1/2-1/2 } ) ( 7. Qb3
+{ played by 3 6 4 0 rated Stockfish } 7... Rb8 8. Bxc6+
+{ played by 2 4 7 3 rated Jumbo } 8... bxc6 9. Qa4 Qd7 10. b3
+{ played by 3 0 0 1 rated Myrddin } ( 10. Qd1
+{ played by 2 9 8 7 rated Caligula } 10... Nh5 11. h3 Bxf3 12. Qxf3 g6 13. Rb1
+Bh6 14. O-O a5 15. Qd1 O-O 16. b3 c5 17. d3 Bxc1 18. Rxc1
+{ In an interesting battle, The game between Caligula on White with Elo 2 9 8 7 and Myrddin from the Black side with rating 3 0 0 1 finished level. Both sides showed good positional understanding.1/2-1/2 }
+) 10... Nh5 11. d3 Bxf3 12. gxf3 g6 13. Be3 Bg7 14. Rb1 O-O 15. Nd5 Kh8 16. Kd2
+a5 17. b4 axb4 18. Nxb4
+{ In this game, Caligula, rated 2 9 8 7, had the Black pieces seized the initiative and handed Myrddin as White rated 3 0 0 1 a loss.0-1 }
+) 7... Be7 8. h3 Bxf3 9. Bxc6+ { played by 3 0 4 4 rated Chiron } 9... bxc6 10.
+Qxf3 a5 11. O-O Nd7 12. Qg4 O-O 13. Be3 Re8 14. Rad1 Bf6 15. g3 g6 16. Kg2 Qe7
+17. b3 Nf8 18. Bh6
+{ In this game, Neither Fire as White rated 3 4 4 6 nor SlowChess, rated 3 5 4 0, had the Black pieces could convert, and the game was drawn.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "RubiChess 20240112 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C71"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, Duras (Keres) variation"]
+[WhiteElo "3640"]
+[BlackElo "3601"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c4
+{ entered in RUY Lopez Modern Steinitz Defence Duras Keres Variation } 5... Bg4
+6. Nc3 { played by 3 6 4 0 rated Stockfish } ( 6. d3
+{ played by 3 6 2 0 rated Stockfish } 6... g6 7. h3
+{ played by 3 5 2 3 rated Koivisto } 7... Bxf3 8. Qxf3 Bg7 9. Nc3
+{ played by 2 5 5 1 rated Capivara } 9... Ne7 10. O-O
+{ played by 3 0 3 3 rated Cheng } ( 10. h4 { played by 2 5 5 1 rated Capivara }
+10... h6 11. h5 g5 12. Nd5 O-O 13. Nxe7+ Qxe7 14. Bxc6 bxc6 15. Bd2 Rab8 16.
+Bc3 Rfd8 17. O-O d5 18. exd5
+{ Here we see that Capivara from the White side with rating 2 5 5 1 remained in control, handing Nemeton on Black with Elo 2 4 1 4 a loss. Both sides showed good positional understanding.1-0 }
+) 10... O-O 11. Ne2 Qe8 12. b3 Rb8 13. Bxc6 bxc6 14. Qg3 c5 15. Qh4 Nc6 16. Bh6
+Qd8 17. Bg5 f6 18. Bd2
+{ In this game, Vengeance from the Black side with rating 2 9 8 5 defended accurately and defeated Cheng on White with Elo 3 0 3 3. The opening quickly led to complex middlegame play.0-1 }
+) 6... Nf6 7. h3 { played by 3 5 4 0 rated SlowChess } ( 7. Qb3
+{ played by 3 6 4 0 rated Stockfish } 7... Rb8 8. Qd1
+{ played by 3 6 4 0 rated Stockfish } 8... Nd7 9. h3
+{ played by 3 6 4 0 rated Stockfish } 9... Bxf3 10. Qxf3 Nc5 11. O-O
+{ played by 3 6 0 1 rated RubiChess } 11... Be7 12. d3 O-O 13. Be3 Nd4 14. Qd1
+Nce6 15. b4 Bg5 16. Rb1 g6 17. Bxd4 Nxd4 18. Ne2
+{ Once again, After a long struggle, RubiChess playing White, rated 3 6 0 1 and Stockfish handling the Black pieces rated 3 6 4 0 shared the point. The opening quickly led to complex middlegame play.1/2-1/2 }
+) ( 7. d3 { played by 3 6 1 1 rated Torch } 7... Be7 8. h3 Bxf3 9. Qxf3
+{ played by 3 6 1 1 rated Torch } 9... O-O 10. Bxc6
+{ played by 3 5 3 5 rated Ethereal } 10... bxc6 11. b3
+{ played by 3 5 3 5 rated Ethereal } ( 11. Rb1
+{ played by 2 8 6 6 rated Monolith } 11... Qd7 12. O-O c5 13. Qe2 c6 14. f4
+Rfe8 15. fxe5 dxe5 16. Be3 Qd6 17. Na4 Nd7 18. Qf2
+{ Monolith on White with Elo 2 8 6 6 remained in control, handing Bison, rated 2 7 5 9, had the Black pieces a loss.1-0 }
+) 11... a5 12. O-O c5 13. g3 c6 14. h4 Qd7 15. Kg2 g6 16. Bh6 Rfb8 17. Rae1 Ng4
+18. Bc1
+{ Here we see that Ethereal from the White side with rating 3 5 3 5 and RubiChess, rated 3 5 1 6, had the Black pieces played a balanced game which ended in a draw. The position remained tense for most of the game.1/2-1/2 }
+) 7... Bxf3 8. Qxf3 { played by 3 5 4 0 rated SlowChess } 8... Be7 9. Bxc6+
+{ played by 3 4 4 6 rated Fire } 9... bxc6 10. d3
+{ we will see this position later on1/2-1/2 } ( 10. O-O
+{ played by 3 1 5 8 rated Igel } 10... Rb8 11. Rb1 O-O 12. d3 c5 13. Qe3 c6 14.
+Qg3 Nd7 15. Nd1 Bh4 16. Qg4 Bf6 17. Ne3 g6 18. Bd2
+{ Rybka playing White, rated 3 1 1 2 overpressed, and Stockfish handling the Black pieces rated 3 2 4 0 secured the win. The position remained tense for most of the game.0-1 }
+) 1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "RubiChess 20240112 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C71"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, Duras (Keres) variation"]
+[WhiteElo "3640"]
+[BlackElo "3601"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c4
+{ entered in RUY Lopez Modern Steinitz Defence Duras Keres Variation } 5... Bg4
+6. Nc3 { played by 3 6 4 0 rated Stockfish } 6... Nf6 7. h3
+{ played by 3 5 4 0 rated SlowChess } ( 7. Qb3
+{ played by 3 6 4 0 rated Stockfish } 7... Rb8 8. Qd1
+{ played by 3 6 4 0 rated Stockfish } 8... Nd7 9. h3
+{ played by 3 6 4 0 rated Stockfish } 9... Bxf3 10. Qxf3 Nc5 11. Bxc6+
+{ played by 3 6 4 0 rated Stockfish } 11... bxc6 12. Rb1
+{ played by 3 4 8 9 rated Arasan } 12... a5 13. O-O g6 14. d3 Bg7 15. Qd1 O-O
+16. Be3 Ne6 17. Qa4 Qe8 18. Qxa5
+{ In an interesting battle, The game between Arasan from the White side with rating 3 4 8 9 and Seer as Black rated 3 4 7 2 finished level. Small inaccuracies made the difference.1/2-1/2 }
+) ( 7. d3 { played by 3 6 1 1 rated Torch } 7... Be7 8. h3 Bxf3 9. Qxf3
+{ played by 3 6 1 1 rated Torch } 9... O-O 10. Bxc6
+{ played by 3 5 3 5 rated Ethereal } 10... bxc6 11. O-O
+{ played by 3 5 1 6 rated RubiChess } 11... a5 12. Qd1
+{ played by 3 5 1 6 rated RubiChess } ( 12. b3
+{ we will see this position later on1/2-1/2 } ) ( 12. Be3
+{ played by 3 1 3 8 rated NirvanaChess } 12... c5 13. Qg3 c6 14. Bh6 Ne8 15.
+Kh1 a4 16. Qg4 Bf6 17. Rfb1 Nc7 18. b4
+{ In this game, Clover on White with Elo 3 3 7 4 and RubiChess playing Black, rated 3 5 1 6 played a balanced game which ended in a draw. Both sides showed good positional understanding.1/2-1/2 }
+) ( 12. Na4 { played by 3 0 8 5 rated Combusken } 12... Nd7 13. Be3 c5 14. Qe2
+Bf6 15. Nc3 c6 16. Na4 Re8 17. Qg4 Qe7 18. g3
+{ Here we see that Combusken as White rated 3 0 8 5 overpressed, and Igel playing Black, rated 3 1 5 8 secured the win. The opening quickly led to complex middlegame play.0-1 }
+) 12... h6 13. Qa4 Qd7 14. Be3 c5 15. Qxd7 Nxd7 16. b3 Nb8 17. g3 Nc6 18. h4
+{ Once again, After a long struggle, RubiChess, rated 3 5 1 6, had the White pieces and Ethereal from the Black side with rating 3 5 3 5 shared the point.1/2-1/2 }
+) 7... Bxf3 8. Qxf3 { played by 3 5 4 0 rated SlowChess } 8... Be7 9. O-O
+{ played by 3 1 8 6 rated Rybka } 9... O-O 10. Bxc6 bxc6 11. d3
+{ we will see this position later on1/2-1/2 } ( 11. b3
+{ played by 2 9 4 4 rated Deep } 11... Rb8 12. d3 Nd7 13. Be3 Bf6 14. Rab1 Nc5
+15. Bxc5 dxc5 16. Qe3 Qd6 17. g3 Be7 18. Kg2
+{ Once again, Deep playing White, rated 2 9 4 4 and Naum, rated 3 0 9 1, had the Black pieces played a balanced game which ended in a draw. The outcome was decided in the later stages.1/2-1/2 }
+) 1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "RubiChess 20240112 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C71"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, Duras (Keres) variation"]
+[WhiteElo "3640"]
+[BlackElo "3601"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c4
+{ entered in RUY Lopez Modern Steinitz Defence Duras Keres Variation } 5... Bg4
+6. Nc3 { played by 3 6 4 0 rated Stockfish } ( 6. h3
+{ played by 3 6 0 2 rated Fat } 6... Bxf3 7. Qxf3 Ne7 8. Nc3
+{ played by 3 6 0 2 rated Fat } 8... Ng6 9. Nd5 Be7 10. Nb4 Qd7 11. Nxc6 bxc6
+12. O-O { played by 3 6 0 2 rated Fat } ( 12. d3
+{ played by 3 4 8 9 rated Arasan } 12... a5 13. Be3 Ra6 14. O-O O-O 15. d4 exd4
+16. Bxd4 Qe6 17. b3 c5 18. Bc3
+{ Here we see that After a long struggle, Arasan, rated 3 4 8 9, had the White pieces and Fat from the Black side with rating 3 6 0 2 shared the point. The outcome was decided in the later stages.1/2-1/2 }
+) 12... a5 13. Rd1 Bf6 14. d3 O-O 15. Be3 Rfb8 16. Rd2 Rb4 17. a3 Rb7 18. Rb1
+{ Here we see that Fat handling the White pieces rated 3 6 0 2 outplayed Arasan, rated 3 4 8 9, had the Black pieces and won the game. Both sides showed good positional understanding.1-0 }
+) 6... Nf6 7. d3 { played by 3 6 1 1 rated Torch } ( 7. Qb3
+{ played by 3 6 4 0 rated Stockfish } 7... Rb8 8. Qd1
+{ played by 3 6 4 0 rated Stockfish } 8... Nd7 9. h3
+{ played by 3 6 4 0 rated Stockfish } 9... Bxf3 10. Qxf3 Nc5 11. Bxc6+
+{ played by 3 6 4 0 rated Stockfish } 11... bxc6 12. O-O
+{ played by 3 6 4 0 rated Stockfish } 12... Be7 13. b3
+{ played by 3 6 4 0 rated Stockfish } ( 13. d3 { played by 3 5 0 3 rated Carp }
+13... a5 14. b3 O-O { we will see this position later on1/2-1/2 } ) 13... O-O
+14. d3 a5 15. Bd2 Bg5 16. Qd1 Bxd2 17. Qxd2 Ne6 18. Ne2
+{ In an interesting battle, Neither Stockfish as White rated 3 6 4 0 nor RubiChess as Black rated 3 6 0 1 could convert, and the game was drawn. Small inaccuracies made the difference.1/2-1/2 }
+) 7... Be7 8. h3 Bxf3 9. Qxf3 { played by 3 6 1 1 rated Torch } 9... O-O 10.
+Bxc6 { played by 3 5 3 5 rated Ethereal } 10... bxc6 11. Be3
+{ played by 3 4 8 8 rated Seer } 11... a5 12. Rd1
+{ played by 3 4 8 8 rated Seer } ( 12. O-O
+{ we will see this position later on1/2-1/2 } ) 12... c5 13. b3 Nd7 14. Qf5 Nb8
+15. O-O Nc6 16. Qf3 Nd4 17. Qg4 c6 18. Ne2
+{ After a long struggle, Seer on White with Elo 3 4 8 8 and Clover as Black rated 3 5 1 1 shared the point. Both sides showed good positional understanding.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "RubiChess 20240112 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C71"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, Duras (Keres) variation"]
+[WhiteElo "3640"]
+[BlackElo "3601"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c4
+{ entered in RUY Lopez Modern Steinitz Defence Duras Keres Variation } 5... Bg4
+6. Nc3 { played by 3 6 4 0 rated Stockfish } 6... Nf6 7. d3
+{ played by 3 6 1 1 rated Torch } 7... Be7 8. h3 Bxf3 9. Qxf3
+{ played by 3 6 1 1 rated Torch } 9... O-O 10. Ne2
+{ played by 3 6 1 1 rated Torch } ( 10. O-O
+{ played by 2 8 1 3 rated Protector } 10... Nd4 11. Qd1 c6 12. Ne2 Nxe2+ 13.
+Qxe2 Nd7 14. f4 { played by 2 8 1 3 rated Protector } ( 14. Be3
+{ played by 2 6 8 4 rated Crafty } 14... Bg5 15. Qd2 Bxe3 16. fxe3 Nc5 17. Bc2
+a5 18. d4
+{ In an interesting battle, Protector playing Black, rated 2 8 1 3 seized the initiative and handed Crafty as White rated 2 6 8 4 a loss. Small inaccuracies made the difference.0-1 }
+) 14... Nc5 15. Bd1 Ne6 16. f5 Nd4 17. Qg4 Qb6 18. Rf2
+{ Here we see that Protector from the White side with rating 2 8 1 3 remained in control, handing Crafty handling the Black pieces rated 2 6 8 4 a loss. Both sides showed good positional understanding.1-0 }
+) 10... Nd7 11. O-O Nc5 12. Bxc6 bxc6 13. b4 Ne6 14. Be3
+{ played by 3 6 1 1 rated Torch } ( 14. a4
+{ played by 3 5 7 8 rated Viridithas } 14... Rb8 15. Bd2 Qd7 16. Bc3 g6 17. Qg3
+Bf6 18. Rab1
+{ In an interesting battle, Neither Viridithas playing White, rated 3 5 7 8 nor Torch playing Black, rated 3 6 1 1 could convert, and the game was drawn. Small inaccuracies made the difference.1/2-1/2 }
+) 14... c5 15. b5 axb5 16. cxb5 Ra4 17. Nc3 Ra3 18. Nd5
+{ In an interesting battle, After a long struggle, Torch playing White, rated 3 6 1 1 and Viridithas from the Black side with rating 3 5 7 8 shared the point. The opening quickly led to complex middlegame play.1/2-1/2 }
+1/2-1/2
+
+
+

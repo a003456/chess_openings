@@ -1,0 +1,85 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 15.1 64-bit 4CPU"]
+[Black "Chess System Tal 2.00 EAS 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "C96"]
+[Opening "Ruy Lopez"]
+[Variation "closed (8...Na5)"]
+[WhiteElo "3629"]
+[BlackElo "3579"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d6 9. h3 Na5 10. Bc2 { entered in RUY Lopez Closed 8 Na5 } 10... d5 11. Nxe5
+{ played by 2 6 5 4 rated Deuterium } ( 11. exd5
+{ played by 3 4 1 2 rated Komodo } 11... e4 12. Bxe4
+{ played by 3 4 1 2 rated Komodo } ( 12. Ng5 { played by 3 1 6 1 rated Lynx }
+12... Nxd5 13. Nxe4 f5 14. Ng3 f4 15. Nf1 f3 16. g3 Qd7 17. Be4 Bb7 18. Kh2
+Rae8 19. d4 Bd6 20. Bxd5+ Bxd5 21. Na3 Rxe1 22. Qxe1 Bb7 23. Ne3
+{ In an interesting battle, pawnocchio handling the Black pieces rated 3 2 0 8 seized the initiative and handed Lynx from the White side with rating 3 1 6 1 a loss. The outcome was decided in the later stages.0-1 }
+) 12... Nxe4 13. Rxe4 Bb7
+{ In an interesting battle, SugaR, rated 3 3 7 1, had the White pieces remained in control, handing Critter, rated 3 1 3 9, had the Black pieces a loss. The position remained tense for most of the game.1-0 }
+) ( 11. d4 { played by 3 6 2 9 rated Stockfish } 11... dxe4 12. Nxe5 c5 13. Bg5
+{ played by 2 9 6 3 rated Chiron } ( 13. Bf4 { played by 2 6 2 9 rated Rodin }
+13... Bb7 14. dxc5 Bxc5 15. b4 Nd5 16. Bg3 Nxb4 17. cxb4 Bxb4 18. Qxd8 Raxd8
+19. Re2 f5 20. a4 f4 21. Bh4 Rde8 22. Ng4 Rc8 23. Ra2
+{ In an interesting battle, The game between Rodin, rated 2 6 2 9, had the White pieces and Cheese, rated 2 7 0 6, had the Black pieces finished level. The opening quickly led to complex middlegame play.1/2-1/2 }
+) ( 13. dxc5 { played by 3 1 4 1 rated Roc } 13... Bxc5 14. Qxd8
+{ played by 2 9 4 1 rated Dirty } 14... Rxd8 15. b4 Bd6 16. f4 exf3 17. bxa5
+fxg2 18. Bb3 Bxe5 19. Rxe5 Bxh3 20. Re3 Re8 21. Na3 Bd7 22. c4 h5 23. Rxe8+
+{ In an interesting battle, Dirty on White with Elo 2 9 4 1 outplayed Chiron on Black with Elo 2 9 6 3 and won the game. Small inaccuracies made the difference.1-0 }
+) 13... Bb7 14. a4 cxd4 15. cxd4 Nc4 16. Nxc4 bxc4 17. Nc3 Re8 18. Qd2 Qd7 19.
+Rad1 h6 20. Bxf6 Bxf6 21. d5 Bg5 22. Qd4 f5 23. d6
+{ Neither Chiron from the White side with rating 2 9 6 3 nor Dirty from the Black side with rating 2 9 4 1 could convert, and the game was drawn. Both sides showed good positional understanding.1/2-1/2 }
+) 11... dxe4 12. d4 exd3 13. Bxd3 Bd6 14. Nf3 c5 15. Bg5 h6 16. Bxf6 Qxf6 17.
+Nbd2 Bf4 18. a4 b4 19. Qc2 Rd8 20. Rad1 Bd7 21. cxb4 cxb4 22. Ne4 Qb6 23. Nc5
+{ In this game, After a long struggle, Deuterium handling the White pieces rated 2 6 5 4 and SmarThink on Black with Elo 2 7 7 0 shared the point. Both sides showed good positional understanding.1/2-1/2 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 15.1 64-bit 4CPU"]
+[Black "Chess System Tal 2.00 EAS 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "C96"]
+[Opening "Ruy Lopez"]
+[Variation "closed (8...Na5)"]
+[WhiteElo "3629"]
+[BlackElo "3579"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d6 9. h3 Na5 10. Bc2 { entered in RUY Lopez Closed 8 Na5 } 10... d5 11. d4
+{ played by 3 6 2 9 rated Stockfish } 11... dxe4 12. Nxe5 c5 13. Be3
+{ played by 3 6 2 9 rated Stockfish } ( 13. dxc5
+{ played by 3 1 4 1 rated Roc } 13... Bxc5 14. Bf4
+{ played by 3 1 4 1 rated Roc } 14... Qb6 15. Qe2 Nd5 16. Bg3 e3 17. fxe3 Nc4
+18. Qd3 { played by 3 1 4 1 rated Roc } ( 18. Nxc4
+{ played by 2 9 0 4 rated Topple } 18... bxc4 19. Kh1 Nxe3 20. Na3 Bb7 21. Nxc4
+Qh6 22. Nxe3 Qxh3+ 23. Bh2
+{ Hannibal, rated 2 9 8 9, had the Black pieces outplayed Topple from the White side with rating 2 9 0 4 and won as Black. Small inaccuracies made the difference.0-1 }
+) 18... Nf6 19. b4 Bxe3+ 20. Kh1 Bg5 21. Nxc4 bxc4 22. Qf1 Be6 23. Re5
+{ Here we see that Roc, rated 3 1 4 1, had the White pieces and Fritz handling the Black pieces rated 3 1 4 5 played a balanced game which ended in a draw. Small inaccuracies made the difference.1/2-1/2 }
+) 13... Bb7 14. Nd2 Rc8 15. Qe2 { played by 3 6 2 9 rated Stockfish } ( 15. a3
+{ played by 2 7 0 6 rated Cheese } 15... Re8 16. b4 cxb4 17. axb4 Nc6 18. Nxc6
+Bxc6 19. Bg5 Qc7 20. Bxf6 Bxf6 21. Bxe4 Bd7 22. Ra3 Bg5 23. Bd5
+{ In this game, The game between Cheese, rated 2 7 0 6, had the White pieces and Rodin on Black with Elo 2 6 2 9 finished level. The opening quickly led to complex middlegame play.1/2-1/2 }
+) ( 15. Qb1 { played by 3 6 0 9 rated Obsidian } 15... cxd4 16. Bxd4 Bc5 17.
+Nxe4 Bxd4 18. cxd4 g6 19. Nxf6+ Qxf6 20. Be4 Rfd8 21. Qd3 Bxe4 22. Rxe4
+{ played by 3 6 0 9 rated Obsidian } ( 22. Qxe4
+{ played by 3 5 2 3 rated Rebel } 22... Nc6 23. Rad1
+{ Once again, Rebel on White with Elo 3 5 2 3 and Chess from the Black side with rating 3 5 4 0 played a balanced game which ended in a draw. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 22... Nc6 23. Ng4
+{ In this game, Chess handling the Black pieces rated 3 5 7 9 could not hold the position, allowing Obsidian, rated 3 6 0 9, had the White pieces to win. Both sides showed good positional understanding.1-0 }
+) 15... Re8 16. Ng4 Nd7 17. Rad1 Qc7 18. Nxe4 f5 19. Nxc5 Bxc5 20. Bxf5 Bf8 21.
+b3 h5 22. Ne5 Nxe5 23. dxe5
+{ In an interesting battle, Stockfish on White with Elo 3 6 2 9 outplayed Chess on Black with Elo 3 5 7 9 and won the game. Both sides showed good positional understanding.1-0 }
+1-0
+
+
+

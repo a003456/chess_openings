@@ -1,0 +1,348 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Clover 6.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C03"]
+[Opening "French"]
+[Variation "Tarrasch, Guimard variation"]
+[WhiteElo "3640"]
+[BlackElo "3571"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nc6 { entered in FRENCH Tarrasch Guimard Variation }
+4. Bb5 { played by 3 1 0 4 rated Deep } ( 4. c3
+{ played by 3 6 4 0 rated Stockfish } 4... e5 5. Ngf3
+{ played by 3 1 4 0 rated Houdini } ( 5. dxe5 { played by 3 6 1 6 rated SugaR }
+5... dxe4 6. Qa4 { played by 3 2 0 1 rated Critter } 6... Qd5 7. Qxe4 Qxe5 8.
+Ngf3 Qxe4+ 9. Nxe4
+{ Once again, Neither Critter playing White, rated 3 2 0 1 nor Stockfish playing Black, rated 3 1 8 2 could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
+) 5... exd4 6. Nxd4 Nxd4 7. cxd4 dxe4 8. Nxe4 Nf6 9. Bd3 Bb4+ 10. Nc3 O-O 11.
+O-O c6 12. Re1 Bg4 13. f3 Be6 14. Bc2 Qd6 15. Qd3 Rad8 16. Be3 g6 17. a3
+{ In an interesting battle, Houdini playing White, rated 3 1 4 0 converted the advantage and defeated DeepSaros, rated 3 0 5 3, had the Black pieces. Both sides showed good positional understanding.1-0 }
+) ( 4. Ngf3 { played by 3 6 3 1 rated Alexandria } 4... g6 5. c3
+{ played by 3 6 2 6 rated Dragon } ( 5. Bb5
+{ played by 3 6 3 1 rated Alexandria } 5... Ne7 6. O-O
+{ played by 3 6 3 1 rated Alexandria } 6... Bg7 7. c3
+{ played by 2 9 4 1 rated Dirty } ( 7. Re1 { played by 2 8 5 8 rated Tucano }
+7... O-O 8. c3 { we will see this position later on1-0 } ) ( 7. b3
+{ played by 2 1 6 5 rated Madeleine } 7... Bd7 8. c3 a6 9. Bd3 e5 10. Ba3 exd4
+11. exd5 Nxd5 12. Nxd4 Nxd4 13. cxd4 Bxd4 14. Rc1 Be6 15. Be4 Qd7 16. Re1 Kd8
+17. Bxd5
+{ Madeleine from the White side with rating 2 1 6 5 converted the advantage and defeated Cinnamon as Black rated 2 0 5 3. The outcome was decided in the later stages.1-0 }
+) 7... O-O 8. Re1 a6 9. Bd3 b6 10. a4 Bb7 11. exd5 Nxd5 12. Nc4 Re8 13. Bd2 f6
+14. Qe2 Qe7 15. Qe4 Qd7 16. Qg4 a5 17. b3
+{ In this game, Tucano on White with Elo 2 8 5 8 outplayed Dirty playing Black, rated 2 9 4 1 and won the game.1-0 }
+) 5... Bg7 6. Bb5 { played by 3 6 2 6 rated Dragon } ( 6. Bd3
+{ played by 3 2 2 4 rated RukChess } 6... dxe4 7. Nxe4 b6 8. O-O Bb7 9. Re1
+Nge7 10. Bg5 h6 11. Bf6 O-O 12. Qd2 Bxf6 13. Nxf6+ Kg7 14. Ng4 Ng8 15. h3 Nce7
+16. Qe2 c5 17. dxc5
+{ Here we see that Altair handling the White pieces rated 3 1 7 4 remained in control, handing RukChess on Black with Elo 3 2 2 4 a loss. Both sides showed good positional understanding.1-0 }
+) 6... Bd7 7. Qe2 Nce7 8. e5 b6 9. Bd3 c5 10. h4 h5 11. O-O Nh6 12. Re1 Nef5
+13. g3 a6 14. Nf1 Bb5 15. Bxb5+ axb5 16. dxc5 O-O 17. c6
+{ In this game, Rebel from the White side with rating 3 5 7 9 and Stockfish from the Black side with rating 3 6 4 0 played a balanced game which ended in a draw.1/2-1/2 }
+) 4... Nf6 5. e5 Nd7 6. c3 Be7 7. f4 Ncb8 8. Ne2 b6 9. O-O O-O 10. Nf3 Bb7 11.
+Bd3 g6 12. g4 f6 13. exf6 Bxf6 14. f5 gxf5 15. Bh6 Nc6 16. Nf4 Re8 17. gxf5
+{ Deep on White with Elo 3 1 0 4 converted the advantage and defeated Gull as Black rated 3 1 8 0. The opening quickly led to complex middlegame play.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Clover 6.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C03"]
+[Opening "French"]
+[Variation "Tarrasch, Guimard variation"]
+[WhiteElo "3640"]
+[BlackElo "3571"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nc6 { entered in FRENCH Tarrasch Guimard Variation }
+4. c3 { played by 3 6 4 0 rated Stockfish } ( 4. Ngf3
+{ played by 3 6 3 1 rated Alexandria } 4... g6 5. Bb5
+{ played by 3 6 3 1 rated Alexandria } 5... Ne7 6. O-O
+{ played by 3 6 3 1 rated Alexandria } ( 6. exd5
+{ played by 3 4 7 2 rated SlowChess } 6... exd5 7. O-O
+{ played by 3 4 7 2 rated SlowChess } 7... a6 8. Ba4
+{ played by 3 4 7 2 rated SlowChess } ( 8. Bd3
+{ played by 3 4 4 6 rated Berserk } 8... Bg7 9. c3 O-O 10. Re1
+{ we will see this position later on1/2-1/2 } ) ( 8. Bxc6+
+{ played by 2 6 7 5 rated RedQueen } 8... Nxc6 9. c3 Be7 10. Re1 O-O 11. b4 Re8
+12. Nf1 Qd6 13. a4 Bd7 14. h3 Bf8 15. Ne3 Bg7 16. Qb3 h6 17. Ra2
+{ Here we see that Neither RedQueen playing White, rated 2 6 7 5 nor Strelka from the Black side with rating 3 1 4 2 could convert, and the game was drawn. Both sides showed good positional understanding.1/2-1/2 }
+) 8... Bg7 9. c3 O-O 10. Re1 Na5 11. h3 c6 12. Bc2 Bf5 13. Ne5 Re8 14. b4 f6
+15. Nxg6 Bxg6 16. Bxg6 hxg6 17. bxa5
+{ In an interesting battle, SlowChess playing White, rated 3 4 7 2 remained in control, handing Berserk handling the Black pieces rated 3 4 4 6 a loss. The opening quickly led to complex middlegame play.1-0 }
+) 6... Bg7 7. exd5 { played by 3 6 3 1 rated Alexandria } 7... exd5 8. c3
+{ played by 2 6 7 3 rated Francesca } ( 8. Nb3
+{ played by 2 6 3 9 rated Gandalf } 8... Kf8 9. Re1 a6 10. Bd3 a5 11. c3 h6 12.
+Bf4 Kg8 13. Re2 a4 14. Nc5 a3 15. b4 b6 16. Nb3 Bg4 17. Nbd2
+{ In this game, Francesca handling the Black pieces rated 2 6 7 3 could not hold the position, allowing Gandalf playing White, rated 2 6 3 9 to win. The opening quickly led to complex middlegame play.1-0 }
+) 8... O-O 9. Nb3 Qd6 10. Nc5 Nd8 11. Re1 Ne6 12. Nxe6 Bxe6 13. Qb3 Nc6 14. g3
+Na5 15. Qa4 a6 16. Qxa5 axb5 17. Qxb5
+{ Here we see that Neither Francesca handling the White pieces rated 2 6 7 3 nor Gandalf playing Black, rated 2 6 3 9 could convert, and the game was drawn.1/2-1/2 }
+) 4... e5 5. exd5 { played by 3 6 4 0 rated Stockfish } 5... Qxd5 6. Ngf3 exd4
+7. Bc4 Qf5 8. Qe2+ { played by 2 2 4 1 rated AliChess } 8... Be6 9. Nxd4 Nxd4
+10. cxd4 O-O-O 11. Bxe6+ fxe6 12. Nf3 Bb4+ 13. Kf1 h6 14. Nh4 Qf7 15. a3 Be7
+16. Nf3
+{ Here we see that AliChess from the White side with rating 2 2 4 1 remained in control, handing Butcher, rated 2 2 4 3, had the Black pieces a loss. Small inaccuracies made the difference.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Clover 6.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C03"]
+[Opening "French"]
+[Variation "Tarrasch, Guimard variation"]
+[WhiteElo "3640"]
+[BlackElo "3571"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nc6 { entered in FRENCH Tarrasch Guimard Variation }
+4. Ngf3 { played by 3 6 3 1 rated Alexandria } ( 4. c3
+{ played by 3 6 4 0 rated Stockfish } 4... e5 5. exd5
+{ played by 3 6 4 0 rated Stockfish } ( 5. dxe5
+{ played by 3 6 1 6 rated SugaR } 5... dxe4 6. Qe2
+{ played by 3 6 1 6 rated SugaR } 6... Bf5 7. Nxe4 Qd5 8. Ng3 Bg6 9. Bf4
+{ played by 3 4 5 5 rated Koivisto } 9... O-O-O 10. Nf3
+{ we will see this position later on1/2-1/2 } ) 5... Qxd5 6. Ngf3 exd4 7. Bc4
+Qf5 8. cxd4 { played by 3 6 4 0 rated Stockfish } ( 8. O-O
+{ played by 3 5 9 2 rated Dragon } 8... Be6 9. Nxd4
+{ played by 3 4 7 9 rated Booot } ( 9. Re1 { played by 3 2 6 2 rated Booot }
+9... O-O-O 10. Qb3 Bd5 11. Bxd5 Qxd5 12. Qxd5 Rxd5 13. Re8+ Rd8 14. Rxd8+ Kxd8
+15. cxd4 Bd6 16. Nc4 f6 17. Ne3
+{ SugaR from the Black side with rating 3 4 7 6 outplayed Booot on White with Elo 3 2 6 2 and won as Black. Small inaccuracies made the difference.0-1 }
+) 9... Nxd4 10. cxd4 O-O-O 11. Bxe6+ Qxe6 12. Re1 Qf5 13. Nc4 Ne7 14. Ne5 Nd5
+15. Bd2 Bd6 16. Nc4 Kb8 17. h3
+{ Here we see that The game between Ginkgo handling the White pieces rated 3 4 6 0 and Booot playing Black, rated 3 4 7 9 finished level. The position remained tense for most of the game.1/2-1/2 }
+) 8... Nge7 9. O-O { played by 3 3 3 1 rated Defenchess } 9... Be6 10. Bxe6
+Qxe6 11. Re1 Qf5 12. Nf1 O-O-O 13. Ne3 Qd7 14. Qb3 Nd5 15. Ne5 Qe6 16. Rd1 g5
+17. Qc4
+{ In an interesting battle, Komodo playing Black, rated 3 4 6 5 defended accurately and defeated Defenchess handling the White pieces rated 3 3 3 1. The outcome was decided in the later stages.0-1 }
+) 4... g6 5. Bb5 { played by 3 6 3 1 rated Alexandria } 5... Ne7 6. exd5
+{ played by 3 4 7 2 rated SlowChess } 6... exd5 7. c3
+{ played by 3 4 4 7 rated Stockfish } 7... a6 8. Be2
+{ played by 3 4 4 7 rated Stockfish } ( 8. Bd3 { played by 3 1 6 1 rated Gull }
+8... Bf5 9. Nb3 Bxd3 10. Qxd3 Bg7 11. Bf4 O-O 12. h4 h5 13. O-O b6 14. a4 a5
+15. Rfe1 Nf5 16. Nc1 Nce7 17. Ne2
+{ Once again, Gull on White with Elo 3 1 6 1 overpressed, and Stockfish from the Black side with rating 3 4 4 7 secured the win. The outcome was decided in the later stages.0-1 }
+) 8... Nf5 9. O-O Bd6 10. Re1 O-O 11. h3 Re8 12. Nf1 Nh4 13. Bh6 Be6 14. Qc1
+Nf5 15. Bf4 Bxf4 16. Qxf4 Qd6 17. Qg5
+{ In an interesting battle, Stockfish from the White side with rating 3 4 4 7 converted the advantage and defeated Gull playing Black, rated 3 1 6 1. Small inaccuracies made the difference.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Clover 6.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C03"]
+[Opening "French"]
+[Variation "Tarrasch, Guimard variation"]
+[WhiteElo "3640"]
+[BlackElo "3571"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nc6 { entered in FRENCH Tarrasch Guimard Variation }
+4. Ngf3 { played by 3 6 3 1 rated Alexandria } ( 4. c3
+{ played by 3 6 4 0 rated Stockfish } 4... e5 5. exd5
+{ played by 3 6 4 0 rated Stockfish } ( 5. dxe5
+{ played by 3 6 1 6 rated SugaR } 5... dxe4 6. Qe2
+{ played by 3 6 1 6 rated SugaR } 6... Bf5 7. Nxe4 Qd5 8. Ng3 Bg6 9. h4
+{ played by 3 6 1 6 rated SugaR } ( 9. Nf3
+{ played by 3 4 6 1 rated RubiChess } 9... O-O-O 10. Bf4
+{ played by 3 4 6 1 rated RubiChess } ( 10. Be3
+{ played by 3 0 3 3 rated Mantissa } 10... Nxe5 11. Nxe5 Qxe5 12. Bxa7 Qxe2+
+13. Bxe2 b6 14. Ba6+ Kd7 15. a4 Ra8 16. a5 Kc6 17. axb6
+{ Mantissa handling the White pieces rated 3 0 3 3 outplayed Francesca on Black with Elo 2 9 7 1 and won the game. The opening quickly led to complex middlegame play.1-0 }
+) ( 10. Bg5 { played by 2 3 3 7 rated Counter } 10... f6 11. exf6 Nxf6 12. Qb5
+Re8+ 13. Be3 Bd6 14. Bc4 Qxb5 15. Bxb5 Ng4 16. Bxc6 bxc6 17. Nf1
+{ In an interesting battle, Neither Counter from the White side with rating 2 3 3 7 nor Waxman playing Black, rated 2 4 5 0 could convert, and the game was drawn. Both sides showed good positional understanding.1/2-1/2 }
+) 10... h5 11. h4 { we will see this position later on1/2-1/2 } ) 9... h5 10.
+Nf3 { played by 3 6 1 6 rated SugaR } 10... O-O-O 11. Bf4 Nh6 12. Qb5 Ng4 13.
+Bc4 Qd7 14. O-O a6 15. e6 fxe6 16. Qa4 Bd6 17. Bg5
+{ In an interesting battle, RubiChess as White rated 3 4 6 1 and Dragon playing Black, rated 3 5 8 0 played a balanced game which ended in a draw. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 5... Qxd5 6. Ngf3 exd4 7. Bc4 Qf5 8. O-O { played by 3 5 9 2 rated Dragon } (
+8. Nxd4 { played by 3 5 8 6 rated Viridithas } 8... Qe5+ 9. Ne2 Nf6 10. O-O
+{ played by 3 3 9 2 rated Komodo } 10... Bg4 11. f3 Be6 12. Bxe6 Bc5+ 13. Kh1
+Qxe6 14. Nf4 Qd7 15. Re1+ Be7 16. Qb3 Na5 17. Qc2
+{ In an interesting battle, Neither Komodo from the White side with rating 3 3 9 2 nor Stockfish from the Black side with rating 3 4 4 7 could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 8... Be6 9. Bxe6 { played by 3 5 9 2 rated Dragon } 9... fxe6 10. cxd4
+{ played by 3 3 7 7 rated Lambergar } ( 10. Nxd4
+{ played by 3 2 3 9 rated Marvin } 10... Nxd4 11. cxd4 Ne7 12. Nc4 O-O-O 13.
+Be3 Nc6 14. Rc1 a6 15. Qa4 Qb5 16. Qc2 Nxd4 17. Bxd4
+{ In this game, Velvet on Black with Elo 3 2 5 0 defended accurately and defeated Marvin on White with Elo 3 2 3 9. The position remained tense for most of the game.0-1 }
+) 10... O-O-O 11. Qa4 Nge7 12. Nc4 a6 13. Re1 h6 14. Bd2 g5 15. Ne3 Qb5 16.
+Qxb5
+{ Here we see that Lambergar handling the White pieces rated 3 3 7 7 overpressed, and Willow as Black rated 3 4 4 5 secured the win.0-1 }
+) 4... g6 5. Bb5 { played by 3 6 3 1 rated Alexandria } 5... Ne7 6. O-O
+{ played by 3 6 3 1 rated Alexandria } 6... Bg7 7. exd5
+{ played by 3 6 3 1 rated Alexandria } 7... exd5 8. Re1
+{ played by 3 6 3 1 rated Alexandria } 8... O-O 9. Nb3
+{ played by 2 0 5 3 rated Cinnamon } 9... a6 10. Bd3 Bg4 11. c3 Qd6 12. Nc5 Ra7
+13. Bg5 Bf6 14. Bxf6 Qxf6 15. Re3 a5 16. Qa4 b6 17. Nb3
+{ In this game, Madeleine from the Black side with rating 2 1 6 5 seized the initiative and handed Cinnamon from the White side with rating 2 0 5 3 a loss. Both sides showed good positional understanding.0-1 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Clover 6.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C03"]
+[Opening "French"]
+[Variation "Tarrasch, Guimard variation"]
+[WhiteElo "3640"]
+[BlackElo "3571"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nc6 { entered in FRENCH Tarrasch Guimard Variation }
+4. Ngf3 { played by 3 6 3 1 rated Alexandria } ( 4. c3
+{ played by 3 6 4 0 rated Stockfish } 4... e5 5. exd5
+{ played by 3 6 4 0 rated Stockfish } ( 5. dxe5
+{ played by 3 6 1 6 rated SugaR } 5... dxe4 6. Qe2
+{ played by 3 6 1 6 rated SugaR } 6... Bf5 7. Nxe4 Qd5 8. Ng3 Bg6 9. h4
+{ played by 3 6 1 6 rated SugaR } 9... h5 10. Bg5
+{ played by 3 5 4 5 rated SlowChess } 10... Be7 11. Nh3
+{ played by 3 5 4 5 rated SlowChess } 11... O-O-O 12. Nf4 Qxe5 13. Rd1 Rxd1+
+14. Kxd1 Bb1 15. Qxe5 Nxe5 16. Bxe7 Nxe7 17. Ngxh5
+{ In an interesting battle, The game between SlowChess from the White side with rating 3 5 4 5 and SugaR from the Black side with rating 3 6 1 6 finished level. Small inaccuracies made the difference.1/2-1/2 }
+) 5... Qxd5 6. Ngf3 exd4 7. Bc4 Qf5 8. Nxd4
+{ played by 3 5 8 6 rated Viridithas } 8... Qe5+ 9. Ne2 Nf6 10. Nf3
+{ played by 3 5 8 6 rated Viridithas } 10... Qc5 11. b3
+{ played by 3 5 8 6 rated Viridithas } ( 11. Bb3
+{ played by 3 5 7 1 rated Clover } 11... Bg4 12. Nf4 Qb5 13. a4 Qa6 14. h3 Bxf3
+15. Qxf3 O-O-O 16. Qe2 Qxe2+ 17. Kxe2
+{ Here we see that After a long struggle, Clover from the White side with rating 3 5 7 1 and Stockfish playing Black, rated 3 6 4 0 shared the point. The opening quickly led to complex middlegame play.1/2-1/2 }
+) ( 11. Bd3 { played by 3 4 4 7 rated Stockfish } 11... Bg4 12. Be3 Qd6 13. Bf4
+Qd7 14. Bb5 Bd6 15. Bxd6 cxd6 16. Nfd4 Qc7 17. f3
+{ In an interesting battle, The game between Stockfish on White with Elo 3 4 4 7 and Komodo as Black rated 3 3 9 2 finished level. Small inaccuracies made the difference.1/2-1/2 }
+) 11... Bg4 12. Be3 Qa3 13. Ng3 Bd6 14. h3 O-O-O 15. hxg4 Bxg3 16. Nd4
+{ In this game, Viridithas as White rated 3 5 8 6 and Clover as Black rated 3 5 8 4 played a balanced game which ended in a draw. Small inaccuracies made the difference.1/2-1/2 }
+) 4... g6 5. Bb5 { played by 3 6 3 1 rated Alexandria } 5... Ne7 6. O-O
+{ played by 3 6 3 1 rated Alexandria } 6... Bg7 7. exd5
+{ played by 3 6 3 1 rated Alexandria } 7... exd5 8. Re1
+{ played by 3 6 3 1 rated Alexandria } 8... O-O 9. c3
+{ played by 3 6 3 1 rated Alexandria } 9... a6 10. Bd3
+{ played by 3 6 3 1 rated Alexandria } ( 10. Bf1
+{ played by 3 6 1 5 rated Obsidian } 10... a5 11. a4 Nf5 12. Bd3 Bh6 13. h3 Ng7
+14. Nf1 Bxc1 15. Rxc1 Qd6 16. Ne3 Be6 17. Ng4
+{ Here we see that The game between Rebel as White rated 3 5 7 9 and Obsidian playing Black, rated 3 6 1 5 finished level. Both sides showed good positional understanding.1/2-1/2 }
+) 10... Bf5 11. Bf1 h6 12. a4 b6 13. b4 Nc8 14. Nb3 Nd6 15. Bf4 g5 16. Bxd6
+Qxd6 17. Bd3
+{ Once again, The game between PlentyChess handling the White pieces rated 3 6 2 6 and Alexandria from the Black side with rating 3 6 3 1 finished level. The opening quickly led to complex middlegame play.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Clover 6.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C03"]
+[Opening "French"]
+[Variation "Tarrasch, Guimard variation"]
+[WhiteElo "3640"]
+[BlackElo "3571"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nc6 { entered in FRENCH Tarrasch Guimard Variation }
+4. c3 { played by 3 6 4 0 rated Stockfish } 4... e5 5. dxe5
+{ played by 3 6 1 6 rated SugaR } ( 5. exd5
+{ played by 3 6 4 0 rated Stockfish } 5... Qxd5 6. Ngf3 exd4 7. Bc4 Qf5 8. cxd4
+{ played by 3 6 4 0 rated Stockfish } 8... Nge7 9. Nf1
+{ played by 3 6 4 0 rated Stockfish } 9... Nd5 10. a3
+{ played by 3 5 8 1 rated SugaR } ( 10. Ng3
+{ played by 3 5 8 5 rated Uralochka } 10... Qe6+ 11. Ne2 Bb4+ 12. Bd2 Qd6 13.
+Bxd5 { played by 3 5 8 5 rated Uralochka } ( 13. O-O
+{ played by 3 5 6 0 rated Dragon } 13... Bxd2 14. Nxd2 Nf6 15. d5 Ne5 16. Ng3
+O-O 17. Bb3
+{ Neither Dragon playing White, rated 3 5 6 0 nor SugaR playing Black, rated 3 5 8 1 could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 13... Bxd2+ 14. Qxd2 Qxd5 15. O-O Qd6 16. d5 Ne7 17. Nc3
+{ In this game, After a long struggle, Uralochka from the White side with rating 3 5 8 5 and Lizard on Black with Elo 3 5 8 2 shared the point. The outcome was decided in the later stages.1/2-1/2 }
+) 10... Qe6+ 11. Be3 Nce7 12. Qd3 { played by 3 5 8 1 rated SugaR } ( 12. Qb3
+{ played by 3 4 5 3 rated Ethereal } 12... a6 13. Rc1 b5 14. Bxd5 Nxd5 15. Ng3
+Bb7 16. O-O O-O-O 17. Bd2
+{ Here we see that SugaR, rated 3 5 8 1, had the Black pieces outplayed Ethereal handling the White pieces rated 3 4 5 3 and won as Black. Both sides showed good positional understanding.0-1 }
+) 12... f6 13. N1d2 Nf4 14. Qf1 Nfd5 15. Qd3
+{ we will see this position later on1/2-1/2 } ) 5... dxe4 6. Qe2
+{ played by 3 6 1 6 rated SugaR } 6... Bf5 7. Nxe4 Qd5 8. Ng3 Bg6 9. f4
+{ played by 3 1 6 3 rated Roc } ( 9. h4 { played by 3 6 1 6 rated SugaR } 9...
+h5 10. Bg5 { played by 3 5 4 5 rated SlowChess } 10... Be7 11. Rd1
+{ played by 3 4 8 5 rated pawnocchio } 11... Qxe5 12. Nh3
+{ played by 3 4 8 5 rated pawnocchio } ( 12. Qxe5
+{ played by 3 4 0 3 rated Arasan } 12... Nxe5 13. Bf4 Bd6 14. Bb5+ Kf8 15. Nh3
+a6 16. Be2 Nf6 17. O-O
+{ Once again, Neither Arasan on White with Elo 3 4 0 3 nor SlowChess, rated 3 4 7 2, had the Black pieces could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
+) 12... Rd8 13. Nf4 Rxd1+ 14. Kxd1 Bb1 15. Nfxh5 g6 16. Bxe7 Ngxe7 17. Qxe5
+{ In an interesting battle, The game between pawnocchio handling the White pieces rated 3 4 8 5 and Velvet on Black with Elo 3 5 3 0 finished level. Small inaccuracies made the difference.1/2-1/2 }
+) 9... O-O-O 10. f5 Nxe5 11. fxg6 { played by 2 6 1 2 rated Ruffian } 11... Qe6
+12. Bd2 Nd3+ 13. Kd1 Qxg6 14. Qf3 Nxb2+ 15. Ke1 Bd6 16. Qf5+ Rd7 17. Qxg6
+{ In an interesting battle, After a long struggle, Ruffian on White with Elo 2 6 1 2 and Sloppy, rated 2 6 0 8, had the Black pieces shared the point. The outcome was decided in the later stages.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Clover 6.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C03"]
+[Opening "French"]
+[Variation "Tarrasch, Guimard variation"]
+[WhiteElo "3640"]
+[BlackElo "3571"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nc6 { entered in FRENCH Tarrasch Guimard Variation }
+4. c3 { played by 3 6 4 0 rated Stockfish } 4... e5 5. dxe5
+{ played by 3 6 1 6 rated SugaR } ( 5. exd5
+{ played by 3 6 4 0 rated Stockfish } 5... Qxd5 6. Ngf3 exd4 7. Bc4 Qf5 8. cxd4
+{ played by 3 6 4 0 rated Stockfish } ( 8. O-O
+{ played by 3 5 9 2 rated Dragon } 8... Be6 9. Bxe6
+{ played by 3 5 9 2 rated Dragon } 9... fxe6 10. Nb3
+{ played by 3 5 9 2 rated Dragon } 10... dxc3 11. Nbd4 Nxd4 12. Nxd4 Qd5 13.
+Nxe6 Qxd1 14. Rxd1 Kf7 15. Nxf8 { played by 3 5 4 0 rated SlowChess } ( 15.
+Nxc7 { played by 3 4 8 6 rated Revenge } 15... Rc8 16. Rd7+ Be7 17. Bg5
+{ Once again, After a long struggle, Revenge, rated 3 4 8 6, had the White pieces and SlowChess on Black with Elo 3 5 4 0 shared the point.1/2-1/2 }
+) 15... Kxf8 16. Rd7 Rc8 17. bxc3
+{ In this game, Neither SlowChess, rated 3 5 4 0, had the White pieces nor Revenge handling the Black pieces rated 3 4 8 6 could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+) 8... Nge7 9. Nf1 { played by 3 6 4 0 rated Stockfish } 9... Nd5 10. Qe2+
+{ played by 3 6 4 0 rated Stockfish } 10... Be7 11. Ng3 Qe6 12. Ne4 O-O 13. O-O
+Na5 14. Bd3 Nb4 15. Bf4 { played by 3 6 4 0 rated Stockfish } ( 15. Bb1
+{ played by 3 6 3 2 rated Torch } 15... f5 16. Nc3 Qxe2 17. Nxe2
+{ After a long struggle, Torch, rated 3 6 3 2, had the White pieces and Dragon on Black with Elo 3 6 2 6 shared the point. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 15... b6 16. Rfe1 f5 17. Nfg5
+{ Here we see that Stockfish playing White, rated 3 6 4 0 and Clover handling the Black pieces rated 3 5 7 1 played a balanced game which ended in a draw. The position remained tense for most of the game.1/2-1/2 }
+) 5... dxe4 6. Qe2 { played by 3 6 1 6 rated SugaR } 6... Bf5 7. Nxe4 Qd5 8.
+Ng3 Bg6 9. f4 { played by 3 1 6 3 rated Roc } 9... O-O-O 10. f5 Nxe5 11. Bf4
+{ played by 3 1 6 3 rated Roc } 11... Re8 12. Rd1 Qa5 13. fxg6
+{ played by 3 1 6 3 rated Roc } ( 13. Kd2 { played by 3 1 4 8 rated Roc } 13...
+Qxa2 14. Bxe5 Bd6 15. Bxg7 Rxe2+ 16. Bxe2 Ne7 17. Bxh8
+{ Once again, The game between Roc handling the White pieces rated 3 1 4 8 and Mantissa on Black with Elo 3 2 9 2 finished level. The position remained tense for most of the game.1/2-1/2 }
+) 13... hxg6 14. Kd2 Rh4 15. Nh3 Qxa2 16. Kc1 Qa1+ 17. Kc2
+{ After a long struggle, Roc from the White side with rating 3 1 6 3 and Houdini as Black rated 3 3 9 0 shared the point. The opening quickly led to complex middlegame play.1/2-1/2 }
+1/2-1/2
+
+
+

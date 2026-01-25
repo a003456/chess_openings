@@ -1,0 +1,29 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16.1 64-bit 4CPU"]
+[Black "PlentyChess 2.1.0 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "Dutch variation"]
+[WhiteElo "3638"]
+[BlackElo "3611"]
+
+1. b3 f5 { entered in NIMZOVICH Larsen Attack Dutch Variation } 2. Bb2 Nc6
+{ played by 3 0 9 1 rated Naum } ( 2... Nf6
+{ played by 3 6 4 0 rated Stockfish } 3. Nf3 e6
+{ played by 3 6 4 0 rated Stockfish } ( 3... g6
+{ played by 3 2 7 7 rated Houdini } 4. h3 Bg7 5. e3 O-O 6. d4 b6
+{ Once again, Houdini on Black with Elo 3 2 7 7 could not hold the position, allowing Houdini playing White, rated 3 2 4 0 to win. The position remained tense for most of the game.1-0 }
+) 4. g3 d5 5. Bg2 Bd6 6. c4 c6 7. O-O O-O 8. d3 Re8 9. Ne5 Qc7 10. d4 Nbd7 11.
+Nd3 b6 12. Nd2 Ne4 13. Rc1 Ba6 14. cxd5 exd5 15. Nf3
+{ Here we see that Stockfish as White rated 3 6 3 8 outplayed PlentyChess playing Black, rated 3 6 1 1 and won the game. Small inaccuracies made the difference.1-0 }
+) 3. e3 Nf6 4. Nf3 e6 5. c4 b6 6. Be2 Bb7 7. d4 Bb4+ 8. Nbd2 Ne4 9. Rc1 O-O 10.
+O-O Qe7 11. d5 Nxd2 12. Nxd2 Nd8 13. Nf3 Nf7 14. Qc2 c6 15. dxe6
+{ In this game, After a long struggle, Houdini, rated 3 2 7 7, had the White pieces and Naum playing Black, rated 3 0 9 1 shared the point. Small inaccuracies made the difference.1/2-1/2 }
+1-0
+
+
+

@@ -1,0 +1,69 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Reckless 0.8.0 64-bit"]
+[Black "Stockfish 17.1 64-bit"]
+[Result "1/2-1/2"]
+[ECO "C44"]
+[Opening "Scotch"]
+[Variation "Lolli variation"]
+[WhiteElo "3606"]
+[BlackElo "3622"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 Nxd4 { entered in SCOTCH Lolli Variation } 4. Nxd4
+exd4 5. Qxd4 Qf6 { played by 3 6 2 2 rated Stockfish } ( 5... d6
+{ played by 3 1 1 1 rated Lozza } 6. Nc3 Nf6 { played by 3 1 1 1 rated Lozza }
+( 6... Bd7 { played by 2 2 0 7 rated CT800 } 7. Bf4 Ne7 8. O-O-O Nc6 9. Qe3 Be7
+10. Nd5 O-O 11. Kb1 Re8 12. Bc4 Bf6 13. Rhe1 Be6 14. Nxf6+ Qxf6 15. Bb5 a6 16.
+Bxc6 bxc6 17. Qg3
+{ Here we see that CT800, rated 2 2 0 7, had the Black pieces defended accurately and defeated Weini playing White, rated 2 1 9 7. The position remained tense for most of the game.0-1 }
+) 7. Be2 Be7 8. O-O c5 9. Qd3 O-O 10. Rd1 Qb6 11. a4 Bd7 12. a5 Qb4 13. Bd2
+Rae8 14. Be1 Bc6 15. f3 Qd4+ 16. Qxd4 cxd4 17. Nb5
+{ Lozza from the White side with rating 3 1 1 1 converted the advantage and defeated Meltdown, rated 3 0 0 3, had the Black pieces. The opening quickly led to complex middlegame play.1-0 }
+) ( 5... Ne7 { played by 3 1 6 4 rated NirvanaChess } 6. Bf4 Nc6 7. Qe3 Bb4+ 8.
+Nc3 d6 9. O-O-O Bg4 { played by 3 0 3 2 rated Topple } 10. f3 Be6 11. Nd5 Ba5
+12. h4 Bb6 13. Qc3 O-O 14. h5 h6 15. Kb1 Ba5 16. Qa3 Bb6 17. Bc4
+{ Once again, Topple playing Black, rated 3 0 3 2 could not hold the position, allowing NirvanaChess as White rated 3 1 6 4 to win. Small inaccuracies made the difference.1-0 }
+) 6. Qc4 c6 { played by 3 6 0 0 rated Dragon } ( 6... Bd6
+{ played by 3 6 2 2 rated Stockfish } 7. Nc3 Ne7 8. Nb5 Nc6 9. Nxd6+ Qxd6 10.
+Bd2 b6 { played by 3 6 2 2 rated Stockfish } ( 10... Qe6
+{ played by 3 6 0 6 rated Reckless } 11. Bc3 Qxc4 12. Bxc4 d6 13. f4 Be6 14.
+Bd3 f6 15. O-O O-O 16. a3 a6 17. Rfe1
+{ Stockfish as White rated 3 6 2 2 and Reckless handling the Black pieces rated 3 6 0 6 played a balanced game which ended in a draw. The outcome was decided in the later stages.1/2-1/2 }
+) 11. O-O-O Bb7 12. a4 a5 13. Bg5 Qe6 14. Qc3 f6 15. Bf4 O-O-O 16. f3 g5 17.
+Bg3
+{ Once again, Neither Reckless from the White side with rating 3 6 0 6 nor Stockfish playing Black, rated 3 6 2 2 could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 7. Nc3 b5 8. Qd3 b4 9. Na4 Qe6 10. f3 d5 11. Qd4 Nf6 12. Bf4 dxe4 13. O-O-O
+Qd5 14. fxe4 Qxd4 15. Rxd4 Be6 16. Ba6 Rd8 17. Rxd8+
+{ Here we see that The game between Obsidian from the White side with rating 3 6 0 3 and Dragon on Black with Elo 3 6 0 0 finished level. The position remained tense for most of the game.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Reckless 0.8.0 64-bit"]
+[Black "Stockfish 17.1 64-bit"]
+[Result "1/2-1/2"]
+[ECO "C44"]
+[Opening "Scotch"]
+[Variation "Lolli variation"]
+[WhiteElo "3606"]
+[BlackElo "3622"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 Nxd4 { entered in SCOTCH Lolli Variation } 4. Nxd4
+exd4 5. Qxd4 Ne7 { played by 3 1 6 4 rated NirvanaChess } 6. Bf4 Nc6 7. Qe3
+Bb4+ 8. Nc3 d6 9. O-O-O O-O { played by 2 8 1 1 rated Crafty } 10. Nd5 Bg4
+{ played by 2 8 1 1 rated Crafty } ( 10... Bc5 { played by 2 3 5 9 rated Ares }
+11. Qg3 Kh8 12. c3 a5 13. h4 Be6 14. h5 Rg8 15. Bg5 f6 16. Be3 Bxe3+ 17. Qxe3
+{ Here we see that Ares as Black rated 2 3 5 9 could not hold the position, allowing Prophet playing White, rated 2 3 3 8 to win. The position remained tense for most of the game.1-0 }
+) 11. f3 Bc5 12. Qc3 Be6 13. h4 a5 14. a3 Nb4 15. Bc4 Nxd5 16. Bxd5 Bxd5 17.
+Rxd5
+{ Once again, Crafty as White rated 2 8 1 1 outplayed Rhetoric handling the Black pieces rated 2 7 8 1 and won the game. Small inaccuracies made the difference.1-0 }
+1/2-1/2
+
+
+

@@ -1,0 +1,307 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17.1 64-bit 4CPU"]
+[Black "Viridithas 16.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "A20"]
+[Opening "English, Nimzovich, Flohr variation"]
+[Variation ""]
+[WhiteElo "3645"]
+[BlackElo "3603"]
+
+1. c4 e5 2. Nf3 e4 { entered in ENGLISH Nimzovich Flohr Variation } 3. Nd4 Nf6
+{ played by 3 6 0 6 rated Reckless } ( 3... Nc6
+{ played by 3 6 3 8 rated Stockfish } 4. Nxc6 dxc6 5. Nc3 Nf6 6. d4 Bb4
+{ played by 2 8 4 8 rated Deep } ( 6... Be7
+{ played by 2 1 7 2 rated Robocide } 7. h3 O-O 8. g4 Bb4 9. Qb3 c5 10. dxc5
+Bxc5 11. Bg2 c6 12. g5 Nh5 13. Nxe4 Bd4 14. O-O Qe7 15. Rd1 Be5 16. Qf3
+{ Here we see that Robocide, rated 2 1 7 2, had the Black pieces could not hold the position, allowing Dorpsgek on White with Elo 2 1 5 2 to win. The opening quickly led to complex middlegame play.1-0 }
+) 7. e3 Qe7 8. Bd2 O-O 9. a3 Bxc3 10. Bxc3 Rd8
+{ Here we see that Stockfish from the White side with rating 2 9 0 8 remained in control, handing Deep playing Black, rated 2 8 4 8 a loss. The opening quickly led to complex middlegame play.1-0 }
+) 4. Nc3 Bb4 { played by 2 7 9 3 rated Glaurung } ( 4... Nc6
+{ played by 3 6 0 6 rated Reckless } 5. Nc2 Ne7
+{ played by 2 8 9 2 rated FabChess } ( 5... Qe7
+{ played by 2 5 1 0 rated Hermann } 6. e3 Ne5 7. b3 Nd3+ 8. Bxd3 exd3 9. Nd4 c5
+10. Nf3 d5 11. cxd5 Bf5 12. Bb2 Rd8 13. O-O Nxd5 14. e4 Nxc3 15. Bxc3 Bd7 16.
+Re1
+{ Asymptote from the White side with rating 2 5 7 6 remained in control, handing Hermann as Black rated 2 5 1 0 a loss. The outcome was decided in the later stages.1-0 }
+) ( 5... h6 { played by 2 1 4 3 rated Dorpsgek } 6. g3 d5 7. cxd5 Nxd5 8. Nxe4
+Be7 9. Bg2 O-O 10. O-O Nf6 11. d4 Nxe4 12. Bxe4 Bh3 13. Re1 Bd6 14. Qd3 Qf6 15.
+Bd2 g5 16. e3
+{ CT800 from the White side with rating 2 1 6 8 remained in control, handing Dorpsgek, rated 2 1 4 3, had the Black pieces a loss.1-0 }
+) 6. d3 exd3 7. exd3 d5 8. Bg5 c6 9. Qe2 d4 10. Ne4 Nxe4 11. Qxe4 h6 12. Bf4 c5
+13. b4 f5 14. Qe5 Kf7 15. Be2 Nc6 16. Bh5+
+{ In this game, Zangdar from the White side with rating 2 9 7 2 overpressed, and FabChess, rated 2 8 9 2, had the Black pieces secured the win. The outcome was decided in the later stages.0-1 }
+) 5. Qc2 O-O 6. Nxe4 Nxe4 7. Qxe4 Re8 8. Qf3 c5 9. Nb5 d6 10. Qf4 Re6 11. Nc3
+Nc6 12. Nd5 Nd4 13. Nxb4 Qe8
+{ Once again, Stockfish from the White side with rating 3 4 9 8 outplayed Fizbo, rated 3 3 1 8, had the Black pieces and won the game.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17.1 64-bit 4CPU"]
+[Black "Viridithas 16.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "A20"]
+[Opening "English, Nimzovich, Flohr variation"]
+[Variation ""]
+[WhiteElo "3645"]
+[BlackElo "3603"]
+
+1. c4 e5 2. Nf3 e4 { entered in ENGLISH Nimzovich Flohr Variation } 3. Nd4 Nf6
+{ played by 3 6 0 6 rated Reckless } 4. Nc3 Nc6
+{ played by 3 6 0 6 rated Reckless } 5. Nc2 Be7
+{ played by 3 5 1 6 rated Berserk } ( 5... a5
+{ played by 3 1 1 6 rated Chiron } 6. g3 Ne5 { played by 3 1 1 6 rated Chiron }
+( 6... Bc5 { played by 2 9 6 3 rated Chiron } 7. Bg2 O-O 8. Nxe4 Nxe4 9. Bxe4
+Qf6 10. O-O Re8 11. Bg2 Rb8 12. e3 d6 13. b3 Bf5 14. d4 Bb6 15. Ne1 a4 16. Bd2
+{ Here we see that Chiron, rated 2 9 6 3, had the White pieces remained in control, handing Hannibal on Black with Elo 2 9 5 2 a loss.1-0 }
+) 7. Ne3 c6 8. d4 exd3 9. exd3 d5 10. cxd5 Bb4 11. Bg2 cxd5 12. d4 Neg4 13. O-O
+Nxe3 14. Bxe3 O-O 15. Bg5 Be6 16. f4
+{ Neither Stockfish on White with Elo 3 3 2 6 nor Chiron on Black with Elo 3 1 1 6 could convert, and the game was drawn. Small inaccuracies made the difference.1/2-1/2 }
+) ( 5... d5 { played by 2 4 7 6 rated Winter } 6. cxd5 Nxd5 7. Nxe4 Bf5
+{ played by 2 4 7 6 rated Winter } ( 7... f5 { played by 2 3 2 3 rated Topple }
+8. Nc3 Be6 9. d4 Qf6 10. e3 Qg6 11. g3 Be7 12. Bb5 a6 13. Bxc6+ bxc6 14. Nxd5
+Bxd5 15. O-O O-O 16. b3
+{ Here we see that Barbarossa from the White side with rating 2 0 8 2 overpressed, and Topple playing Black, rated 2 3 2 3 secured the win.0-1 }
+) 8. d3 Be7 9. Nc3 Ndb4 10. Nxb4 Bxb4 11. e4 Be6 12. Be2 O-O 13. O-O Nd4 14.
+Bg4 Qh4 15. Bxe6 fxe6 16. Be3
+{ In this game, Winter playing Black, rated 2 4 7 6 seized the initiative and handed Jazz from the White side with rating 2 5 3 7 a loss. The opening quickly led to complex middlegame play.0-1 }
+) 6. g3 d5 { played by 2 3 3 2 rated Tytan } ( 6... d6
+{ played by 2 0 8 2 rated Barbarossa } 7. Bg2 Be6 8. d3 exd3 9. exd3 O-O 10.
+O-O d5 11. cxd5 Nxd5 12. d4 Ncb4 13. Re1 c6 14. Nxb4 Bxb4 15. Bd2 Nb6 16. Bf4
+{ In an interesting battle, Topple, rated 2 3 2 3, had the White pieces overpressed, and Barbarossa playing Black, rated 2 0 8 2 secured the win. The outcome was decided in the later stages.0-1 }
+) ( 6... Ne5 { played by 3 5 1 6 rated Berserk } 7. b3 d5
+{ played by 2 6 2 1 rated Alfil } 8. cxd5 Bg4 9. Bg2 Nd3+ 10. Kf1 Nxd5 11. Nxd5
+Qxd5 12. Ne3 Qe6 13. h3 Bh5 14. g4 Nxf2 15. Kxf2 Qf6+ 16. Kg1
+{ Once again, The game between Igel on White with Elo 2 7 7 4 and Alfil on Black with Elo 2 6 2 1 finished level. The outcome was decided in the later stages.1/2-1/2 }
+) 7. cxd5 Nxd5 8. Nxe4 f5 9. Nc3 Nxc3 10. bxc3 Qd5 11. Rg1 Bd7 12. Ne3 Qa5 13.
+Qb3 O-O-O 14. Rb1 b6 15. Bg2 Kb8 16. Kf1
+{ Once again, Bagatur on White with Elo 2 5 1 0 outplayed Tytan on Black with Elo 2 3 3 2 and won the game. The position remained tense for most of the game.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17.1 64-bit 4CPU"]
+[Black "Viridithas 16.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "A20"]
+[Opening "English, Nimzovich, Flohr variation"]
+[Variation ""]
+[WhiteElo "3645"]
+[BlackElo "3603"]
+
+1. c4 e5 2. Nf3 e4 { entered in ENGLISH Nimzovich Flohr Variation } 3. Nd4 Nf6
+{ played by 3 6 0 6 rated Reckless } ( 3... d5
+{ played by 3 5 6 1 rated ShashChess } 4. cxd5 Qxd5 5. e3 Nf6 6. Nc3 Qe5 7. d3
+Be7 8. dxe4 Nxe4 9. Bd3 Nxc3 10. bxc3 c5 { played by 3 5 6 1 rated ShashChess }
+( 10... O-O { played by 3 4 5 5 rated Koivisto } 11. Qc2 Qh5 12. O-O Na6 13.
+Bc4 Nc5 14. f4 Re8 15. e4 Qg6 16. f5
+{ Here we see that Koivisto, rated 3 4 5 5, had the Black pieces could not hold the position, allowing ShashChess as White rated 3 5 6 1 to win. The position remained tense for most of the game.1-0 }
+) 11. Ne2 Bf5 12. Qa4+ Nc6 13. Bxf5 Qxf5 14. O-O Bd6 15. e4 Bxh2+ 16. Kxh2
+{ In an interesting battle, Neither Koivisto, rated 3 4 5 5, had the White pieces nor ShashChess, rated 3 5 6 1, had the Black pieces could convert, and the game was drawn.1/2-1/2 }
+) 4. Nc3 Nc6 { played by 3 6 0 6 rated Reckless } 5. Nc2 Bc5
+{ played by 3 6 3 2 rated Torch } 6. d4 exd3 7. exd3 d5
+{ played by 3 6 3 2 rated Torch } ( 7... O-O
+{ played by 3 6 0 6 rated Reckless } 8. d4 Re8+
+{ played by 3 6 0 6 rated Reckless } ( 8... Bb6
+{ played by 3 1 4 7 rated Komodo } 9. Bd3 Re8+
+{ played by 3 1 4 7 rated Komodo } ( 9... d5 { played by 3 0 0 9 rated Deep }
+10. c5 Re8+ 11. Kf1 Ba5 12. Ne2 b6 13. a3 bxc5 14. dxc5 Ne4 15. b4 Qf6 16. Be3
+{ In an interesting battle, After a long struggle, Zappa on White with Elo 2 9 9 2 and Deep as Black rated 3 0 0 9 shared the point. The outcome was decided in the later stages.1/2-1/2 }
+) 10. Be3 d5 11. c5 Bxc5 12. dxc5 d4
+{ Critter playing White, rated 3 2 0 1 outplayed Komodo handling the Black pieces rated 3 1 4 7 and won the game. The outcome was decided in the later stages.1-0 }
+) 9. Be2 Be7 { played by 2 3 4 6 rated RedQueen } ( 9... Bf8
+{ played by 3 6 0 6 rated Reckless } 10. d5 Ne7
+{ played by 3 6 0 6 rated Reckless } 11. O-O Ng6 12. Be3 b6 13. Re1 Bb7 14. g3
+c6 15. Bd4 cxd5 16. cxd5
+{ Here we see that The game between Clover from the White side with rating 3 5 8 0 and Reckless from the Black side with rating 3 6 0 6 finished level. Both sides showed good positional understanding.1/2-1/2 }
+) 10. d5 Ne5 11. O-O Bc5 12. b4 Be7 13. a3 d6 14. Ne3 Nfd7 15. Bb2 Ng6 16. Qc2
+{ In this game, Clovis on White with Elo 2 5 4 0 remained in control, handing RedQueen, rated 2 3 4 6, had the Black pieces a loss. The opening quickly led to complex middlegame play.1-0 }
+) 8. d4 Bb6 { played by 2 8 4 9 rated Spark } 9. c5 Ba5 10. Bd3 Qe7+ 11. Kf1
+{ Once again, Spark on Black with Elo 2 8 4 9 could not hold the position, allowing Rybka from the White side with rating 3 0 7 6 to win. Both sides showed good positional understanding.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17.1 64-bit 4CPU"]
+[Black "Viridithas 16.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "A20"]
+[Opening "English, Nimzovich, Flohr variation"]
+[Variation ""]
+[WhiteElo "3645"]
+[BlackElo "3603"]
+
+1. c4 e5 2. Nf3 e4 { entered in ENGLISH Nimzovich Flohr Variation } 3. Nd4 Nc6
+{ played by 3 6 3 8 rated Stockfish } 4. Nxc6 dxc6 5. Nc3 Nf6 6. d4 exd3
+{ played by 3 6 0 3 rated Viridithas } 7. exd3 Bc5 8. h3 O-O
+{ played by 3 6 0 3 rated Viridithas } ( 8... Qe7+
+{ played by 2 9 3 5 rated Deep } 9. Qe2 Be6 10. Be3 O-O-O 11. O-O-O Bxe3+
+{ played by 2 9 3 5 rated Deep } ( 11... Kb8 { played by 2 9 0 2 rated Doch }
+12. d4 Bb4 13. Qc2 Bxc3 14. Qxc3 Bf5 15. Bd3 Be4 16. Rde1
+{ In this game, Rybka as White rated 3 0 7 6 outplayed Doch as Black rated 2 9 0 2 and won the game. Small inaccuracies made the difference.1-0 }
+) 12. fxe3 h5 13. Qf2 h4 14. e4 c5 15. Be2 Nd7 16. Kb1
+{ In this game, The game between Dirty, rated 3 0 2 5, had the White pieces and Deep, rated 2 9 3 5, had the Black pieces finished level. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 9. Qf3 Re8+ { played by 3 6 0 3 rated Viridithas } ( 9... Nd7
+{ played by 3 5 8 4 rated Berserk } 10. Be2 Ne5 11. Qg3 Re8
+{ played by 3 5 8 4 rated Berserk } ( 11... Ng6
+{ played by 3 0 2 7 rated Cheers } 12. Bg5 Qd7 13. Be3 Bd6 14. f4 Re8 15. O-O
+Ne7 16. Bg4
+{ Here we see that After a long struggle, Dirty playing White, rated 3 0 2 5 and Cheers as Black rated 3 0 2 7 shared the point. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 12. O-O { we will see this position later on1/2-1/2 } ) 10. Be2 Nd7 11. O-O
+Ne5 { played by 3 6 0 3 rated Viridithas } ( 11... Bd4
+{ played by 2 6 2 8 rated RookieMonster } 12. Be3 Ne5 13. Qf4 c5 14. Rad1 Ng6
+15. Qf3 Re5 16. Kh1
+{ RookieMonster, rated 2 6 2 8, had the Black pieces outplayed Blocky from the White side with rating 2 5 9 4 and won as Black. The outcome was decided in the later stages.0-1 }
+) 12. Qg3 Ng6 13. Bg5 f6 14. Be3 Bd6 15. f4 Ne7 16. Qf3
+{ Neither Stockfish from the White side with rating 3 6 4 5 nor Viridithas as Black rated 3 6 0 3 could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17.1 64-bit 4CPU"]
+[Black "Viridithas 16.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "A20"]
+[Opening "English, Nimzovich, Flohr variation"]
+[Variation ""]
+[WhiteElo "3645"]
+[BlackElo "3603"]
+
+1. c4 e5 2. Nf3 e4 { entered in ENGLISH Nimzovich Flohr Variation } 3. Nd4 Nf6
+{ played by 3 6 0 6 rated Reckless } 4. Nc3 Nc6
+{ played by 3 6 0 6 rated Reckless } 5. Nc2 Bc5
+{ played by 3 6 3 2 rated Torch } 6. d4 exd3 7. exd3 d5
+{ played by 3 6 3 2 rated Torch } ( 7... O-O
+{ played by 3 6 0 6 rated Reckless } 8. d4 Re8+
+{ played by 3 6 0 6 rated Reckless } 9. Be2 Bf8
+{ played by 3 6 0 6 rated Reckless } 10. d5 Ne5
+{ played by 3 5 8 0 rated Clover } 11. O-O Ng6
+{ we will see this position later on1/2-1/2 } ) 8. d4 Be7
+{ played by 3 6 3 2 rated Torch } 9. cxd5 Nxd5 10. Bc4 Nb6
+{ played by 3 6 3 2 rated Torch } 11. Bd3 Be6 { played by 3 1 6 9 rated Roc } (
+11... Bf6 { played by 3 6 3 2 rated Torch } 12. O-O Nxd4
+{ played by 2 8 2 3 rated Cheese } 13. Nxd4 Qxd4 14. Be3 Qh4 15. Ne4 Be7 16.
+Rc1
+{ Once again, Cheese playing Black, rated 2 8 2 3 seized the initiative and handed Coiled on White with Elo 2 7 9 6 a loss. Both sides showed good positional understanding.0-1 }
+) ( 11... O-O { played by 3 2 3 3 rated Alexandria } 12. O-O Bf6
+{ we will see this position later on1/2-1/2 } ( 12... a5
+{ played by 2 8 5 8 rated Deep } 13. Bf4 Nb4 14. Be4 c6 15. Ne3 f5 16. Bf3
+{ Neither Onno on White with Elo 2 8 3 1 nor Deep as Black rated 2 8 5 8 could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
+) ( 12... Be6 { played by 2 3 8 7 rated Delphil } 13. Re1 Bf6 14. Be4
+{ In this game, The game between Bruja on White with Elo 2 4 5 6 and Delphil playing Black, rated 2 3 8 7 finished level. The position remained tense for most of the game.1/2-1/2 }
+) ) 12. Be4 Bc4 13. Bd3 Bxd3 14. Qxd3 Qd6 15. Be3 O-O-O 16. O-O
+{ In an interesting battle, After a long struggle, Strelka playing White, rated 3 1 2 7 and Roc handling the Black pieces rated 3 1 6 9 shared the point. The outcome was decided in the later stages.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17.1 64-bit 4CPU"]
+[Black "Viridithas 16.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "A20"]
+[Opening "English, Nimzovich, Flohr variation"]
+[Variation ""]
+[WhiteElo "3645"]
+[BlackElo "3603"]
+
+1. c4 e5 2. Nf3 e4 { entered in ENGLISH Nimzovich Flohr Variation } 3. Nd4 Nf6
+{ played by 3 6 0 6 rated Reckless } 4. Nc3 Nc6
+{ played by 3 6 0 6 rated Reckless } 5. Nc2 Bc5
+{ played by 3 6 3 2 rated Torch } 6. d4 exd3 7. exd3 d5
+{ played by 3 6 3 2 rated Torch } ( 7... O-O
+{ played by 3 6 0 6 rated Reckless } 8. d4 Re8+
+{ played by 3 6 0 6 rated Reckless } 9. Be2 Bf8
+{ played by 3 6 0 6 rated Reckless } ( 9... Bb6
+{ played by 3 4 7 2 rated RubiChess } 10. O-O d6 11. Be3 Bf5 12. Rc1 Ne7
+{ played by 3 4 7 2 rated RubiChess } 13. Bf3 d5 14. c5 Ba5 15. Bg5 Bxc3 16.
+bxc3
+{ Here we see that Neither Seer from the White side with rating 3 4 4 1 nor RubiChess from the Black side with rating 3 4 7 2 could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+) 10. d5 Ne5 { played by 3 5 8 0 rated Clover } 11. O-O a6
+{ played by 3 5 8 0 rated Clover } 12. b3 d6 { played by 3 5 8 0 rated Clover }
+( 12... Ng6 { played by 3 5 4 0 rated Chess } 13. Re1 Bc5 14. b4 Bd6 15. Bb2
+Be5 16. Bf1
+{ In an interesting battle, After a long struggle, Rebel on White with Elo 3 5 0 4 and Chess handling the Black pieces rated 3 5 4 0 shared the point. The outcome was decided in the later stages.1/2-1/2 }
+) 13. h3 h6 14. f4 Ng6 15. Kh2 c6 16. Ne3
+{ Reckless handling the White pieces rated 3 6 0 6 and Clover playing Black, rated 3 5 8 0 played a balanced game which ended in a draw.1/2-1/2 }
+) 8. d4 Be7 { played by 3 6 3 2 rated Torch } 9. cxd5 Nxd5 10. Bc4 Nxc3
+{ played by 2 6 0 2 rated Naum } ( 10... Nb6 { played by 3 6 3 2 rated Torch }
+11. Bd3 Bf6 { played by 3 6 3 2 rated Torch } 12. O-O O-O
+{ played by 3 6 3 2 rated Torch } 13. Be3 Ne7 { played by 3 6 3 2 rated Torch }
+( 13... a5 { played by 3 2 3 3 rated Alexandria } 14. a3 a4 15. Qf3 Be6 16. Be4
+{ Once again, Atlas playing White, rated 3 1 1 8 and Alexandria from the Black side with rating 3 2 3 3 played a balanced game which ended in a draw. The outcome was decided in the later stages.1/2-1/2 }
+) ( 13... Be6 { played by 3 0 4 9 rated Protej } 14. Be4 Ne7 15. Bxb7 Rb8 16.
+Be4
+{ The game between DisasterArea handling the White pieces rated 2 8 4 2 and Protej from the Black side with rating 3 0 4 9 finished level. Both sides showed good positional understanding.1/2-1/2 }
+) 14. Qf3 c6
+{ In an interesting battle, The game between Stockfish as White rated 3 6 4 3 and Torch playing Black, rated 3 6 3 2 finished level. Both sides showed good positional understanding.1/2-1/2 }
+) 11. bxc3 O-O 12. O-O Bf5 { played by 2 6 0 2 rated Naum } ( 12... Bd6
+{ played by 2 1 6 8 rated Adam } 13. Bd3 Qh4 14. g3 Qh3 15. Ne3 Re8 16. Bd2
+{ Here we see that After a long struggle, Fischerle, rated 2 2 4 8, had the White pieces and Adam handling the Black pieces rated 2 1 6 8 shared the point. The outcome was decided in the later stages.1/2-1/2 }
+) 13. Bd3 Bxd3 14. Qxd3 Bd6 15. Rb1 Rb8 16. Re1
+{ In an interesting battle, Naum playing Black, rated 2 6 0 2 outplayed GreKo handling the White pieces rated 2 5 5 6 and won as Black.0-1 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17.1 64-bit 4CPU"]
+[Black "Viridithas 16.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "A20"]
+[Opening "English, Nimzovich, Flohr variation"]
+[Variation ""]
+[WhiteElo "3645"]
+[BlackElo "3603"]
+
+1. c4 e5 2. Nf3 e4 { entered in ENGLISH Nimzovich Flohr Variation } 3. Nd4 Nf6
+{ played by 3 6 0 6 rated Reckless } 4. Nc3 Nc6
+{ played by 3 6 0 6 rated Reckless } 5. Nc2 Bc5
+{ played by 3 6 3 2 rated Torch } ( 5... Be7
+{ played by 3 5 1 6 rated Berserk } 6. g3 Ne5
+{ played by 3 5 1 6 rated Berserk } 7. b3 d6
+{ played by 3 5 1 6 rated Berserk } 8. Bb2 c6 9. Ne3 Neg4 10. Nxg4 Bxg4 11. Bg2
+d5 12. cxd5 cxd5 13. O-O Be6 { played by 3 4 1 5 rated Uralochka } ( 13... O-O
+{ played by 3 3 8 5 rated Caissa } 14. d3 e3 15. fxe3 Re8 16. Qd2
+{ Berserk from the White side with rating 3 5 1 6 and Caissa playing Black, rated 3 3 8 5 played a balanced game which ended in a draw. The position remained tense for most of the game.1/2-1/2 }
+) 14. e3 Bf5 15. h3 h5 16. Ne2
+{ Here we see that Neither Black playing White, rated 3 3 8 2 nor Uralochka, rated 3 4 1 5, had the Black pieces could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 6. d4 exd3 7. exd3 O-O { played by 3 6 0 6 rated Reckless } 8. d4 Re8+
+{ played by 3 6 0 6 rated Reckless } 9. Be2 Bb6
+{ played by 3 4 7 2 rated RubiChess } 10. O-O d6 11. Be3 Bf5 12. Rc1 Qd7
+{ played by 2 8 5 6 rated Critter } 13. a3 a6
+{ played by 2 8 5 6 rated Critter } ( 13... Ng4
+{ played by 2 8 2 2 rated Topple } 14. Nd5 Nxe3 15. fxe3 Ne7 16. Nxe7+
+{ Here we see that After a long struggle, Critter as White rated 2 8 5 6 and Topple, rated 2 8 2 2, had the Black pieces shared the point. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 14. d5 Bxc2 15. Rxc2 Ne5 16. Bxb6
+{ In this game, Neither Topple from the White side with rating 2 8 2 2 nor Critter as Black rated 2 8 5 6 could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+1/2-1/2
+
+
+

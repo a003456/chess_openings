@@ -1,0 +1,215 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17 64-bit 4CPU"]
+[Black "Torch v3 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Urusov gambit"]
+[WhiteElo "3643"]
+[BlackElo "3635"]
+
+1. e4 e5 2. Bc4 Nf6 3. d4 exd4 4. Nf3
+{ entered in BISHOP S Opening Urusov Gambit } 4... Nxe4 5. O-O
+{ played by 2 4 0 4 rated Murka } ( 5. Qxd4
+{ played by 3 6 4 3 rated Stockfish } 5... Nf6 6. Bb3
+{ played by 3 0 6 2 rated Laser } ( 6. O-O { played by 2 6 4 5 rated Philou }
+6... d5 7. Bb5+ c6 8. Bd3 Be7 9. c4 O-O 10. Nc3 Na6 11. cxd5 Nxd5 12. Bxa6 bxa6
+13. Qa4 Rb8 14. Ne5 Bf6 15. Nxc6 Nxc3 16. bxc3 Bd7 17. Qe4
+{ In an interesting battle, Philou, rated 2 6 4 5, had the White pieces remained in control, handing Scorpio on Black with Elo 2 7 0 5 a loss. The opening quickly led to complex middlegame play.1-0 }
+) ( 6. Nc3 { played by 3 6 1 9 rated PlentyChess } 6... Be7 7. Bg5
+{ played by 3 6 1 9 rated PlentyChess } 7... c6 8. O-O
+{ played by 3 5 1 5 rated Caissa } ( 8. Qe3 { played by 2 6 4 4 rated GreKo }
+8... O-O 9. O-O d5 10. Rfe1 Bd6 11. Bf1 Nbd7 12. Qd4 Qb6 13. Qd2 Qxb2 14. Rab1
+{ In an interesting battle, GreKo, rated 2 6 4 4, had the White pieces overpressed, and Leela on Black with Elo 2 6 4 6 secured the win. Both sides showed good positional understanding.0-1 }
+) ( 8. O-O-O { played by 3 6 1 9 rated PlentyChess } 8... d5 9. Rhe1
+{ played by 3 6 1 9 rated PlentyChess } ( 9. Bd3
+{ played by 2 8 8 2 rated Wahoo } 9... h6 10. Bxf6 Bxf6 11. Rhe1+ Be6 12. Qb4
+Qe7 13. Qxe7+ Kxe7 14. Ne2 Nd7 15. Ned4 Nc5 16. Nxe6 fxe6 17. Bg6
+{ Here we see that Wahoo, rated 2 8 8 2, had the White pieces overpressed, and Mess from the Black side with rating 2 7 7 3 secured the win. Small inaccuracies made the difference.0-1 }
+) 9... Be6 { we will see this position later on1/2-1/2 } ) 8... d5 9. Rae1 Be6
+10. Bd3 Nbd7 11. Qh4 Nc5 12. Nd4 Nxd3 13. cxd3 O-O 14. Nxe6 fxe6 15. Qh3 Rf7
+16. Rxe6 Qd7 17. Ne2
+{ After a long struggle, Caissa handling the White pieces rated 3 5 1 5 and Dragon as Black rated 3 6 0 0 shared the point. Both sides showed good positional understanding.1/2-1/2 }
+) 6... d5 7. O-O Be7 8. Qd2 O-O 9. c4 dxc4 10. Bxc4 Nc6 11. h3 Qxd2 12. Bxd2
+Ne4 13. Bf4 Bf6 14. Nc3 Nxc3 15. bxc3 Bxc3 16. Rac1
+{ In this game, Pedone as Black rated 3 0 0 5 seized the initiative and handed Laser as White rated 3 0 6 2 a loss. Small inaccuracies made the difference.0-1 }
+) 5... d5 6. Qxd4 Be6 7. Bb5+ c6 8. Bd3 c5 9. Qe3 f5 10. Nbd2 Bd6 11. Bxe4 dxe4
+12. Nxe4 fxe4 13. Qxe4 Qe7 14. Re1 Nc6 15. Bg5 Qf7 16. Rad1 Bc7 17. Qxe6+
+{ Once again, Murka playing White, rated 2 4 0 4 outplayed Simplex, rated 2 3 7 5, had the Black pieces and won the game. Both sides showed good positional understanding.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17 64-bit 4CPU"]
+[Black "Torch v3 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Urusov gambit"]
+[WhiteElo "3643"]
+[BlackElo "3635"]
+
+1. e4 e5 2. Bc4 Nf6 3. d4 exd4 4. Nf3
+{ entered in BISHOP S Opening Urusov Gambit } 4... Nxe4 5. Qxd4
+{ played by 3 6 4 3 rated Stockfish } 5... Nf6 6. Nc3
+{ played by 3 6 1 9 rated PlentyChess } ( 6. Bg5
+{ played by 3 6 4 3 rated Stockfish } 6... c6 7. Nc3 d5 8. O-O-O Be6 9. Qh4
+{ played by 3 1 8 1 rated Rice } ( 9. Bd3 { played by 2 7 6 1 rated Devel }
+9... Be7 10. Nh4 { played by 2 3 1 5 rated Lozza } 10... h6 11. Bf4 Nh5 12. Ng6
+fxg6 13. Bxg6+ Bf7 14. Bxh5 Bxh5 15. Qxg7 Rf8 16. Rd4 Bf7 17. Re1
+{ Here we see that Jacky playing Black, rated 2 3 6 0 could not hold the position, allowing Lozza as White rated 2 3 1 5 to win. The outcome was decided in the later stages.1-0 }
+) 9... Nbd7 10. Nd4 { played by 3 1 8 1 rated Rice } ( 10. Bd3
+{ played by 3 0 5 8 rated BlackMamba } 10... Qb6 11. Nd4 O-O-O 12. Kb1 h6 13.
+Bxf6 Nxf6 14. Nxe6 fxe6 15. Rde1 Bb4 16. Na4 Qa5 17. Rxe6
+{ In this game, BlackMamba, rated 3 0 5 8, had the Black pieces defended accurately and defeated Gull, rated 3 0 2 0, had the White pieces. Both sides showed good positional understanding.0-1 }
+) 10... Qa5 11. Bb3 O-O-O 12. Rhe1 Nc5 13. Kb1 h6 14. Bxf6 gxf6 15. Qxf6 Rg8
+16. g3 Bg7 17. Qf3
+{ In this game, After a long struggle, Rice handling the White pieces rated 3 1 8 1 and Fizbo handling the Black pieces rated 3 2 4 3 shared the point. The position remained tense for most of the game.1/2-1/2 }
+) 6... Be7 7. O-O { played by 3 5 1 6 rated pawnocchio } ( 7. Bg5
+{ played by 3 6 1 9 rated PlentyChess } 7... c6 8. O-O-O
+{ played by 3 6 1 9 rated PlentyChess } 8... d5 9. Qh4
+{ played by 3 4 4 6 rated Turbulence } 9... Be6 10. Rhe1
+{ we will see this position later on0-1 } ( 10. Nd4
+{ played by 2 6 8 2 rated Lozza } 10... Bd7 11. Bd3 h6 12. Nf5 Bxf5 13. Bxf5
+Kf8 14. Bxf6 Bxf6 15. Qb4+ Qe7 16. Qxe7+ Kxe7 17. Rhe1+
+{ Here we see that Neither Lozza playing White, rated 2 6 8 2 nor Delfi on Black with Elo 2 5 7 8 could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
+) ( 10. Bd3 { we will see this position later on0-1 } ) ) 7... Nc6 8. Qd3 O-O
+9. Re1 { played by 3 5 1 6 rated pawnocchio } ( 9. Bf4
+{ played by 2 9 8 7 rated Demolito } 9... Nb4 10. Qe2 d5 11. a3 Na6 12. Nxd5
+Nxd5 13. Bxd5 Qxd5 14. Qxe7 Bg4 15. Nd2 Rfe8 16. Qh4 Bf5 17. c4
+{ Here we see that Vajolet2 handling the Black pieces rated 3 0 7 3 outplayed Demolito, rated 2 9 8 7, had the White pieces and won as Black. The opening quickly led to complex middlegame play.0-1 }
+) 9... d6 10. h3 Nb4 11. Qe2 Nc6 12. Bg5 a6 13. Rad1 h6 14. Bh4 Bd7 15. Qd2 Nh7
+16. Bg3 Bf6 17. Nd5
+{ Here we see that After a long struggle, pawnocchio as White rated 3 5 1 6 and Yukari handling the Black pieces rated 3 4 2 5 shared the point. The position remained tense for most of the game.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17 64-bit 4CPU"]
+[Black "Torch v3 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Urusov gambit"]
+[WhiteElo "3643"]
+[BlackElo "3635"]
+
+1. e4 e5 2. Bc4 Nf6 3. d4 exd4 4. Nf3
+{ entered in BISHOP S Opening Urusov Gambit } 4... Nxe4 5. Qxd4
+{ played by 3 6 4 3 rated Stockfish } 5... Nf6 6. Nc3
+{ played by 3 6 1 9 rated PlentyChess } ( 6. Bg5
+{ played by 3 6 4 3 rated Stockfish } 6... c6 7. Nc3 d5 8. O-O-O Be6 9. Rhe1
+{ played by 3 6 4 3 rated Stockfish } 9... Be7 10. Qh4
+{ played by 3 6 3 2 rated Torch } 10... h6 11. Bd3
+{ played by 3 6 3 2 rated Torch } ( 11. Nd4
+{ played by 3 3 7 7 rated BlackCore } 11... O-O 12. Rxe6
+{ played by 3 3 7 7 rated BlackCore } ( 12. Bxh6
+{ played by 3 2 0 1 rated Winter } 12... Ng4 13. Qh5 Nxh6 14. Nxe6 fxe6 15.
+Rxe6 Qe8 16. Qe2 Rf7 17. Re1
+{ In this game, Winter from the White side with rating 3 2 0 1 converted the advantage and defeated Roc playing Black, rated 3 1 6 6. The position remained tense for most of the game.1-0 }
+) 12... fxe6 13. Nxe6 Qd6 14. Qh3
+{ In this game, BlackCore handling the White pieces rated 3 3 7 7 overpressed, and RubiChess handling the Black pieces rated 3 4 7 2 secured the win. The opening quickly led to complex middlegame play.0-1 }
+) 11... Kd7 12. Bd2 { played by 3 6 0 0 rated Caissa } ( 12. Be3
+{ played by 3 5 3 4 rated Clover } 12... Ne4 13. Qh5 Nxc3 14. bxc3 Ba3+ 15. Kd2
+g6 16. Ne5+ Kc8 17. Qf3
+{ Clover, rated 3 5 3 4, had the White pieces overpressed, and Stockfish on Black with Elo 3 6 4 0 secured the win. The position remained tense for most of the game.0-1 }
+) 12... Bd6 13. Nd4 g5 14. Nxe6 gxh4 15. Nxd8 Kxd8 16. h3 Rg8 17. Bf1
+{ After a long struggle, Caissa as White rated 3 6 0 0 and Obsidian from the Black side with rating 3 5 9 7 shared the point. Both sides showed good positional understanding.1/2-1/2 }
+) 6... Be7 7. O-O { played by 3 5 1 6 rated pawnocchio } 7... Nc6 8. Qd3 O-O 9.
+a3 { played by 2 9 4 9 rated Ethereal } 9... d6 10. Re1
+{ played by 2 9 4 9 rated Ethereal } ( 10. Bf4
+{ played by 2 7 6 9 rated RuyDos } 10... Nd7 11. Rae1
+{ played by 2 8 5 9 rated Dumb } ( 11. Rfe1 { played by 2 7 6 9 rated RuyDos }
+11... Nc5 12. Qd2 Bf5 13. b4 Ne6 14. Nd5 Bf6 15. c3 Re8 16. Bg3 Bg4 17. Qe3
+{ In this game, RuyDos from the White side with rating 2 7 6 9 overpressed, and Pawny playing Black, rated 2 7 8 7 secured the win. The outcome was decided in the later stages.0-1 }
+) 11... Nb6 12. Ba2 Be6 13. Bxe6 fxe6 14. Bg3 Qd7 15. Ne4 Rf5 16. c4 Raf8 17.
+b4
+{ Qapla playing Black, rated 2 8 9 0 outplayed Dumb as White rated 2 8 5 9 and won as Black. The outcome was decided in the later stages.0-1 }
+) 10... Bg4 11. Nd5 Nxd5 12. Bxd5 Bf6 13. h3 Bxf3 14. Qxf3 Nd4 15. Qd3 c6 16.
+c3 cxd5 17. cxd4
+{ In an interesting battle, Ethereal, rated 2 9 4 9, had the White pieces and Rodent, rated 3 1 0 3, had the Black pieces played a balanced game which ended in a draw. The outcome was decided in the later stages.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17 64-bit 4CPU"]
+[Black "Torch v3 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Urusov gambit"]
+[WhiteElo "3643"]
+[BlackElo "3635"]
+
+1. e4 e5 2. Bc4 Nf6 3. d4 exd4 4. Nf3
+{ entered in BISHOP S Opening Urusov Gambit } 4... Nxe4 5. Qxd4
+{ played by 3 6 4 3 rated Stockfish } 5... Nf6 6. Bg5
+{ played by 3 6 4 3 rated Stockfish } 6... c6 7. Nc3 d5 8. O-O-O Be6 9. Bd3
+{ played by 2 7 6 1 rated Devel } ( 9. Rhe1
+{ played by 3 6 4 3 rated Stockfish } 9... Be7 10. Bd3
+{ played by 3 6 4 3 rated Stockfish } 10... Nbd7 11. Qh4 Qc7 12. Nd4 O-O-O 13.
+Rxe6 { played by 3 6 4 3 rated Stockfish } 13... fxe6 14. Nxe6 Qe5 15. Qh3 Rhg8
+16. Bd2 { played by 3 6 4 3 rated Stockfish } ( 16. Be2
+{ played by 3 6 1 1 rated PlentyChess } 16... g6 17. Bf4
+{ In an interesting battle, After a long struggle, PlentyChess on White with Elo 3 6 1 1 and ShashChess handling the Black pieces rated 3 6 4 3 shared the point.1/2-1/2 }
+) 16... Rde8 17. Re1
+{ Here we see that Neither Stockfish handling the White pieces rated 3 6 4 3 nor Torch playing Black, rated 3 6 3 5 could convert, and the game was drawn. Both sides showed good positional understanding.1/2-1/2 }
+) 9... Be7 10. Qh4 { played by 2 7 6 1 rated Devel } 10... Nbd7 11. Nd4 Nc5 12.
+Rhe1 Ng8 13. Bxe7 { played by 2 4 9 4 rated ECE } ( 13. f4
+{ played by 3 6 1 7 rated Integral } 13... Bxg5 14. fxg5 Ne7 15. Na4
+{ played by 3 6 1 7 rated Integral } ( 15. Kb1
+{ played by 3 5 9 9 rated Stockfish } 15... Nxd3 16. Nxe6 fxe6 17. Rxd3
+{ Once again, After a long struggle, Stockfish as White rated 3 5 9 9 and RubiChess on Black with Elo 3 4 6 1 shared the point.1/2-1/2 }
+) ( 15. Nxe6 { played by 2 9 4 7 rated Wasp } 15... fxe6 16. b4 Nxd3+ 17. Rxd3
+{ In this game, The game between Wasp on White with Elo 2 9 4 7 and Elektro as Black rated 3 0 7 4 finished level. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 15... Nxd3+ 16. Rxd3 Qd6 17. Nxe6
+{ Once again, Neither Integral playing White, rated 3 6 1 7 nor Lizard, rated 3 6 0 4, had the Black pieces could convert, and the game was drawn.1/2-1/2 }
+) 13... Nxe7 14. Bxh7 Qd6 15. b4 Na6 16. b5 Nc7 17. bxc6
+{ ECE playing Black, rated 2 4 9 4 outplayed TJchess on White with Elo 2 4 0 6 and won as Black. The outcome was decided in the later stages.0-1 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17 64-bit 4CPU"]
+[Black "Torch v3 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Urusov gambit"]
+[WhiteElo "3643"]
+[BlackElo "3635"]
+
+1. e4 e5 2. Bc4 Nf6 3. d4 exd4 4. Nf3
+{ entered in BISHOP S Opening Urusov Gambit } 4... Nxe4 5. Qxd4
+{ played by 3 6 4 3 rated Stockfish } 5... Nf6 6. Bg5
+{ played by 3 6 4 3 rated Stockfish } 6... c6 7. Nc3 d5 8. O-O-O Be6 9. Rhe1
+{ played by 3 6 4 3 rated Stockfish } 9... Be7 10. Bd3
+{ played by 3 6 4 3 rated Stockfish } 10... Nbd7 11. Qh4 Qc7 12. Nd4 O-O-O 13.
+Nxe6 { played by 3 6 3 5 rated Torch } 13... fxe6 14. Rxe6 Nc5 15. Re2 Nxd3+
+16. Rxd3 h6 17. Qh3+
+{ The game between Torch on White with Elo 3 6 3 5 and Stockfish playing Black, rated 3 6 4 3 finished level. The opening quickly led to complex middlegame play.1/2-1/2 }
+( 17. Be3
+{ Here we see that Caissa handling the Black pieces rated 3 6 0 9 outplayed Koivisto from the White side with rating 3 5 5 1 and won as Black. Small inaccuracies made the difference.0-1 }
+) 1/2-1/2
+
+
+

@@ -1,0 +1,791 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chess System Tal 2.00 Elo 64-bit 4CPU"]
+[Black "Berserk 12 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "E87"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5"]
+[WhiteElo "3583"]
+[BlackElo "3608"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5
+{ entered in KING S Indian Saemisch Orthodox 7 D5 } 7... Nbd7
+{ played by 2 9 2 9 rated Deep } ( 7... Bd7 { played by 2 4 4 7 rated Jumbo }
+8. c5 dxc5 9. Bxc5 Re8 10. g4 c6 11. d6 b6 12. Be3 Bf8 13. h4 Re6 14. Qe2 Rxd6
+15. h5 Be6 16. Qh2 Nbd7 17. hxg6 fxg6 18. g5 Nh5 19. f4 exf4 20. Bxf4
+{ In an interesting battle, Jumbo handling the Black pieces rated 2 4 4 7 defended accurately and defeated Shallow, rated 2 4 1 5, had the White pieces. Both sides showed good positional understanding.0-1 }
+) ( 7... b6 { played by 2 4 3 9 rated Topple } 8. g4 Nfd7 9. h4 Bb7 10. Qd2 f5
+11. gxf5 gxf5 12. exf5 Rxf5 13. O-O-O Na6 14. h5 Rf8 15. Nh3 Ndc5 16. Be2 Kh8
+17. Nf2 Bf6 18. h6 Qe7 19. Kb1 Rg8 20. Rhg1
+{ In this game, Neither Taltos, rated 2 4 1 4, had the White pieces nor Topple on Black with Elo 2 4 3 9 could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
+) ( 7... Ne8 { played by 3 6 2 2 rated Caissa } 8. Bd3 f5
+{ played by 2 6 2 4 rated ProDeo } 9. exf5 Bxf5 10. Nge2 Bxd3 11. Qxd3 Bh6 12.
+Bf2 Nf6 13. O-O Nbd7 14. Ng3 Bf4 15. Rfe1 a6 16. b4 Bxg3 17. hxg3 a5 18. a3 Nh5
+19. Qd2 b6 20. Qh6
+{ In this game, ProDeo from the White side with rating 2 6 2 4 remained in control, handing Pseudo handling the Black pieces rated 2 5 8 2 a loss. Small inaccuracies made the difference.1-0 }
+) ( 7... Nh5 { played by 3 6 2 2 rated Stockfish } 8. Qd2 a5
+{ played by 3 2 4 0 rated Houdini } ( 8... Qe7
+{ played by 3 1 4 7 rated Komodo } 9. O-O-O a5 10. g4
+{ we will see this position later on1-0 } ) ( 8... c6
+{ played by 2 9 4 1 rated Cheng } 9. dxc6 Nxc6 10. O-O-O Be6 11. Nb5 a6 12. Nc3
+Rc8 13. Kb1 Nd4 14. b3 b5 15. cxb5 axb5 16. Nge2 b4 17. Na4 Nc2 18. Bb6 Qh4 19.
+Qxd6 Ne3 20. Rc1
+{ EXchess from the White side with rating 2 8 6 7 outplayed Cheng handling the Black pieces rated 2 9 4 1 and won the game. The position remained tense for most of the game.1-0 }
+) 9. Nge2 a4 10. Nb5 Nd7 11. O-O-O Nc5 12. Nec3 b6 13. Kb1 f5 14. Bd3 Nxd3 15.
+Qxd3 Nf6 16. h3 f4 17. Bf2 Bd7 18. Qc2 Bxb5 19. Nxb5 Qd7 20. Rd3
+{ In this game, Houdini from the White side with rating 3 2 4 0 converted the advantage and defeated Rybka playing Black, rated 3 1 8 4. The outcome was decided in the later stages.1-0 }
+) 8. Qd2 Nh5 { we will see this position later on1-0 } 1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chess System Tal 2.00 Elo 64-bit 4CPU"]
+[Black "Berserk 12 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "E87"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5"]
+[WhiteElo "3583"]
+[BlackElo "3608"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5
+{ entered in KING S Indian Saemisch Orthodox 7 D5 } 7... a5
+{ played by 3 5 1 6 rated RubiChess } ( 7... Na6
+{ played by 3 1 1 9 rated Critter } 8. g4 Nc5
+{ played by 3 1 1 9 rated Critter } ( 8... h5 { played by 2 4 3 0 rated Queen }
+9. h3 Bd7 10. Qb3 b6 11. Qa3 Nc5 12. Rh2 a5 13. Bg5 Kh7 14. Nb5 Qb8 15. Be3 c6
+16. dxc6 Bxc6 17. Rd1 Bxb5 18. cxb5 Qc7 19. Rc2 Rac8 20. Bc4
+{ Queen playing Black, rated 2 4 3 0 could not hold the position, allowing LittleThought from the White side with rating 2 4 7 9 to win. Small inaccuracies made the difference.1-0 }
+) 9. h4 h5 10. g5 Nfd7 11. b4 Na6 12. Qa4 Re8 13. O-O-O Bf8 14. a3 Nab8 15. Qa5
+Nb6 16. Nb5 N8d7 17. Rh2 a6 18. Nc3 Nb8 19. c5 dxc5 20. bxc5
+{ After a long struggle, Rybka playing White, rated 3 0 7 6 and Critter playing Black, rated 3 1 1 9 shared the point.1/2-1/2 }
+) ( 7... Ne8 { played by 3 6 2 2 rated Caissa } 8. Bd3 Bh6
+{ played by 3 6 2 2 rated Caissa } 9. Bf2 Na6
+{ played by 3 6 0 8 rated Berserk } ( 9... f5 { played by 3 5 8 3 rated Chess }
+10. h4 f4 11. c5 dxc5 12. Bxc5 Nd6 13. Nh3 b6 14. Bf2 Rf7 15. Be2 a5 16. Qc2
+Bd7 17. O-O-O b5 18. a4 bxa4 19. Nxa4 Na6 20. Bxa6
+{ Berserk on White with Elo 3 6 0 8 converted the advantage and defeated Chess from the Black side with rating 3 5 8 3. Small inaccuracies made the difference.1-0 }
+) 10. h4 c6 11. h5 Kg7 12. Nge2 Bg5 13. a3 Nf6 14. Ng3 Bd7 15. b4 Nc7 16. Kf1
+b5 17. dxc6 bxc4 18. Bxc4 Bxc6 19. Qd3 Bd7 20. Nge2
+{ Here we see that RubiChess on White with Elo 3 6 0 1 outplayed Rebel playing Black, rated 3 5 7 9 and won the game. The opening quickly led to complex middlegame play.1-0 }
+) ( 7... Nh5 { played by 3 6 2 2 rated Stockfish } 8. Qd2 f5
+{ played by 3 6 2 2 rated Stockfish } 9. exf5 Bxf5
+{ played by 2 4 1 8 rated Waxman } 10. g4 Bxg4 11. fxg4 Qh4+ 12. Bf2 Qxg4 13.
+Nh3 Nf4 14. Rg1 Qd7 15. Nxf4 exf4 16. O-O-O f3 17. Rg3 Qd8 18. Bh3 Nd7 19. Be6+
+Kh8 20. Ne4
+{ Here we see that Weiawaga playing White, rated 2 5 0 4 outplayed Waxman, rated 2 4 1 8, had the Black pieces and won the game. Both sides showed good positional understanding.1-0 }
+) 8. Qd2 a4 { played by 3 0 7 6 rated Rybka } 9. Bd3 Bd7 10. Bc2 c6 11. Nge2
+cxd5 12. cxd5 Qa5 13. O-O Rc8 14. b4 axb3 15. axb3 Qxa1 16. Rxa1 Rxa1+ 17. Bd1
+Ra6 18. Na4 Rc7 19. Bb6 Rc8 20. Nec3
+{ Critter, rated 3 1 1 9, had the White pieces remained in control, handing Rybka from the Black side with rating 3 0 7 6 a loss. Small inaccuracies made the difference.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chess System Tal 2.00 Elo 64-bit 4CPU"]
+[Black "Berserk 12 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "E87"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5"]
+[WhiteElo "3583"]
+[BlackElo "3608"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5
+{ entered in KING S Indian Saemisch Orthodox 7 D5 } 7... Nh5
+{ played by 3 6 2 2 rated Stockfish } ( 7... c5
+{ played by 3 6 1 5 rated Obsidian } 8. Qd2 Nh5
+{ played by 3 6 1 5 rated Obsidian } ( 8... Na6
+{ played by 3 3 5 7 rated Velvet } 9. g4 h5 { played by 3 3 5 7 rated Velvet }
+( 9... Nc7 { played by 3 2 8 2 rated Smallbrain } 10. Nge2 h5 11. gxh5 Nxh5 12.
+Ng3 Nf4 13. h4 Rb8 14. h5 a6 15. a4 Bd7 16. Qh2 g5 17. h6 Bf6 18. h7+ Kh8 19.
+Qh6 Bg7 20. Qxd6
+{ Once again, Velvet, rated 3 3 5 7, had the White pieces converted the advantage and defeated Smallbrain playing Black, rated 3 2 8 2. The position remained tense for most of the game.1-0 }
+) 10. h3 Nc7 11. a4 Nh7 12. Bd3 a6 13. a5 Rb8 14. Na4 f5 15. Nb6 f4 16. Bf2 Bf6
+17. gxh5 gxh5 18. h4 Na8 19. Nxc8 Qxc8 20. b4
+{ Once again, Smallbrain playing White, rated 3 2 8 2 and Velvet on Black with Elo 3 3 5 7 played a balanced game which ended in a draw.1/2-1/2 }
+) 9. Nge2 f5 { played by 3 5 4 5 rated Cinder } 10. exf5 gxf5 11. Bg5 Bf6 12.
+Bh6 Bg7 13. Rg1 Kh8 14. g4 f4 15. Bxg7+ Nxg7 16. Ne4 Nd7 17. N2c3 Nf6 18. O-O-O
+Nxe4 19. Nxe4 a6 20. b4
+{ Here we see that Viridithas on White with Elo 3 6 0 6 outplayed Cinder from the Black side with rating 3 5 4 5 and won the game. The outcome was decided in the later stages.1-0 }
+) 8. Qd2 Qh4+ { played by 3 6 2 2 rated Stockfish } ( 8... Nd7
+{ played by 3 2 9 0 rated Houdini } 9. O-O-O a6
+{ played by 3 2 9 0 rated Houdini } ( 9... a5
+{ played by 3 2 8 4 rated Komodo } 10. Kb1 a4 11. Nb5 Nc5 12. Ne2 f5 13. Bxc5
+dxc5 14. d6 cxd6 15. Nec3 a3 16. b3 fxe4 17. Nxe4 Nf6 18. Nbxd6 Qe7 19. Bd3 Rd8
+20. Nxc8
+{ Once again, Fire, rated 3 1 9 1, had the White pieces overpressed, and Komodo playing Black, rated 3 2 8 4 secured the win. Both sides showed good positional understanding.0-1 }
+) ( 9... Nc5 { played by 2 9 2 9 rated Deep } 10. g4 Nf4 11. Nge2 Nfd3+ 12. Kb1
+a5 13. Nb5 Ra6 14. h4 h6 15. Ng1 Nf4 16. Nh3 Nxh3 17. Bxh3 Kh7 18. g5 h5 19.
+Bxc8 Qxc8 20. Bxc5
+{ Here we see that Hiarcs as White rated 2 9 1 6 outplayed Deep handling the Black pieces rated 2 9 2 9 and won the game. Small inaccuracies made the difference.1-0 }
+) 10. g4 Nf4 11. h4 Rb8 12. Kb1 Nc5 13. Nh3 Qe7 14. Rh2 Nxh3 15. Rxh3 Bd7 16.
+h5 Bf6 17. g5 Bxh3 18. gxf6 Qxf6 19. Bxh3 Qxf3 20. Bg2
+{ In this game, Critter as White rated 3 2 0 1 remained in control, handing Houdini on Black with Elo 3 2 9 0 a loss.1-0 }
+) 9. g3 Qd8 { played by 2 8 5 8 rated Frozenight } 10. Nh3 a5 11. g4 a4 12. a3
+Nf6 13. Nf2 Nfd7 14. h4 Nc5 15. Bxc5 dxc5 16. g5 f5 17. O-O-O fxe4 18. Nfxe4
+Rxf3 19. Bg2 Rf4 20. Ne2
+{ Princhess as White rated 2 8 2 9 and Arasan handling the Black pieces rated 2 8 5 5 played a balanced game which ended in a draw. The opening quickly led to complex middlegame play.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chess System Tal 2.00 Elo 64-bit 4CPU"]
+[Black "Berserk 12 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "E87"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5"]
+[WhiteElo "3583"]
+[BlackElo "3608"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5
+{ entered in KING S Indian Saemisch Orthodox 7 D5 } 7... c5
+{ played by 3 6 1 5 rated Obsidian } ( 7... Nfd7
+{ played by 3 5 5 9 rated Fat } 8. Qd2 f5 { played by 3 5 5 9 rated Fat } 9.
+O-O-O Na6 { played by 3 5 5 9 rated Fat } 10. h4 f4 11. Bf2 h6 12. Kb1 b6 13.
+Nge2 Kh7 14. Nc1 Nac5 15. Be2 Nf6 16. Rdg1 Bd7 17. Bd1 a5 18. a3 Qe8 19. Nd3
+Nh5 20. Bc2
+{ In an interesting battle, Rebel from the White side with rating 3 4 1 7 overpressed, and Fat, rated 3 5 5 9, had the Black pieces secured the win. The outcome was decided in the later stages.0-1 }
+) ( 7... a5 { played by 3 5 1 6 rated RubiChess } 8. Qd2 Na6
+{ played by 3 5 1 6 rated RubiChess } 9. O-O-O Nd7
+{ played by 3 5 1 6 rated RubiChess } ( 9... Nc5
+{ played by 3 2 4 8 rated Schooner } 10. g4 h5 11. h3 Bd7 12. Kb1 a4 13. Nge2
+a3 14. b3 Qb8 15. Rg1 Kh7 16. Ng3 h4 17. Nh1 Rh8 18. Nf2 Be8 19. Be2 Kg8 20.
+Rge1
+{ In an interesting battle, Schooner handling the Black pieces rated 3 2 4 8 could not hold the position, allowing Houdini, rated 3 3 9 0, had the White pieces to win. The outcome was decided in the later stages.1-0 }
+) 10. g4 Ndc5 11. h4 f5 12. gxf5 gxf5 { we will see this position later on1-0 }
+) ( 7... Ne8 { played by 3 6 2 2 rated Caissa } 8. Bd3 Bh6
+{ played by 3 6 2 2 rated Caissa } 9. Bf2 c6 { played by 3 6 2 2 rated Caissa }
+10. Nge2 Nd7 { played by 3 6 2 2 rated Caissa } ( 10... cxd5
+{ played by 3 5 8 1 rated Cinder } 11. Nxd5 Nc7 12. Ndc3 Nc6 13. O-O b6 14. Qa4
+Bb7 15. Rad1 Ne6 16. Kh1 Re8 17. Qa3 Bf8 18. Nd5 Bg7 19. Qc3 Ncd4 20. Qd2
+{ In an interesting battle, Caissa from the White side with rating 3 6 2 2 outplayed Cinder playing Black, rated 3 5 8 1 and won the game. The position remained tense for most of the game.1-0 }
+) 11. h4 Nc5 12. Bc2 cxd5 13. Nxd5 Nc7 14. Ne3 Be6 15. b3 b5 16. b4 Na4 17.
+cxb5 Nb2 18. Qc1 Nc4 19. Bd3 Nxb5 20. Bxc4
+{ Here we see that Neither Chess from the White side with rating 3 5 8 3 nor Berserk as Black rated 3 6 0 8 could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+) 8. Qd2 Nbd7 { played by 2 4 8 7 rated Hermann } 9. Bd3 Ne8
+{ played by 2 4 8 7 rated Hermann } ( 9... Nb6
+{ played by 2 4 5 6 rated Matacz } 10. Bg5 Bd7 11. a4 a5 12. Nge2 Re8 13. Nb5
+Nc8 14. O-O Qb6 15. Qe1 Nh5 16. Bd2 Nf4 17. Nxf4 exf4 18. Qc1 g5 19. g3 fxg3
+20. Bxg5
+{ Once again, Hermann handling the White pieces rated 2 4 8 7 converted the advantage and defeated Matacz on Black with Elo 2 4 5 6. Both sides showed good positional understanding.1-0 }
+) 10. Nge2 Nb6 11. O-O f5 12. a3 f4 13. Bf2 Nd7 14. b4 b6 15. Rab1 Nc7 16. Rfd1
+Rb8 17. Qc2 Bb7 18. Rd2 Rf7 19. Qa4 Ra8 20. Nc1
+{ Here we see that Matacz handling the White pieces rated 2 4 5 6 remained in control, handing Hermann handling the Black pieces rated 2 4 8 7 a loss.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chess System Tal 2.00 Elo 64-bit 4CPU"]
+[Black "Berserk 12 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "E87"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5"]
+[WhiteElo "3583"]
+[BlackElo "3608"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5
+{ entered in KING S Indian Saemisch Orthodox 7 D5 } 7... Ne8
+{ played by 3 6 2 2 rated Caissa } ( 7... Nh5
+{ played by 3 6 2 2 rated Stockfish } 8. Qd2 f5
+{ played by 3 6 2 2 rated Stockfish } 9. exf5 gxf5
+{ played by 3 6 2 0 rated Stockfish } 10. O-O-O b5
+{ played by 3 4 1 6 rated Patricia } ( 10... Bd7
+{ played by 3 3 9 0 rated Houdini } 11. Bd3 a5
+{ we will see this position later on1-0 } ) ( 10... Qe7
+{ played by 3 2 9 1 rated rofChade } 11. Bd3 a6 12. Nge2 b5 13. cxb5 axb5 14.
+Bxb5 Kh8 15. a3 Nf6 16. Rhg1 Bd7 17. g4 fxg4 18. Bxd7 Qxd7 19. f4 Qe8 20. fxe5
+{ In an interesting battle, rofChade on Black with Elo 3 2 9 1 could not hold the position, allowing Wasp from the White side with rating 3 2 9 2 to win. Small inaccuracies made the difference.1-0 }
+) 11. cxb5 a6 12. Nh3 Nd7 13. bxa6 Bxa6 14. Bxa6 Rxa6 15. Qc2 Qa8 16. Ng5 Rxa2
+17. Nxa2 Qxa2 18. Rd3
+{ In this game, Patricia on Black with Elo 3 4 1 6 could not hold the position, allowing PZChessBot on White with Elo 3 3 6 8 to win. The outcome was decided in the later stages.1-0 }
+) 8. Bd3 Bh6 { played by 3 6 2 2 rated Caissa } 9. Bf2 Qg5
+{ played by 2 8 4 6 rated Cheese } 10. g4 Na6
+{ played by 2 8 4 6 rated Cheese } ( 10... Qd8
+{ played by 2 5 3 2 rated Pirarucu } 11. h4 Na6 12. g5 Bg7 13. Qd2 Bd7 14.
+O-O-O c6 15. dxc6 bxc6 16. Kb1 Qe7 17. h5 Nc5 18. Bxc5 dxc5 19. Qh2 Bh8 20. Na4
+{ In this game, tomitankChess handling the White pieces rated 2 6 5 7 outplayed Pirarucu on Black with Elo 2 5 3 2 and won the game. The outcome was decided in the later stages.1-0 }
+) ( 10... Nd7 { played by 2 4 6 7 rated Fornax } 11. h4 Qe7 12. g5 Bg7 13. Qd2
+Nc5 14. Bc2 f6 15. Be3 f5 16. exf5 Bxf5 17. O-O-O Bxc2 18. Qxc2 Qf7 19. Rd2 Na6
+20. h5
+{ KnightX as White rated 2 6 0 1 remained in control, handing Fornax playing Black, rated 2 4 6 7 a loss.1-0 }
+) 11. h4 Qe7 12. a3 Nc5 13. Bc2 a5 14. Nge2 Bd7 15. O-O f5 16. exf5 gxf5 17. g5
+Bxg5 18. hxg5 Qxg5+ 19. Kh1
+{ Here we see that Devel playing White, rated 2 7 2 6 and Cheese on Black with Elo 2 8 4 6 played a balanced game which ended in a draw. The position remained tense for most of the game.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chess System Tal 2.00 Elo 64-bit 4CPU"]
+[Black "Berserk 12 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "E87"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5"]
+[WhiteElo "3583"]
+[BlackElo "3608"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5
+{ entered in KING S Indian Saemisch Orthodox 7 D5 } 7... Nh5
+{ played by 3 6 2 2 rated Stockfish } 8. Qd2 Qh4+
+{ played by 3 6 2 2 rated Stockfish } ( 8... Nd7
+{ played by 3 2 9 0 rated Houdini } 9. O-O-O f5
+{ played by 2 9 1 6 rated Hiarcs } 10. Bd3 Nc5
+{ played by 3 5 7 4 rated Arasan } ( 10... Ndf6
+{ played by 2 8 3 9 rated Deep } 11. exf5 Bxf5 12. Bxf5 gxf5 13. Nh3 Nd7 14. g3
+Qe7 15. Rhe1 Rae8 16. Ng5 f4 17. gxf4 exf4 18. Bxf4 Qf6 19. Rxe8 Rxe8 20. Be3
+{ In this game, Zap!Chess on White with Elo 2 9 7 3 remained in control, handing Rybka playing Black, rated 3 0 0 3 a loss. Both sides showed good positional understanding.1-0 }
+) 11. Bxc5 dxc5 12. exf5 gxf5 { we will see this position later on1-0 } ) (
+8... f5 { played by 3 6 2 2 rated Stockfish } 9. exf5 gxf5
+{ played by 3 6 2 0 rated Stockfish } 10. O-O-O Na6
+{ played by 3 6 2 0 rated Stockfish } 11. Bd3 Qe7
+{ played by 3 2 4 6 rated Shredder } ( 11... Qf6
+{ played by 3 2 0 4 rated Stash } 12. Nge2 b6 13. g3 Qf7 14. Rhg1 Nf6 15. h3
+Nd7 16. Bb1 Re8 17. Rdf1 Nf8 18. f4 e4 19. g4 Nc5 20. Bd4
+{ Stash handling the Black pieces rated 3 2 0 4 could not hold the position, allowing DanaSah handling the White pieces rated 3 2 2 7 to win. The outcome was decided in the later stages.1-0 }
+) 12. Nge2 Nf6 13. h4 c6 14. h5 cxd5 15. h6 Bh8 16. Nxd5 Nxd5 17. cxd5 e4 18.
+Bb5 Be5 19. Kb1 Qf7 20. f4
+{ In this game, Shredder from the Black side with rating 3 2 4 6 could not hold the position, allowing Komodo playing White, rated 3 3 9 2 to win. The outcome was decided in the later stages.1-0 }
+) 9. g3 Qe7 { played by 3 6 2 2 rated Stockfish } 10. O-O-O a5
+{ played by 3 2 3 1 rated Chiron } ( 10... a6 { played by 2 7 8 8 rated GreKo }
+11. Nh3 Nd7 12. Kb1 Nb6 13. g4 Nf6 14. Nf2 h5 15. g5 Nfd7 16. Rg1 Nc5 17. b3
+Bd7 18. h4 a5 19. Nb5 Qd8 20. Nd3
+{ Coiled as White rated 2 7 9 6 converted the advantage and defeated GreKo handling the Black pieces rated 2 7 8 8. Both sides showed good positional understanding.1-0 }
+) ( 10... Nf6 { played by 2 1 8 0 rated FireFly } 11. Bg5 Na6 12. g4 Rd8 13. h4
+Qf8 14. h5 h6 15. Be3 g5 16. Nge2 Nd7 17. Ng3 Nb6 18. Nf5 Bxf5 19. exf5 Qe7 20.
+Ne4
+{ In this game, Mango on White with Elo 2 1 7 9 converted the advantage and defeated FireFly from the Black side with rating 2 1 8 0.1-0 }
+) 11. g4 Nf4 12. h4 a4 13. Nge2 a3 14. b3 Na6 15. h5 h6 16. Kb1 g5 17. Nb5 Nc5
+18. Ng3 Rd8 19. Qc1 Bf6 20. b4
+{ Weiss as White rated 3 2 6 4 converted the advantage and defeated Chiron handling the Black pieces rated 3 2 3 1. Both sides showed good positional understanding.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chess System Tal 2.00 Elo 64-bit 4CPU"]
+[Black "Berserk 12 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "E87"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5"]
+[WhiteElo "3583"]
+[BlackElo "3608"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5
+{ entered in KING S Indian Saemisch Orthodox 7 D5 } 7... Nh5
+{ played by 3 6 2 2 rated Stockfish } 8. Qd2 f5
+{ played by 3 6 2 2 rated Stockfish } 9. exf5 gxf5
+{ played by 3 6 2 0 rated Stockfish } 10. O-O-O Nd7
+{ played by 3 6 1 6 rated ShashChess } ( 10... a5
+{ played by 3 4 5 6 rated Houdini } 11. Bd3 Bd7
+{ played by 3 3 8 0 rated Fire } ( 11... b6 { played by 3 3 4 3 rated Komodo }
+12. Bc2 Na6 13. Nge2 Bd7 14. Bg5 Bf6 15. Bh6 Bg7 16. Rhg1 Bxh6 17. Qxh6 Ng7 18.
+g4 Qf6 19. Qh3 a4 20. a3
+{ In an interesting battle, Houdini on White with Elo 3 4 5 6 outplayed Komodo as Black rated 3 3 4 3 and won the game. The opening quickly led to complex middlegame play.1-0 }
+) ( 11... Kh8 { played by 3 0 9 1 rated Protector } 12. a3 Na6 13. Kb1 b6 14.
+Bc2 Bd7 15. Nge2 Nf6 16. Bf2 Nc5 17. Ng3 Qc8 18. Nb5 a4 19. Ne2 Ng8 20. Bxc5
+{ In an interesting battle, Bagatur playing White, rated 3 0 3 4 converted the advantage and defeated Protector from the Black side with rating 3 0 9 1. The outcome was decided in the later stages.1-0 }
+) 12. Nge2 Na6 { we will see this position later on1-0 } ) ( 10... a6
+{ played by 3 3 7 7 rated Zahak } 11. Nh3 Nd7
+{ played by 3 4 9 0 rated Velvet } ( 11... f4 { played by 3 3 9 8 rated Minic }
+12. Bf2 Bxh3 13. gxh3 Nf6 14. Bd3 Qe8 15. Rhg1 Qh5 16. Qe2 Nbd7 17. h4 Kh8 18.
+Rg5 Qe8 19. Qf1 Bh6 20. Rf5
+{ In this game, Black playing White, rated 3 3 8 2 outplayed Minic on Black with Elo 3 3 9 8 and won the game. Small inaccuracies made the difference.1-0 }
+) ( 11... Kh8 { played by 3 3 5 9 rated Nemorino } 12. Rg1 f4 13. Bf2 Bxh3 14.
+gxh3 Nf6 15. Kb1 b6 16. Qc2 Nbd7 17. Bd3 Bh6 18. Bf5 Qe8 19. a3 Qh5 20. Rg4
+{ Here we see that After a long struggle, Expositor handling the White pieces rated 3 2 7 1 and Nemorino from the Black side with rating 3 3 5 9 shared the point. Both sides showed good positional understanding.1/2-1/2 }
+) 12. Rg1 Nc5 13. Ng5 Bd7 14. g4 fxg4 15. Bxc5 Nf4 16. Nce4 dxc5 17. fxg4 Bh6
+18. h4 Be8 19. Kb1 Bxg5 20. hxg5
+{ In an interesting battle, Arasan playing White, rated 3 5 0 2 and Velvet from the Black side with rating 3 4 9 0 played a balanced game which ended in a draw. Small inaccuracies made the difference.1/2-1/2 }
+) 11. Nge2 Nc5 { played by 3 5 8 5 rated Berserk } ( 11... Ndf6
+{ played by 3 4 9 8 rated Stockfish } 12. Bg5 Qe8 13. Ng3 e4 14. Re1 Qg6 15.
+Nxh5 Nxh5 16. Rg1 Bxc3 17. bxc3 f4 18. Be7 e3 19. Qd4 Rf7 20. Bd3
+{ After a long struggle, Igel handling the White pieces rated 3 4 5 7 and Stockfish from the Black side with rating 3 4 9 8 shared the point. Small inaccuracies made the difference.1/2-1/2 }
+) 12. Ng3 Nf4 13. Bxf4 exf4 14. Nh5 Bh8 15. Nxf4 Bd7 16. h4 Qf6 17. Rh3 Rae8
+18. Nb5 Kf7 19. Nxc7 Ba4
+{ Here we see that Titan, rated 3 5 4 7, had the Black pieces could not hold the position, allowing Torch, rated 3 6 1 1, had the White pieces to win. The opening quickly led to complex middlegame play.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chess System Tal 2.00 Elo 64-bit 4CPU"]
+[Black "Berserk 12 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "E87"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5"]
+[WhiteElo "3583"]
+[BlackElo "3608"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5
+{ entered in KING S Indian Saemisch Orthodox 7 D5 } 7... Nh5
+{ played by 3 6 2 2 rated Stockfish } 8. Qd2 f5
+{ played by 3 6 2 2 rated Stockfish } 9. exf5 gxf5
+{ played by 3 6 2 0 rated Stockfish } 10. O-O-O Qe8
+{ played by 3 3 5 9 rated Nemorino } ( 10... Nf6
+{ played by 3 2 7 7 rated Houdini } 11. Kb1 Na6
+{ played by 3 2 7 7 rated Houdini } ( 11... Qe8
+{ played by 2 9 9 1 rated Spark } 12. Nh3 f4 13. Bf2
+{ Here we see that Critter on White with Elo 3 1 7 8 converted the advantage and defeated Spark from the Black side with rating 2 9 9 1. Small inaccuracies made the difference.1-0 }
+) 12. g3 b6 13. Nh3 Nc5 14. Ng5 Qe7 15. Re1 a5 16. Nb5 a4 17. h4 a3 18. Nxa3 h6
+19. Nh3 Nh5 20. Rg1
+{ Here we see that Stockfish from the White side with rating 3 1 8 2 and Houdini playing Black, rated 3 2 7 7 played a balanced game which ended in a draw. Both sides showed good positional understanding.1/2-1/2 }
+) ( 10... Qf6 { played by 3 2 6 4 rated Weiss } 11. Bd3 Nd7
+{ played by 3 2 6 4 rated Weiss } 12. Nge2 e4 13. fxe4 Ne5 14. Rhf1 Qg6 15. b3
+Nxd3+ 16. Qxd3 Bd7 17. Bd4 fxe4 18. Qxe4 Rxf1 19. Rxf1 Qxe4 20. Nxe4
+{ Once again, Clover as White rated 3 2 7 4 converted the advantage and defeated Weiss, rated 3 2 6 4, had the Black pieces. The position remained tense for most of the game.1-0 }
+) ( 10... Kh8 { played by 3 2 5 0 rated Combusken } 11. Bd3 a6
+{ played by 3 2 5 0 rated Combusken } ( 11... Nd7
+{ played by 3 2 1 4 rated RukChess } 12. Nh3 a6 13. Kb1 Nc5 14. Bc2 b5 15. cxb5
+axb5 16. Nxb5 Rb8 17. Nc3 Qh4 18. Ka1 Qb4 19. Rb1 Ra8 20. Bxc5
+{ The game between Viridithas playing White, rated 3 2 1 7 and RukChess, rated 3 2 1 4, had the Black pieces finished level. Small inaccuracies made the difference.1/2-1/2 }
+) 12. Nh3 Bd7 13. Rhg1 f4 14. Bf2 a5 15. Ne4 Nf6 16. Nhg5 Nxe4 17. Nxe4 Na6 18.
+g4 Rg8 19. h4 Bf6 20. c5
+{ In this game, Lc0 from the White side with rating 3 3 2 4 remained in control, handing Combusken as Black rated 3 2 5 0 a loss. The outcome was decided in the later stages.1-0 }
+) 11. Bd3 Kh8 { played by 3 3 5 9 rated Nemorino } ( 11... Na6
+{ played by 2 5 4 3 rated Cheng3 } 12. Nge2 Nb4 13. Bb1 Na6 14. Bc2 Bd7 15. a3
+Nf6 16. Kb1 b6 17. Ka1 Rc8 18. h4 Nc5 19. Rde1 Qf7 20. h5
+{ In this game, CuckooChess handling the White pieces rated 2 5 7 8 converted the advantage and defeated Cheng3 on Black with Elo 2 5 4 3. The opening quickly led to complex middlegame play.1-0 }
+) 12. Nge2 Na6 13. a3 Bd7 14. Bc2 b6 15. b4 Nb8 16. Bh6 Qe7 17. Bg5 Bf6 18. h4
+a5 19. b5 Bc8 20. Kb1
+{ In this game, Nemorino handling the Black pieces rated 3 3 5 9 could not hold the position, allowing Velvet handling the White pieces rated 3 3 5 7 to win. Small inaccuracies made the difference.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chess System Tal 2.00 Elo 64-bit 4CPU"]
+[Black "Berserk 12 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "E87"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5"]
+[WhiteElo "3583"]
+[BlackElo "3608"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5
+{ entered in KING S Indian Saemisch Orthodox 7 D5 } 7... Nh5
+{ played by 3 6 2 2 rated Stockfish } ( 7... Nfd7
+{ played by 3 5 5 9 rated Fat } 8. Qd2 a5 { played by 2 9 9 3 rated Pirarucu }
+9. Bd3 Na6 10. Nge2 Ndc5 11. Bc2 f5 { played by 3 2 8 7 rated Andscacs } (
+11... Nb4 { played by 3 2 3 2 rated Ethereal } 12. h4 Nxc2+ 13. Qxc2 h5 14.
+Bxc5 dxc5 15. O-O-O Bh6+ 16. Kb1 Be3 17. Nc1 Bd4 18. Nb5 Qe7 19. Nd3 f5 20.
+Nxd4
+{ In an interesting battle, Andscacs as White rated 3 2 8 7 and Ethereal as Black rated 3 2 3 2 played a balanced game which ended in a draw. Both sides showed good positional understanding.1/2-1/2 }
+) 12. O-O-O f4 13. Bf2 Bd7 14. Kb1 b6 15. h4 h5 16. a3 Kh7 17. Rdg1 Rf6 18. Nb5
+Rf7 19. Nec3 Qc8 20. Qd1
+{ Once again, Neither Ethereal as White rated 3 2 3 2 nor Andscacs handling the Black pieces rated 3 2 8 7 could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+) 8. Qd2 f5 { played by 3 6 2 2 rated Stockfish } ( 8... Nd7
+{ played by 3 2 9 0 rated Houdini } 9. O-O-O f5
+{ played by 2 9 1 6 rated Hiarcs } 10. Bd3 fxe4
+{ played by 3 6 1 1 rated Torch } 11. Nxe4 b6 { played by 3 6 1 1 rated Torch }
+12. h4 Ndf6 13. Nxf6+ Qxf6 14. g4 e4 15. Bb1 Ng3 16. Rh3 exf3 17. Rxg3 f2 18.
+Nf3 Bxg4 19. Rf1 Bxf3 20. Rxf2
+{ Here we see that Neither Arasan on White with Elo 3 5 7 4 nor Igel from the Black side with rating 3 5 8 0 could convert, and the game was drawn. Small inaccuracies made the difference.1/2-1/2 }
+) 9. exf5 gxf5 { played by 3 6 2 0 rated Stockfish } 10. O-O-O f4
+{ played by 2 6 6 1 rated Drosophila } ( 10... Na6
+{ played by 3 6 2 0 rated Stockfish } 11. Bd3 Bd7
+{ played by 3 2 9 2 rated Wasp } 12. Nge2 Nc5 { played by 3 2 9 2 rated Wasp }
+( 12... b6 { played by 3 1 4 3 rated Vajolet2 } 13. Bc2 Nb4 14. Bb1 a5 15. h4
+Kh8 16. a3 f4 17. Bf2 Na6 18. Rdg1 Nc5 19. Bc2 Qe8 20. Kb1
+{ Here we see that Winter, rated 3 2 0 1, had the White pieces and Vajolet2 from the Black side with rating 3 1 4 3 played a balanced game which ended in a draw. Both sides showed good positional understanding.1/2-1/2 }
+) 13. Bxc5 dxc5 { we will see this position later on1-0 } ) 11. Bf2 b6
+{ played by 2 6 6 1 rated Drosophila } ( 11... Nd7
+{ played by 2 1 1 3 rated Little } 12. g4 Nhf6 13. Qc2 h6 14. h4 Nb6 15. g5 Ne8
+16. Bd3 hxg5 17. hxg5 Qxg5 18. Nge2 Bf5 19. Rdg1 Bxd3 20. Qxd3
+{ Here we see that MORA on White with Elo 2 1 3 6 outplayed Little on Black with Elo 2 1 1 3 and won the game. The opening quickly led to complex middlegame play.1-0 }
+) 12. Bd3 Na6 13. Nge2 Nf6 14. g3 Qe8 15. gxf4 Qh5 16. fxe5 dxe5 17. f4 Nb4 18.
+Bb1 exf4 19. Nxf4 Qh6 20. Bd4
+{ Here we see that Drosophila as Black rated 2 6 6 1 could not hold the position, allowing KnightX as White rated 2 6 9 6 to win. The position remained tense for most of the game.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chess System Tal 2.00 Elo 64-bit 4CPU"]
+[Black "Berserk 12 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "E87"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5"]
+[WhiteElo "3583"]
+[BlackElo "3608"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5
+{ entered in KING S Indian Saemisch Orthodox 7 D5 } 7... Nh5
+{ played by 3 6 2 2 rated Stockfish } 8. Qd2 f5
+{ played by 3 6 2 2 rated Stockfish } 9. exf5 gxf5
+{ played by 3 6 2 0 rated Stockfish } 10. O-O-O Na6
+{ played by 3 6 2 0 rated Stockfish } ( 10... Nd7
+{ played by 3 6 1 6 rated ShashChess } 11. Nge2 Nhf6
+{ played by 3 6 1 6 rated ShashChess } 12. h4 Nb6
+{ played by 3 5 3 9 rated Arasan } 13. b3 f4 14. Bf2
+{ we will see this position later on0-1 } ) ( 10... a5
+{ played by 3 4 5 6 rated Houdini } 11. Bd3 Na6
+{ played by 3 3 9 2 rated Komodo } 12. Nge2 Nb4
+{ played by 3 3 9 0 rated Houdini } ( 12... Kh8
+{ played by 3 3 5 0 rated Tucano } 13. a3 Nc5 14. Bc2 Qh4 15. Ng3 Nf4 16. Bxf4
+Qxf4 17. Qxf4 exf4 18. Nge2 Be5 19. g3 fxg3 20. hxg3
+{ Here we see that Neither Weiss, rated 3 2 6 4, had the White pieces nor Tucano on Black with Elo 3 3 5 0 could convert, and the game was drawn. Small inaccuracies made the difference.1/2-1/2 }
+) ( 12... b6 { played by 3 2 6 4 rated Weiss } 13. g3 Nf6 14. Bb1 Nd7 15. g4
+fxg4 16. Rdg1 Rxf3 17. h3 e4 18. Rxg4 Ne5 19. Rxg7+ Kxg7 20. Nxe4
+{ Tucano from the White side with rating 3 3 5 0 remained in control, handing Weiss as Black rated 3 2 6 4 a loss.1-0 }
+) ( 12... Qe8 { played by 3 1 9 7 rated C4ke } 13. a3 b6 14. Kb1 Bd7 15. g4
+fxg4 16. fxg4 Bxg4 17. Rhg1 Qd7 18. Bc2 Kh8 19. Rde1 Bf5 20. Ne4
+{ Once again, Critter as White rated 3 1 0 5 outplayed C4ke from the Black side with rating 3 1 9 7 and won the game.1-0 }
+) ( 12... Qe7 { played by 3 1 5 6 rated Vitruvius } 13. a3 Nf6 14. Kb1 Nd7 15.
+Bc2 Nb6 16. Bxb6 cxb6 17. Rde1 Nc5 18. Nd4 Qf6 19. Ndb5 Bd7 20. g4
+{ In this game, Critter on White with Elo 3 1 2 0 converted the advantage and defeated Vitruvius handling the Black pieces rated 3 1 5 6. Both sides showed good positional understanding.1-0 }
+) 13. Bb1 Qh4 14. b3 f4 15. Bg1 Bd7 16. Rf1 Nf6 17. Bf2 Qh5 18. a3 Na6 19. Kb2
+b6 20. Rhg1
+{ Here we see that Stockfish on White with Elo 3 5 2 6 converted the advantage and defeated Booot on Black with Elo 3 3 1 0. The outcome was decided in the later stages.1-0 }
+) 11. Bd3 Nb4 { played by 2 9 4 5 rated Spark } 12. Bb1 a5
+{ played by 2 9 4 5 rated Spark } ( 12... Bd7
+{ played by 2 9 1 0 rated Hiarcs } 13. Nge2 a5 14. Bg5 Bf6 15. Bh6 Bg7 16. Bxg7
+Nxg7 17. h4 Kh8 18. h5 Qe7 19. h6 Ne8 20. Ng3
+{ In this game, Hiarcs, rated 2 9 1 0, had the Black pieces could not hold the position, allowing Rybka as White rated 3 1 5 2 to win. The position remained tense for most of the game.1-0 }
+) ( 12... Qh4 { played by 2 8 2 3 rated Cheese } 13. f4 exf4 14. Bd4 Bd7 15.
+Nf3 Qg4 16. Rhe1 Rae8 17. a3 Na6 18. Bc2 Nf6 19. b4 Qg6 20. Kb2
+{ Here we see that Nalwald on White with Elo 2 9 0 1 remained in control, handing Cheese as Black rated 2 8 2 3 a loss. The outcome was decided in the later stages.1-0 }
+) 13. a3 Na6 14. Nge2 Nc5 15. Bc2 Qh4 16. Bxc5 dxc5 17. Bb3 Ra6 18. Kb1 Bd7 19.
+g3 Qe7 20. Ba4
+{ After a long struggle, Stockfish as White rated 2 9 9 5 and Spark as Black rated 2 9 4 5 shared the point.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chess System Tal 2.00 Elo 64-bit 4CPU"]
+[Black "Berserk 12 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "E87"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5"]
+[WhiteElo "3583"]
+[BlackElo "3608"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5
+{ entered in KING S Indian Saemisch Orthodox 7 D5 } 7... Nh5
+{ played by 3 6 2 2 rated Stockfish } 8. Qd2 f5
+{ played by 3 6 2 2 rated Stockfish } ( 8... Qh4+
+{ played by 3 6 2 2 rated Stockfish } 9. g3 Qe7
+{ played by 3 6 2 2 rated Stockfish } 10. O-O-O f5
+{ played by 3 5 8 5 rated Berserk } 11. exf5 gxf5 12. Nh3 Na6
+{ played by 3 6 2 2 rated Stockfish } ( 12... Nf6
+{ played by 3 5 6 9 rated Lizard } 13. Ng5 e4 14. fxe4 fxe4 15. Be2 Na6 16. g4
+Nc5 17. Rhg1 Nfd7 18. h4 b6 19. Rde1 Ba6 20. h5
+{ Lizard from the Black side with rating 3 5 6 9 could not hold the position, allowing Stockfish playing White, rated 3 6 2 2 to win. The opening quickly led to complex middlegame play.1-0 }
+) ( 12... Nd7 { played by 3 5 5 8 rated Stormphrax } 13. Rg1 Nhf6 14. Be2 e4
+15. f4 a6 16. Nf2 Nc5 17. Rde1 Kh8 18. b4 Ncd7 19. g4 a5 20. b5
+{ In an interesting battle, Lizard from the White side with rating 3 5 5 9 converted the advantage and defeated Stormphrax, rated 3 5 5 8, had the Black pieces. The outcome was decided in the later stages.1-0 }
+) 13. Rg1 Nf6 14. Nf2 Bd7 15. Bd3 Nb4 16. Bb1 c6 17. a3 cxd5 18. axb4 d4 19.
+Bxd4 exd4 20. Qxd4
+{ In this game, The game between Lizard on White with Elo 3 5 6 9 and Stockfish handling the Black pieces rated 3 6 2 2 finished level. Both sides showed good positional understanding.1/2-1/2 }
+) 9. exf5 gxf5 { played by 3 6 2 0 rated Stockfish } 10. O-O-O a5
+{ played by 3 4 5 6 rated Houdini } ( 10... f4
+{ played by 2 6 6 1 rated Drosophila } 11. Bf2 Na6
+{ played by 2 6 3 3 rated Blunder } 12. Bd3 Nf6
+{ played by 2 7 0 3 rated Chess } ( 12... Nc5
+{ played by 2 6 3 3 rated Blunder } 13. Bc2 a5 14. Nge2 b6 15. g4 Nf6 16. Rhe1
+h6 17. h3 Bb7 18. Nb5 Nh7 19. h4 Bc8 20. Bxc5
+{ In an interesting battle, Colossus, rated 2 7 5 9, had the White pieces converted the advantage and defeated Blunder from the Black side with rating 2 6 3 3. The outcome was decided in the later stages.1-0 }
+) 13. Nge2 Qe8 14. Rde1 Qh5 15. Nb5 Bh6 16. Nec3 Rf7 17. Nxa7 Bf5 18. a3 Rg7
+19. Bxf5 Qxf5 20. Rhg1
+{ In this game, Bright handling the White pieces rated 2 8 3 9 and Chess handling the Black pieces rated 2 7 0 3 played a balanced game which ended in a draw. The position remained tense for most of the game.1/2-1/2 }
+) 11. Bd3 a4 { played by 3 3 6 4 rated Pedantic } 12. a3 b6
+{ played by 3 3 6 4 rated Pedantic } ( 12... Nd7
+{ played by 3 1 9 9 rated Arasan } 13. Nge2 Nc5 14. Bxc5 dxc5 15. Kb1 Bd7 16.
+h3 Nf4 17. Nxf4 exf4 18. Qxf4 Ra6 19. Qd2 Rb6 20. Ka2
+{ In this game, Koivisto playing White, rated 3 1 1 2 converted the advantage and defeated Arasan handling the Black pieces rated 3 1 9 9.1-0 }
+) 13. Bc2 Na6 14. Bg5 Nf6 15. Nxa4 Nc5 16. Nxc5 bxc5 17. Ne2 Qe8 18. Bh6 Bxh6
+19. Qxh6 Qh5 20. Qxh5
+{ Once again, Iris, rated 3 4 0 2, had the White pieces outplayed Pedantic, rated 3 3 6 4, had the Black pieces and won the game. Small inaccuracies made the difference.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chess System Tal 2.00 Elo 64-bit 4CPU"]
+[Black "Berserk 12 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "E87"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5"]
+[WhiteElo "3583"]
+[BlackElo "3608"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5
+{ entered in KING S Indian Saemisch Orthodox 7 D5 } 7... Nh5
+{ played by 3 6 2 2 rated Stockfish } ( 7... Nfd7
+{ played by 3 5 5 9 rated Fat } 8. Qd2 f5 { played by 3 5 5 9 rated Fat } 9.
+O-O-O a5 { played by 3 4 1 7 rated Rebel } 10. g4 Na6 11. gxf5 gxf5 12. h4 f4
+{ played by 3 4 1 7 rated Rebel } ( 12... Ndc5
+{ played by 3 1 2 2 rated Invictus } 13. exf5 Bxf5 14. Nh3 Qxh4 15. Nf2 Qe7 16.
+Bh3 Bg6 17. Bg4 Rf4 18. Bxf4 exf4 19. Bh5 Bf5 20. Nfe4
+{ In this game, RubiChess as White rated 3 5 1 6 outplayed Tucano, rated 3 4 2 8, had the Black pieces and won the game. The opening quickly led to complex middlegame play.1-0 }
+) 13. Bf2 Kh8 14. Kb1 Bf6 15. Bh3 Rg8 16. Rh2 Ndc5 17. Bxc8 Qxc8 18. Nb5 b6 19.
+Ne2 Qd7 20. Rdh1
+{ In this game, Fat as White rated 3 5 5 9 remained in control, handing Rebel from the Black side with rating 3 4 1 7 a loss. Small inaccuracies made the difference.1-0 }
+) 8. Qd2 Qh4+ { played by 3 6 2 2 rated Stockfish } ( 8... f5
+{ played by 3 6 2 2 rated Stockfish } 9. exf5 gxf5
+{ played by 3 6 2 0 rated Stockfish } 10. O-O-O Na6
+{ played by 3 6 2 0 rated Stockfish } 11. Bd3 Nc5
+{ played by 3 6 1 6 rated SugaR } 12. Bxc5 dxc5 13. Nge2 Qh4
+{ played by 3 5 5 9 rated Fat } ( 13... Qf6
+{ played by 3 4 8 7 rated Koivisto } 14. Kb1 Bd7
+{ we will see this position later on1-0 } ) 14. g3 Qe7 15. Rde1 Bd7 16. h3 Rae8
+17. g4 e4 18. gxh5 exd3 19. h6 dxe2 20. Rhg1
+{ In an interesting battle, Fat handling the Black pieces rated 3 5 5 9 could not hold the position, allowing Stockfish on White with Elo 3 6 1 2 to win. Small inaccuracies made the difference.1-0 }
+) 9. g3 Nxg3 { played by 3 5 6 4 rated Caissa } 10. Qf2 Nxf1 11. Qxh4 Nxe3 12.
+Qf2 Nxc4 { played by 3 5 6 4 rated Caissa } ( 12... Bh6
+{ Admete, rated 2 5 1 5, had the Black pieces could not hold the position, allowing Loki, rated 2 4 7 3, had the White pieces to win. The outcome was decided in the later stages.1-0 }
+) 13. h4 h5 14. Qe2 Nb6 15. Nb5 Na6 16. Nh3 Bxh3 17. Rxh3 Rfd8 18. Rg3 Bf6 19.
+O-O-O Rd7 20. Rg2
+{ The game between Uralochka, rated 3 5 2 4, had the White pieces and Caissa playing Black, rated 3 5 6 4 finished level. The outcome was decided in the later stages.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chess System Tal 2.00 Elo 64-bit 4CPU"]
+[Black "Berserk 12 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "E87"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5"]
+[WhiteElo "3583"]
+[BlackElo "3608"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5
+{ entered in KING S Indian Saemisch Orthodox 7 D5 } 7... Nh5
+{ played by 3 6 2 2 rated Stockfish } 8. Qd2 f5
+{ played by 3 6 2 2 rated Stockfish } ( 8... Nd7
+{ played by 3 2 9 0 rated Houdini } 9. O-O-O f5
+{ played by 2 9 1 6 rated Hiarcs } 10. Bd3 fxe4
+{ played by 3 6 1 1 rated Torch } 11. Nxe4 Ndf6
+{ played by 3 4 8 8 rated Arasan } 12. Ne2 Nxe4 13. Bxe4 Bf5
+{ played by 3 4 8 8 rated Arasan } ( 13... Bd7 { played by 2 7 6 6 rated Toga }
+14. Nc3 a6 15. c5 a5 16. Rhe1 a4 17. a3 Kh8 18. Bc2 Bf6 19. Ne4 Be7 20. Bh6
+{ In this game, Spike playing White, rated 2 7 5 0 remained in control, handing Toga from the Black side with rating 2 7 6 6 a loss. The position remained tense for most of the game.1-0 }
+) 14. Nc3 Nf6 15. Bg5 Qd7 16. Bxf6 Rxf6 17. h4 h5 18. Kb1 Raf8 19. Qe2 b6 20.
+Bd3
+{ After a long struggle, Chess, rated 3 5 7 9, had the White pieces and Arasan on Black with Elo 3 4 8 8 shared the point. Small inaccuracies made the difference.1/2-1/2 }
+) 9. exf5 gxf5 { played by 3 6 2 0 rated Stockfish } 10. O-O-O Nd7
+{ played by 3 6 1 6 rated ShashChess } ( 10... Qf6
+{ played by 3 2 6 4 rated Weiss } 11. Bd3 f4
+{ played by 2 7 5 9 rated Colossus } 12. Bf2 Bf5 13. Nh3 Nd7
+{ played by 2 7 5 9 rated Colossus } ( 13... Qg6
+{ played by 2 5 3 0 rated Leorik } 14. Rhg1 a6 15. Bxf5 Rxf5 16. Ne4 b6 17. g4
+fxg3 18. Nxg3 Rxf3 19. Nxh5 Qxh5 20. Ng5
+{ Once again, MadChess playing White, rated 2 6 2 6 outplayed Leorik playing Black, rated 2 5 3 0 and won the game. Both sides showed good positional understanding.1-0 }
+) 14. Bxf5 Qxf5 15. Qc2 Qxc2+ 16. Kxc2 Rf6 17. Ne4 Rg6 18. g4 fxg3 19. hxg3
+Nhf6 20. Nc3
+{ In an interesting battle, After a long struggle, Blunder as White rated 2 6 3 3 and Colossus playing Black, rated 2 7 5 9 shared the point. Small inaccuracies made the difference.1/2-1/2 }
+) 11. Nge2 Nhf6 { played by 3 6 1 6 rated ShashChess } ( 11... f4
+{ played by 3 2 3 2 rated Drofa } 12. Bf2 Nb6 13. b3 Kh8
+{ played by 3 2 3 2 rated Drofa } ( 13... Nd7 { played by 2 6 4 9 rated Zevra }
+14. Ne4 Ndf6 15. N2c3 Nxe4 16. Nxe4 Nf6 17. Nc3 e4 18. fxe4 Ng4 19. Kb2 Qg5 20.
+Bd4
+{ Here we see that Zevra playing Black, rated 2 6 4 9 outplayed Fridolin handling the White pieces rated 2 6 8 1 and won as Black. Both sides showed good positional understanding.0-1 }
+) 14. Kb2 a5 15. a4 Nd7 16. Nc1 Nb8 17. g4 Nf6 18. g5 Nh5 19. Rg1 Na6 20. Bd3
+{ Here we see that Chiron handling the White pieces rated 3 2 3 1 remained in control, handing Drofa from the Black side with rating 3 2 3 2 a loss.1-0 }
+) 12. h4 f4 { played by 3 6 1 6 rated ShashChess } 13. Bf2 Nh5
+{ played by 3 6 1 6 rated ShashChess } 14. Ne4 b6 15. N2c3 Nc5 16. Bxc5 bxc5
+17. Bd3 Rb8 18. a3 Bf5 19. Kb1 Qd7 20. Ka2
+{ In this game, After a long struggle, Stockfish as White rated 3 6 2 2 and ShashChess playing Black, rated 3 6 1 6 shared the point. The position remained tense for most of the game.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chess System Tal 2.00 Elo 64-bit 4CPU"]
+[Black "Berserk 12 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "E87"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5"]
+[WhiteElo "3583"]
+[BlackElo "3608"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5
+{ entered in KING S Indian Saemisch Orthodox 7 D5 } 7... c5
+{ played by 3 6 1 5 rated Obsidian } ( 7... Nh5
+{ played by 3 6 2 2 rated Stockfish } 8. Qd2 f5
+{ played by 3 6 2 2 rated Stockfish } 9. exf5 gxf5
+{ played by 3 6 2 0 rated Stockfish } 10. O-O-O Na6
+{ played by 3 6 2 0 rated Stockfish } 11. Bd3 Nc5
+{ played by 3 6 1 6 rated SugaR } 12. Bxc5 dxc5 13. Nge2 Qd6
+{ played by 3 6 2 2 rated Stockfish } 14. Kb1 Kh8
+{ played by 3 6 2 2 rated Stockfish } ( 14... Bd7
+{ played by 3 4 0 2 rated Iris } 15. Nb5 Bxb5 16. cxb5 a6 17. Nc3 Nf4 18. Bc4
+Ng6 19. Rhf1 Kh8 20. g3
+{ Pedantic from the White side with rating 3 3 6 4 and Iris, rated 3 4 0 2, had the Black pieces played a balanced game which ended in a draw. Small inaccuracies made the difference.1/2-1/2 }
+) ( 14... a6 { played by 3 3 9 1 rated Igel } 15. Qg5 Nf4 16. Nxf4 exf4 17. Ne2
+Kh8 18. Qxf4 Bd7 19. Rhe1 Rae8 20. g3
+{ Here we see that Neither Koivisto from the White side with rating 3 4 5 5 nor Seer as Black rated 3 3 9 6 could convert, and the game was drawn. Both sides showed good positional understanding.1/2-1/2 }
+) 15. Nb5 Qd8 16. d6 cxd6 17. Bc2 Qf6 18. Qxd6 Be6 19. Nec3 Bxc4 20. Qxc5
+{ Here we see that The game between ShashChess as White rated 3 6 1 6 and Stockfish as Black rated 3 6 2 2 finished level. The position remained tense for most of the game.1/2-1/2 }
+) 8. Qd2 Nh5 { played by 3 6 1 5 rated Obsidian } 9. Nge2 Nd7
+{ played by 3 6 1 5 rated Obsidian } 10. g4 Nf4 11. Nxf4 exf4 12. Bxf4 Ne5 13.
+Be2 a6 { played by 3 6 1 5 rated Obsidian } ( 13... Bd7
+{ played by 3 3 9 0 rated Houdini } 14. O-O a6 15. Kh1 Qe7 16. a4 Rae8 17. Rae1
+Bc8 18. Bg5 Qc7 19. Rg1 Kh8 20. Be3
+{ In this game, Houdini playing Black, rated 3 3 9 0 could not hold the position, allowing SugaR as White rated 3 5 8 1 to win. The position remained tense for most of the game.1-0 }
+) ( 13... h5 { played by 3 1 8 8 rated Xiphos } 14. gxh5 Qh4+ 15. Bg3 Qxh5 16.
+O-O-O Bh3 17. Rhg1 Rfe8 18. f4 Ng4 19. f5 Rad8 20. Bf4
+{ In an interesting battle, Vajolet2, rated 3 1 4 3, had the White pieces remained in control, handing Xiphos, rated 3 1 8 8, had the Black pieces a loss. The position remained tense for most of the game.1-0 }
+) 14. a4 Bd7 15. O-O f5 16. gxf5 gxf5 17. Kh1 Kh8 18. Rae1 Bf6 19. Bd3 fxe4 20.
+Nxe4
+{ In an interesting battle, Obsidian handling the White pieces rated 3 6 1 5 converted the advantage and defeated Clover handling the Black pieces rated 3 5 8 2. Small inaccuracies made the difference.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chess System Tal 2.00 Elo 64-bit 4CPU"]
+[Black "Berserk 12 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "E87"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5"]
+[WhiteElo "3583"]
+[BlackElo "3608"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5
+{ entered in KING S Indian Saemisch Orthodox 7 D5 } 7... Nh5
+{ played by 3 6 2 2 rated Stockfish } 8. Qd2 f5
+{ played by 3 6 2 2 rated Stockfish } 9. exf5 gxf5
+{ played by 3 6 2 0 rated Stockfish } 10. O-O-O Na6
+{ played by 3 6 2 0 rated Stockfish } ( 10... Nd7
+{ played by 3 6 1 6 rated ShashChess } 11. Nge2 Nhf6
+{ played by 3 6 1 6 rated ShashChess } 12. h4 f4
+{ played by 3 6 1 6 rated ShashChess } 13. Bf2 Nb6
+{ played by 3 5 3 1 rated Clarity } 14. b3 a5
+{ played by 3 5 3 9 rated Arasan } ( 14... Bh6
+{ played by 3 5 3 1 rated Clarity } 15. Kb2 Nbd7 16. h5 Qe7 17. Qc2 Nc5 18. b4
+Ncd7 19. Nb5 Nb8 20. c5
+{ Once again, Stockfish handling the White pieces rated 3 6 2 0 converted the advantage and defeated Clarity as Black rated 3 5 3 1. The position remained tense for most of the game.1-0 }
+) 15. a4 Nbd7 16. g3 e4 17. Nxf4 Ne5 18. fxe4 Nfg4 19. Kb2 Nxf2 20. Qxf2
+{ In an interesting battle, Berserk handling the White pieces rated 3 4 2 3 overpressed, and Arasan from the Black side with rating 3 5 3 9 secured the win. The opening quickly led to complex middlegame play.0-1 }
+) 11. Bd3 Nc5 { played by 3 6 1 6 rated SugaR } 12. Bxc5 dxc5 13. Nge2 Bd7
+{ played by 3 5 8 4 rated Berserk } ( 13... Kh8
+{ played by 3 4 8 9 rated Arasan } 14. Kb1 Qf6
+{ played by 3 4 8 9 rated Arasan } ( 14... Qd6
+{ we will see this position later on1/2-1/2 } ) 15. h3 Bh6 16. Qe1 Nf4 17. Nxf4
+exf4 18. Qf2 b6 19. Nb5 Bd7 20. Nxc7
+{ Once again, The game between Seer on White with Elo 3 5 1 0 and Arasan, rated 3 4 8 9, had the Black pieces finished level.1/2-1/2 }
+) ( 13... a6 { played by 3 4 6 3 rated Uralochka } 14. Kb1 Qd6
+{ we will see this position later on1/2-1/2 } ( 14... Rb8
+{ played by 3 4 6 3 rated rofChade } 15. g4 fxg4 16. fxg4 Bxg4 17. Rhg1 Qh4 18.
+h3 Bxe2 19. Qxe2 Kh8 20. Bc2
+{ The game between Revenge on White with Elo 3 5 1 5 and rofChade playing Black, rated 3 4 6 3 finished level. Both sides showed good positional understanding.1/2-1/2 }
+) ) 14. Kb1 Qh4 { played by 3 5 1 3 rated Seer } 15. h3 Nf6 16. g3 Qh6 17. Qxh6
+Bxh6 18. g4 Ne8 19. Ng3 Nd6 20. Nxf5
+{ In an interesting battle, Stockfish from the White side with rating 3 6 2 0 outplayed Seer as Black rated 3 5 1 3 and won the game. Small inaccuracies made the difference.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chess System Tal 2.00 Elo 64-bit 4CPU"]
+[Black "Berserk 12 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "E87"]
+[Opening "King's Indian"]
+[Variation "Saemisch, orthodox, 7.d5"]
+[WhiteElo "3583"]
+[BlackElo "3608"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5
+{ entered in KING S Indian Saemisch Orthodox 7 D5 } 7... Nh5
+{ played by 3 6 2 2 rated Stockfish } 8. Qd2 Na6
+{ played by 3 1 8 8 rated Xiphos } ( 8... f5
+{ played by 3 6 2 2 rated Stockfish } 9. exf5 gxf5
+{ played by 3 6 2 0 rated Stockfish } 10. O-O-O a5
+{ played by 3 4 5 6 rated Houdini } ( 10... Na6
+{ played by 3 6 2 0 rated Stockfish } 11. Bd3 Nc5
+{ played by 3 6 1 6 rated SugaR } 12. Bxc5 dxc5 13. Nge2 Bd7
+{ played by 3 5 8 4 rated Berserk } 14. Kb1 Qf6
+{ played by 3 5 8 4 rated Berserk } 15. g4 fxg4 16. fxg4 Bxg4 17. Rhg1 Bf3
+{ played by 3 5 8 4 rated Berserk } ( 17... Bf5
+{ played by 3 5 7 9 rated Chess } 18. Be4 Nf4 19. Qc2 Kh8 20. a3
+{ Once again, Neither Revenge playing White, rated 3 5 1 5 nor Koivisto from the Black side with rating 3 4 8 7 could convert, and the game was drawn. Both sides showed good positional understanding.1/2-1/2 }
+) ( 17... Qh4 { played by 3 3 0 6 rated Chiron } 18. h3 Bf5 19. Bxf5 Rxf5 20.
+Qh6
+{ Once again, After a long struggle, Zahak, rated 3 3 7 7, had the White pieces and Chiron from the Black side with rating 3 3 0 6 shared the point. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 18. Be4 Kh8 19. Qd3 Rae8 20. a3
+{ Berserk from the Black side with rating 3 5 8 4 could not hold the position, allowing Obsidian from the White side with rating 3 6 0 3 to win. Small inaccuracies made the difference.1-0 }
+) 11. Bd3 Na6 { played by 3 3 9 2 rated Komodo } 12. Nge2 Bd7
+{ played by 3 3 9 2 rated Komodo } 13. a3 b6 14. Bc2 Nc5 15. Nb5 a4
+{ played by 3 3 8 0 rated Fire } ( 15... Rc8 { played by 3 3 6 8 rated Fire }
+16. Kb1 Qh4 17. Ned4 Qf6 18. Nc6 Kh8 19. Rhg1 a4 20. g3
+{ Fire on Black with Elo 3 3 6 8 could not hold the position, allowing ShashChess on White with Elo 3 5 7 0 to win. Small inaccuracies made the difference.1-0 }
+) 16. Kb1 Nb3 17. Qe1 Rf7 18. Nec3 Nf4 19. Qf2 Nc5 20. g3
+{ Fire handling the Black pieces rated 3 3 8 0 could not hold the position, allowing Arasan playing White, rated 3 4 2 4 to win. The opening quickly led to complex middlegame play.1-0 }
+) 9. g4 Nf4 10. O-O-O f5 11. gxf5 gxf5 12. Nge2 Nxe2+ 13. Bxe2 f4 14. Bf2 b6
+{ played by 3 4 5 5 rated Koivisto } ( 14... Kh8
+{ played by 3 1 8 8 rated Xiphos } 15. Nb5 Bh3 16. b4 b6 17. Kb1 Nb8 18. c5
+bxc5 19. bxc5 a6 20. Nc3
+{ Schooner on White with Elo 3 1 5 0 remained in control, handing Xiphos playing Black, rated 3 1 8 8 a loss. The opening quickly led to complex middlegame play.1-0 }
+) 15. Kb1 Kh8 16. h4 Nc5 17. Rdg1 Bf6 18. Bd1 Bd7 19. h5 Rg8 20. a3
+{ Once again, After a long struggle, Arasan on White with Elo 3 2 9 4 and Koivisto from the Black side with rating 3 4 5 5 shared the point. The opening quickly led to complex middlegame play.1/2-1/2 }
+1/2-1/2
+
+
+

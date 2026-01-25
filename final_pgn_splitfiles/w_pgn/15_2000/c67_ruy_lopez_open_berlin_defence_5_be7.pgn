@@ -1,0 +1,46 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Igel 3.5.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "open Berlin defence, 5...Be7"]
+[WhiteElo "3640"]
+[BlackElo "3578"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Be7
+{ entered in RUY Lopez Open Berlin Defence 5 Be7 } 6. Qe2 Nd6 7. Bxc6 bxc6
+{ played by 3 6 1 6 rated SugaR } ( 7... dxc6
+{ played by 3 5 5 9 rated RubiChess } 8. dxe5 Nf5 9. Rd1 Bd7 10. Nc3 O-O 11. g4
+Nh4 12. Nxh4 Bxh4 13. g5 Bxg5 14. Rxd7 Qxd7 15. Bxg5 Qf5
+{ played by 3 2 5 3 rated rofChade } ( 15... Rae8
+{ played by 3 5 5 9 rated RubiChess } 16. Bh4 Qf5
+{ played by 3 5 5 9 rated RubiChess } ( 16... Qd4
+{ played by 3 5 1 4 rated Uralochka } 17. Bg3 f5 18. Rd1 Qc5 19. Bf4
+{ In this game, RubiChess handling the White pieces rated 3 5 5 9 converted the advantage and defeated Uralochka, rated 3 5 1 4, had the Black pieces.1-0 }
+) 17. Bg3 f6 18. Qc4+ Kh8 19. Re1
+{ In an interesting battle, Uralochka on White with Elo 3 5 1 4 converted the advantage and defeated RubiChess playing Black, rated 3 5 5 9. The position remained tense for most of the game.1-0 }
+) 16. Bh4 Rae8 { we will see this position later on1-0 } ) 8. dxe5 Nb7 9. Re1
+O-O { played by 3 5 7 8 rated Igel } ( 9... Nc5
+{ played by 2 8 7 5 rated Thinker } 10. c4 O-O 11. Be3 Ne6 12. Nc3 c5
+{ played by 2 9 9 2 rated Zappa } ( 12... Bb7
+{ played by 2 8 7 5 rated Thinker } 13. Rad1 c5 14. Qd3 Bc6 15. Nd5 Rb8 16. b3
+a5 17. a4 Re8 18. Bd2 Ra8 19. Re4
+{ Stockfish playing White, rated 3 0 5 7 converted the advantage and defeated Thinker from the Black side with rating 2 8 7 5. The position remained tense for most of the game.1-0 }
+) 13. Nd5 Bb7 14. Bd2 f5 15. Ba5 Bc6 16. h3 Kh8 17. Qd3 Rb8 18. Rab1 Rb7 19.
+Bd2
+{ Here we see that Stockfish handling the White pieces rated 3 1 4 8 outplayed Zappa, rated 2 9 9 2, had the Black pieces and won the game. The outcome was decided in the later stages.1-0 }
+) 10. c4 f6 { played by 3 5 7 8 rated Igel } ( 10... Re8
+{ played by 2 7 8 7 rated Pawny } 11. Nc3 d6 12. Be3 Bg4 13. h3 Bh5 14. Ne4
+dxe5 15. Ng3 Bxf3 16. Qxf3 Qd7 17. Nf5 Qe6 18. Rad1 Bb4 19. Re2
+{ In this game, Defenchess as White rated 2 8 6 0 and Pawny from the Black side with rating 2 7 8 7 played a balanced game which ended in a draw. Both sides showed good positional understanding.1/2-1/2 }
+) 11. Nc3 fxe5 12. Nxe5 Bf6 13. Bf4 Nc5 14. Qd2 Bb7 15. b4 Ne6 16. Bg3 a5 17.
+b5 cxb5 18. cxb5 d6 19. Nc6
+{ Once again, After a long struggle, Stockfish, rated 3 6 4 0, had the White pieces and Igel as Black rated 3 5 7 8 shared the point. The outcome was decided in the later stages.1/2-1/2 }
+1/2-1/2
+
+
+

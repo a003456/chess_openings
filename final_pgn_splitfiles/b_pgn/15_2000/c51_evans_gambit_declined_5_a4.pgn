@@ -1,0 +1,761 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16.1 64-bit 4CPU"]
+[Black "Caissa 1.18 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C51"]
+[Opening "Evans gambit declined, 5.a4"]
+[Variation ""]
+[WhiteElo "3638"]
+[BlackElo "3600"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bb6 5. a4
+{ entered in EVANS Gambit Declined 5 A4 } 5... a6 6. a5
+{ played by 3 6 1 5 rated Dragon } ( 6. c3 { played by 3 6 0 8 rated Berserk }
+6... Nf6 7. a5 { played by 2 3 6 3 rated Zevra } ( 7. d3
+{ played by 3 6 0 8 rated Berserk } 7... d6 8. Nbd2
+{ played by 3 5 2 5 rated Revenge } 8... O-O 9. O-O
+{ we will see this position later on1/2-1/2 } ) 7... Ba7
+{ we will see this position later on1-0 } ) ( 6. O-O
+{ played by 3 6 2 6 rated Dragon } 6... Nf6 7. d3 O-O 8. c3 d6 9. Nfd2
+{ played by 3 1 7 9 rated NirvanaChess } ( 9. Qe2
+{ played by 3 1 0 7 rated Critter } 9... Bg4 10. h3 Bd7 11. Na3 Nh5 12. Kh1 Ba7
+13. Nc2 Qf6 14. Bd5 Rae8 15. b5 Nd8 16. bxa6 bxa6 17. d4 c6 18. Ba2
+{ Once again, Neither Critter from the White side with rating 3 1 0 7 nor Stockfish as Black rated 3 0 8 8 could convert, and the game was drawn. Small inaccuracies made the difference.1/2-1/2 }
+) ( 9. Bg5 { played by 3 0 8 8 rated Stockfish } 9... h6 10. Bh4 g5 11. Bg3 g4
+12. Nh4 Nh5 13. Ng6 Re8 14. Na3 Ba7 15. Nh4 Rf8 16. b5 Na5 17. Bd5 c6 18. Ba2
+{ Stockfish as White rated 3 0 8 8 and Critter, rated 3 1 0 7, had the Black pieces played a balanced game which ended in a draw. The outcome was decided in the later stages.1/2-1/2 }
+) ( 9. Na3 { played by 3 0 7 6 rated Drofa } 9... h6 10. Bb3 Be6 11. Bxe6 fxe6
+12. Nc4 Ba7 13. Be3 Bxe3 14. Nxe3 Ne7 15. Qc2 Ng6 16. d4 Nd7 17. Kh1 Rc8 18.
+Rad1
+{ Once again, Little from the Black side with rating 3 1 6 2 outplayed Drofa from the White side with rating 3 0 7 6 and won as Black.0-1 }
+) 9... a5 10. b5 Ne7 11. Nf3 Ng6 12. Bb3 c6 13. Nbd2 cxb5 14. axb5 Bd7 15. Rb1
+Bc5 16. Ba2 Qe8 17. Nc4 Bxb5 18. Bg5
+{ In an interesting battle, BlackMamba playing White, rated 3 1 6 2 remained in control, handing NirvanaChess playing Black, rated 3 1 7 9 a loss. Small inaccuracies made the difference.1-0 }
+) 6... Ba7 7. Nc3 { played by 2 8 5 1 rated Fruit } 7... Nf6 8. d3 Nxb4 9. Nxe5
+d5 10. Nxd5 Nbxd5 11. Bb2
+{ Fruit, rated 2 8 5 1, had the White pieces overpressed, and Pirarucu from the Black side with rating 2 9 7 6 secured the win. The opening quickly led to complex middlegame play.0-1 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16.1 64-bit 4CPU"]
+[Black "Caissa 1.18 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C51"]
+[Opening "Evans gambit declined, 5.a4"]
+[Variation ""]
+[WhiteElo "3638"]
+[BlackElo "3600"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bb6 5. a4
+{ entered in EVANS Gambit Declined 5 A4 } 5... a6 6. a5
+{ played by 3 6 1 5 rated Dragon } ( 6. c3 { played by 3 6 0 8 rated Berserk }
+6... Nf6 7. d3 { played by 3 6 0 8 rated Berserk } 7... d6 8. O-O
+{ played by 3 6 0 8 rated Berserk } 8... Ne7 9. Bg5
+{ played by 3 5 6 1 rated Koivisto } ( 9. Bb3
+{ played by 3 1 5 5 rated Senpai } 9... h6 10. Nbd2 Ba7 11. h3 Ng6 12. d4 O-O
+13. Qc2 Re8 14. Rd1 Qd7 15. Bc4 exd4 16. cxd4 d5 17. exd5 Nf4 18. Nf1
+{ In this game, Neither Senpai, rated 3 1 5 5, had the White pieces nor Fritz, rated 3 2 3 9, had the Black pieces could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+) ( 9. Na3 { played by 3 1 4 2 rated Strelka } 9... c6 10. Bb3 Ng6 11. Nc4 Bc7
+12. a5 O-O 13. Be3 Be6 14. Qc2 h6 15. Rad1 Bg4 16. Ncd2 Qd7 17. Rfe1 d5 18. Qb1
+{ Houdini on Black with Elo 3 3 4 9 outplayed Strelka from the White side with rating 3 1 4 2 and won as Black. The position remained tense for most of the game.0-1 }
+) 9... O-O 10. a5 Ba7 11. Nbd2 Ng6 12. Nh4 Kh8 13. Nxg6+ fxg6 14. Qe2 Bd7 15.
+Be3 Bxe3 16. Qxe3 Qe7 17. f3 h6 18. d4
+{ Here we see that Koivisto handling the White pieces rated 3 5 6 1 and Berserk from the Black side with rating 3 5 6 7 played a balanced game which ended in a draw. Small inaccuracies made the difference.1/2-1/2 }
+) 6... Ba7 7. c3 { played by 3 6 1 5 rated Dragon } ( 7. O-O
+{ played by 3 3 9 0 rated Houdini } 7... Nf6 8. d3 O-O 9. c3
+{ played by 3 3 9 0 rated Houdini } ( 9. h3
+{ played by 2 9 7 6 rated Pirarucu } 9... d5 10. exd5 Nxd5 11. c3 Be6 12. Ng5
+h6 13. Nxe6 fxe6 14. Qc2 Qh4 15. Ra4 Nd8 16. b5 axb5 17. Bxb5 Qe7 18. d4
+{ Once again, After a long struggle, Pirarucu, rated 2 9 7 6, had the White pieces and Fruit as Black rated 2 8 5 1 shared the point. The outcome was decided in the later stages.1/2-1/2 }
+) ( 9. Bg5 { played by 2 2 8 0 rated Zeus } 9... d6 10. Ra4 h6 11. Bxf6 Qxf6
+12. Nc3 Ne7 13. h3 Be6 14. Bxe6 fxe6 15. b5 Bc5 16. bxa6 bxa6 17. Rc4 Rac8 18.
+Kh1
+{ Here we see that After a long struggle, Zeus handling the White pieces rated 2 2 8 0 and FoxSEE handling the Black pieces rated 2 2 5 6 shared the point. The opening quickly led to complex middlegame play.1/2-1/2 }
+) ( 9. Nc3 { played by 2 2 5 6 rated FoxSEE } 9... d6 10. Nd5 Nxd5 11. exd5 Nd4
+12. c3 Nxf3+ 13. Qxf3 Qh4 14. Re1 Bg4 15. Qg3 Qxg3 16. hxg3 f6 17. Bb2 Bf5 18.
+d4
+{ In this game, FoxSEE playing White, rated 2 2 5 6 outplayed Zeus on Black with Elo 2 2 8 0 and won the game. The opening quickly led to complex middlegame play.1-0 }
+) 9... d6 { we will see this position later on1/2-1/2 } ) 7... Nf6 8. d3 d6 9.
+O-O { played by 3 6 1 5 rated Dragon } 9... O-O
+{ we will see this position later on1/2-1/2 } 1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16.1 64-bit 4CPU"]
+[Black "Caissa 1.18 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C51"]
+[Opening "Evans gambit declined, 5.a4"]
+[Variation ""]
+[WhiteElo "3638"]
+[BlackElo "3600"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bb6 5. a4
+{ entered in EVANS Gambit Declined 5 A4 } 5... a6 6. c3
+{ played by 3 6 0 8 rated Berserk } 6... Nf6 7. d3
+{ played by 3 6 0 8 rated Berserk } ( 7. Qb3 { played by 3 3 3 8 rated Laser }
+7... Qe7 8. d3 h6 9. Na3 { played by 3 3 3 8 rated Laser } ( 9. h3
+{ played by 3 3 3 1 rated Defenchess } 9... O-O 10. O-O d6 11. Na3 Nh5 12. Qd1
+Qf6 13. a5 Ba7 14. Nc2 Nf4 15. Bxf4 Qxf4 16. Qe2 Ne7 17. Ne3 Qf6 18. Nd5
+{ In an interesting battle, Defenchess from the White side with rating 3 3 3 1 overpressed, and Laser, rated 3 3 3 8, had the Black pieces secured the win. Both sides showed good positional understanding.0-1 }
+) 9... d6 10. Nc2 Bg4 11. a5 Ba7 12. Ne3 Bxe3 13. fxe3 Na7 14. O-O c6 15. Qa2
+O-O 16. Bb3 d5 17. exd5 cxd5 18. Bxd5
+{ Defenchess playing Black, rated 3 3 3 1 seized the initiative and handed Laser on White with Elo 3 3 3 8 a loss. The opening quickly led to complex middlegame play.0-1 }
+) 7... d6 8. Qb3 { played by 3 6 0 2 rated Fat } 8... O-O 9. a5
+{ played by 3 6 0 2 rated Fat } ( 9. O-O
+{ we will see this position later on1/2-1/2 } ) ( 9. Bg5
+{ played by 2 7 5 8 rated Ktulu } 9... Qe7 10. a5 Ba7 11. O-O h6 12. Bh4
+{ we will see this position later on1-0 } ) ( 9. Na3
+{ played by 2 2 5 2 rated Dumb } 9... Bg4 10. O-O Bxf3 11. gxf3 Ne7 12. a5 Ba7
+13. Ra2 h6 14. b5 axb5 15. Nxb5 Bb8 16. Be3 Qd7 17. d4 Ng6 18. Be2
+{ Here we see that CT800, rated 2 2 5 7, had the Black pieces defended accurately and defeated Dumb handling the White pieces rated 2 2 5 2. The opening quickly led to complex middlegame play.0-1 }
+) 9... Ba7 { we will see this position later on1/2-1/2 } 1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16.1 64-bit 4CPU"]
+[Black "Caissa 1.18 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C51"]
+[Opening "Evans gambit declined, 5.a4"]
+[Variation ""]
+[WhiteElo "3638"]
+[BlackElo "3600"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bb6 5. a4
+{ entered in EVANS Gambit Declined 5 A4 } 5... a6 6. d4
+{ played by 3 5 5 9 rated Fat } ( 6. O-O { played by 3 6 2 6 rated Dragon }
+6... Nf6 7. d3 O-O 8. c3 d6 9. Nbd2 { played by 3 6 3 8 rated Stockfish } ( 9.
+Re1 { played by 3 5 5 3 rated Clover } 9... h6 10. Nbd2
+{ we will see this position later on1/2-1/2 } ( 10. a5
+{ played by 3 4 8 9 rated Arasan } 10... Ba7 11. Nbd2
+{ we will see this position later on1/2-1/2 } ) ) ( 9. a5
+{ played by 2 8 3 9 rated DisasterArea } 9... Ba7 10. h3
+{ played by 3 4 3 2 rated Nemorino } ( 10. Nbd2
+{ played by 3 1 8 4 rated Rybka } 10... Nh5 11. Bb3 Qf6 12. Nc4 Bg4 13. h3 Bxf3
+14. Qxf3 Qxf3 15. gxf3 Ne7 16. Kh2 Ng6 17. Ne3 Nh4 18. Bd1
+{ In an interesting battle, Rybka playing White, rated 3 1 8 4 outplayed IvanHoe from the Black side with rating 3 1 5 0 and won the game.1-0 }
+) 10... h6 11. Re1 Be6 12. Bxe6 fxe6 13. Be3 Bxe3 14. Rxe3 Qd7 15. Nbd2 Rf7 16.
+Rb1 Na7 17. Nc4 Qb5 18. Qb3
+{ Once again, Nemorino from the White side with rating 3 4 3 2 overpressed, and Uralochka on Black with Elo 3 3 9 2 secured the win. Both sides showed good positional understanding.0-1 }
+) 9... h6 10. Bb2 { played by 2 8 4 9 rated Spark } 10... Nh5 11. Bb3 Qf6 12.
+Nc4 Bg4 13. Nxb6 cxb6 14. Kh1 Nf4 15. Bc1 Ne7 16. Bxf4 Qxf4 17. Qd2 Ng6 18. Qe3
+{ In this game, Stockfish, rated 3 0 3 9, had the Black pieces defended accurately and defeated Spark as White rated 2 8 4 9. Small inaccuracies made the difference.0-1 }
+) 6... Bxd4 7. Nxd4 Nxd4 8. O-O d6 9. Be3 { played by 2 9 6 8 rated Tucano }
+9... Be6 10. Qd3 Bxc4 11. Qxc4 Ne6 12. Nc3 Nf6 13. f3 O-O 14. Rad1 a5 15. b5
+Nd7 16. Qd5 Ndc5 17. b6 Rc8 18. bxc7
+{ Here we see that Tucano, rated 2 9 6 8, had the White pieces outplayed Stash as Black rated 2 9 0 3 and won the game. The opening quickly led to complex middlegame play.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16.1 64-bit 4CPU"]
+[Black "Caissa 1.18 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C51"]
+[Opening "Evans gambit declined, 5.a4"]
+[Variation ""]
+[WhiteElo "3638"]
+[BlackElo "3600"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bb6 5. a4
+{ entered in EVANS Gambit Declined 5 A4 } 5... a6 6. O-O
+{ played by 3 6 2 6 rated Dragon } ( 6. a5 { played by 3 6 1 5 rated Dragon }
+6... Ba7 7. c3 { played by 3 6 1 5 rated Dragon } 7... Nf6 8. d3 d6 9. Qb3
+{ played by 2 1 3 5 rated Mediocre } 9... O-O 10. Bg5
+{ played by 2 1 3 5 rated Mediocre } 10... h6 11. Bh4 Qe7 12. O-O g5 13. Bg3
+Nh5 14. Kh1 Kh8 15. Nbd2 f5 16. exf5 Bxf5 17. Ne4 Qd7 18. b5
+{ In an interesting battle, Ktulu, rated 2 7 5 8, had the White pieces outplayed Chronos, rated 2 7 4 1, had the Black pieces and won the game. The outcome was decided in the later stages.1-0 }
+) ( 6. c3 { played by 3 6 0 8 rated Berserk } 6... Nf6 7. d3
+{ played by 3 6 0 8 rated Berserk } 7... d6 8. O-O
+{ played by 3 6 0 8 rated Berserk } 8... Ne7 9. a5
+{ played by 3 5 8 8 rated RubiChess } 9... Ba7 10. Re1
+{ played by 3 5 8 8 rated RubiChess } ( 10. h3
+{ played by 3 5 7 1 rated Clover } 10... O-O
+{ we will see this position later on1/2-1/2 } ) ( 10. Be3
+{ played by 3 5 2 2 rated Minic } 10... Bxe3 11. fxe3 O-O 12. Bb3 Rb8 13. Qd2
+b5 14. axb6 cxb6 15. c4 b5 16. cxb5 Rxb5 17. Na3 Rb8 18. h3
+{ Here we see that Minic as White rated 3 5 2 2 and Marvin on Black with Elo 3 4 6 8 played a balanced game which ended in a draw. The position remained tense for most of the game.1/2-1/2 }
+) ( 10. Bg5 { played by 3 2 4 4 rated StockNemo } 10... Ng6 11. Nh4 Nxh4 12.
+Bxh4 h6 13. Nd2 Qe7 14. Nf3 g5 15. Bg3 O-O 16. Re1 g4 17. Nh4 Nh5 18. Ra2
+{ In an interesting battle, StockNemo on White with Elo 3 2 4 4 and Booot on Black with Elo 3 3 5 8 played a balanced game which ended in a draw. The position remained tense for most of the game.1/2-1/2 }
+) ( 10. Qb3 { played by 2 6 6 6 rated ChessBrainVB } 10... O-O
+{ we will see this position later on1/2-1/2 } ) 10... O-O
+{ we will see this position later on1/2-1/2 } ) 6... Nf6 7. d3 O-O 8. c3 d6 9.
+Qb3 { played by 2 0 4 6 rated Clarabit } 9... h6 10. Re1
+{ played by 3 1 1 2 rated Laser } 10... Bg4 11. Qd1 Qd7 12. Nbd2 Rad8 13. a5
+Ba7 14. b5 axb5 15. Bxb5 Qe8 16. Bb2 Bd7 17. Bc4 Rb8 18. d4
+{ Here we see that Neither Sting playing White, rated 3 0 4 1 nor Laser handling the Black pieces rated 3 1 1 2 could convert, and the game was drawn.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16.1 64-bit 4CPU"]
+[Black "Caissa 1.18 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C51"]
+[Opening "Evans gambit declined, 5.a4"]
+[Variation ""]
+[WhiteElo "3638"]
+[BlackElo "3600"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bb6 5. a4
+{ entered in EVANS Gambit Declined 5 A4 } 5... a6 6. c3
+{ played by 3 6 0 8 rated Berserk } ( 6. d4 { played by 3 5 5 9 rated Fat }
+6... Bxd4 7. Nxd4 Nxd4 8. O-O d6 9. f4 { played by 3 5 5 9 rated Fat } 9... Nf6
+10. fxe5 { played by 2 9 3 3 rated Protej } 10... dxe5 11. Bg5 Qe7 12. Nd2 Ne6
+13. Bxf6 gxf6 14. c3 Rg8 15. Kh1 Nf4 16. Qc2 Bd7 17. g3 Ne6 18. Bd5
+{ Here we see that After a long struggle, Protej on White with Elo 2 9 3 3 and Gogobello, rated 2 9 1 8, had the Black pieces shared the point.1/2-1/2 }
+) 6... Nf6 7. d3 { played by 3 6 0 8 rated Berserk } 7... d6 8. O-O
+{ played by 3 6 0 8 rated Berserk } 8... Ne7 9. Nbd2
+{ played by 3 5 6 7 rated Berserk } ( 9. Qb3
+{ played by 2 5 4 3 rated Francesca } 9... O-O 10. a5
+{ played by 3 3 5 1 rated Bagatur } ( 10. Bg5
+{ played by 2 5 4 3 rated Francesca } 10... Ng6 11. Nbd2 h6 12. Be3 Bxe3 13.
+fxe3 c6 14. d4 Bg4 15. Kh1 d5 16. Bd3 Re8 17. Rae1 Qd6 18. Qb1
+{ After a long struggle, Francesca, rated 2 5 4 3, had the White pieces and nanoSzachy handling the Black pieces rated 2 5 1 7 shared the point. The outcome was decided in the later stages.1/2-1/2 }
+) 10... Ba7 { we will see this position later on1/2-1/2 } ) 9... O-O 10. Re1
+{ we will see this position later on1/2-1/2 } ( 10. a5
+{ played by 3 5 6 6 rated Alexandria } 10... Ba7
+{ we will see this position later on1/2-1/2 } ) ( 10. Qc2
+{ played by 2 9 7 1 rated Francesca } 10... c6 11. h3 Re8 12. Bb3 Ng6 13. Re1
+d5 14. c4 dxe4 15. Nxe4 Nxe4 16. dxe4 Nh4 17. Nxh4 Bd4 18. Bb2
+{ Here we see that Francesca as White rated 2 9 7 1 and Topple as Black rated 3 0 3 2 played a balanced game which ended in a draw. Both sides showed good positional understanding.1/2-1/2 }
+) 1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16.1 64-bit 4CPU"]
+[Black "Caissa 1.18 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C51"]
+[Opening "Evans gambit declined, 5.a4"]
+[Variation ""]
+[WhiteElo "3638"]
+[BlackElo "3600"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bb6 5. a4
+{ entered in EVANS Gambit Declined 5 A4 } 5... a6 6. Bb2
+{ played by 3 5 4 4 rated Seer } ( 6. O-O { played by 3 6 2 6 rated Dragon }
+6... Nf6 7. d3 O-O 8. c3 d6 9. Nbd2 { played by 3 6 3 8 rated Stockfish } 9...
+h6 10. Re1 { played by 3 6 3 8 rated Stockfish } ( 10. h3
+{ played by 3 5 7 9 rated Ethereal } 10... Ba7 11. Bb2
+{ played by 2 9 1 8 rated Deep } 11... Bd7 12. a5 Qe7 13. d4 Nh5 14. d5 Nd8 15.
+Bc1 c6 16. Re1 Rc8 17. Ra3 Nf4 18. Nf1
+{ Once again, Naum from the Black side with rating 3 0 0 0 defended accurately and defeated Deep handling the White pieces rated 2 9 1 8. Both sides showed good positional understanding.0-1 }
+) ( 10. a5 { played by 2 9 4 2 rated Deep } 10... Ba7 11. h3
+{ played by 3 2 5 0 rated Velvet } ( 11. Bb3
+{ played by 3 2 2 4 rated NirvanaChess } 11... Re8 12. Ba4 Bd7 13. Re1 Ng4 14.
+Re2 Ne7 15. h3 Nf6 16. Nf1 Ng6 17. c4 Bxa4 18. Qxa4
+{ In an interesting battle, After a long struggle, NirvanaChess, rated 3 2 2 4, had the White pieces and Laser, rated 3 2 6 4, had the Black pieces shared the point. The position remained tense for most of the game.1/2-1/2 }
+) ( 11. Re1 { played by 2 9 4 2 rated Deep } 11... Be6 12. Bxe6 fxe6 13. Nf1
+Nh5 14. Ng3 Nf4 15. Qb3 Nxd3 16. Qxe6+ Kh7 17. Rf1 Qf6 18. Qc4
+{ Once again, The game between Arasan handling the White pieces rated 3 4 8 9 and Revenge on Black with Elo 3 5 2 5 finished level. Both sides showed good positional understanding.1/2-1/2 }
+) ( 11. Bb2 { played by 2 6 9 6 rated KnightX } 11... Nh5 12. Kh1 Nf4 13. b5
+axb5 14. Bxb5 Ne7 15. d4 Neg6 16. g3 Nh3 17. Qc2 c6 18. Bd3
+{ GreKo handling the Black pieces rated 2 7 8 8 defended accurately and defeated KnightX playing White, rated 2 6 9 6. The opening quickly led to complex middlegame play.0-1 }
+) 11... Re8 12. Re1 Be6 13. Bb3 Bxb3 14. Qxb3 Re6 15. Nf1 d5 16. Ng3 Qd7 17.
+Be3 Bxe3 18. Rxe3
+{ Igel playing Black, rated 3 2 8 8 outplayed Velvet handling the White pieces rated 3 2 5 0 and won as Black. Both sides showed good positional understanding.0-1 }
+) 10... Ng4 11. Rf1 { played by 3 5 5 3 rated Clover } 11... Kh8 12. h3 f5 13.
+hxg4 fxg4 14. Ne1 Qh4 15. d4 exd4 16. g3 Qh3 17. a5 Ba7 18. cxd4
+{ In an interesting battle, Neither Clover, rated 3 5 5 3, had the White pieces nor Velvet playing Black, rated 3 5 3 2 could convert, and the game was drawn.1/2-1/2 }
+) 6... d6 7. b5 axb5 8. axb5 Rxa1 9. Bxa1 Nce7 10. O-O
+{ played by 3 5 4 4 rated Seer } ( 10. d4 { played by 3 5 3 2 rated Velvet }
+10... Nf6 11. Nbd2 exd4 12. Bxd4 Bxd4 13. Nxd4 O-O 14. O-O b6 15. Bd3 Re8 16.
+f4 Bb7 17. Qf3 Ng6 18. Ra1
+{ Velvet handling the White pieces rated 3 5 3 2 and Seer as Black rated 3 5 4 4 played a balanced game which ended in a draw.1/2-1/2 }
+) 10... Nf6 11. Re1 O-O 12. d4 Ng6 13. dxe5 Nxe5 14. Bxe5 dxe5 15. Nxe5 Qxd1
+16. Rxd1 Nxe4 17. Nxf7 Nxf2 18. Nd6+
+{ Once again, Neither Seer from the White side with rating 3 5 4 4 nor Velvet from the Black side with rating 3 5 3 2 could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16.1 64-bit 4CPU"]
+[Black "Caissa 1.18 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C51"]
+[Opening "Evans gambit declined, 5.a4"]
+[Variation ""]
+[WhiteElo "3638"]
+[BlackElo "3600"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bb6 5. a4
+{ entered in EVANS Gambit Declined 5 A4 } 5... a6 6. O-O
+{ played by 3 6 2 6 rated Dragon } 6... Nf6 7. d3 O-O 8. c3 d6 9. h3
+{ played by 3 4 0 7 rated Rebel } ( 9. a5
+{ played by 2 8 3 9 rated DisasterArea } 9... Ba7 10. Bb3
+{ played by 2 8 8 6 rated The } ( 10. Ra2 { played by 2 6 9 3 rated ECE } 10...
+Be6 11. Qb3 { played by 2 6 9 3 rated ECE } ( 11. Bxe6
+{ played by 2 6 2 6 rated MadChess } 11... fxe6 12. Re1 Qe8 13. Na3 Kh8 14. h3
+Nh5 15. Kh2 Qg6 16. Nc4 Rad8 17. Rb2 Rd7 18. Qe2
+{ In this game, MadChess, rated 2 6 2 6, had the White pieces overpressed, and ECE handling the Black pieces rated 2 6 9 3 secured the win. The position remained tense for most of the game.0-1 }
+) 11... Bxc4 12. Qxc4 d5 13. exd5 Qxd5 14. Qxd5 Nxd5 15. Re1 f6 16. Ree2 Rae8
+17. Ne1 Rf7 18. Reb2
+{ Here we see that ECE on White with Elo 2 6 9 3 overpressed, and MadChess from the Black side with rating 2 6 2 6 secured the win. The position remained tense for most of the game.0-1 }
+) 10... h6 11. Re1 { played by 3 6 1 5 rated Dragon } ( 11. Nbd2
+{ we will see this position later on1/2-1/2 } ) 11... Be6 12. Bxe6 fxe6 13. Be3
+Bxe3 14. Rxe3 Qe8 15. Nbd2 Nh5 16. g3 Qg6 17. Kh1 Qg4 18. Re2
+{ In this game, Koivisto as Black rated 3 5 5 1 could not hold the position, allowing Dragon on White with Elo 3 6 1 5 to win. The opening quickly led to complex middlegame play.1-0 }
+) 9... Ne7 10. a5 Ba7 11. Bb3 { played by 3 5 7 1 rated Clover } ( 11. Be3
+{ played by 3 4 0 7 rated Rebel } 11... Bxe3 12. fxe3 c6 13. Bb3 d5 14. Nbd2
+Ng6 15. exd5 cxd5 16. c4 h6 17. e4 dxc4 18. Nxc4
+{ Here we see that rofChade, rated 3 5 2 7, had the Black pieces seized the initiative and handed Rebel handling the White pieces rated 3 4 0 7 a loss.0-1 }
+) ( 11. Re1 { played by 2 8 3 9 rated DisasterArea } 11... Ng6 12. Nbd2 c6 13.
+d4 exd4 14. cxd4 Nxe4 15. Nxe4 d5 16. Bb3 dxe4 17. Ng5 h6 18. Nxe4
+{ Here we see that Neither RubiChess as White rated 3 5 8 8 nor Alexandria as Black rated 3 5 6 6 could convert, and the game was drawn.1/2-1/2 }
+) 11... Ng6 12. Nbd2 Be6 13. Bxe6 fxe6 14. Nc4 h6 15. g3 Rf7 16. Qe2 Qd7 17.
+Be3 Bxe3 18. Qxe3
+{ Once again, After a long struggle, Clover as White rated 3 5 7 1 and Berserk from the Black side with rating 3 6 0 8 shared the point. Small inaccuracies made the difference.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16.1 64-bit 4CPU"]
+[Black "Caissa 1.18 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C51"]
+[Opening "Evans gambit declined, 5.a4"]
+[Variation ""]
+[WhiteElo "3638"]
+[BlackElo "3600"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bb6 5. a4
+{ entered in EVANS Gambit Declined 5 A4 } 5... a6 6. O-O
+{ played by 3 6 2 6 rated Dragon } ( 6. a5 { played by 3 6 1 5 rated Dragon }
+6... Ba7 7. c3 { played by 3 6 1 5 rated Dragon } 7... Nf6 8. d3 d6 9. Qb3
+{ played by 2 1 3 5 rated Mediocre } 9... O-O 10. O-O
+{ played by 3 6 0 2 rated Fat } 10... Ne7 11. Nbd2
+{ played by 3 2 0 3 rated Cadie } ( 11. Qd1
+{ played by 2 6 6 6 rated ChessBrainVB } 11... Nc6
+{ we will see this position later on1/2-1/2 } ) 11... c6 12. Qc2 Ng6 13. Re1 h6
+14. Bb3 Nh5 15. d4 Qf6 16. Re3 Nhf4 17. Bb2 Bg4 18. Rae1
+{ Cadie, rated 3 2 0 3, had the White pieces outplayed Sturddle on Black with Elo 3 1 5 9 and won the game.1-0 }
+) ( 6. c3 { played by 3 6 0 8 rated Berserk } 6... Nf6 7. d3
+{ played by 3 6 0 8 rated Berserk } 7... d6 8. O-O
+{ played by 3 6 0 8 rated Berserk } 8... Ne7 9. Re1
+{ played by 3 6 0 8 rated Berserk } 9... O-O 10. Nbd2
+{ played by 3 6 0 8 rated Berserk } 10... c6 11. Ba2
+{ played by 3 6 0 8 rated Berserk } ( 11. a5
+{ played by 3 5 6 7 rated Berserk } 11... Ba7 12. h3 Ng6
+{ we will see this position later on1/2-1/2 } ) 11... Ng6 12. d4 exd4 13. cxd4
+d5 14. Ba3 Re8 15. e5 Nh5 16. a5 Ba7 17. Nb3 Nhf4 18. Bb1
+{ In an interesting battle, Berserk handling the White pieces rated 3 6 0 8 and Clover handling the Black pieces rated 3 5 7 1 played a balanced game which ended in a draw. Both sides showed good positional understanding.1/2-1/2 }
+) 6... Nf6 7. d3 O-O 8. c3 d6 9. Qb3 { played by 2 0 4 6 rated Clarabit } 9...
+h6 10. a5 { played by 3 3 3 8 rated Astra } 10... Ba7 11. Be3
+{ played by 3 3 3 8 rated Astra } ( 11. Bb2 { played by 2 3 8 2 rated Gaia }
+11... Nh5 12. Nbd2 Nf4 13. Kh1 Qf6 14. Rae1 Bg4 15. d4 exd4 16. cxd4 Nxd4 17.
+Qc3 Qg6 18. g3
+{ Here we see that Gaia handling the White pieces rated 2 3 8 2 converted the advantage and defeated Chronos from the Black side with rating 2 4 5 1. Small inaccuracies made the difference.1-0 }
+) 11... Bxe3 12. fxe3 b5 13. axb6 cxb6 14. Nbd2 Ra7 15. Bd5 Rc7 16. c4 b5 17.
+h3 Ne7 18. Rf2
+{ In an interesting battle, The game between Astra on White with Elo 3 3 3 8 and Bagatur as Black rated 3 3 5 1 finished level. Both sides showed good positional understanding.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16.1 64-bit 4CPU"]
+[Black "Caissa 1.18 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C51"]
+[Opening "Evans gambit declined, 5.a4"]
+[Variation ""]
+[WhiteElo "3638"]
+[BlackElo "3600"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bb6 5. a4
+{ entered in EVANS Gambit Declined 5 A4 } 5... a6 6. c3
+{ played by 3 6 0 8 rated Berserk } 6... Nf6 7. d3
+{ played by 3 6 0 8 rated Berserk } 7... d6 8. O-O
+{ played by 3 6 0 8 rated Berserk } 8... Ne7 9. Re1
+{ played by 3 6 0 8 rated Berserk } ( 9. a5
+{ played by 3 5 8 8 rated RubiChess } 9... Ba7 10. Nbd2
+{ played by 2 6 4 5 rated Philou } 10... O-O 11. h3
+{ played by 3 5 6 6 rated Alexandria } ( 11. Re1
+{ played by 3 2 3 9 rated Fritz } 11... Be6 12. Bxe6 fxe6 13. Nc4 Qe8 14. Ra2
+Rd8 15. h3 h6 16. Rc2 Nh5 17. Kh2 Nf4 18. Rb2
+{ Here we see that Senpai on Black with Elo 3 1 5 5 defended accurately and defeated Fritz on White with Elo 3 2 3 9. The position remained tense for most of the game.0-1 }
+) ( 11. Bb3 { played by 2 6 4 5 rated Philou } 11... Re8 12. Nc4 Ng6 13. Re1 d5
+14. exd5 e4 15. dxe4 Nxe4 16. Be3 Nxc3 17. Qd3 Bxe3 18. Qxc3
+{ In this game, ProDeo as Black rated 2 6 8 1 could not hold the position, allowing Philou playing White, rated 2 6 4 5 to win. The position remained tense for most of the game.1-0 }
+) 11... c6 12. Bb3 Ng6 13. Re1 d5 14. exd5 Nxd5 15. Ne4 h6 16. Bd2 Bf5 17. Bc2
+Nf6 18. c4
+{ In this game, Neither Alexandria as White rated 3 5 6 6 nor RubiChess handling the Black pieces rated 3 5 8 8 could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
+) ( 9. Nbd2 { played by 3 5 6 7 rated Berserk } 9... O-O 10. Bb3
+{ played by 3 4 5 9 rated Clover } 10... Ng6 11. Re1
+{ played by 3 4 5 9 rated Clover } 11... c6 12. a5 Ba7 13. Nc4 Be6 14. Be3 Bxe3
+15. Rxe3 Qc7 16. Nb6 Rae8 17. Bxe6 fxe6 18. Nd2
+{ In this game, Clover from the White side with rating 3 4 5 9 outplayed Alexandria on Black with Elo 3 3 8 4 and won the game. The outcome was decided in the later stages.1-0 }
+) 9... O-O 10. a5 { played by 3 4 1 4 rated Bagatur } 10... Ba7 11. h3
+{ we will see this position later on1/2-1/2 } ( 11. Be3
+{ played by 3 3 4 9 rated Houdini } 11... Bxe3 12. Rxe3 Ng6 13. g3 Qd7 14. Nbd2
+Qg4 15. d4 Qh5 16. h4 h6 17. Bf1 Rd8 18. Bg2
+{ Here we see that Houdini on White with Elo 3 3 4 9 outplayed Strelka, rated 3 1 4 2, had the Black pieces and won the game. The outcome was decided in the later stages.1-0 }
+) 1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16.1 64-bit 4CPU"]
+[Black "Caissa 1.18 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C51"]
+[Opening "Evans gambit declined, 5.a4"]
+[Variation ""]
+[WhiteElo "3638"]
+[BlackElo "3600"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bb6 5. a4
+{ entered in EVANS Gambit Declined 5 A4 } 5... a6 6. c3
+{ played by 3 6 0 8 rated Berserk } ( 6. d4 { played by 3 5 5 9 rated Fat }
+6... Bxd4 7. Nxd4 Nxd4 8. O-O d6 9. f4 { played by 3 5 5 9 rated Fat } 9... Nf6
+10. Nc3 { played by 3 5 5 9 rated Fat } 10... O-O 11. fxe5
+{ played by 3 5 0 7 rated RubiChess } ( 11. h3
+{ played by 2 9 0 3 rated Stash } 11... Be6 12. Bd3 c6 13. Be3 a5 14. b5 b6 15.
+Qd2 Rc8 16. bxc6 Rxc6 17. Bxd4 exd4 18. Nb5
+{ Stash playing White, rated 2 9 0 3 outplayed Tucano on Black with Elo 2 9 6 8 and won the game. The position remained tense for most of the game.1-0 }
+) 11... dxe5 12. Bg5 c6 13. Kh1 Ne6 14. Bxe6 Qxd1 15. Bxf7+ Rxf7 16. Rfxd1 Bg4
+17. Rd3 h6 18. Bxf6
+{ Once again, Neither RubiChess, rated 3 5 0 7, had the White pieces nor Fat, rated 3 5 5 9, had the Black pieces could convert, and the game was drawn.1/2-1/2 }
+) ( 6. O-O { played by 3 6 2 6 rated Dragon } 6... Nf6 7. d3 O-O 8. c3 d6 9.
+Nbd2 { played by 3 6 3 8 rated Stockfish } 9... h6 10. Re1
+{ played by 3 6 3 8 rated Stockfish } 10... Ng4 11. Re2
+{ played by 3 6 3 8 rated Stockfish } 11... Nf6 12. Bb3
+{ played by 3 4 0 2 rated Minic } ( 12. Ba2 { played by 3 1 5 0 rated IvanHoe }
+12... Ba7 13. h3 Ne7 14. Nf1 Nh5 15. Be3 Ng6 16. Rb2 Bxe3 17. fxe3 a5 18. b5
+{ Here we see that The game between IvanHoe handling the White pieces rated 3 1 5 0 and Strelka, rated 3 1 4 2, had the Black pieces finished level.1/2-1/2 }
+) 12... Ne7 13. Re1 Ng6 14. d4 exd4 15. cxd4 Bg4 16. Bb2 Nf4 17. Bc2 a5 18. b5
+{ In an interesting battle, Minic, rated 3 4 0 2, had the White pieces and Berserk handling the Black pieces rated 3 5 1 0 played a balanced game which ended in a draw. The position remained tense for most of the game.1/2-1/2 }
+) 6... Nf6 7. Qe2 { played by 2 9 4 3 rated Thinker } 7... O-O 8. O-O d5 9.
+exd5 Nxd5 10. d3 Bg4 11. h3 { played by 2 9 4 3 rated Thinker } ( 11. Qe4
+{ played by 2 8 6 1 rated Loop } 11... Nf6 12. Qe2 Qd7 13. Nbd2 Nd5 14. Ne4
+Nxc3 15. Nxc3 Nd4 16. Qxe5 Bxf3 17. Be3 Rae8 18. Qf4
+{ Here we see that Loop handling the White pieces rated 2 8 6 1 and Hiarcs handling the Black pieces rated 2 8 9 3 played a balanced game which ended in a draw. The outcome was decided in the later stages.1/2-1/2 }
+) 11... Be6 12. a5 Ba7 13. Nxe5 Nxe5 14. Qxe5 Nxb4 15. Qg3 Bxc4 16. dxc4 Qd3
+17. Bf4 Qxg3 18. Bxg3
+{ Thinker playing White, rated 2 9 4 3 overpressed, and Hiarcs, rated 2 9 1 0, had the Black pieces secured the win.0-1 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16.1 64-bit 4CPU"]
+[Black "Caissa 1.18 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C51"]
+[Opening "Evans gambit declined, 5.a4"]
+[Variation ""]
+[WhiteElo "3638"]
+[BlackElo "3600"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bb6 5. a4
+{ entered in EVANS Gambit Declined 5 A4 } 5... a6 6. O-O
+{ played by 3 6 2 6 rated Dragon } ( 6. c3 { played by 3 6 0 8 rated Berserk }
+6... Nf6 7. d3 { played by 3 6 0 8 rated Berserk } 7... d6 8. O-O
+{ played by 3 6 0 8 rated Berserk } 8... Ne7 9. Nbd2
+{ played by 3 5 6 7 rated Berserk } 9... O-O 10. Bb3
+{ played by 3 4 5 9 rated Clover } 10... Ng6 11. Nc4
+{ played by 3 0 9 5 rated Andscacs } 11... Ba7 12. h3
+{ played by 2 5 9 7 rated Naum } ( 12. Qe2
+{ played by 2 5 4 1 rated tomitankChess } 12... Qe7 13. Kh1 Be6 14. Bg5 h6 15.
+Be3 Bxe3 16. fxe3 b5 17. Na5 Bxb3 18. Nxb3
+{ In an interesting battle, tomitankChess playing White, rated 2 5 4 1 overpressed, and Shallow, rated 2 4 1 5, had the Black pieces secured the win. Small inaccuracies made the difference.0-1 }
+) 12... Qe7 13. Na5 c6 14. Re1 h6 15. Be3 Bxe3 16. Rxe3 Nf4 17. d4 Bxh3 18.
+gxh3
+{ Here we see that Zap!Chess as Black rated 2 6 8 3 defended accurately and defeated Naum handling the White pieces rated 2 5 9 7. The opening quickly led to complex middlegame play.0-1 }
+) 6... Nf6 7. d3 O-O 8. c3 d6 9. Nbd2 { played by 3 6 3 8 rated Stockfish } (
+9. a5 { played by 2 8 3 9 rated DisasterArea } 9... Ba7 10. Bg5
+{ played by 3 5 5 1 rated Koivisto } 10... h6 11. Bh4 g5 12. Bg3
+{ played by 3 5 5 1 rated Koivisto } ( 12. Nxg5
+{ played by 2 6 6 6 rated ChessBrainVB } 12... hxg5 13. Bxg5 Kg7 14. Qf3 Rh8
+15. Nd2 Qe7 16. Rfb1
+{ Once again, ChessBrainVB from the White side with rating 2 6 6 6 overpressed, and Ktulu as Black rated 2 6 6 3 secured the win. The outcome was decided in the later stages.0-1 }
+) 12... Nh7 13. Kh1 Kh8 14. Nbd2 f5 15. exf5 Bxf5 16. b5 axb5 17. Bxb5 Ne7 18.
+a6
+{ In an interesting battle, The game between Koivisto as White rated 3 5 5 1 and Dragon playing Black, rated 3 6 1 5 finished level. Both sides showed good positional understanding.1/2-1/2 }
+) 9... h6 10. h3 { played by 3 5 7 9 rated Ethereal } ( 10. Bb3
+{ played by 2 9 5 5 rated Naum } 10... Be6 11. Nc4 Ba7 12. Bd2
+{ played by 2 6 3 3 rated Ktulu } 12... Qe8 13. Ne3 Qd7 14. Re1 Ne7 15. a5 Ng6
+16. Bc2 Rad8 17. Qb1 Rfe8 18. d4
+{ Here we see that Ktulu from the White side with rating 2 6 3 3 converted the advantage and defeated Spike handling the Black pieces rated 2 6 4 7. Small inaccuracies made the difference.1-0 }
+) 10... Ba7 11. Re1 { played by 3 5 7 9 rated Ethereal } 11... Be6 12. Rb1
+{ played by 3 5 6 7 rated Berserk } ( 12. Bb3
+{ played by 3 5 1 0 rated Berserk } 12... Bxb3 13. Qxb3 Qd7 14. Nf1 Qe6 15.
+Qxe6 fxe6 16. Ra2 Nh5 17. Rd1 Rf7 18. N1h2
+{ Once again, After a long struggle, Berserk on White with Elo 3 5 1 0 and Minic handling the Black pieces rated 3 4 0 2 shared the point. Small inaccuracies made the difference.1/2-1/2 }
+) 12... Ne7 13. b5 axb5 14. Bxe6 fxe6 15. Rxb5 Nd7 16. Nc4 Ng6 17. d4 Nh4 18.
+Nxh4
+{ In this game, Neither Berserk from the White side with rating 3 5 6 7 nor Ethereal, rated 3 5 7 9, had the Black pieces could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16.1 64-bit 4CPU"]
+[Black "Caissa 1.18 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C51"]
+[Opening "Evans gambit declined, 5.a4"]
+[Variation ""]
+[WhiteElo "3638"]
+[BlackElo "3600"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bb6 5. a4
+{ entered in EVANS Gambit Declined 5 A4 } 5... a6 6. O-O
+{ played by 3 6 2 6 rated Dragon } 6... Nf6 7. d3 O-O 8. c3 d6 9. Nbd2
+{ played by 3 6 3 8 rated Stockfish } ( 9. a5
+{ played by 2 8 3 9 rated DisasterArea } 9... Ba7 10. Be3
+{ played by 3 3 9 2 rated Uralochka } 10... Bxe3 11. fxe3 b5 12. axb6 cxb6 13.
+Qd2 { played by 3 3 9 2 rated Uralochka } ( 13. Bd5
+{ played by 3 1 5 0 rated IvanHoe } 13... Bd7 14. Nbd2 b5 15. Qb3 Qb6 16. Rfe1
+a5 17. bxa5 Nxa5 18. Qb4
+{ Once again, The game between IvanHoe handling the White pieces rated 3 1 5 0 and Rybka from the Black side with rating 3 1 8 4 finished level. Small inaccuracies made the difference.1/2-1/2 }
+) 13... Bb7 14. Bb3 b5 15. Na3 Ne7 16. c4 Bc6 17. h3 Bd7 18. Nb1
+{ In an interesting battle, The game between Uralochka, rated 3 3 9 2, had the White pieces and Nemorino handling the Black pieces rated 3 4 3 2 finished level. The outcome was decided in the later stages.1/2-1/2 }
+) 9... h6 10. h3 { played by 3 5 7 9 rated Ethereal } ( 10. Bb3
+{ played by 2 9 5 5 rated Naum } 10... Be6 11. Nc4 Ba7 12. Be3
+{ played by 2 9 5 5 rated Naum } 12... b5 13. Na5
+{ played by 2 3 6 0 rated Sorgenkind } 13... Nxa5 14. Bxe6 Bxe3 15. fxe3 fxe6
+16. bxa5 Qd7 17. Qb3 Rab8 18. Rfb1
+{ Here we see that Neither Sorgenkind on White with Elo 2 3 6 0 nor Sage from the Black side with rating 2 3 4 9 could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 10... Ba7 11. Re1 { played by 3 5 7 9 rated Ethereal } 11... Be6 12. Bxe6
+{ played by 3 5 7 9 rated Ethereal } 12... fxe6 13. Nf1
+{ played by 3 5 7 9 rated Ethereal } ( 13. Nc4
+{ played by 3 1 8 4 rated Rybka } 13... b5 14. Ncd2 Nh5 15. Nb3 Qf6 16. Qc2 Kh8
+17. Kh2 g5 18. axb5
+{ Once again, Neither Rybka from the White side with rating 3 1 8 4 nor Deep on Black with Elo 3 0 5 4 could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
+) ( 13. Ba3 { played by 3 0 3 2 rated Topple } 13... b5 14. Bc1
+{ we will see this position later on1/2-1/2 } ) 13... Nh5 14. Ra2 Qe8 15. N1h2
+Nf6 16. g3 Rf7 17. Qb3 Qd7 18. Kg2
+{ In this game, After a long struggle, Ethereal, rated 3 5 7 9, had the White pieces and Berserk, rated 3 5 6 7, had the Black pieces shared the point. The outcome was decided in the later stages.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16.1 64-bit 4CPU"]
+[Black "Caissa 1.18 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C51"]
+[Opening "Evans gambit declined, 5.a4"]
+[Variation ""]
+[WhiteElo "3638"]
+[BlackElo "3600"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bb6 5. a4
+{ entered in EVANS Gambit Declined 5 A4 } 5... a6 6. c3
+{ played by 3 6 0 8 rated Berserk } ( 6. O-O { played by 3 6 2 6 rated Dragon }
+6... Nf6 7. d3 O-O 8. c3 d6 9. Nbd2 { played by 3 6 3 8 rated Stockfish } 9...
+h6 10. Re1 { played by 3 6 3 8 rated Stockfish } ( 10. Bb3
+{ played by 2 9 5 5 rated Naum } 10... Be6 11. Nc4 Ba7 12. Be3
+{ played by 2 9 5 5 rated Naum } 12... b5 13. axb5
+{ played by 2 9 5 5 rated Naum } ( 13. Na3
+{ played by 2 7 9 4 rated Grapefruit } 13... Bxe3 14. Bxe6
+{ played by 2 6 6 1 rated Movei } 14... Bxf2+ 15. Rxf2 fxe6 16. axb5 axb5 17.
+Nxb5 d5 18. Rxa8
+{ Once again, Movei from the White side with rating 2 6 6 1 overpressed, and Grapefruit, rated 2 7 9 4, had the Black pieces secured the win. The outcome was decided in the later stages.0-1 }
+) 13... axb5 14. Na3 { played by 2 6 9 5 rated Delfi } 14... Bxb3 15. Qxb3 Bxe3
+16. fxe3 Qb8 17. Kh1 Ng4 18. Nc2
+{ Once again, After a long struggle, Delfi handling the White pieces rated 2 6 9 5 and Cyrano handling the Black pieces rated 2 5 6 3 shared the point. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 10... Ng4 11. Re2 { played by 3 6 3 8 rated Stockfish } 11... Nf6 12. h3
+{ played by 3 6 3 8 rated Stockfish } 12... Be6 13. Bxe6 fxe6 14. Qb3
+{ played by 3 6 3 8 rated Stockfish } ( 14. Nc4
+{ played by 3 6 2 6 rated Dragon } 14... Ba7 15. Be3 Bxe3 16. Rxe3 Qe8 17. Ncd2
+Nh5 18. Kh2
+{ In this game, The game between Dragon from the White side with rating 3 6 2 6 and Ethereal, rated 3 5 9 9, had the Black pieces finished level. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 14... Qd7 15. Nc4 Ba7 16. Be3 Qf7 17. Bxa7 Rxa7 18. Ncd2
+{ In an interesting battle, The game between Stockfish from the White side with rating 3 6 3 8 and Caissa on Black with Elo 3 6 0 0 finished level. The position remained tense for most of the game.1/2-1/2 }
+) 6... Nf6 7. d3 { played by 3 6 0 8 rated Berserk } 7... d6 8. O-O
+{ played by 3 6 0 8 rated Berserk } 8... Ne7 9. Nbd2
+{ played by 3 5 6 7 rated Berserk } 9... O-O 10. Bb3
+{ played by 3 4 5 9 rated Clover } 10... Ng6 11. Nc4
+{ played by 3 0 9 5 rated Andscacs } 11... Ba7 12. Be3
+{ played by 3 0 9 5 rated Andscacs } 12... Be6 13. Bxa7
+{ played by 3 0 9 5 rated Andscacs } ( 13. Bd2
+{ played by 3 0 5 9 rated Sting } 13... c6 14. Re1 Ng4 15. Ne3 Nxe3 16. Bxe3
+Bxe3 17. Rxe3 Bxb3 18. Qxb3
+{ Once again, Sting on White with Elo 3 0 5 9 and Andscacs as Black rated 3 0 9 5 played a balanced game which ended in a draw. The outcome was decided in the later stages.1/2-1/2 }
+) 13... Rxa7 14. a5 Nf4 15. g3 Nh3+ 16. Kg2 Ng4 17. Qe2 Nf6 18. d4
+{ In an interesting battle, Andscacs from the White side with rating 3 0 9 5 converted the advantage and defeated Sting handling the Black pieces rated 3 0 5 9. The opening quickly led to complex middlegame play.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16.1 64-bit 4CPU"]
+[Black "Caissa 1.18 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C51"]
+[Opening "Evans gambit declined, 5.a4"]
+[Variation ""]
+[WhiteElo "3638"]
+[BlackElo "3600"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bb6 5. a4
+{ entered in EVANS Gambit Declined 5 A4 } 5... a6 6. a5
+{ played by 3 6 1 5 rated Dragon } ( 6. O-O { played by 3 6 2 6 rated Dragon }
+6... Nf6 7. d3 O-O 8. c3 d6 9. Nbd2 { played by 3 6 3 8 rated Stockfish } 9...
+h6 10. Bb3 { played by 2 9 5 5 rated Naum } 10... Be6 11. Nc4 Ba7 12. Be3
+{ played by 2 9 5 5 rated Naum } 12... b5 13. Ncd2
+{ played by 2 8 2 9 rated Hiarcs } ( 13. Na3
+{ played by 2 7 9 4 rated Grapefruit } 13... Bxe3 14. fxe3
+{ played by 2 7 9 4 rated Grapefruit } 14... d5 15. exd5
+{ played by 2 7 9 4 rated Grapefruit } ( 15. Bxd5
+{ played by 2 6 3 9 rated Cyrano } 15... Bxd5 16. exd5 Qxd5 17. e4 Qd7 18. Qe2
+{ In an interesting battle, After a long struggle, Cyrano from the White side with rating 2 6 3 9 and Hamsters handling the Black pieces rated 2 6 0 7 shared the point. Both sides showed good positional understanding.1/2-1/2 }
+) 15... Nxd5 16. Qd2 Nxe3 17. Qxe3 Bxb3 18. axb5
+{ Once again, The game between Grapefruit handling the White pieces rated 2 7 9 4 and Bright on Black with Elo 2 7 3 3 finished level.1/2-1/2 }
+) ( 13. axb5 { played by 2 9 5 5 rated Naum } 13... axb5 14. Na5
+{ played by 2 9 5 5 rated Naum } 14... Nxa5 15. Bxe6
+{ played by 2 9 5 5 rated Naum } 15... Bxe3 16. bxa5
+{ played by 2 0 5 6 rated Clarabit } 16... Bxf2+ 17. Rxf2 fxe6 18. Qb3
+{ Once again, AliChess playing Black, rated 2 1 4 1 seized the initiative and handed Clarabit on White with Elo 2 0 5 6 a loss. The opening quickly led to complex middlegame play.0-1 }
+) 13... Bxe3 14. fxe3 Bxb3 15. Nxb3 { played by 2 6 9 0 rated BugChess2 } 15...
+Qd7 16. Rf2 Rfb8 17. Rfa2 Qc8 18. Nfd2
+{ BugChess2, rated 2 6 9 0, had the White pieces remained in control, handing Ktulu from the Black side with rating 2 7 5 8 a loss. The position remained tense for most of the game.1-0 }
+) 6... Ba7 7. c3 { played by 3 6 1 5 rated Dragon } 7... Nf6 8. d3 d6 9. Qb3
+{ played by 2 1 3 5 rated Mediocre } 9... O-O 10. O-O
+{ played by 3 6 0 2 rated Fat } 10... Ne7 11. Be3
+{ played by 3 6 0 2 rated Fat } 11... Bxe3 12. fxe3 c6 13. Qc2 d5 14. Bb3
+{ played by 3 5 8 4 rated Berserk } ( 14. Ba2
+{ played by 3 3 5 1 rated Bagatur } 14... Ng6 15. Nbd2 Be6 16. Ng5 Bd7 17. h3
+h6 18. Ngf3
+{ In this game, Fat, rated 3 6 0 2, had the White pieces and Berserk on Black with Elo 3 5 8 4 played a balanced game which ended in a draw. Small inaccuracies made the difference.1/2-1/2 }
+) 14... Ng6 15. Nbd2 Be6 16. Rae1 b6 17. axb6 Qxb6 18. Ng5
+{ The game between Berserk from the White side with rating 3 5 8 4 and Fat from the Black side with rating 3 6 0 2 finished level. Both sides showed good positional understanding.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16.1 64-bit 4CPU"]
+[Black "Caissa 1.18 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C51"]
+[Opening "Evans gambit declined, 5.a4"]
+[Variation ""]
+[WhiteElo "3638"]
+[BlackElo "3600"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bb6 5. a4
+{ entered in EVANS Gambit Declined 5 A4 } 5... a6 6. O-O
+{ played by 3 6 2 6 rated Dragon } 6... Nf6 7. d3 O-O 8. c3 d6 9. Nbd2
+{ played by 3 6 3 8 rated Stockfish } 9... h6 10. Bb3
+{ played by 2 9 5 5 rated Naum } 10... Be6 11. Nc4 Ba7 12. Be3
+{ played by 2 9 5 5 rated Naum } 12... b5 13. Ncd2
+{ played by 2 8 2 9 rated Hiarcs } ( 13. axb5 { played by 2 9 5 5 rated Naum }
+13... axb5 14. Na5 { played by 2 9 5 5 rated Naum } 14... Nxa5 15. Bxe6
+{ played by 2 9 5 5 rated Naum } ( 15. bxa5 { played by 2 5 6 2 rated Crafty }
+15... Bxe3 16. fxe3 Bd7 17. Qb1 { played by 2 5 6 2 rated Crafty } ( 17. Qd2
+{ played by 2 5 6 2 rated Crafty } 17... c5 18. Qa2
+{ In this game, After a long struggle, Crafty from the White side with rating 2 5 6 2 and The as Black rated 2 5 8 2 shared the point. Small inaccuracies made the difference.1/2-1/2 }
+) ( 17. Qc1 { played by 2 4 4 9 rated Arasan } 17... Ra6 18. Rf2
+{ Once again, Naum as Black rated 2 5 9 7 seized the initiative and handed Arasan on White with Elo 2 4 4 9 a loss. Small inaccuracies made the difference.0-1 }
+) ( 17. Ra2 { played by 2 1 3 6 rated NagaSkaki } 17... Ra6 18. Qa1
+{ In an interesting battle, Neurosis playing Black, rated 2 1 6 0 defended accurately and defeated NagaSkaki as White rated 2 1 3 6. The position remained tense for most of the game.0-1 }
+) 17... c5 18. Qa2
+{ Crafty playing White, rated 2 5 6 2 remained in control, handing Booot on Black with Elo 2 6 6 4 a loss. The outcome was decided in the later stages.1-0 }
+) 15... Bxe3 16. fxe3 { played by 2 9 5 5 rated Naum } 16... Nc4 17. dxc4
+{ played by 2 9 5 5 rated Naum } ( 17. Bxf7+ { played by 2 9 5 5 rated Naum }
+17... Kxf7 18. dxc4
+{ Here we see that Naum as White rated 2 9 5 5 and Zappa from the Black side with rating 2 8 2 0 played a balanced game which ended in a draw.1/2-1/2 }
+) 17... fxe6 18. cxb5
+{ In this game, The game between Naum from the White side with rating 2 9 5 5 and Hiarcs on Black with Elo 2 8 2 9 finished level. Both sides showed good positional understanding.1/2-1/2 }
+) 13... Bxe3 14. fxe3 Bxb3 15. Qxb3 { played by 2 8 2 9 rated Hiarcs } 15...
+Qd7 16. d4 { played by 2 8 2 9 rated Hiarcs } ( 16. Qa2
+{ played by 2 6 6 4 rated Booot } 16... d5 17. exd5 Nxd5 18. Ne4
+{ Once again, Scorpio on Black with Elo 2 6 5 4 defended accurately and defeated Booot from the White side with rating 2 6 6 4. The outcome was decided in the later stages.0-1 }
+) 16... Rfe8 17. Qc2 exd4 18. exd4
+{ In this game, Naum on Black with Elo 2 9 5 5 outplayed Hiarcs as White rated 2 8 2 9 and won as Black. Small inaccuracies made the difference.0-1 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16.1 64-bit 4CPU"]
+[Black "Caissa 1.18 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C51"]
+[Opening "Evans gambit declined, 5.a4"]
+[Variation ""]
+[WhiteElo "3638"]
+[BlackElo "3600"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bb6 5. a4
+{ entered in EVANS Gambit Declined 5 A4 } 5... a6 6. O-O
+{ played by 3 6 2 6 rated Dragon } 6... Nf6 7. d3 O-O 8. c3 d6 9. Nbd2
+{ played by 3 6 3 8 rated Stockfish } 9... h6 10. Bb3
+{ played by 2 9 5 5 rated Naum } 10... Be6 11. Nc4 Ba7 12. Be3
+{ played by 2 9 5 5 rated Naum } 12... b5 13. axb5
+{ played by 2 9 5 5 rated Naum } 13... axb5 14. Na5
+{ played by 2 9 5 5 rated Naum } 14... Nxa5 15. Rxa5
+{ played by 2 5 8 2 rated The } 15... Bxe3 16. fxe3 Bxb3 17. Qxb3 Qb8 18. Nh4
+{ Once again, The on White with Elo 2 5 8 2 and Hamsters as Black rated 2 6 0 7 played a balanced game which ended in a draw. The outcome was decided in the later stages.1/2-1/2 }
+( 18. Rxa8
+{ Here we see that Neither SOS as White rated 2 5 5 1 nor Cyrano on Black with Elo 2 6 3 9 could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 1/2-1/2
+
+
+

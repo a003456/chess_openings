@@ -1,0 +1,36 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Houdini 3 64-bit 4CPU"]
+[Black "Stockfish 3 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "C81"]
+[Opening "Ruy Lopez"]
+[Variation "open, Howell attack, Ekstroem variation"]
+[WhiteElo "3277"]
+[BlackElo "3207"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Qe2 Be7 10. Rd1 O-O 11. c4 bxc4 12. Bxc4 Qd7
+{ entered in RUY Lopez Open Howell Attack Ekstroem Variation } 13. Nc3 Nxc3 14.
+bxc3 Rfb8 { played by 3 2 0 7 rated Stockfish } ( 14... Na5
+{ played by 3 0 4 1 rated Arasan } 15. Bxa6 Bg4 16. Bd3 Nb3 17. Rb1 Nxc1 18.
+Rbxc1 Bc5 19. Be4 c6 20. c4 d4 21. h3 Bxf3 22. Qxf3 Ra6 23. e6 Qe7 24. exf7+
+Rxf7 25. Qe2 g6 26. Rc2
+{ In an interesting battle, Laser from the White side with rating 3 0 6 2 remained in control, handing Arasan as Black rated 3 0 4 1 a loss. The opening quickly led to complex middlegame play.1-0 }
+) ( 14... f6 { played by 3 0 6 2 rated Laser } 15. exf6 Bxf6 16. Ng5 Bxg5 17.
+Bxg5 h6 { played by 3 0 6 2 rated Laser } ( 17... Rae8
+{ played by 2 5 1 4 rated Ufim } 18. Qd2 dxc4 19. Qxd7 Bxd7 20. Rxd7 Re2 21.
+Be3 Rc8 22. Rd5 Rd8 23. Rc5 Rxa2 24. Rf1 Ne7 25. Rxc7 Nd5 26. Rxc4
+{ Here we see that Ufim on Black with Elo 2 5 1 4 seized the initiative and handed K2 playing White, rated 2 5 2 0 a loss. Small inaccuracies made the difference.0-1 }
+) 18. Be3 Rfe8 19. Bxd5 Bxd5 20. c4 Ne7 21. cxd5 Nxd5 22. Qc4 c6 23. Rac1 Re6
+24. Bd2 Nb6 25. Qb3 Nd5 26. Re1
+{ In this game, Neither Arasan from the White side with rating 3 0 4 1 nor Laser, rated 3 0 6 2, had the Black pieces could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
+) 15. h3 Na5 16. Bd3 Qa4 17. Nd4 g6 18. Nxe6 fxe6 19. c4 Nxc4 20. Qg4 Kf7 21.
+Bg5 Bxg5 22. Qxg5 Qe8 23. Bxc4 dxc4 24. Rd4 Qe7 25. Rf4+ Ke8 26. Rf6
+{ Houdini, rated 3 2 7 7, had the White pieces remained in control, handing Stockfish on Black with Elo 3 2 0 7 a loss. The opening quickly led to complex middlegame play.1-0 }
+1-0
+
+
+

@@ -1,0 +1,30 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 1.4 32-bit"]
+[Black "Rybka 3 32-bit"]
+[Result "0-1"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Euwe-Gligoric variation"]
+[WhiteElo "2845"]
+[BlackElo "3026"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Qc7 8.
+Qxg7 Rg8 9. Qxh7 cxd4 10. Kd1
+{ entered in FRENCH Winawer Advance Poisoned Pawn Euwe Gligoric Variation }
+10... Nbc6 { played by 3 0 2 6 rated Rybka } ( 10... Nd7
+{ played by 2 8 8 1 rated Hiarcs } 11. Rb1 Nc5 12. cxd4 Ne4 13. Be3 Nc3+ 14.
+Kc1 Nxb1 15. Kxb1 Bd7 16. Nf3 Rc8 17. Nd2 Ba4 18. c4 Qa5 19. Be2 Rxg2 20. Rc1
+Nf5 21. Bf1 Rg1 22. Qh8+ Kd7 23. Qh5
+{ Here we see that Hiarcs playing Black, rated 2 8 8 1 outplayed Deep as White rated 2 8 4 3 and won as Black.0-1 }
+) ( 10... dxc3 { played by 2 3 0 4 rated Jazz } 11. Nf3 Nbc6
+{ we will see this position later on0-1 } ) 11. Nf3 dxc3 12. Bf4 Bd7 13. Ng5
+Rf8 14. Rb1 Qa5 15. Bd3 Qc5 16. Be3 Qxa3 17. Qg7 O-O-O 18. Nxf7 Rxf7 19. Qxf7
+Nxe5 20. Qh7 Nf5 21. Bxf5 exf5 22. Qg7 Re8 23. Rb3
+{ In an interesting battle, Rybka handling the Black pieces rated 3 0 2 6 outplayed Stockfish from the White side with rating 2 8 4 5 and won as Black. The outcome was decided in the later stages.0-1 }
+0-1
+
+
+

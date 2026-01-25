@@ -1,0 +1,271 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Stockfish 16.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B54"]
+[Opening "Sicilian"]
+[Variation "Prins (Moscow) variation"]
+[WhiteElo "3640"]
+[BlackElo "3638"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. f3
+{ entered in SICILIAN Prins Moscow Variation } 5... Nc6 6. Nc3
+{ played by 3 6 4 3 rated Stockfish } ( 6. c4
+{ played by 3 6 2 0 rated Stockfish } 6... Qb6 7. Nc2 g6 8. Nc3 Bg7 9. Qd2
+{ played by 3 2 8 8 rated Igel } ( 9. Nb5 { played by 3 1 8 5 rated Arasan }
+9... O-O 10. Be3 Qa5+ 11. Kf2 Nd7 12. Ncd4 Nde5 13. Nb3 Qd8 14. Rc1 a6 15. Nc3
+Qe8 16. Nd5 f5 17. exf5 Bxf5 18. Kg1
+{ Once again, SugaR handling the Black pieces rated 3 4 7 4 outplayed Arasan as White rated 3 1 8 5 and won as Black. The opening quickly led to complex middlegame play.0-1 }
+) ( 9. Ne3 { played by 3 1 2 0 rated Schoenemann } 9... O-O 10. Be2 Bd7 11. O-O
+Nd4 12. Kh1 e6 13. Bd3 Nh5 14. Rb1 Qd8 15. g3 a5 16. Ng2 a4 17. Be3 e5 18. Qd2
+{ In this game, Schoenemann handling the White pieces rated 3 1 2 0 overpressed, and Lynx on Black with Elo 3 1 6 1 secured the win. The outcome was decided in the later stages.0-1 }
+) ( 9. Qd3 { played by 2 9 8 0 rated SlowChess } 9... Nd7 10. Rb1 Nc5 11. Qe3
+a5 12. Be2 O-O 13. Bd2 f5 14. O-O f4 15. Qf2 g5 16. a3 Be6 17. b3 Ne5 18. Rfd1
+{ SlowChess from the White side with rating 2 9 8 0 converted the advantage and defeated Winter from the Black side with rating 3 0 3 5. Both sides showed good positional understanding.1-0 }
+) ( 9. g4 { played by 2 3 4 8 rated Horizon } 9... O-O 10. h4 h5 11. Nd5 Nxd5
+12. cxd5 Ne5 13. gxh5 gxh5 14. a4 f5 15. a5 Qc7 16. f4 Ng4 17. Bd3 Bd7 18. Qe2
+{ In an interesting battle, Horizon as White rated 2 3 4 8 outplayed Waxman from the Black side with rating 2 2 0 7 and won the game. The opening quickly led to complex middlegame play.1-0 }
+) ( 9. Bd3 { played by 2 1 4 9 rated MORA } 9... O-O 10. Kf1 Bd7 11. Rb1 Ne5
+12. Be3 Qa5 13. Be2 Rfc8 14. b3 Nxc4 15. bxc4 Qxc3 16. Rb4 a5 17. Rb3 Qe5 18.
+Bd4
+{ In this game, FoxSEE as Black rated 2 3 0 7 defended accurately and defeated MORA handling the White pieces rated 2 1 4 9. The position remained tense for most of the game.0-1 }
+) 9... O-O 10. Be2 Rd8 11. Ne3 e6 12. O-O Bd7 13. Rd1 Be8 14. Kh1 Rac8 15. Bf1
+a6 16. b3 h5 17. Qe1 Nd7 18. Nc2
+{ Winter playing White, rated 3 2 2 8 outplayed Svart as Black rated 3 2 2 4 and won the game. The outcome was decided in the later stages.1-0 }
+) 6... e5 7. Nb3 Be6 8. Be3 { played by 3 6 4 0 rated Stockfish } ( 8. Nd5
+{ played by 3 6 3 8 rated Stockfish } 8... Be7 9. c3
+{ played by 3 6 3 8 rated Stockfish } 9... O-O 10. Be2 Nb8 11. O-O Nxd5 12.
+exd5 Bf5 13. Be3 { we will see this position later on1/2-1/2 } ) 8... d5 9.
+Nxd5 { played by 3 6 1 7 rated Berserk } 9... Nxd5 10. exd5 Qxd5
+{ we will see this position later on1/2-1/2 } 1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Stockfish 16.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B54"]
+[Opening "Sicilian"]
+[Variation "Prins (Moscow) variation"]
+[WhiteElo "3640"]
+[BlackElo "3638"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. f3
+{ entered in SICILIAN Prins Moscow Variation } 5... Nc6 6. Nc3
+{ played by 3 6 4 3 rated Stockfish } ( 6. c4
+{ played by 3 6 2 0 rated Stockfish } 6... Qb6 7. Nc2 g6 8. Nc3 Bg7 9. Bd2
+{ played by 3 1 8 5 rated Andscacs } ( 9. Be2
+{ played by 3 0 3 5 rated Winter } 9... O-O 10. Kf1
+{ played by 3 0 3 5 rated Winter } ( 10. Bd2
+{ we will see this position later on1/2-1/2 } ) ( 10. Nb5
+{ played by 2 8 6 3 rated Counter } 10... Bd7 11. Be3 Qa5+ 12. Bd2 Qd8 13. O-O
+Rc8 14. Be3 a6 15. Nbd4 Nxd4 16. Bxd4 e5 17. Be3 Nh5 18. b3
+{ In an interesting battle, After a long struggle, Counter playing White, rated 2 8 6 3 and Igel from the Black side with rating 2 9 5 2 shared the point. Both sides showed good positional understanding.1/2-1/2 }
+) 10... Ne8 11. Nd5 Qa5 12. Bd2 Qd8 13. Rb1 f5 14. exf5 Bxf5 15. b4 Nc7 16.
+Nde3 Be6 17. b5 Ne5 18. Be1
+{ In an interesting battle, SlowChess handling the Black pieces rated 2 9 8 0 seized the initiative and handed Winter from the White side with rating 3 0 3 5 a loss. Both sides showed good positional understanding.0-1 }
+) 9... O-O 10. Rb1 { played by 2 8 7 4 rated OliThink } 10... Be6 11. Nd5 Bxd5
+12. cxd5 Ne5 13. b4 Rac8 14. a4 e6 15. dxe6 fxe6 16. a5 Qd8 17. Bg5 Nf7 18. Bh4
+{ In this game, Midnight from the Black side with rating 2 9 5 6 defended accurately and defeated OliThink as White rated 2 8 7 4. Small inaccuracies made the difference.0-1 }
+) 6... e5 7. Nb3 Be6 8. Nd5 { played by 3 6 3 8 rated Stockfish } 8... Be7 9.
+Be3 { played by 3 6 3 8 rated Stockfish } 9... O-O 10. c3
+{ played by 3 6 3 8 rated Stockfish } ( 10. c4 { played by 2 8 7 8 rated Dog }
+10... a5 11. Bb6 Qd7 12. Bf2 Qd8 13. Nd2 Nd7 14. Nxe7+ Qxe7 15. Be2 Qf6 16. Nf1
+Nd4 17. Ne3 Rfc8 18. O-O
+{ Here we see that Dog from the White side with rating 2 8 7 8 remained in control, handing Delfi on Black with Elo 2 6 9 5 a loss.1-0 }
+) 10... Nb8 11. Be2 Nxd5 12. exd5 Bf5 13. O-O Bg5 14. Bxg5 Qxg5 15. Na5 Nd7 16.
+Nc4 Qg6 17. Qd2 a6 18. Rf2
+{ Here we see that The game between Velvet handling the White pieces rated 3 5 7 7 and Stockfish playing Black, rated 3 6 4 5 finished level. The outcome was decided in the later stages.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Stockfish 16.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B54"]
+[Opening "Sicilian"]
+[Variation "Prins (Moscow) variation"]
+[WhiteElo "3640"]
+[BlackElo "3638"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. f3
+{ entered in SICILIAN Prins Moscow Variation } 5... Nc6 6. Nc3
+{ played by 3 6 4 3 rated Stockfish } ( 6. c4
+{ played by 3 6 2 0 rated Stockfish } 6... Qb6 7. Nc2 g6 8. Nc3 Bg7 9. Rb1
+{ played by 3 6 2 0 rated Stockfish } 9... Nb4 10. Nxb4
+{ played by 3 5 8 1 rated SugaR } 10... Qxb4 11. Bd3
+{ played by 3 1 4 2 rated Strelka } ( 11. Bd2 { played by 3 5 8 1 rated SugaR }
+11... Qb6 12. Bg5 { played by 3 5 6 0 rated Dragon } ( 12. Qc1
+{ played by 3 3 1 0 rated Booot } 12... O-O 13. Be3 Qa5 14. b4 Qd8 15. Be2 Be6
+16. O-O Rc8 17. c5 dxc5 18. bxc5
+{ Booot as White rated 3 3 1 0 remained in control, handing Strelka on Black with Elo 3 1 4 2 a loss. The position remained tense for most of the game.1-0 }
+) 12... O-O 13. Qd2 Be6 14. Be2 Rfc8 15. b3 a6 16. Rc1 Rab8 17. Nd5 Bxd5 18.
+Be3
+{ Here we see that Neither Dragon from the White side with rating 3 5 6 0 nor SugaR from the Black side with rating 3 5 8 1 could convert, and the game was drawn.1/2-1/2 }
+) 11... O-O 12. Bd2 Qb6 13. Qe2 Be6 14. Be3 Qb4 15. O-O Rfc8 16. Nd5 Nxd5 17.
+exd5 Bd7 18. Qf2
+{ In an interesting battle, Booot, rated 3 3 1 0, had the Black pieces seized the initiative and handed Strelka as White rated 3 1 4 2 a loss. The outcome was decided in the later stages.0-1 }
+) 6... e5 7. Nb3 Be6 8. Nd5 { played by 3 6 3 8 rated Stockfish } 8... Be7 9.
+Be3 { played by 3 6 3 8 rated Stockfish } 9... O-O 10. Qd2
+{ played by 3 2 4 3 rated Fizbo } ( 10. Be2 { played by 2 5 1 9 rated Odonata }
+10... a5 11. a4 { played by 2 5 1 9 rated Odonata } ( 11. Bb6
+{ played by 2 4 6 4 rated Ghost } 11... Qd7 12. Bb5 Bd8 13. Nxf6+ gxf6 14. Be3
+a4 15. Nd2 f5 16. O-O f4 17. Bf2 a3 18. bxa3
+{ In an interesting battle, Ghost from the White side with rating 2 4 6 4 overpressed, and Tigran handling the Black pieces rated 2 3 6 6 secured the win. The opening quickly led to complex middlegame play.0-1 }
+) 11... Bxd5 12. exd5 Nb4 13. c4 Nh5 14. g3 g6 15. Bf2 Ng7 16. O-O Bg5 17. Re1
+Nf5 18. Bf1
+{ In an interesting battle, Odonata, rated 2 5 1 9, had the White pieces overpressed, and Leorik from the Black side with rating 2 5 3 0 secured the win. Small inaccuracies made the difference.0-1 }
+) 10... a5 11. Bb6 { played by 3 2 4 3 rated Fizbo } ( 11. c3
+{ played by 3 1 3 3 rated Komodo } 11... a4 12. Nc1
+{ Komodo on White with Elo 3 1 3 3 converted the advantage and defeated Houdini as Black rated 3 2 4 0. The opening quickly led to complex middlegame play.1-0 }
+) 11... Qb8 12. Bc7 Qc8 13. Nxe7+ Nxe7 14. Bxa5 Ng6 15. Bd3 Bxb3 16. cxb3 d5
+17. Rc1 Qd7 18. exd5
+{ In an interesting battle, After a long struggle, Fizbo on White with Elo 3 2 4 3 and SugaR as Black rated 3 4 2 5 shared the point. Both sides showed good positional understanding.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Stockfish 16.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B54"]
+[Opening "Sicilian"]
+[Variation "Prins (Moscow) variation"]
+[WhiteElo "3640"]
+[BlackElo "3638"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. f3
+{ entered in SICILIAN Prins Moscow Variation } 5... Nc6 6. c4
+{ played by 3 6 2 0 rated Stockfish } ( 6. Nc3
+{ played by 3 6 4 3 rated Stockfish } 6... e5 7. Nb3 Be6 8. Be3
+{ played by 3 6 4 0 rated Stockfish } 8... d5 9. exd5
+{ played by 3 6 4 0 rated Stockfish } 9... Nxd5 10. Nxd5 Qxd5 11. Qxd5 Bxd5 12.
+c3 { played by 3 5 4 0 rated Chess } 12... f6 13. Bb5
+{ played by 3 5 0 2 rated Arasan } ( 13. O-O-O
+{ played by 3 5 4 0 rated Chess } 13... Be6 14. Nd2
+{ played by 3 5 2 1 rated Igel } 14... h5 15. b3 Kf7 16. Ne4 Ba3+ 17. Kb1 Rhd8
+18. Bb5
+{ In this game, Neither Igel, rated 3 5 2 1, had the White pieces nor rofChade as Black rated 3 5 2 7 could convert, and the game was drawn. Both sides showed good positional understanding.1/2-1/2 }
+) 13... Kf7 14. O-O-O Be6 15. Rhe1 h5 16. Nc5 Bxc5 17. Bxc5 Rac8 18. Bf2
+{ In an interesting battle, After a long struggle, Arasan on White with Elo 3 5 0 2 and Chess playing Black, rated 3 5 4 0 shared the point.1/2-1/2 }
+) 6... Qb6 7. Nc2 g6 8. Nc3 Bg7 9. Rb1 { played by 3 6 2 0 rated Stockfish }
+9... Nb4 10. Ne3 { played by 3 5 1 7 rated Koivisto } ( 10. Nxb4
+{ played by 3 5 8 1 rated SugaR } 10... Qxb4 11. Be3
+{ played by 3 5 7 4 rated Caissa } 11... O-O 12. Qd2
+{ played by 2 2 1 5 rated Sungorus } 12... Be6 13. Nd5
+{ played by 2 2 1 5 rated Sungorus } ( 13. Nb5
+{ played by 2 1 0 9 rated Simplex } 13... Qxd2+ 14. Kxd2 a6 15. Nc7 Rac8 16.
+Nxe6 fxe6 17. Rc1 Nd7 18. Kc2
+{ Once again, Sungorus from the Black side with rating 2 2 1 5 outplayed Simplex as White rated 2 1 0 9 and won as Black. The position remained tense for most of the game.0-1 }
+) 13... Qxd2+ 14. Kxd2 Nxd5 15. cxd5 Bc8 16. Bd3 Be5 17. g4 a5 18. h4
+{ In this game, Sungorus, rated 2 2 1 5, had the White pieces remained in control, handing Simplex playing Black, rated 2 1 0 9 a loss.1-0 }
+) 10... O-O 11. Be2 a5 12. a3 { played by 3 5 1 7 rated Koivisto } ( 12. O-O
+{ played by 3 4 4 5 rated Motor } 12... Bh6 13. Qd2 Qc5 14. Bd1 Bxe3+ 15. Qxe3
+Qxc4 16. Be2 Qc7 17. a3 Nc6 18. Qf2
+{ In this game, Motor, rated 3 4 4 5, had the White pieces and Peacekeeper, rated 3 5 2 2, had the Black pieces played a balanced game which ended in a draw. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 12... Nc6 13. O-O Nd4 14. b3 e6 15. Kh1 Bd7 16. Nc2 Nxc2 17. Qxc2 Bc6 18. Rd1
+{ Here we see that After a long struggle, Koivisto as White rated 3 5 1 7 and RubiChess from the Black side with rating 3 5 1 6 shared the point. The outcome was decided in the later stages.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Stockfish 16.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B54"]
+[Opening "Sicilian"]
+[Variation "Prins (Moscow) variation"]
+[WhiteElo "3640"]
+[BlackElo "3638"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. f3
+{ entered in SICILIAN Prins Moscow Variation } 5... Nc6 6. c4
+{ played by 3 6 2 0 rated Stockfish } ( 6. Nc3
+{ played by 3 6 4 3 rated Stockfish } 6... e5 7. Nb3 Be6 8. Be3
+{ played by 3 6 4 0 rated Stockfish } 8... d5 9. exd5
+{ played by 3 6 4 0 rated Stockfish } 9... Nxd5 10. Nxd5 Qxd5 11. Qxd5 Bxd5 12.
+O-O-O { played by 3 6 4 0 rated Stockfish } 12... O-O-O 13. Bb5 a6 14. Bd3 Kc7
+15. c3 { played by 3 6 4 0 rated Stockfish } ( 15. a3
+{ played by 3 6 1 7 rated Berserk } 15... h5 16. Rhe1 Bxb3 17. cxb3 g6 18. Bc4
+{ Berserk as White rated 3 6 1 7 and Dragon from the Black side with rating 3 6 2 6 played a balanced game which ended in a draw. The position remained tense for most of the game.1/2-1/2 }
+) 15... Be7 16. Kc2 Be6 17. a4 h6 18. Rhe1
+{ Here we see that Neither Stockfish as White rated 3 6 4 0 nor Stockfish on Black with Elo 3 6 3 8 could convert, and the game was drawn.1/2-1/2 }
+) 6... Qb6 7. Nc2 g6 8. Nc3 Bg7 9. Rb1 { played by 3 6 2 0 rated Stockfish } (
+9. Bd2 { played by 3 1 8 5 rated Andscacs } 9... O-O 10. Be2
+{ played by 3 1 8 5 rated Andscacs } 10... Be6 11. Nd5 Bxd5 12. cxd5 Nd4 13.
+Nxd4 Qxd4 14. Bc3 Qc5 15. Bd4 { played by 3 1 8 5 rated Andscacs } ( 15. Qd2
+{ played by 3 1 8 5 rated Andscacs } 15... Rfc8 16. Bb4
+{ In this game, After a long struggle, Andscacs on White with Elo 3 1 8 5 and MIDA on Black with Elo 3 1 4 8 shared the point. Both sides showed good positional understanding.1/2-1/2 }
+) 15... Qa5+ 16. Bc3 Qc5 { we will see this position later on1/2-1/2 } ) 9...
+Nb4 10. Nxb4 { played by 3 5 8 1 rated SugaR } 10... Qxb4 11. Be3
+{ played by 3 5 7 4 rated Caissa } 11... O-O 12. a3
+{ played by 3 5 7 4 rated Caissa } 12... Qa5 13. Qd2 Be6 14. Bd3
+{ played by 3 5 7 4 rated Caissa } ( 14. Nd5
+{ played by 3 5 2 2 rated Peacekeeper } 14... Qxd2+ 15. Kxd2 Nxd5 16. exd5 Bd7
+17. Bd3 e6 18. Rhc1
+{ Motor from the Black side with rating 3 4 4 5 could not hold the position, allowing Peacekeeper handling the White pieces rated 3 5 2 2 to win.1-0 }
+) 14... a6 15. a4 Nd7 16. Nd5 Qxa4 17. Nxe7+ Kh8 18. b3
+{ Once again, Caissa, rated 3 5 7 4, had the White pieces and Stockfish on Black with Elo 3 6 2 0 played a balanced game which ended in a draw. The outcome was decided in the later stages.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Stockfish 16.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B54"]
+[Opening "Sicilian"]
+[Variation "Prins (Moscow) variation"]
+[WhiteElo "3640"]
+[BlackElo "3638"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. f3
+{ entered in SICILIAN Prins Moscow Variation } 5... Nc6 6. Nc3
+{ played by 3 6 4 3 rated Stockfish } 6... e5 7. Nb3 Be6 8. Be3
+{ played by 3 6 4 0 rated Stockfish } ( 8. Nd5
+{ played by 3 6 3 8 rated Stockfish } 8... Be7 9. Be3
+{ played by 3 6 3 8 rated Stockfish } 9... O-O 10. Qd2
+{ played by 3 2 4 3 rated Fizbo } 10... a5 11. c4
+{ played by 3 4 1 2 rated Komodo } 11... a4 12. Nc1 h6 13. Ne2 Nd7 14. Nxe7+
+Qxe7 15. Nc3 Na5 16. Nd5 Bxd5 17. cxd5 { played by 3 4 1 2 rated Komodo } ( 17.
+Qxd5 { played by 3 2 2 2 rated Fire } 17... Nc5 18. Be2
+{ In this game, Fire playing White, rated 3 2 2 2 remained in control, handing Equinox handling the Black pieces rated 3 1 3 4 a loss. Small inaccuracies made the difference.1-0 }
+) 17... f5 18. Bb5
+{ In an interesting battle, Neither Komodo playing White, rated 3 4 1 2 nor Smallbrain on Black with Elo 3 4 4 2 could convert, and the game was drawn. Small inaccuracies made the difference.1/2-1/2 }
+) 8... d5 9. exd5 { played by 3 6 4 0 rated Stockfish } 9... Nxd5 10. Nxd5 Qxd5
+11. Qxd5 Bxd5 12. c3 { played by 3 5 4 0 rated Chess } 12... f6 13. O-O-O
+{ played by 3 5 4 0 rated Chess } 13... Be6 14. Bd3
+{ played by 3 5 2 7 rated rofChade } 14... O-O-O 15. Kc2 b6 16. Rhe1
+{ played by 3 5 2 7 rated rofChade } ( 16. h4
+{ played by 3 4 5 7 rated Superultra } 16... h5 17. Bf2 Kc7 18. Rhe1
+{ Once again, After a long struggle, Superultra as White rated 3 4 5 7 and Fire, rated 3 4 6 4, had the Black pieces shared the point.1/2-1/2 }
+) 16... h5 17. h4 Be7 18. Bf2
+{ In an interesting battle, Neither rofChade on White with Elo 3 5 2 7 nor Igel from the Black side with rating 3 5 2 1 could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
+1/2-1/2
+
+
+

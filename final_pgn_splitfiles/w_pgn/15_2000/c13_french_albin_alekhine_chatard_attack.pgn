@@ -1,0 +1,435 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Integral v7 64-bit 4CPU"]
+[Black "Stockfish 17.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack"]
+[WhiteElo "3617"]
+[BlackElo "3645"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4
+{ entered in FRENCH Albin Alekhine Chatard Attack } 6... Bxg5
+{ played by 3 6 4 5 rated Stockfish } ( 6... h6
+{ played by 3 6 2 0 rated Stockfish } 7. Bxe7 Qxe7 8. f4 c5
+{ played by 3 4 1 6 rated Patricia } ( 8... Nb6
+{ played by 2 5 4 8 rated Coiled } 9. Qg4 O-O 10. O-O-O Bd7 11. Rh3 f5 12. Qg3
+Nc6 13. h5 Na5 14. Nf3 Nbc4 15. a3 Ne3 16. Nh4 Nxd1 17. Ng6
+{ Here we see that Floyd, rated 2 6 5 2, had the White pieces overpressed, and Coiled playing Black, rated 2 5 4 8 secured the win. The position remained tense for most of the game.0-1 }
+) 9. Nb5 O-O 10. Nc7 cxd4 11. Nxa8 Nc6
+{ Here we see that Heimdall playing White, rated 3 4 1 9 converted the advantage and defeated Patricia, rated 3 4 1 6, had the Black pieces. Both sides showed good positional understanding.1-0 }
+) 7. hxg5 Qxg5 8. Qd3 Qg6 { played by 2 9 3 5 rated Deep } ( 8... Nf8
+{ played by 3 6 4 5 rated Stockfish } 9. Nh3 Qg6
+{ played by 3 2 9 3 rated Publius } ( 9... Qe7
+{ played by 3 2 9 1 rated Oxide } 10. Nf4 Nc6 11. Qg3 Rg8 12. O-O-O Bd7 13.
+Ncxd5 exd5 14. Nxd5 Qd8 15. f4 Bg4 16. Nxc7+ Qxc7 17. Qxg4 Nb4 18. c3 Qc6 19.
+g3
+{ In this game, Neither Patricia on White with Elo 3 2 8 2 nor Oxide as Black rated 3 2 9 1 could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
+) 10. Qd2 Bd7 11. O-O-O Nc6 12. Qe3 O-O-O 13. Nf4 Qg5 14. Nfxd5 Qxe3+ 15. Nxe3
+Be8 16. Ne2 h5 17. g4 h4 18. f4 Nb4 19. c3
+{ The game between Cwtch from the White side with rating 3 2 4 4 and Publius as Black rated 3 2 9 3 finished level. Both sides showed good positional understanding.1/2-1/2 }
+) ( 8... h6 { played by 3 6 2 0 rated Stockfish } 9. Rh3 Qe7
+{ played by 3 6 2 0 rated Stockfish } ( 9... O-O
+{ played by 3 2 0 4 rated WhiteCore } 10. Nf3 Qg6 11. Qd2 c5 12. O-O-O Nc6 13.
+Bd3 f5 14. Nb5 Qf7 15. Nd6 Qe7 16. Nh4 Ncxe5 17. dxe5 Nxe5 18. Nxc8 Raxc8 19.
+f4
+{ In an interesting battle, WhiteCore from the Black side with rating 3 2 0 4 could not hold the position, allowing Princhess on White with Elo 3 2 2 3 to win. The position remained tense for most of the game.1-0 }
+) ( 9... Nc6 { played by 3 1 4 3 rated Vajolet2 } 10. Rg3 Nb4 11. Qe2 Qf5 12.
+O-O-O Qh7 13. Nb5 Kd8 14. Qd2 Nc6 15. c4 Qg8 16. Ne2 Nb6 17. Nf4 Qf8 18. Nh5 a6
+19. Nc3
+{ In an interesting battle, Admete handling the White pieces rated 3 1 0 1 overpressed, and Vajolet2 on Black with Elo 3 1 4 3 secured the win. Small inaccuracies made the difference.0-1 }
+) 10. Qg3 Qf8 11. Nb5 Kd8 12. O-O-O Nc6 13. f4 Nb6 14. b3 Bd7 15. Nc3 Kc8 16.
+Kb2 f6 17. Bb5 Rg8 18. a4 Na5 19. Be2
+{ In this game, Dragon, rated 3 5 8 1, had the White pieces and Fire, rated 3 4 4 6, had the Black pieces played a balanced game which ended in a draw. The outcome was decided in the later stages.1/2-1/2 }
+) 9. Qxg6 fxg6 10. Nf3 Nb6 11. Bd3 O-O 12. O-O-O Bd7 13. Rh4 Nc6 14. Rdh1 h6
+15. Bxg6 Nc8 16. Rg4 N8e7 17. Bd3 Kf7 18. Kb1 Nf5 19. Ne2
+{ Once again, Naum from the White side with rating 3 0 0 0 and Deep, rated 2 9 3 5, had the Black pieces played a balanced game which ended in a draw. Small inaccuracies made the difference.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Integral v7 64-bit 4CPU"]
+[Black "Stockfish 17.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack"]
+[WhiteElo "3617"]
+[BlackElo "3645"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4
+{ entered in FRENCH Albin Alekhine Chatard Attack } 6... Bxg5
+{ played by 3 6 4 5 rated Stockfish } ( 6... Nc6
+{ played by 3 6 1 7 rated Integral } 7. Bxe7 Nxe7
+{ played by 2 9 1 2 rated Booot } 8. Nf3 c5 9. dxc5 Nxc5
+{ played by 2 9 1 2 rated Booot } ( 9... O-O { played by 2 6 4 9 rated Zevra }
+10. h5 h6 11. Qd2 Nxc5 12. O-O-O a5 13. Be2 Bd7 14. Kb1 f6 15. exf6 Rxf6 16.
+Qe3 Qc7 17. Rh4 Raf8 18. Rg4 Be8 19. Rh1
+{ Here we see that Myrddin from the White side with rating 2 6 2 6 and Zevra, rated 2 6 4 9, had the Black pieces played a balanced game which ended in a draw. The position remained tense for most of the game.1/2-1/2 }
+) 10. Qd4 Qb6 11. O-O-O O-O 12. a3 f5 13. exf6 Rxf6 14. b4 Nd7 15. Qxb6 Nxb6
+16. Kb2 Nf5 17. a4 a5 18. bxa5 Rxa5 19. Kb3
+{ Here we see that Booot from the Black side with rating 2 9 1 2 defended accurately and defeated Hannibal handling the White pieces rated 3 0 2 7. Both sides showed good positional understanding.0-1 }
+) 7. hxg5 Qxg5 8. Qd3 h5 { played by 3 6 0 9 rated Alexandria } ( 8... Nf8
+{ played by 3 6 4 5 rated Stockfish } 9. Nh3 Qh4
+{ played by 3 6 4 5 rated Stockfish } 10. O-O-O Rg8
+{ played by 3 2 0 6 rated Andscacs } ( 10... h6
+{ played by 3 0 4 1 rated chess22k } 11. Kb1 Nc6 12. Nb5 Qe7 13. Qg3 Ng6 14.
+Bd3 a6 15. Bxg6 axb5 16. Bd3 Bd7 17. Bxb5 Kf8 18. Be2 Qb4 19. Qf4
+{ In an interesting battle, Wasp playing White, rated 3 0 9 3 outplayed chess22k on Black with Elo 3 0 4 1 and won the game. Small inaccuracies made the difference.1-0 }
+) 11. Qe3 Bd7 12. Kb1 h6 13. Be2 Nc6 14. Nf4 Qg5 15. Rh5 Qd8 16. g4 a6 17. a3
+Qb8 18. g5 hxg5 19. Nh3
+{ In an interesting battle, BlackMamba on White with Elo 3 0 9 1 and Andscacs, rated 3 2 0 6, had the Black pieces played a balanced game which ended in a draw. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 9. Nf3 Qh6 { played by 2 8 4 7 rated Counter } ( 9... Qd8
+{ played by 2 7 5 5 rated Minic } 10. Qe3 b6 11. g4 h4 12. g5 Ba6 13. Bxa6 Nxa6
+14. O-O-O Qe7 15. Nxh4 O-O-O 16. f4 Nb4 17. f5 Kb8 18. Kb1 c5 19. Ne2
+{ Arminius handling the White pieces rated 2 7 4 0 remained in control, handing Minic on Black with Elo 2 7 5 5 a loss. Both sides showed good positional understanding.1-0 }
+) 10. Nb5 Kd8 11. g4 g6 12. gxh5 a6 13. Nc3 Nc6 14. Ne2 f6 15. Ng3 Qf8 16. Qe2
+gxh5 17. Rh4 Qe7 18. exf6 Nxf6 19. O-O-O
+{ In this game, Counter, rated 2 8 4 7, had the Black pieces outplayed Minic as White rated 2 7 5 5 and won as Black. The position remained tense for most of the game.0-1 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Integral v7 64-bit 4CPU"]
+[Black "Stockfish 17.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack"]
+[WhiteElo "3617"]
+[BlackElo "3645"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4
+{ entered in FRENCH Albin Alekhine Chatard Attack } 6... Bxg5
+{ played by 3 6 4 5 rated Stockfish } ( 6... h6
+{ played by 3 6 2 0 rated Stockfish } 7. Bxe7 Qxe7 8. f4 a6
+{ played by 3 6 2 0 rated Stockfish } 9. Nf3 c5
+{ played by 3 6 2 0 rated Stockfish } ( 9... b5
+{ played by 3 3 7 7 rated BlackCore } 10. Qd2 c5
+{ we will see this position later on1-0 } ( 10... Nb6
+{ played by 2 9 1 5 rated Atlas } 11. Be2 Nc6 12. O-O O-O 13. h5 Bb7 14. a4 b4
+15. Nd1 Nc4 16. Bxc4 dxc4 17. Ne3 Rad8 18. Rad1 f6 19. Nxc4
+{ Atlas, rated 2 9 1 5, had the Black pieces defended accurately and defeated tomitankChess as White rated 2 6 5 7. The outcome was decided in the later stages.0-1 }
+) ) 10. Qd2 cxd4 { played by 3 1 9 4 rated Simbelmyne } 11. Nxd4 Nc6 12. O-O-O
+Nxd4 13. Qxd4 b5 14. Ne2 Bb7 15. Qe3 Nc5 16. Nd4 Ne4 17. Bd3 Qc7 18. h5 O-O 19.
+g4
+{ In this game, Jet, rated 3 1 7 6, had the White pieces converted the advantage and defeated Simbelmyne from the Black side with rating 3 1 9 4.1-0 }
+) 7. hxg5 Qxg5 8. Qd3 h5 { played by 3 6 0 9 rated Alexandria } ( 8... Nc6
+{ played by 2 6 4 5 rated Philou } 9. Nf3 Qe7 10. Rxh7 Rg8
+{ played by 3 2 0 3 rated Cadie } ( 10... Qf8 { played by 3 1 7 0 rated Isa }
+11. Rxh8 Qxh8 12. Nb5 Kd8 13. O-O-O Qh6+ 14. Kb1 a6 15. Nc3 Nb6 16. g3 Bd7 17.
+Bg2 Qh8 18. Rh1 Qf8 19. Qh7
+{ Here we see that Cadie, rated 3 2 0 3, had the White pieces remained in control, handing Isa from the Black side with rating 3 1 7 0 a loss. The position remained tense for most of the game.1-0 }
+) 11. O-O-O Nf8 12. Rh2 Bd7 13. Qe3 a6 14. a3 O-O-O 15. Bd3 Kb8 16. Rdh1 f6 17.
+g3 Be8 18. Ne2 Nd7 19. exf6
+{ Once again, Isa from the White side with rating 3 1 7 0 and Cadie from the Black side with rating 3 2 0 3 played a balanced game which ended in a draw. Small inaccuracies made the difference.1/2-1/2 }
+) 9. Nf3 Qe7 { played by 3 6 0 9 rated Alexandria } 10. g4 a6
+{ played by 2 7 4 0 rated Arminius } 11. Rxh5 Rxh5 12. gxh5 c5 13. dxc5 Qxc5
+14. Qh7 Qb4 15. O-O-O Qf4+ 16. Nd2 Qh6 17. Qxh6 gxh6 18. f4 Nc6 19. Bg2
+{ In an interesting battle, Neither Minic from the White side with rating 2 7 5 5 nor Arminius from the Black side with rating 2 7 4 0 could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Integral v7 64-bit 4CPU"]
+[Black "Stockfish 17.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack"]
+[WhiteElo "3617"]
+[BlackElo "3645"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4
+{ entered in FRENCH Albin Alekhine Chatard Attack } 6... Bxg5
+{ played by 3 6 4 5 rated Stockfish } 7. hxg5 Qxg5 8. Qd3 Nf8
+{ played by 3 6 4 5 rated Stockfish } 9. Nh3 Qh4
+{ played by 3 6 4 5 rated Stockfish } 10. O-O-O a6
+{ played by 3 6 4 5 rated Stockfish } ( 10... Nc6
+{ played by 3 6 1 7 rated Integral } 11. Nb5 Qd8
+{ played by 3 0 5 8 rated Arasan } 12. Qg3 Ng6 13. Bd3 Nce7 14. Nf4 Nxf4 15.
+Qxf4 h6 16. Nc3 Nc6 17. Qg3 g6 18. Qe3 h5 19. g4
+{ In an interesting battle, Crafty from the White side with rating 2 9 5 3 overpressed, and Arasan on Black with Elo 3 0 5 8 secured the win. Small inaccuracies made the difference.0-1 }
+) ( 10... Bd7 { played by 3 2 4 4 rated Cwtch } 11. Nb5 Qd8
+{ played by 3 2 4 4 rated Cwtch } ( 11... Kd8
+{ played by 3 2 0 7 rated EveAnn } 12. Kb1 Nc6 13. f4 Ng6 14. g3 Qe7 15. Be2
+Qe8 16. Nc3 Nge7 17. g4 f5 18. exf6 gxf6 19. f5
+{ Once again, Cadie handling the White pieces rated 3 2 0 3 converted the advantage and defeated EveAnn from the Black side with rating 3 2 0 7. Small inaccuracies made the difference.1-0 }
+) 12. Nf4 g6 13. Nc3 Bc6 14. Qe3 Nbd7 15. Nd3 Qe7 16. f4 Nb6 17. g4 O-O-O 18.
+g5 a6 19. Rh3
+{ Once again, Publius on White with Elo 3 2 9 3 and Cwtch, rated 3 2 4 4, had the Black pieces played a balanced game which ended in a draw. The position remained tense for most of the game.1/2-1/2 }
+) ( 10... Ng6 { played by 3 0 9 3 rated Wasp } 11. Qe3 Nc6
+{ played by 3 0 9 3 rated Wasp } ( 11... O-O
+{ played by 2 8 6 4 rated Seawall } 12. f4 Nc6 13. a3 Bd7 14. Bd3 f5 15. Rdg1
+Qd8 16. g4 Nce7 17. gxf5 exf5 18. Qf3 c6 19. Qh5
+{ Here we see that Lozza handling the White pieces rated 2 8 8 9 outplayed Seawall on Black with Elo 2 8 6 4 and won the game. The outcome was decided in the later stages.1-0 }
+) 12. Bd3 h6 13. Ne2 Qe7 14. Kb1 Bd7 15. Qg3 Qh4 16. Qf3 Nf8 17. a3 Qe7 18. Qg3
+g6 19. Ng5
+{ Here we see that The game between chess22k, rated 3 0 4 1, had the White pieces and Wasp handling the Black pieces rated 3 0 9 3 finished level. The outcome was decided in the later stages.1/2-1/2 }
+) 11. Qe3 Bd7 { played by 3 6 4 5 rated Stockfish } ( 11... Nc6
+{ played by 3 1 5 8 rated Roc } 12. Be2 Qe7 13. Nf4 Ng6 14. Nh5 Qf8 15. f4 Nge7
+16. g4 Bd7 17. Na4 b6 18. Nc3 b5 19. Kb1
+{ Roc playing White, rated 3 1 5 8 outplayed ChessBrainVB on Black with Elo 3 0 6 9 and won the game. Small inaccuracies made the difference.1-0 }
+) 12. Bd3 Qe7 13. Nf4 Bc6 14. Nh5 Rg8 15. Qg3 Ng6 16. f4 Nd7 17. Rde1 O-O-O 18.
+f5 exf5 19. Bxf5
+{ Integral as White rated 3 6 1 7 and Stockfish on Black with Elo 3 6 4 5 played a balanced game which ended in a draw. The outcome was decided in the later stages.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Integral v7 64-bit 4CPU"]
+[Black "Stockfish 17.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack"]
+[WhiteElo "3617"]
+[BlackElo "3645"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4
+{ entered in FRENCH Albin Alekhine Chatard Attack } 6... h6
+{ played by 3 6 2 0 rated Stockfish } 7. Bxe7 Qxe7 8. f4 a6
+{ played by 3 6 2 0 rated Stockfish } 9. Nf3 c5
+{ played by 3 6 2 0 rated Stockfish } 10. Qd2 Nc6
+{ played by 3 6 2 0 rated Stockfish } ( 10... b5
+{ played by 3 5 3 3 rated SugaR } 11. g4 Nc6 { played by 3 5 3 3 rated SugaR }
+( 11... b4 { played by 3 3 3 8 rated Komodo } 12. Na4 c4 13. b3 c3 14. Qe3 Bb7
+15. Rg1 Bc6 16. Kf2 Bxa4 17. bxa4 Nc6 18. h5 a5 19. Bb5
+{ Here we see that Fire playing White, rated 3 4 3 5 converted the advantage and defeated Fritz from the Black side with rating 3 3 2 6. Both sides showed good positional understanding.1-0 }
+) ( 11... Nb6 { played by 3 0 7 5 rated iCE } 12. a3 Nc6 13. Qf2 b4 14. axb4
+cxb4 15. Nd1 a5 16. b3 Ba6 17. h5 Bxf1 18. Kxf1 a4 19. bxa4
+{ In an interesting battle, Wasp handling the White pieces rated 3 0 6 1 remained in control, handing iCE on Black with Elo 3 0 7 5 a loss. Small inaccuracies made the difference.1-0 }
+) 12. Ne2 { we will see this position later on1/2-1/2 } ) ( 10... O-O
+{ played by 2 4 7 3 rated Pepito } 11. g4 Nc6
+{ played by 3 2 8 6 rated HIARCS } ( 11... f6
+{ played by 2 4 1 4 rated Nemeton } 12. exf6 Nxf6 13. g5 cxd4 14. Nxd4 Nh5 15.
+Nce2 Nc6 16. Nxc6 bxc6 17. O-O-O Rb8 18. c3 c5 19. Bg2
+{ Once again, Pepito as White rated 2 4 7 3 remained in control, handing Nemeton as Black rated 2 4 1 4 a loss. Small inaccuracies made the difference.1-0 }
+) 12. Ne2 cxd4 13. O-O-O d3 14. cxd3 f6 15. g5 hxg5 16. hxg5 fxe5 17. Nh4 Kf7
+18. d4 exd4 19. Kb1
+{ After a long struggle, RukChess, rated 3 2 2 9, had the White pieces and HIARCS from the Black side with rating 3 2 8 6 shared the point. The position remained tense for most of the game.1/2-1/2 }
+) 11. Ne2 cxd4 { played by 3 5 2 1 rated RubiChess } ( 11... Nb6
+{ played by 3 4 9 0 rated Velvet } 12. dxc5 Qxc5 13. Ned4 Bd7 14. Nb3 Qe7 15.
+O-O-O O-O-O 16. Nfd4 Kb8 17. Nxc6+ Bxc6 18. Nd4 Rc8 19. Rh3
+{ In an interesting battle, Seer, rated 3 5 4 4, had the White pieces remained in control, handing Velvet from the Black side with rating 3 4 9 0 a loss. The position remained tense for most of the game.1-0 }
+) 12. O-O-O d3 13. Qxd3 Nc5 14. Qe3 Bd7 15. Ned4 O-O-O 16. Nxc6 Bxc6 17. Nd4
+Be8 18. h5 Kb8 19. Kb1
+{ Here we see that Koivisto handling the White pieces rated 3 5 2 3 and RubiChess, rated 3 5 2 1, had the Black pieces played a balanced game which ended in a draw. The position remained tense for most of the game.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Integral v7 64-bit 4CPU"]
+[Black "Stockfish 17.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack"]
+[WhiteElo "3617"]
+[BlackElo "3645"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4
+{ entered in FRENCH Albin Alekhine Chatard Attack } 6... h6
+{ played by 3 6 2 0 rated Stockfish } ( 6... Nc6
+{ played by 3 6 1 7 rated Integral } 7. Bxe7 Qxe7
+{ played by 3 6 1 7 rated Integral } 8. a3 Nb6 9. f4 Bd7 10. Nf3 O-O-O 11. Qd2
+Rdg8 { played by 3 6 1 7 rated Integral } ( 11... Kb8
+{ played by 3 5 8 3 rated Ginkgo } 12. h5 h6 13. Bd3 a6 14. O-O-O Rhf8 15. Kb1
+f6 16. Ne2 Be8 17. Rdf1 fxe5 18. fxe5 Rc8 19. Nf4
+{ Neither Integral as White rated 3 6 1 7 nor Ginkgo from the Black side with rating 3 5 8 3 could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+) 12. Na2 Kb8 13. Nb4 h6 14. Nxc6+ Bxc6 15. Qb4 Qxb4+ 16. axb4 Nc4 17. b3 Ne3
+18. Kd2 Ng4 19. Bd3
+{ Here we see that The game between Ginkgo from the White side with rating 3 5 8 3 and Integral on Black with Elo 3 6 1 7 finished level. The outcome was decided in the later stages.1/2-1/2 }
+) 7. Bxe7 Qxe7 8. f4 O-O { played by 3 6 0 0 rated Dragon } ( 8... Nc6
+{ played by 3 4 3 1 rated Velvet } 9. Nf3 Nb6 10. Qd2 Bd7 11. b3 Qa3
+{ played by 3 4 3 1 rated Velvet } ( 11... O-O
+{ played by 2 6 6 3 rated Djinn } 12. a4 Nb4 13. g3 c5 14. a5 Nc8 15. Na2 a6
+16. dxc5 Nxa2 17. Rxa2 Qxc5 18. Qd4 Qe7 19. Be2
+{ In this game, Neither Amoeba on White with Elo 2 7 2 4 nor Djinn as Black rated 2 6 6 3 could convert, and the game was drawn. Small inaccuracies made the difference.1/2-1/2 }
+) 12. h5 a6 13. Nb1 Qf8 14. a4 Nc8 15. Nc3 Qb4 16. Ne2 a5 17. g4 N8e7 18. Nc1
+Qxd2+ 19. Kxd2
+{ In an interesting battle, Stockfish on White with Elo 3 6 2 0 outplayed Velvet as Black rated 3 4 3 1 and won the game. The position remained tense for most of the game.1-0 }
+) 9. g4 c5 10. dxc5 Qxc5 { played by 3 5 5 0 rated Berserk } 11. g5 Qb4
+{ played by 3 5 5 0 rated Berserk } ( 11... Qe3+
+{ played by 3 3 0 2 rated Xiphos } 12. Nge2 h5 13. Rh3 Qb6 14. Ng3 Qe3+ 15.
+Nce2 Nc6 16. Nxh5 Qe4 17. Qd2 Nb6 18. b3 a5 19. a4
+{ In an interesting battle, Zahak handling the White pieces rated 3 2 9 1 outplayed Xiphos playing Black, rated 3 3 0 2 and won the game. The outcome was decided in the later stages.1-0 }
+) 12. Qd2 h5 13. O-O-O Nc6 14. a3 Qa5 15. Nb5 Qxd2+ 16. Kxd2 Nc5 17. Ke3 Ne7
+18. Nd6 b6 19. b4
+{ Once again, The game between Berserk as White rated 3 5 5 0 and Rebel as Black rated 3 5 2 3 finished level.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Integral v7 64-bit 4CPU"]
+[Black "Stockfish 17.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack"]
+[WhiteElo "3617"]
+[BlackElo "3645"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4
+{ entered in FRENCH Albin Alekhine Chatard Attack } 6... Bxg5
+{ played by 3 6 4 5 rated Stockfish } ( 6... h6
+{ played by 3 6 2 0 rated Stockfish } 7. Bxe7 Qxe7 8. f4 a6
+{ played by 3 6 2 0 rated Stockfish } 9. Nf3 c5
+{ played by 3 6 2 0 rated Stockfish } 10. Qd2 Nc6
+{ played by 3 6 2 0 rated Stockfish } 11. Ne2 b5
+{ played by 3 6 1 7 rated Alexandria } 12. g4 b4
+{ played by 3 6 1 7 rated Alexandria } ( 12... Bb7
+{ played by 3 4 4 6 rated Serendipity } 13. O-O-O O-O-O 14. Rg1 Nb6 15. f5 Nc4
+16. Qf4 g6 17. dxc5 d4 18. Nexd4 Qxc5 19. Bxc4
+{ Here we see that Turbulence playing White, rated 3 4 4 6 remained in control, handing Tucano from the Black side with rating 3 4 3 6 a loss.1-0 }
+) 13. Rg1 Nb6 14. Ng3 Bb7 15. c3 cxd4 16. cxd4 Nc4 17. Bxc4 dxc4 18. d5 Nb8 19.
+d6
+{ In this game, SugaR handling the Black pieces rated 3 5 3 3 could not hold the position, allowing Clover playing White, rated 3 6 1 9 to win. Small inaccuracies made the difference.1-0 }
+) 7. hxg5 Qxg5 8. Qd3 Nf8 { played by 3 6 4 5 rated Stockfish } ( 8... g6
+{ played by 3 5 9 9 rated Alexandria } 9. Nf3 Qe7 10. O-O-O a6
+{ played by 3 5 9 9 rated Alexandria } 11. Qd2 c5 12. dxc5 Nc6
+{ played by 3 5 9 9 rated Alexandria } ( 12... Nxc5
+{ played by 2 9 8 0 rated Spark } 13. Rh6 Nc6 14. Qf4
+{ In this game, Spark as Black rated 2 9 8 0 could not hold the position, allowing Stockfish from the White side with rating 3 1 4 8 to win. Small inaccuracies made the difference.1-0 }
+) 13. Na4 Nxc5 14. Nb6 Rb8 15. Qh6 Nd7 16. Nxd7 Bxd7 17. Qg7 Qf8 18. Qf6 h6 19.
+Bd3
+{ Here we see that The game between Alexandria on White with Elo 3 5 9 9 and Viridithas handling the Black pieces rated 3 5 8 6 finished level. The outcome was decided in the later stages.1/2-1/2 }
+) 9. Nh3 Qh4 { played by 3 6 4 5 rated Stockfish } 10. O-O-O Nc6
+{ played by 3 6 1 7 rated Integral } 11. Nb5 Qe7
+{ played by 3 6 1 7 rated Integral } 12. Qg3 Ng6
+{ played by 3 6 1 7 rated Integral } ( 12... Rg8
+{ played by 3 3 7 8 rated Fire } 13. c4 Na5 14. f4 Nxc4 15. Bxc4 dxc4 16. f5
+Qd7 17. Nc3 exf5 18. d5 c6 19. Rhe1
+{ Here we see that SugaR handling the White pieces rated 3 5 2 3 outplayed Fire, rated 3 3 7 8, had the Black pieces and won the game. The position remained tense for most of the game.1-0 }
+) 13. Bd3 a6 14. Nc3 Bd7 15. f4 O-O-O 16. f5 exf5 17. Nxd5 Qe6 18. c4 h6 19.
+Be2
+{ Stockfish from the White side with rating 3 6 4 5 converted the advantage and defeated Integral playing Black, rated 3 6 1 7. The opening quickly led to complex middlegame play.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Integral v7 64-bit 4CPU"]
+[Black "Stockfish 17.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack"]
+[WhiteElo "3617"]
+[BlackElo "3645"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4
+{ entered in FRENCH Albin Alekhine Chatard Attack } 6... Bxg5
+{ played by 3 6 4 5 rated Stockfish } ( 6... h6
+{ played by 3 6 2 0 rated Stockfish } 7. Bxe7 Qxe7 8. f4 a6
+{ played by 3 6 2 0 rated Stockfish } 9. Nf3 c5
+{ played by 3 6 2 0 rated Stockfish } 10. Qd2 Nc6
+{ played by 3 6 2 0 rated Stockfish } ( 10... b5
+{ played by 3 5 3 3 rated SugaR } 11. g4 O-O { played by 3 2 0 3 rated Cadie }
+12. O-O-O Nc6 13. Ne2 Nb6 { played by 3 2 0 3 rated Cadie } ( 13... f6
+{ played by 3 1 5 0 rated Schooner } 14. g5 fxe5 15. gxh6 exd4 16. hxg7 Rf6 17.
+h5 Kxg7 18. Rg1+
+{ Here we see that Lc0 playing White, rated 3 0 7 8 remained in control, handing Schooner playing Black, rated 3 1 5 0 a loss. The position remained tense for most of the game.1-0 }
+) ( 13... Bb7 { played by 3 0 1 4 rated Rodent } 14. Kb1 cxd4 15. Nexd4 Nc5 16.
+Qe1 Rac8 17. Nxc6 Bxc6 18. Nd4 Ne4 19. Bd3
+{ Here we see that Andscacs playing White, rated 3 2 1 6 converted the advantage and defeated Rodent handling the Black pieces rated 3 0 1 4. Small inaccuracies made the difference.1-0 }
+) 14. Ng3 Nc4 15. Bxc4 dxc4 16. dxc5 Qxc5 17. Ne4 Qb4 18. c3 Qa4 19. g5
+{ Here we see that Tarnished playing White, rated 3 1 5 9 remained in control, handing Cadie as Black rated 3 2 0 3 a loss. The opening quickly led to complex middlegame play.1-0 }
+) 11. Ne2 b5 { played by 3 6 1 7 rated Alexandria } 12. g4 Nb6
+{ played by 3 5 8 4 rated Clover } 13. b3 b4 { played by 3 5 8 4 rated Clover }
+14. dxc5 Nd7 15. a4 Nxc5 16. Qe3 Bb7 17. O-O-O Rc8 18. Nfd4 O-O 19. Rg1
+{ In this game, Dragon handling the White pieces rated 3 6 0 0 remained in control, handing Booot as Black rated 3 4 6 2 a loss. Both sides showed good positional understanding.1-0 }
+) 7. hxg5 Qxg5 8. Qd3 h5 { played by 3 6 0 9 rated Alexandria } 9. Nf3 Qe7
+{ played by 3 6 0 9 rated Alexandria } 10. g4 h4
+{ played by 3 6 0 9 rated Alexandria } 11. g5 b6 12. Nb5 Nf8 13. Nxh4 Qb4+
+{ played by 3 6 0 9 rated Alexandria } ( 13... Qd7
+{ played by 3 5 9 0 rated Lizard } 14. O-O-O Bb7 15. Rh3 a6 16. Nc3 Nc6 17. g6
+O-O-O 18. gxf7 Qxf7 19. Nf3
+{ In this game, Alexandria handling the White pieces rated 3 6 0 9 converted the advantage and defeated Lizard, rated 3 5 9 0, had the Black pieces. Small inaccuracies made the difference.1-0 }
+) 14. Qd2 Qxd2+ 15. Kxd2 Kd7 16. Bd3 Nc6 17. g6 a6 18. gxf7 Rh6 19. Nxc7
+{ Lizard, rated 3 5 9 0, had the White pieces and Alexandria on Black with Elo 3 6 0 9 played a balanced game which ended in a draw. The outcome was decided in the later stages.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Integral v7 64-bit 4CPU"]
+[Black "Stockfish 17.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "Albin-Alekhine-Chatard attack"]
+[WhiteElo "3617"]
+[BlackElo "3645"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4
+{ entered in FRENCH Albin Alekhine Chatard Attack } 6... h6
+{ played by 3 6 2 0 rated Stockfish } ( 6... Bxg5
+{ played by 3 6 4 5 rated Stockfish } 7. hxg5 Qxg5 8. Qd3 g6
+{ played by 3 5 9 9 rated Alexandria } 9. Nf3 Qe7 10. O-O-O h5
+{ played by 3 5 6 5 rated Ethereal } 11. Qe3 Nc6 12. g4 Nb6 13. gxh5 gxh5 14.
+Bd3 Bd7 15. Rh4 O-O-O 16. Rdh1 f6 17. Rxh5 Rxh5 18. Rxh5 fxe5
+{ played by 3 5 6 5 rated Ethereal } ( 18... Qf8
+{ played by 3 5 4 6 rated Uralochka } 19. exf6
+{ In an interesting battle, Ethereal from the White side with rating 3 5 6 5 and Uralochka on Black with Elo 3 5 4 6 played a balanced game which ended in a draw. Both sides showed good positional understanding.1/2-1/2 }
+) 19. Nxe5
+{ Once again, Neither Uralochka, rated 3 5 4 6, had the White pieces nor Ethereal as Black rated 3 5 6 5 could convert, and the game was drawn. Small inaccuracies made the difference.1/2-1/2 }
+) 7. Bxe7 Qxe7 8. f4 O-O { played by 3 6 0 0 rated Dragon } ( 8... a6
+{ played by 3 6 2 0 rated Stockfish } 9. Nf3 c5
+{ played by 3 6 2 0 rated Stockfish } 10. Qd2 Nc6
+{ played by 3 6 2 0 rated Stockfish } 11. Ne2 b5
+{ played by 3 6 1 7 rated Alexandria } 12. g4 Nb6
+{ played by 3 5 8 4 rated Clover } 13. b3 Nd7 { played by 3 5 4 7 rated Titan }
+14. Rg1 Bb7 15. O-O-O O-O-O { played by 3 5 4 7 rated Titan } ( 15... c4
+{ played by 3 5 2 1 rated Igel } 16. Kb1 O-O-O 17. f5 Kb8 18. Bh3 Nb6 19. g5
+{ In an interesting battle, Neither Obsidian as White rated 3 5 5 8 nor Igel from the Black side with rating 3 5 2 1 could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+) 16. Kb1 Kb8 17. h5 Rc8 18. f5 cxd4 19. Nexd4
+{ In this game, After a long struggle, Igel as White rated 3 5 3 2 and Titan from the Black side with rating 3 5 4 7 shared the point. Small inaccuracies made the difference.1/2-1/2 }
+) 9. g4 c5 10. dxc5 f6 { played by 3 6 0 0 rated Dragon } 11. exf6 Qxf6 12.
+Nge2 Ne5 13. g5 Nf3+ { played by 3 2 3 3 rated EveAnn } ( 13... hxg5
+{ played by 3 6 0 0 rated Dragon } 14. fxe5 Qf3
+{ played by 3 6 0 0 rated Dragon } ( 14... Qf2+
+{ played by 3 4 3 1 rated chess.cpp } 15. Kd2 d4 16. Kc1 dxc3 17. Nxc3 g4 18.
+Qxg4 Nc6 19. b3
+{ Once again, The game between Turbulence handling the White pieces rated 3 4 4 6 and chess.cpp playing Black, rated 3 4 3 1 finished level. Both sides showed good positional understanding.1/2-1/2 }
+) 15. Rg1 Qf2+ 16. Kd2 d4 17. Ne4 Qe3+ 18. Ke1 Qxe4 19. Qxd4
+{ In an interesting battle, Booot on White with Elo 3 4 6 2 and Dragon playing Black, rated 3 6 0 0 played a balanced game which ended in a draw. Both sides showed good positional understanding.1/2-1/2 }
+) 14. Kf2 hxg5 15. Kxf3 gxf4 16. Kf2 Nd7
+{ In this game, Tcheran, rated 3 3 2 3, had the White pieces converted the advantage and defeated EveAnn on Black with Elo 3 2 3 3. The opening quickly led to complex middlegame play.1-0 }
+1/2-1/2
+
+
+

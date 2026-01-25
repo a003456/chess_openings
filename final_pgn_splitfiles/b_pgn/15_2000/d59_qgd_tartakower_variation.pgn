@@ -1,0 +1,707 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Reckless 0.8.0 64-bit 4CPU"]
+[Black "Fat Fritz 2 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "D59"]
+[Opening "QGD"]
+[Variation "Tartakower variation"]
+[WhiteElo "3632"]
+[BlackElo "3602"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 h6 7. Bh4 b6 8. cxd5
+Nxd5 9. Bxe7 Qxe7 10. Nxd5 exd5 11. Rc1 Be6
+{ entered in Queens Gambit Declined Tartakower Variation } 12. Qd3
+{ played by 3 3 4 5 rated Stockfish } ( 12. Qb3
+{ played by 2 9 4 2 rated Gull } 12... Rc8 13. Be2 c5 14. Qa3
+{ we will see this position later on1/2-1/2 } ) ( 12. h3
+{ played by 3 6 3 4 rated Obsidian } 12... a5 13. Bd3
+{ played by 3 6 3 4 rated Obsidian } ( 13. Be2
+{ played by 3 4 5 4 rated Minic } 13... c5 14. O-O Rc8 15. Bd3 c4 16. Bb1 b5
+17. Ne5 Nd7 18. f4 f6 19. f5 Bf7 20. Nxf7 Kxf7 21. e4 Re8 22. Re1 Rad8 23. Qh5+
+Kf8 24. Qg6 dxe4 25. Rxe4
+{ In this game, Neither Minic, rated 3 4 5 4, had the White pieces nor Berserk handling the Black pieces rated 3 5 1 6 could convert, and the game was drawn. Both sides showed good positional understanding.1/2-1/2 }
+) 13... Qb4+ 14. Rc3 Qxb2 15. Qd2 Qxd2+ 16. Kxd2 Rc8 17. Ne5 Kf8 18. Rhc1 Ra7
+19. g4 Ke7 20. a3 f6 21. Ng6+ Kd6 22. Nf4 Bf7 23. h4 c6 24. Rb1 Rb7 25. a4
+{ In an interesting battle, Reckless as White rated 3 6 3 2 outplayed Fat, rated 3 6 0 2, had the Black pieces and won the game. Small inaccuracies made the difference.1-0 }
+) ( 12. Be2 { played by 3 5 9 9 rated SugaR } 12... c5 13. b3
+{ played by 3 4 5 4 rated Minic } 13... Rc8 14. O-O a5 15. Bb5
+{ we will see this position later on1/2-1/2 } ) ( 12. Qa4
+{ played by 3 4 2 1 rated Ginkgo } 12... Rc8 13. Bb5
+{ played by 2 8 8 3 rated Rybka } 13... a6 14. O-O c5 15. dxc5 bxc5 16. Qa3 Ra7
+17. Be2 Nd7 18. Nd4 Nf6 19. Nxe6 fxe6 20. Rc2 Qd6 21. b3 Rc6 22. Rd1 Rf7 23.
+Qa4 Kh8 24. g3 Rf8 25. Bd3
+{ Rybka on White with Elo 2 8 8 3 converted the advantage and defeated Toga, rated 2 7 6 6, had the Black pieces. The outcome was decided in the later stages.1-0 }
+) 12... Rc8 13. Be2 c5 14. Qa3 { we will see this position later on1/2-1/2 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Reckless 0.8.0 64-bit 4CPU"]
+[Black "Fat Fritz 2 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "D59"]
+[Opening "QGD"]
+[Variation "Tartakower variation"]
+[WhiteElo "3632"]
+[BlackElo "3602"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 h6 7. Bh4 b6 8. cxd5
+Nxd5 9. Bxe7 Qxe7 10. Nxd5 exd5 11. Rc1 Be6
+{ entered in Queens Gambit Declined Tartakower Variation } 12. Ne5
+{ played by 3 1 6 9 rated Bouquet } ( 12. Bd3
+{ played by 3 6 2 9 rated Stockfish } 12... c5 13. b3
+{ played by 3 6 2 9 rated Stockfish } ( 13. O-O
+{ played by 3 5 3 5 rated Astra } 13... c4 14. Bc2
+{ played by 2 9 3 5 rated Spike } 14... Nc6 15. Ne5 Nxe5 16. dxe5 f6 17. exf6
+Qxf6 18. Qe2 Rad8 19. Rcd1 b5 20. Rd4 a5 21. f3 b4 22. Rfd1 Bf7 23. Ba4 Qb6 24.
+Qf2 Rc8 25. Kh1
+{ In an interesting battle, The game between Spike playing White, rated 2 9 3 5 and Frozenight, rated 2 8 5 8, had the Black pieces finished level. Both sides showed good positional understanding.1/2-1/2 }
+) 13... Nd7 14. h3 { played by 3 6 0 8 rated Berserk } 14... Nf6 15. O-O a5
+{ we will see this position later on1/2-1/2 } ) 12... c5 13. b3
+{ played by 3 1 6 9 rated Bouquet } ( 13. Bb5 { played by 2 9 8 1 rated Toga }
+13... a6 14. Ba4 b5 15. Bc2 c4 16. O-O Nd7 17. f4 Nxe5 18. dxe5 Rad8 19. Qd4
+Bc8 20. Rcd1 Qc7 21. Bb1 a5 22. Qc3 b4 23. Qc2 f5 24. exf6 Rxf6 25. Qh7+
+{ Once again, Toga as White rated 2 9 8 1 outplayed Pirarucu as Black rated 3 0 6 3 and won the game. The outcome was decided in the later stages.1-0 }
+) ( 13. Be2 { we will see this position later on0-1 } ) ( 13. Bd3
+{ played by 2 8 1 9 rated Gogobello } 13... c4 14. Bb1 Nd7 15. O-O Nxe5
+{ we will see this position later on1/2-1/2 } ) 13... Rc8 14. Be2 Nc6 15. Nxc6
+Rxc6 16. O-O Rd8 17. dxc5 Rxc5 18. Qd2 d4 19. Rxc5 bxc5 20. exd4 Rxd4 21. Qa5
+Bd5 22. Re1 Re4 23. Kf1 Re5 24. f3 g6 25. Qc3
+{ In this game, Bouquet on White with Elo 3 1 6 9 overpressed, and Komodo from the Black side with rating 3 1 4 7 secured the win. Small inaccuracies made the difference.0-1 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Reckless 0.8.0 64-bit 4CPU"]
+[Black "Fat Fritz 2 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "D59"]
+[Opening "QGD"]
+[Variation "Tartakower variation"]
+[WhiteElo "3632"]
+[BlackElo "3602"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 h6 7. Bh4 b6 8. cxd5
+Nxd5 9. Bxe7 Qxe7 10. Nxd5 exd5 11. Rc1 Be6
+{ entered in Queens Gambit Declined Tartakower Variation } 12. b3
+{ played by 3 6 1 1 rated PlentyChess } ( 12. Be2
+{ played by 3 5 9 9 rated SugaR } 12... c5 13. O-O
+{ played by 3 5 9 9 rated SugaR } ( 13. dxc5 { played by 3 0 6 3 rated Rybka }
+13... bxc5 14. b3 { played by 2 7 6 2 rated Colossus } 14... Nd7 15. O-O
+{ we will see this position later on1/2-1/2 } ) 13... Nd7 14. Qa4
+{ played by 3 1 3 1 rated Carp } ( 14. Bb5 { played by 3 1 1 6 rated Strelka }
+14... Nf6 15. Ne5 Rfc8 16. Qa4 a6 17. Bd3 c4 18. Bb1 b5 19. Qd1 a5 20. Bc2 b4
+21. Ba4 Rc7 22. Bc2 Nd7 23. f4 Nf6 24. Bb1 a4 25. Re1
+{ In this game, Strelka, rated 3 1 1 6, had the White pieces remained in control, handing Avalanche on Black with Elo 3 1 9 7 a loss. The outcome was decided in the later stages.1-0 }
+) ( 14. Re1 { played by 3 0 1 3 rated Stockfish } 14... c4 15. Nd2 f5 16. Nf3
+Qd6 17. Qd2 b5 18. b3 a6 19. Qb2 f4 20. exf4 Rxf4 21. g3 Rf7 22. Nh4 g5 23. Ng6
+Bf5 24. Ne5 Re7 25. Bf3
+{ In an interesting battle, Grapefruit playing Black, rated 2 8 3 9 could not hold the position, allowing Stockfish from the White side with rating 3 0 1 3 to win.1-0 }
+) 14... c4 15. b3 b5 16. Qa5 Qd6 17. bxc4 bxc4 18. Nd2 Rfc8 19. e4 dxe4 20.
+Bxc4 Bxc4 21. Rxc4 Rxc4 22. Nxc4 Qxd4 23. Qc7 Nc5 24. Ne5 Rf8 25. Nc6
+{ Here we see that Komodo as Black rated 3 0 8 4 seized the initiative and handed Carp playing White, rated 3 1 3 1 a loss. Both sides showed good positional understanding.0-1 }
+) 12... a5 13. Bd3 { played by 3 6 1 1 rated PlentyChess } 13... c5 14. O-O
+{ played by 3 6 2 9 rated Stockfish } ( 14. Bb5
+{ played by 3 2 7 4 rated Clover } 14... Rc8 15. O-O Nd7
+{ we will see this position later on1/2-1/2 } ) 14... Nd7
+{ we will see this position later on1/2-1/2 } 1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Reckless 0.8.0 64-bit 4CPU"]
+[Black "Fat Fritz 2 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "D59"]
+[Opening "QGD"]
+[Variation "Tartakower variation"]
+[WhiteElo "3632"]
+[BlackElo "3602"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 h6 7. Bh4 b6 8. cxd5
+Nxd5 9. Bxe7 Qxe7 10. Nxd5 exd5 11. Rc1 Be6
+{ entered in Queens Gambit Declined Tartakower Variation } 12. Be2
+{ played by 3 5 9 9 rated SugaR } ( 12. Qa4 { played by 3 4 2 1 rated Ginkgo }
+12... Rc8 13. Be2 { played by 3 4 2 1 rated Ginkgo } 13... c5 14. O-O
+{ played by 2 6 4 7 rated Spike } 14... c4 15. Ne5 Nd7 16. f4 Bf5 17. Bh5 g6
+18. Bf3 Nf6 19. g4 Bd3 20. Rf2 Ne4 21. Rg2 a6 22. Qd7 Qxd7 23. Nxd7 Rc7 24.
+Nxb6 Rd8 25. Na4
+{ Spike playing White, rated 2 6 4 7 remained in control, handing Spike on Black with Elo 2 6 9 0 a loss.1-0 }
+) ( 12. Qc2 { played by 2 8 8 6 rated EXchess } 12... c5 13. dxc5 Rc8 14. Nd4
+{ played by 2 8 8 6 rated EXchess } 14... Rxc5 15. Qd2 Nd7 16. Bb5 a6 17. Be2
+Qg5 18. g3 Bh3 19. Rg1 Rac8 20. Rd1 Nf6 21. f3 Ra5 22. a3 Re8 23. Kf2 Bc8 24.
+Rc1 Qh5 25. h4
+{ Once again, EXchess handling the White pieces rated 2 8 8 6 outplayed Deuterium from the Black side with rating 2 9 0 8 and won the game. Both sides showed good positional understanding.1-0 }
+) 12... c5 13. Qd2 { played by 2 8 2 1 rated Hiarcs } ( 13. Ne5
+{ played by 2 7 6 0 rated GNU } 13... c4 14. O-O
+{ played by 2 8 6 7 rated MinkoChess } ( 14. b3 { played by 2 7 6 0 rated GNU }
+14... b5 15. O-O Nd7 16. f4 Bf5 17. Bf3 Nb6 18. g4 Bh7 19. a4 cxb3 20. Qxb3
+bxa4 21. Qa2 f6 22. Bxd5+ Nxd5 23. Qxd5+ Kh8 24. Qd7 Rfe8 25. Qxe7
+{ In an interesting battle, GNU playing White, rated 2 7 6 0 overpressed, and DiscoCheck, rated 2 8 0 5, had the Black pieces secured the win. Small inaccuracies made the difference.0-1 }
+) 14... Nd7 15. f4 Bf5 16. Bf3 Qe6 17. Qd2 b5 18. Qa5 a6 19. Kh1 Nf6 20. Qe1 a5
+21. Qh4 Be4 22. g4 Bxf3+ 23. Rxf3 Ne4 24. g5 f6 25. gxf6
+{ Here we see that Texel, rated 2 8 4 2, had the Black pieces defended accurately and defeated MinkoChess playing White, rated 2 8 6 7. Both sides showed good positional understanding.0-1 }
+) 13... c4 14. O-O { played by 2 8 2 1 rated Hiarcs } ( 14. b3
+{ played by 2 6 3 0 rated Glaurung } 14... b5 15. Qa5 Qb7 16. Ne5 Nc6 17. Nxc6
+Qxc6 18. O-O Qb6 19. Qd2 Rfc8 20. Bf3 Qc6 21. Qc3 Rab8 22. a3 Qd6 23. Ra1 Bf5
+24. Rfc1 a6 25. Re1
+{ Ktulu as Black rated 2 6 6 3 defended accurately and defeated Glaurung playing White, rated 2 6 3 0. The outcome was decided in the later stages.0-1 }
+) 14... Nc6 15. Ne5 Rac8 16. Qc2 Bd7 17. Nxc6 Rxc6 18. Bf3 Rd6 19. b3 Rc8 20.
+bxc4 dxc4 21. a4 Rg6 22. Rfd1 Qb4 23. Ra1 c3 24. Be4 Rg5 25. Rdb1
+{ In this game, The game between Hiarcs on White with Elo 2 8 2 1 and Naum as Black rated 2 8 7 4 finished level. Both sides showed good positional understanding.1/2-1/2 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Reckless 0.8.0 64-bit 4CPU"]
+[Black "Fat Fritz 2 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "D59"]
+[Opening "QGD"]
+[Variation "Tartakower variation"]
+[WhiteElo "3632"]
+[BlackElo "3602"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 h6 7. Bh4 b6 8. cxd5
+Nxd5 9. Bxe7 Qxe7 10. Nxd5 exd5 11. Rc1 Be6
+{ entered in Queens Gambit Declined Tartakower Variation } 12. Bd3
+{ played by 3 6 2 9 rated Stockfish } 12... c5 13. O-O
+{ played by 3 5 3 5 rated Astra } 13... c4 14. Bb1
+{ played by 3 5 3 5 rated Astra } 14... Nc6 15. Ne5
+{ played by 3 5 3 5 rated Astra } ( 15. a4 { played by 3 2 2 4 rated RukChess }
+15... Rac8 16. Ne5 Nxe5 17. dxe5 Qb4 18. Qd4 Qxa4 19. f4 f5 20. g4 g6 21. h4
+Qd7 22. Kh2 Qe7 23. Kg2 Kh8 24. h5 gxh5 25. Bxf5
+{ pawn as Black rated 3 2 7 8 seized the initiative and handed RukChess on White with Elo 3 2 2 4 a loss.0-1 }
+) ( 15. Re1 { played by 2 9 4 6 rated Critter } 15... Rad8 16. Qa4 Bd7 17. Qc2
+f5 18. Qd2 Be8 19. Qc3 b5 20. Ne5 b4 21. Nxc6 Bxc6 22. Qc2 a5 23. Qe2 Rde8 24.
+Qh5 Qf6 25. Bc2
+{ Once again, After a long struggle, Critter playing White, rated 2 9 4 6 and Loop on Black with Elo 2 7 8 0 shared the point.1/2-1/2 }
+) ( 15. e4 { played by 2 9 3 4 rated Deuterium } 15... f5 16. exf5 Bxf5 17.
+Bxf5 Rxf5 18. Rc3 Qb4 19. Qe2 Qd6 20. Re3 Rf6 21. Qd1 Raf8 22. Ne5 Rf5 23. Nxc6
+Qxc6 24. f3 Re8 25. Rxe8+
+{ Deuterium handling the White pieces rated 2 9 3 4 and Amoeba, rated 2 9 5 0, had the Black pieces played a balanced game which ended in a draw.1/2-1/2 }
+) ( 15. Nd2 { played by 2 7 8 9 rated Fritz } 15... Rfe8 16. Qh5 Qg5 17. Qxg5
+hxg5 18. Rfd1 Rad8 19. Kf1 g6 20. h3 Kg7 21. Nf3 g4 22. Ng5 gxh3 23. Nxe6+ Rxe6
+24. gxh3 f5 25. Kg2
+{ Once again, Loop playing Black, rated 2 7 8 0 seized the initiative and handed Fritz on White with Elo 2 7 8 9 a loss. Both sides showed good positional understanding.0-1 }
+) ( 15. Qc2 { played by 2 7 4 0 rated Carballo } 15... f5 16. Ne5 Nxe5 17. dxe5
+b5 18. Qd2 b4 19. f4 Qc5 20. Rf3 a5 21. Rg3 a4 22. Qd1 Qe7 23. Qh5 a3 24. bxa3
+Rxa3 25. Qxh6
+{ Here we see that Scorpio from the Black side with rating 2 8 4 4 seized the initiative and handed Carballo playing White, rated 2 7 4 0 a loss. The position remained tense for most of the game.0-1 }
+) 15... Nxe5 16. dxe5 b5 17. f4 Rad8 18. Rf2 f5 19. Qd2 Kh8 20. Bc2 a5 21. Rd1
+b4 22. Ba4 Qc5 23. Qd4 Rc8 24. Bc2 Qxd4 25. Rxd4
+{ In an interesting battle, Dragon, rated 3 5 6 0, had the Black pieces defended accurately and defeated Houdini handling the White pieces rated 3 3 9 0. Both sides showed good positional understanding.0-1 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Reckless 0.8.0 64-bit 4CPU"]
+[Black "Fat Fritz 2 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "D59"]
+[Opening "QGD"]
+[Variation "Tartakower variation"]
+[WhiteElo "3632"]
+[BlackElo "3602"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 h6 7. Bh4 b6 8. cxd5
+Nxd5 9. Bxe7 Qxe7 10. Nxd5 exd5 11. Rc1 Be6
+{ entered in Queens Gambit Declined Tartakower Variation } 12. Bd3
+{ played by 3 6 2 9 rated Stockfish } ( 12. b3
+{ played by 3 6 1 1 rated PlentyChess } 12... a5 13. Qd2
+{ played by 3 2 4 0 rated RubiChess } 13... Rc8 14. Bd3 Nd7 15. Rc6
+{ played by 3 2 4 0 rated RubiChess } ( 15. Bb5
+{ played by 3 0 1 5 rated Demolito } 15... c5 16. O-O
+{ we will see this position later on1/2-1/2 } ) 15... Nb8 16. Rc3 a4 17. bxa4
+c5 18. Bb5 c4 19. O-O Bf5 20. Ra1 Nc6 21. Qb2 Ra5 22. Rcc1 f6 23. Nd2 Nb4 24.
+Qa3 Rca8 25. Qc3
+{ Fire handling the Black pieces rated 3 3 1 1 outplayed RubiChess, rated 3 2 4 0, had the White pieces and won as Black. Both sides showed good positional understanding.0-1 }
+) 12... c5 13. Bb1 { played by 3 3 1 8 rated Fizbo } ( 13. dxc5
+{ played by 2 7 1 7 rated KnightX } 13... bxc5 14. O-O
+{ played by 2 3 8 2 rated Dragon } 14... Nd7 15. Re1
+{ played by 2 3 8 2 rated Dragon } ( 15. Bb5
+{ played by 2 2 5 9 rated Fischerle } 15... Rab8 16. Bxd7 Qxd7 17. Rxc5 Rxb2
+18. Rc2 Rxc2 19. Qxc2 Rc8 20. Qb2 Bf5 21. Qa3 Be4 22. Nd4 Rc4 23. f3 Bg6 24.
+Ne2 Bc2 25. Nd4
+{ In this game, Fischerle from the White side with rating 2 2 5 9 and Waxman from the Black side with rating 2 3 4 5 played a balanced game which ended in a draw. The outcome was decided in the later stages.1/2-1/2 }
+) 15... c4 16. Bb1 Rab8 17. Qd2 Qb4 18. Re2 Nf6 19. Qd4 Qb6 20. Rd2 Bg4 21. Ne5
+Qxd4 22. exd4 Be6 23. Rc3 Nd7 24. Nf3 Bg4 25. h3
+{ In an interesting battle, Twisted on Black with Elo 2 4 3 7 defended accurately and defeated Dragon, rated 2 3 8 2, had the White pieces.0-1 }
+) 13... c4 14. Qc2 g6 15. Qd2 { played by 3 3 1 8 rated Fizbo } ( 15. b3
+{ played by 2 3 4 5 rated Waxman } 15... Bf5 16. Qb2 Bxb1 17. Qxb1 b5 18. bxc4
+bxc4 19. Qb5 Qd7 20. Rb1 Nc6 21. O-O a6 22. Qa4 Rfd8 23. Qa3 Re8 24. Rb2 a5 25.
+Rfb1
+{ Here we see that Waxman, rated 2 3 4 5, had the White pieces remained in control, handing Fischerle, rated 2 2 5 9, had the Black pieces a loss. The position remained tense for most of the game.1-0 }
+) 15... f5 16. b3 Nc6 17. O-O b5 18. bxc4 bxc4 19. Bc2 Qb4 20. Qd1 Qd6 21. Ba4
+Ne7 22. Ne5 Rab8 23. Qd2 Rb7 24. h4 Kg7 25. Qc3
+{ Fizbo playing White, rated 3 3 1 8 overpressed, and Stockfish as Black rated 3 5 2 6 secured the win. Both sides showed good positional understanding.0-1 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Reckless 0.8.0 64-bit 4CPU"]
+[Black "Fat Fritz 2 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "D59"]
+[Opening "QGD"]
+[Variation "Tartakower variation"]
+[WhiteElo "3632"]
+[BlackElo "3602"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 h6 7. Bh4 b6 8. cxd5
+Nxd5 9. Bxe7 Qxe7 10. Nxd5 exd5 11. Rc1 Be6
+{ entered in Queens Gambit Declined Tartakower Variation } 12. Be2
+{ played by 3 5 9 9 rated SugaR } ( 12. Qa4 { played by 3 4 2 1 rated Ginkgo }
+12... Rc8 13. Be2 { played by 3 4 2 1 rated Ginkgo } 13... c5 14. dxc5
+{ played by 3 1 6 1 rated Lynx } 14... bxc5 15. O-O
+{ played by 3 1 6 1 rated Lynx } ( 15. Qa3 { played by 2 4 1 6 rated King }
+15... Nd7 16. O-O Qd8 17. Ba6 Rc7 18. Rfd1 Qb8 19. b3 Qb6 20. h3 Nf6 21. Qa4
+Bd7 22. Qf4 Re8 23. Bd3 a5 24. Ne5 Bc8 25. Ng4
+{ In an interesting battle, Cadie as Black rated 3 2 0 3 seized the initiative and handed Lynx on White with Elo 3 1 6 1 a loss. Both sides showed good positional understanding.0-1 }
+) 15... a5 16. Qa3 Qf8 17. Rfd1 Nd7 18. Bb5 Nf6 19. b3 Qd6 20. Nd4 Qb6 21. Nxe6
+fxe6 22. Bd3 a4 23. bxa4 c4 24. Bc2 Qc5 25. Qc3
+{ Here we see that pawn handling the White pieces rated 3 2 7 8 remained in control, handing RukChess as Black rated 3 2 2 4 a loss. Both sides showed good positional understanding.1-0 }
+) 12... c5 13. O-O { played by 3 5 9 9 rated SugaR } ( 13. dxc5
+{ played by 3 0 6 3 rated Rybka } 13... bxc5 14. O-O
+{ played by 3 0 6 3 rated Rybka } 14... Nd7 15. b3
+{ played by 3 0 6 3 rated Rybka } ( 15. Qc2 { played by 2 7 2 6 rated KnightX }
+15... Rab8 16. b3 Qf6 17. Rfd1 Rfe8 18. Qd2 Rec8 19. h3 Qe7 20. Ba6 Rc7 21. Nd4
+Nf6 22. Nxe6 Qxe6 23. Be2 Rd8 24. Qa5 Qb6 25. Qc3
+{ In this game, After a long struggle, KnightX on White with Elo 2 7 2 6 and Arasan from the Black side with rating 2 8 0 2 shared the point.1/2-1/2 }
+) 15... a5 16. Bb5 { we will see this position later on1/2-1/2 } ) 13... Nd7
+14. b3 { played by 3 5 9 9 rated SugaR } 14... a5 15. a4
+{ played by 3 5 9 9 rated SugaR } ( 15. Bb5
+{ we will see this position later on1/2-1/2 } ) 15... Nf6 16. h3 Rfc8 17. Bd3
+Qb7 18. Qe2 Ne4 19. Ne5 cxd4 20. exd4 Rxc1 21. Rxc1 Rc8 22. Rxc8+ Qxc8 23. Qe3
+Qc7 24. h4 Qe7 25. Bxe4
+{ In an interesting battle, Neither SugaR from the White side with rating 3 5 9 9 nor Ethereal handling the Black pieces rated 3 5 1 6 could convert, and the game was drawn. Small inaccuracies made the difference.1/2-1/2 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Reckless 0.8.0 64-bit 4CPU"]
+[Black "Fat Fritz 2 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "D59"]
+[Opening "QGD"]
+[Variation "Tartakower variation"]
+[WhiteElo "3632"]
+[BlackElo "3602"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 h6 7. Bh4 b6 8. cxd5
+Nxd5 9. Bxe7 Qxe7 10. Nxd5 exd5 11. Rc1 Be6
+{ entered in Queens Gambit Declined Tartakower Variation } 12. Qa4
+{ played by 3 4 2 1 rated Ginkgo } ( 12. Qc2
+{ played by 2 8 8 6 rated EXchess } 12... c5 13. dxc5 Rc8 14. b4
+{ played by 2 7 2 6 rated Devel } 14... a5 15. Nd4
+{ played by 2 7 2 6 rated Devel } ( 15. Bb5 { played by 2 4 7 6 rated Delphil }
+15... axb4 16. c6 b3 17. Qxb3 d4 18. Qb2 dxe3 19. a4 Bd5 20. Qd4 Qa3 21. Qxe3
+Qb4+ 22. Qd2 Qxd2+ 23. Kxd2 Nxc6 24. Rc3 Rd8 25. Ke2
+{ After a long struggle, Delphil on White with Elo 2 4 7 6 and Lozza handling the Black pieces rated 2 6 8 2 shared the point. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 15... Nc6 16. Nxc6 Rxc6 17. Bb5 Rcc8 18. O-O axb4 19. c6 d4 20. Qe4 dxe3 21.
+Bd3 Qg5 22. f4 Qf6 23. Bb1 b5 24. c7 e2 25. Rfe1
+{ Once again, Drosophila handling the Black pieces rated 2 6 6 1 seized the initiative and handed Devel from the White side with rating 2 7 2 6 a loss. Both sides showed good positional understanding.0-1 }
+) ( 12. Qd2 { played by 2 6 9 9 rated Renegade } 12... c5 13. dxc5 bxc5 14. Bb5
+a6 15. Be2 { played by 2 2 4 6 rated Bearded } 15... Nd7 16. O-O f5 17. Rfd1 g5
+18. b3 Rfb8 19. Qc3 Bf7 20. Qc2 Be6 21. Kh1 Rb6 22. Qc3 Bf7 23. Bd3 Bg6 24. Qd2
+Rd8 25. h3
+{ Bearded on White with Elo 2 2 4 6 remained in control, handing Ares handling the Black pieces rated 2 3 8 2 a loss. The position remained tense for most of the game.1-0 }
+) ( 12. Bd3 { played by 3 6 2 9 rated Stockfish } 12... c5 13. b3
+{ played by 3 6 2 9 rated Stockfish } 13... Nd7 14. O-O
+{ played by 3 6 1 7 rated Berserk } 14... a5 15. a4
+{ played by 3 6 2 9 rated Stockfish } ( 15. h3
+{ played by 3 6 1 9 rated Stockfish } 15... Nf6 16. a4
+{ we will see this position later on1/2-1/2 } ( 16. dxc5
+{ played by 3 5 2 3 rated Koivisto } 16... bxc5 17. Rc3 a4 18. Qc2 axb3 19.
+axb3 Ra5 20. Rc1 Nd7 21. Bh7+ Kh8 22. Bf5 Rfa8 23. Bxe6 fxe6 24. Ne1 e5 25. Nd3
+{ In this game, Neither Koivisto on White with Elo 3 5 2 3 nor Obsidian from the Black side with rating 3 5 9 3 could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
+) ) 15... Nf6 16. Qe2 { played by 3 5 9 0 rated Lizard } 16... Bg4 17. h3 Bxf3
+18. Qxf3 cxd4 19. exd4 Rac8 20. Qe3 Qb4 21. Bb5 Ne4 22. Rfe1 Rfd8 23. Bd3 Nf6
+24. Bb5 Ne4 { we will see this position later on1/2-1/2 } ) 12... Rc8 13. Be2
+{ played by 3 4 2 1 rated Ginkgo } 13... c5 14. Qa3
+{ played by 2 5 9 7 rated Naum } 14... a5 15. dxc5
+{ played by 3 1 3 6 rated Fritz } 15... bxc5 16. O-O
+{ we will see this position later on1-0 } 1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Reckless 0.8.0 64-bit 4CPU"]
+[Black "Fat Fritz 2 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "D59"]
+[Opening "QGD"]
+[Variation "Tartakower variation"]
+[WhiteElo "3632"]
+[BlackElo "3602"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 h6 7. Bh4 b6 8. cxd5
+Nxd5 9. Bxe7 Qxe7 10. Nxd5 exd5 11. Rc1 Be6
+{ entered in Queens Gambit Declined Tartakower Variation } 12. Bd3
+{ played by 3 6 2 9 rated Stockfish } ( 12. Qa4
+{ played by 3 4 2 1 rated Ginkgo } 12... Rc8 13. Be2
+{ played by 3 4 2 1 rated Ginkgo } 13... c5 14. Qa3
+{ played by 2 5 9 7 rated Naum } 14... a5 15. O-O
+{ played by 3 3 4 5 rated Stockfish } 15... Nd7 16. Bb5
+{ played by 2 8 9 6 rated Gull } 16... Rc7 17. Rfd1 Bg4 18. Be2 Nf6 19. h3 Bxf3
+20. Bxf3 Rac8 21. dxc5 Rxc5 22. Rc2 Qe6 23. Rcd2 Ne4 24. Rd4 Rc1 25. Qb3
+{ Once again, Neither Gull as White rated 2 8 9 6 nor Chiron, rated 2 9 5 3, had the Black pieces could convert, and the game was drawn.1/2-1/2 }
+) ( 12. Qd2 { played by 2 6 9 9 rated Renegade } 12... c5 13. dxc5 bxc5 14. Bb5
+a6 15. Ba4 { played by 2 6 9 9 rated Renegade } 15... Rc8 16. Ne5
+{ played by 2 6 9 9 rated Renegade } ( 16. O-O
+{ played by 2 6 2 3 rated WildCat } 16... Ra7 17. Ne5 Rb7 18. Rfd1 g5 19. a3
+Qf6 20. f4 Qe7 21. Qf2 f6 22. Ng6 Qd8 23. Rd2 Bf7 24. f5 Qa5 25. Bd1
+{ Once again, RedQueen on Black with Elo 2 6 3 0 defended accurately and defeated WildCat on White with Elo 2 6 2 3. The position remained tense for most of the game.0-1 }
+) 16... Qh4 17. Bd1 Qf6 18. f4 Nc6 19. Nxc6 Rxc6 20. O-O Rd8 21. f5 Bc8 22. Ba4
+Rb6 23. Rxc5 Rxb2 24. Qc1 Bxf5 25. Bb3
+{ Renegade on White with Elo 2 6 9 9 and RookieMonster, rated 2 6 2 8, had the Black pieces played a balanced game which ended in a draw. The position remained tense for most of the game.1/2-1/2 }
+) 12... c5 13. b3 { played by 3 6 2 9 rated Stockfish } 13... Nd7 14. O-O
+{ played by 3 6 1 7 rated Berserk } 14... a5 15. Re1
+{ played by 3 6 1 1 rated PlentyChess } ( 15. Bb5
+{ played by 3 3 8 6 rated Fire } 15... Rfc8 16. a4
+{ played by 3 4 5 4 rated Minic } 16... Nf6 17. Qe2 Ne4 18. Ne5 Rc7 19. f3 Nd6
+20. Nc6 Qf8 21. Rfd1 Rac8 22. dxc5 bxc5 23. Nxa5 c4 24. Qe1 Nxb5 25. axb5
+{ Minic as White rated 3 4 5 4 and rofChade on Black with Elo 3 4 6 3 played a balanced game which ended in a draw. Both sides showed good positional understanding.1/2-1/2 }
+) 15... Nf6 16. h3 { we will see this position later on1/2-1/2 } ( 16. Ne5
+{ played by 3 4 5 6 rated Marvin } 16... Rfc8 17. h3
+{ we will see this position later on1/2-1/2 } ) ( 16. Bb5
+{ played by 3 3 7 8 rated Fire } 16... Bg4 17. a4 Rac8 18. h3 Bxf3 19. Qxf3
+cxd4 20. exd4 Ne4 21. Qe3 Qd6 22. h4 h5 23. f3 Nf6 24. Rxc8 Rxc8 25. Rc1
+{ Once again, After a long struggle, Fire on White with Elo 3 3 7 8 and Igel on Black with Elo 3 3 9 1 shared the point. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Reckless 0.8.0 64-bit 4CPU"]
+[Black "Fat Fritz 2 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "D59"]
+[Opening "QGD"]
+[Variation "Tartakower variation"]
+[WhiteElo "3632"]
+[BlackElo "3602"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 h6 7. Bh4 b6 8. cxd5
+Nxd5 9. Bxe7 Qxe7 10. Nxd5 exd5 11. Rc1 Be6
+{ entered in Queens Gambit Declined Tartakower Variation } 12. Bd3
+{ played by 3 6 2 9 rated Stockfish } 12... c5 13. b3
+{ played by 3 6 2 9 rated Stockfish } 13... Nd7 14. O-O
+{ played by 3 6 1 7 rated Berserk } 14... a5 15. a4
+{ played by 3 6 2 9 rated Stockfish } ( 15. h3
+{ played by 3 6 1 9 rated Stockfish } 15... Nf6 16. Re1
+{ played by 3 6 0 4 rated Lizard } ( 16. Ne5 { played by 3 1 1 3 rated Texel }
+16... Rfc8 17. Re1 { we will see this position later on1/2-1/2 } ( 17. a4
+{ played by 3 1 1 3 rated Texel } 17... Rc7 18. Re1
+{ we will see this position later on1/2-1/2 } ) ) 16... Rfc8 17. a4
+{ we will see this position later on1/2-1/2 } ) 15... Nf6 16. Re1
+{ played by 3 6 2 9 rated Stockfish } ( 16. h3
+{ played by 3 6 1 1 rated PlentyChess } 16... Rfc8 17. Re1
+{ played by 3 6 1 7 rated Berserk } 17... Ne4 18. Re2 Nd6 19. Rec2 c4 20. bxc4
+dxc4 21. Bf1 Qe8 22. e4 Nxe4 23. d5 Bd7 24. Re2 Bxa4 25. Qd4
+{ Once again, Neither Lizard handling the White pieces rated 3 6 0 4 nor Fritz from the Black side with rating 3 6 0 9 could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+) 16... Bg4 17. Be2 { played by 3 6 0 9 rated Caissa } ( 17. h3
+{ played by 3 6 0 9 rated Fritz } 17... Bxf3 18. Qxf3 cxd4 19. Qf4 dxe3 20.
+Rxe3 Qb7 21. Rc7 Qb8 22. Rg3 Kh8 23. Rxg7 Kxg7 24. Qg3+ Kh8 25. Qe5
+{ Here we see that Neither Fritz handling the White pieces rated 3 6 0 9 nor Lizard, rated 3 6 0 4, had the Black pieces could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 17... Rfc8 18. h3 Be6 19. dxc5 bxc5 20. Nd2 Rc7 21. Bb5 c4 22. Nf3 Ne4 23.
+Nd4 Rac8
+{ Caissa as White rated 3 6 0 9 and Stockfish on Black with Elo 3 6 3 8 played a balanced game which ended in a draw.1/2-1/2 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Reckless 0.8.0 64-bit 4CPU"]
+[Black "Fat Fritz 2 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "D59"]
+[Opening "QGD"]
+[Variation "Tartakower variation"]
+[WhiteElo "3632"]
+[BlackElo "3602"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 h6 7. Bh4 b6 8. cxd5
+Nxd5 9. Bxe7 Qxe7 10. Nxd5 exd5 11. Rc1 Be6
+{ entered in Queens Gambit Declined Tartakower Variation } 12. Bd3
+{ played by 3 6 2 9 rated Stockfish } ( 12. b3
+{ played by 3 6 1 1 rated PlentyChess } 12... a5 13. Be2
+{ played by 3 1 8 4 rated Rybka } 13... Qb4+ 14. Qd2 c5 15. dxc5 Rc8 16. Ne5
+bxc5 17. Nd3 { played by 3 1 8 4 rated Rybka } ( 17. Bf3
+{ played by 2 9 1 3 rated EXchess } 17... Na6 18. Nd3 Qxd2+ 19. Kxd2 a4 20. Rc3
+Rab8 21. Rhc1 axb3 22. axb3 Rd8 23. Nxc5 Nxc5 24. Rxc5 Rxb3 25. R1c3
+{ In this game, Neither EXchess from the White side with rating 2 9 1 3 nor Demolito handling the Black pieces rated 3 0 1 5 could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
+) 17... Qxd2+ 18. Kxd2 Nd7 19. Rc3 a4 20. Rhc1 axb3 21. axb3 Rcb8 22. Nxc5 Nxc5
+23. Rxc5 Rxb3 24. Rb5 Rxb5 25. Bxb5
+{ In an interesting battle, Neither Rybka on White with Elo 3 1 8 4 nor Komodo handling the Black pieces rated 3 2 8 4 could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+) ( 12. Qa4 { played by 3 4 2 1 rated Ginkgo } 12... Rc8 13. Be2
+{ played by 3 4 2 1 rated Ginkgo } 13... c5 14. Qa3
+{ played by 2 5 9 7 rated Naum } 14... a5 15. O-O
+{ played by 3 3 4 5 rated Stockfish } 15... Nd7 16. Rfd1
+{ played by 3 3 4 5 rated Stockfish } 16... Nf6 17. Ne5
+{ played by 2 8 0 8 rated Spark } 17... Ra7 18. Bb5 Ng4 19. Nxg4 Bxg4 20. f3
+Bd7 21. Bxd7 Rxd7 22. dxc5 Rxc5 23. Rxc5 Qxc5 24. Qd3 a4 25. a3
+{ Here we see that The game between Spark playing White, rated 2 8 0 8 and Shredder as Black rated 2 9 5 3 finished level. Small inaccuracies made the difference.1/2-1/2 }
+) 12... c5 13. dxc5 { played by 2 7 1 7 rated KnightX } ( 13. b3
+{ played by 3 6 2 9 rated Stockfish } 13... Nd7 14. O-O
+{ played by 3 6 1 7 rated Berserk } 14... a5 15. a4
+{ played by 3 6 2 9 rated Stockfish } 15... Nf6 16. h3
+{ played by 3 6 1 1 rated PlentyChess } 16... Rfc8 17. Qe2
+{ played by 3 6 0 2 rated Fat } 17... Ne4 18. Rc2
+{ played by 3 6 0 2 rated Fat } ( 18. Rfe1 { played by 3 5 4 4 rated Clover }
+18... Nd6 19. Ne5 Qf6 20. Ba6 Rc7 21. Bd3 Qg5 22. Nf3 Qe7 23. Red1 Rac8 24. Ba6
+Rb8 25. Bd3
+{ Once again, Neither Clover, rated 3 5 4 4, had the White pieces nor Koivisto handling the Black pieces rated 3 5 6 1 could convert, and the game was drawn. Small inaccuracies made the difference.1/2-1/2 }
+) ( 18. dxc5 { played by 3 4 4 1 rated Seer } 18... bxc5 19. Bxe4 dxe4 20. Nd2
+Rab8 21. Rc3 Rb4 22. Rfc1 Qg5 23. Kh1 Qf5 24. Qe1 Kh7 25. R1c2
+{ In an interesting battle, SugaR on Black with Elo 3 5 8 1 defended accurately and defeated Seer, rated 3 4 4 1, had the White pieces. Small inaccuracies made the difference.0-1 }
+) 18... Nd6 19. Ne5 Qf6 20. Rfc1 cxd4 21. exd4 Rxc2 22. Rxc2 Nf5 23. Bxf5 Qxf5
+24. Qd2 Rc8 25. Rxc8+
+{ In this game, The game between Fat handling the White pieces rated 3 6 0 2 and Reckless as Black rated 3 6 3 2 finished level. Both sides showed good positional understanding.1/2-1/2 }
+) 13... bxc5 14. b3 { played by 2 7 1 7 rated KnightX } 14... Nd7 15. O-O a5
+16. Bb5 Nf6 17. Qc2 { played by 3 0 6 3 rated Rybka } ( 17. Qe2
+{ played by 2 7 1 7 rated KnightX } 17... Rab8 18. Ne5 Qd6 19. f4 Rfc8 20. Ba6
+Rc7 21. Bb5 Bf5 22. Rfd1 Qe6 23. h3 Be4 24. Rc3 Qb6 25. a4
+{ Neither KnightX from the White side with rating 2 7 1 7 nor CT800 as Black rated 2 7 3 4 could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 17... Rfc8 18. Ne5 Qd6 19. Qb2 Bf5 20. Rfd1 Rab8 21. a4 Rb7 22. Nc4 Qc7 23.
+Ne5 Qb6 24. h3 Rbc7 25. Nd3
+{ After a long struggle, Rybka playing White, rated 3 0 6 3 and Komodo, rated 3 0 6 3, had the Black pieces shared the point. Small inaccuracies made the difference.1/2-1/2 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Reckless 0.8.0 64-bit 4CPU"]
+[Black "Fat Fritz 2 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "D59"]
+[Opening "QGD"]
+[Variation "Tartakower variation"]
+[WhiteElo "3632"]
+[BlackElo "3602"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 h6 7. Bh4 b6 8. cxd5
+Nxd5 9. Bxe7 Qxe7 10. Nxd5 exd5 11. Rc1 Be6
+{ entered in Queens Gambit Declined Tartakower Variation } 12. Bd3
+{ played by 3 6 2 9 rated Stockfish } 12... c5 13. b3
+{ played by 3 6 2 9 rated Stockfish } 13... Nd7 14. O-O
+{ played by 3 6 1 7 rated Berserk } 14... a5 15. h3
+{ played by 3 6 1 9 rated Stockfish } ( 15. Bb5
+{ played by 3 3 8 6 rated Fire } 15... Rfc8 16. Qe2
+{ played by 3 5 1 6 rated RubiChess } ( 16. Re1
+{ played by 3 3 5 8 rated Booot } 16... Nf6 17. Ne5 Qd6 18. Qe2
+{ played by 3 3 8 6 rated Fire } 18... Ra7 19. f3 Rac7 20. Ba6 Ra8 21. Bb5 Rac8
+{ we will see this position later on1/2-1/2 } ) 16... Nf6 17. Ne5 Qd6 18. Qb2
+{ played by 3 5 1 6 rated RubiChess } ( 18. f3
+{ played by 3 2 7 1 rated Expositor } 18... Nd7 19. Nd3 cxd4 20. exd4 Nf8 21.
+Qe5 Qa3 22. Rxc8 Rxc8 23. Nf4 Qb2 24. Bd3 Rc1 25. h4
+{ In an interesting battle, The game between Expositor as White rated 3 2 7 1 and BlackCore handling the Black pieces rated 3 3 7 7 finished level. Both sides showed good positional understanding.1/2-1/2 }
+) 18... Rc7 19. h3 Rac8 20. Ba6 Ra8 21. Bb5
+{ we will see this position later on1/2-1/2 } ) 15... Nf6 16. Re1
+{ played by 3 6 0 4 rated Lizard } 16... Rfc8 17. dxc5
+{ played by 3 6 1 1 rated PlentyChess } ( 17. Re2
+{ played by 3 5 8 9 rated Quanticade } 17... a4 18. dxc5
+{ played by 3 5 8 9 rated Quanticade } ( 18. bxa4
+{ played by 3 4 7 1 rated Ynode } 18... c4 19. Bc2 Bd7 20. Ne5 Be8 21. Re1 Qa3
+22. Rb1 Bxa4 23. Rxb6 Bxc2 24. Qxc2 Ne4 25. f3
+{ Here we see that Ynode handling the White pieces rated 3 4 7 1 and Marvin from the Black side with rating 3 4 0 5 played a balanced game which ended in a draw. Both sides showed good positional understanding.1/2-1/2 }
+) 18... bxc5 { we will see this position later on1/2-1/2 } ) 17... bxc5 18. Re2
+{ played by 3 6 1 1 rated PlentyChess } 18... a4 19. bxa4 Bd7 20. Bb5 Bf5 21.
+Nd2 Qa7 22. Nb3 Bg6 23. f3 c4 24. Nd4 Qb6 25. Qe1
+{ After a long struggle, PlentyChess playing White, rated 3 6 1 1 and Tarnished as Black rated 3 5 7 2 shared the point.1/2-1/2 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Reckless 0.8.0 64-bit 4CPU"]
+[Black "Fat Fritz 2 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "D59"]
+[Opening "QGD"]
+[Variation "Tartakower variation"]
+[WhiteElo "3632"]
+[BlackElo "3602"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 h6 7. Bh4 b6 8. cxd5
+Nxd5 9. Bxe7 Qxe7 10. Nxd5 exd5 11. Rc1 Be6
+{ entered in Queens Gambit Declined Tartakower Variation } 12. Qa4
+{ played by 3 4 2 1 rated Ginkgo } ( 12. Bd3
+{ played by 3 6 2 9 rated Stockfish } 12... c5 13. b3
+{ played by 3 6 2 9 rated Stockfish } 13... Nd7 14. O-O
+{ played by 3 6 1 7 rated Berserk } 14... a5 15. a4
+{ played by 3 6 2 9 rated Stockfish } ( 15. h3
+{ played by 3 6 1 9 rated Stockfish } 15... Nf6 16. Re1
+{ played by 3 6 0 4 rated Lizard } 16... Rfc8 17. Ne5
+{ played by 3 6 1 9 rated Stockfish } 17... Rc7 18. a4
+{ played by 3 4 5 6 rated Marvin } 18... Ne4 19. f3
+{ played by 3 4 5 6 rated Marvin } ( 19. dxc5 { played by 3 1 1 3 rated Texel }
+19... Nxc5 20. Nf3 Qf6 21. Rf1 Rac8 22. Bb5 Qg6 23. Ne5
+{ In an interesting battle, The game between Texel as White rated 3 1 1 3 and Arasan, rated 3 1 1 9, had the Black pieces finished level. Both sides showed good positional understanding.1/2-1/2 }
+) ( 19. Qf3 { played by 3 1 1 3 rated Texel } 19... Nd2 20. Qd1 Ne4
+{ we will see this position later on1/2-1/2 } ) 19... Nd6 20. Qd2 Rac8 21. Ba6
+Ra8 22. Bd3 { we will see this position later on1/2-1/2 } ) 15... Nf6 16. h3
+{ played by 3 6 1 1 rated PlentyChess } 16... Rfc8 17. Qe2
+{ played by 3 6 0 2 rated Fat } 17... Ne4 18. Rfd1
+{ played by 3 5 7 9 rated Ethereal } 18... Qf6 19. Ba6
+{ played by 3 5 7 9 rated Ethereal } ( 19. Kh2
+{ played by 3 4 8 2 rated Superultra } 19... g5 20. Qe1 g4 21. hxg4 Bxg4 22.
+Be2 Be6 23. Kg1 Kh7 24. Nd2 Rg8 25. g3
+{ In this game, Caissa, rated 3 5 8 3, had the Black pieces outplayed Superultra as White rated 3 4 8 2 and won as Black. The opening quickly led to complex middlegame play.0-1 }
+) 19... Rc7 20. Bd3 Rcc8 { we will see this position later on1/2-1/2 } ) 12...
+Rc8 13. Be2 { played by 3 4 2 1 rated Ginkgo } 13... c5 14. b3
+{ played by 3 4 2 1 rated Ginkgo } 14... c4 15. bxc4 dxc4 16. O-O Bd7 17. Qc2
+b5 18. Rfd1 { played by 3 4 2 1 rated Ginkgo } ( 18. Qb2
+{ played by 3 3 0 2 rated Xiphos } 18... Be8 19. Rfd1 a5 20. Nd2 Na6 21. a4 Qb4
+22. Qxb4 Nxb4 23. Ne4 c3 24. Rxc3 Rxc3 25. Nxc3
+{ Once again, After a long struggle, Xiphos, rated 3 3 0 2, had the White pieces and Pedone on Black with Elo 3 3 8 1 shared the point. The outcome was decided in the later stages.1/2-1/2 }
+) 18... Nc6 19. Qb2 Qb4 20. Qa1 Qa3 21. Rc3 Qe7 22. Rcc1 Re8 23. d5 Ne5 24. Qd4
+Nxf3+ 25. Bxf3
+{ In an interesting battle, Ginkgo playing White, rated 3 4 2 1 overpressed, and ShashChess as Black rated 3 6 0 2 secured the win.0-1 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Reckless 0.8.0 64-bit 4CPU"]
+[Black "Fat Fritz 2 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "D59"]
+[Opening "QGD"]
+[Variation "Tartakower variation"]
+[WhiteElo "3632"]
+[BlackElo "3602"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 h6 7. Bh4 b6 8. cxd5
+Nxd5 9. Bxe7 Qxe7 10. Nxd5 exd5 11. Rc1 Be6
+{ entered in Queens Gambit Declined Tartakower Variation } 12. Bd3
+{ played by 3 6 2 9 rated Stockfish } ( 12. Qa4
+{ played by 3 4 2 1 rated Ginkgo } 12... Rc8 13. Be2
+{ played by 3 4 2 1 rated Ginkgo } 13... c5 14. Qa3
+{ played by 2 5 9 7 rated Naum } 14... a5 15. O-O
+{ played by 3 3 4 5 rated Stockfish } 15... Nd7 16. Rfd1
+{ played by 3 3 4 5 rated Stockfish } 16... Nf6 17. dxc5
+{ played by 3 3 4 5 rated Stockfish } 17... bxc5 18. Nd4 Qc7 19. Rc2
+{ played by 3 3 4 5 rated Stockfish } ( 19. Rd2
+{ played by 3 1 3 6 rated Fritz } 19... a4 20. Rdc2 c4 21. h3 Bd7 22. Bf3 Qe5
+23. Rd2 Rcb8 24. Ne2 Bf5 25. Qc3
+{ Fritz handling the White pieces rated 3 1 3 6 and Vajolet2 as Black rated 2 9 9 6 played a balanced game which ended in a draw. Small inaccuracies made the difference.1/2-1/2 }
+) 19... a4 20. Bf3 Bg4 21. Bxg4 Nxg4 22. Nf3 Nf6
+{ Here we see that The game between Stockfish, rated 3 3 4 5, had the White pieces and Komodo as Black rated 3 3 8 4 finished level. Both sides showed good positional understanding.1/2-1/2 }
+) 12... c5 13. b3 { played by 3 6 2 9 rated Stockfish } 13... Nd7 14. O-O
+{ played by 3 6 1 7 rated Berserk } 14... a5 15. h3
+{ played by 3 6 1 9 rated Stockfish } ( 15. Bb5
+{ played by 3 3 8 6 rated Fire } 15... Rfc8 16. Re1
+{ played by 3 3 5 8 rated Booot } ( 16. Qd2 { played by 3 1 2 4 rated Houdini }
+16... Nf6 17. Ne5 Rc7 18. f3 Rac8 19. Ba6 { played by 3 1 9 7 rated C4ke } (
+19. Rfe1 { played by 3 1 2 4 rated Houdini } 19... cxd4 20. Rxc7 Qxc7 21. exd4
+Qc2 22. Qxc2 Rxc2 23. Re2 Rc1+ 24. Kf2 g5 25. Ke3
+{ In an interesting battle, Houdini on White with Elo 3 1 2 4 and Zahak on Black with Elo 3 2 9 1 played a balanced game which ended in a draw. The outcome was decided in the later stages.1/2-1/2 }
+) 19... Ra8 20. Bb5 { we will see this position later on1/2-1/2 } ) 16... Nf6
+17. Ne5 Qd6 18. a4 { played by 3 3 5 8 rated Booot } 18... Rc7 19. Rf1
+{ played by 3 3 5 8 rated Booot } ( 19. f3 { played by 3 2 4 2 rated Zangdar }
+19... Rac8 20. Ba6 Ra8 21. Bb5 { we will see this position later on1/2-1/2 } )
+19... Rac8 20. Ba6 Rd8 21. Re1 Nd7 22. Nd3 g5 23. f3 Ra8
+{ Once again, Neither Booot from the White side with rating 3 3 5 8 nor Minic playing Black, rated 3 4 5 4 could convert, and the game was drawn.1/2-1/2 }
+) 15... Nf6 16. Re1 { played by 3 6 0 4 rated Lizard } 16... Rfc8 17. dxc5
+{ played by 3 6 1 1 rated PlentyChess } 17... bxc5 18. Nd2
+{ played by 3 6 0 0 rated PlentyChess } 18... Rd8 19. e4
+{ played by 3 5 9 2 rated Dragon } 19... Nxe4 20. Nxe4 dxe4 21. Rxe4 a4 22. Qc2
+axb3 23. axb3 Qf6 24. Re3 Ra1 25. Rxa1
+{ Here we see that Dragon handling the White pieces rated 3 5 9 2 and Arasan handling the Black pieces rated 3 4 9 3 played a balanced game which ended in a draw. The outcome was decided in the later stages.1/2-1/2 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Reckless 0.8.0 64-bit 4CPU"]
+[Black "Fat Fritz 2 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "D59"]
+[Opening "QGD"]
+[Variation "Tartakower variation"]
+[WhiteElo "3632"]
+[BlackElo "3602"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 h6 7. Bh4 b6 8. cxd5
+Nxd5 9. Bxe7 Qxe7 10. Nxd5 exd5 11. Rc1 Be6
+{ entered in Queens Gambit Declined Tartakower Variation } 12. Bd3
+{ played by 3 6 2 9 rated Stockfish } 12... c5 13. b3
+{ played by 3 6 2 9 rated Stockfish } 13... Nd7 14. O-O
+{ played by 3 6 1 7 rated Berserk } 14... a5 15. h3
+{ played by 3 6 1 9 rated Stockfish } 15... Nf6 16. Re1
+{ played by 3 6 0 4 rated Lizard } 16... Rfc8 17. Ne5
+{ played by 3 6 1 9 rated Stockfish } ( 17. dxc5
+{ played by 3 6 1 1 rated PlentyChess } 17... bxc5 18. Nd2
+{ played by 3 6 0 0 rated PlentyChess } 18... Rd8 19. a4
+{ played by 3 6 0 0 rated PlentyChess } 19... Rac8 20. Ba6 Rc7 21. Qe2
+{ played by 3 6 0 0 rated PlentyChess } ( 21. Bb5
+{ played by 3 5 3 4 rated Seer } 21... c4 22. Nf3 Rdc8 23. Nd4 Ne4
+{ Seer handling the White pieces rated 3 5 3 4 and ShashChess as Black rated 3 6 2 4 played a balanced game which ended in a draw. Small inaccuracies made the difference.1/2-1/2 }
+) 21... Bf5 22. Red1 Rc6 23. Bb5 Rb6 24. Qe1 Bd7 25. Bxd7
+{ In this game, PlentyChess from the White side with rating 3 6 0 0 and Lizard playing Black, rated 3 6 0 1 played a balanced game which ended in a draw. The opening quickly led to complex middlegame play.1/2-1/2 }
+) ( 17. Bb5 { played by 3 1 8 8 rated Texel } 17... Rc7 18. Ne5 Qd6 19. Qe2
+Rac8 20. Ba6 Re8 21. Qb2 Ra8 22. Bd3 { played by 3 1 8 8 rated Texel } ( 22.
+Bb5 { played by 3 1 8 8 rated Texel } 22... Rac8 23. Ba6 Ra8
+{ we will see this position later on1/2-1/2 } ) 22... a4 23. Red1
+{ In an interesting battle, After a long struggle, Texel handling the White pieces rated 3 1 8 8 and Zahak as Black rated 3 3 3 7 shared the point. Small inaccuracies made the difference.1/2-1/2 }
+) 17... Rc7 18. Re2 { played by 3 6 1 9 rated Stockfish } 18... Rac8 19. Ba6
+Ra8 20. Bb5 { played by 3 6 1 9 rated Stockfish } ( 20. Bd3
+{ we will see this position later on1/2-1/2 } ) 20... Bf5 21. Bd3 Ne4 22. Rec2
+a4 23. Qf3
+{ Here we see that The game between Stockfish, rated 3 6 1 9, had the White pieces and Devre on Black with Elo 3 5 0 2 finished level. The opening quickly led to complex middlegame play.1/2-1/2 }
+1-0
+
+
+

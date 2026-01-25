@@ -1,0 +1,37 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 1.5.1 64-bit 4CPU"]
+[Black "Zappa Mexico II 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "B74"]
+[Opening "Sicilian"]
+[Variation "dragon, classical, Spielmann variation"]
+[WhiteElo "2995"]
+[BlackElo "2992"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. Be2 Nc6 8.
+O-O O-O 9. Nb3 Be6 10. f4 Na5 11. f5 Bc4 12. Bd3
+{ entered in SICILIAN Dragon Classical Spielmann Variation } 12... Bxd3 13.
+Qxd3 { played by 2 6 9 5 rated Delfi } ( 13. cxd3
+{ played by 2 9 9 5 rated Stockfish } 13... Nxb3 14. axb3 a6 15. b4
+{ played by 2 9 9 2 rated Zappa } ( 15. Qf3
+{ played by 2 9 9 5 rated Stockfish } 15... e6 16. b4
+{ played by 2 9 9 5 rated Stockfish } ( 16. Kh1
+{ played by 2 5 1 8 rated Arasan } 16... Rc8 17. Qh3 exf5 18. exf5 d5 19. Bd4
+g5 20. b4 Re8 21. Ra5 h6 22. Bxf6 Qxf6 23. Rxd5 Rcd8 24. Qf3 Rxd5 25. Qxd5
+{ Here we see that AnMon from the Black side with rating 2 5 2 4 outplayed Arasan on White with Elo 2 5 1 8 and won as Black. The opening quickly led to complex middlegame play.0-1 }
+) 16... Qd7 17. g4
+{ Stockfish, rated 2 9 9 5, had the White pieces outplayed Zappa as Black rated 2 9 9 2 and won the game. The position remained tense for most of the game.1-0 }
+) 15... d5 16. Bd4 dxe4 17. dxe4 Rc8 18. e5 Nd7 19. Ra5 e6 20. f6 Bh6 21. Ne4
+Rc1 22. Qf3 Qc7 23. Nd6 Bd2 24. Ra1 Rxa1 25. Rxa1
+{ Here we see that Zappa as White rated 2 9 9 2 and Stockfish handling the Black pieces rated 2 9 9 5 played a balanced game which ended in a draw. The outcome was decided in the later stages.1/2-1/2 }
+) 13... Ng4 14. Bd4 Bxd4+ 15. Nxd4 Rc8 16. Kh1 Qd7 17. Qe2 Nf6 18. Nd5 Nc4 19.
+b3 Ne5 20. c4 Nxd5 21. exd5 gxf5 22. Rxf5 Ng6 23. Qe3 e5 24. dxe6 fxe6 25.
+Rxf8+
+{ Neither Delfi as White rated 2 6 9 5 nor Movei, rated 2 6 6 1, had the Black pieces could convert, and the game was drawn. Both sides showed good positional understanding.1/2-1/2 }
+1-0
+
+
+

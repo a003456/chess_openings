@@ -1,0 +1,557 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Torch v3 64-bit 4CPU"]
+[Black "Caissa 1.20 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[WhiteElo "3635"]
+[BlackElo "3609"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+{ entered in BENONI Taimanov Variation } 8... Kf8
+{ played by 2 9 0 5 rated Gull } ( 8... Bd7
+{ played by 3 1 8 9 rated Stockfish } 9. e5 Nh5
+{ played by 3 1 0 7 rated Igel } ( 9... Bxb5
+{ played by 2 1 3 4 rated FireFly } 10. exf6 Bxf6 11. Nxb5 Qa5+ 12. Nc3 Bxc3+
+13. bxc3 Qxc3+ 14. Bd2 Qf6 15. Ne2 O-O 16. O-O Nd7 17. f5 Qe7 18. Nc3 f6 19.
+Qb3 Ne5 20. Rae1 g5 21. Re2
+{ Here we see that Betsabe handling the White pieces rated 2 1 5 8 outplayed FireFly, rated 2 1 3 4, had the Black pieces and won the game.1-0 }
+) 10. Nf3 O-O 11. Bxd7 Qxd7 12. O-O Na6 13. Ne4 dxe5 14. Nxe5 Qe8 15. Re1 Rd8
+16. Nc3 Nb4 17. Nxg6 hxg6 18. Rxe8 Rfxe8 19. Bd2 Bd4+ 20. Kf1 Nf6
+{ In this game, SlowChess from the White side with rating 3 1 5 8 converted the advantage and defeated Igel playing Black, rated 3 1 0 7. The position remained tense for most of the game.1-0 }
+) ( 8... Nfd7 { played by 3 6 4 3 rated ShashChess } 9. a4 O-O
+{ played by 3 6 1 9 rated Stockfish } ( 9... a6
+{ played by 3 5 9 9 rated Clover } 10. Be2 Bxc3+
+{ played by 3 2 6 4 rated Laser } 11. bxc3 Nf6 12. Bf3 O-O 13. Ne2 Re8 14. O-O
+Nxe4 15. Bxe4 Rxe4 16. Ng3 Re8 17. f5 Nd7 18. Ra2 Ne5 19. Raf2 Bd7 20. Ne4 Bxf5
+21. Rxf5
+{ Stockfish as White rated 3 5 2 6 converted the advantage and defeated Laser as Black rated 3 2 6 4. The position remained tense for most of the game.1-0 }
+) 10. Nf3 Na6 { we will see this position later on1-0 } ( 10... f5
+{ played by 3 4 8 6 rated Revenge } 11. O-O fxe4 12. Nxe4 Nf6 13. Neg5 Na6 14.
+Re1 Nc7 15. Ne6 Bxe6 16. dxe6 Qe7 17. f5 Nxb5 18. axb5 gxf5 19. Bg5 h6 20. Bh4
+d5 21. Qd3
+{ Here we see that Neither Ethereal handling the White pieces rated 3 5 1 6 nor Revenge as Black rated 3 4 8 6 could convert, and the game was drawn. Small inaccuracies made the difference.1/2-1/2 }
+) ) 9. Bd3 Qa5 10. Bd2 Qb6 11. Nf3 Na6 12. Bc4 Bg4 13. O-O Bxf3 14. Qxf3 Qxb2
+15. Rad1 Qb4 16. Qe2 Qb6 17. e5 Ne8 18. Rb1 Qc7 19. Ne4 h6 20. Bc3 Rh7 21. exd6
+{ In this game, Stockfish, rated 3 0 8 8, had the White pieces converted the advantage and defeated Gull, rated 2 9 0 5, had the Black pieces. Small inaccuracies made the difference.1-0 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Torch v3 64-bit 4CPU"]
+[Black "Caissa 1.20 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[WhiteElo "3635"]
+[BlackElo "3609"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+{ entered in BENONI Taimanov Variation } 8... Nbd7
+{ played by 3 5 7 1 rated PlentyChess } ( 8... Bd7
+{ played by 3 1 8 9 rated Stockfish } 9. e5 dxe5
+{ played by 3 1 8 9 rated Stockfish } 10. fxe5 Nh5
+{ played by 3 1 8 9 rated Stockfish } ( 10... Qe7
+{ played by 2 7 8 4 rated Bright } 11. Nf3 O-O 12. Bg5 h6 13. d6 Qe6 14. Bxf6
+Bxf6 15. Qd5 Qxd5 16. Nxd5 Bg7 17. Nc7 Bxb5 18. Nxa8 Bc6 19. O-O-O Bxf3 20.
+gxf3 Bxe5 21. Nc7
+{ Here we see that Bright from the Black side with rating 2 7 8 4 defended accurately and defeated Cheng3 on White with Elo 2 6 2 2. The opening quickly led to complex middlegame play.0-1 }
+) 11. Nf3 O-O 12. Bxd7 Nxd7 13. g4 Bxe5 14. gxh5 Bxc3+ 15. bxc3 Re8+ 16. Kf2
+Nf6
+{ Once again, Stockfish handling the White pieces rated 3 1 8 9 converted the advantage and defeated Naum, rated 3 0 9 1, had the Black pieces. Both sides showed good positional understanding.1-0 }
+) 9. e5 dxe5 { played by 3 5 5 8 rated Fritz } ( 9... Nh5
+{ played by 3 4 9 8 rated Stockfish } 10. e6 O-O
+{ played by 3 4 9 8 rated Stockfish } ( 10... fxe6
+{ played by 2 6 8 1 rated Tornado } 11. dxe6 O-O 12. exd7 Bxd7 13. Bc4+ Kh8 14.
+Nge2 Qh4+ 15. g3 Qh3 16. Bd5 Bxc3+ 17. bxc3 Rae8 18. Kf2 Nf6 19. Bxb7 Bb5 20.
+Bf3 Ne4+ 21. Bxe4
+{ Here we see that Tornado playing Black, rated 2 6 8 1 defended accurately and defeated Daydreamer from the White side with rating 2 6 6 2. Small inaccuracies made the difference.0-1 }
+) ( 10... Bxc3+ { played by 2 3 7 6 rated RomiChess } 11. bxc3 O-O 12. exd7
+Bxd7 13. Bxd7 Qxd7 14. Ne2 Rfe8 15. O-O Qb5 16. Ng3 Nxg3 17. hxg3 Re2 18. a4
+Qc4 19. Rf3 Rae8 20. Kh2 Qe4 21. Qd3
+{ Hussar from the White side with rating 2 4 1 9 and RomiChess handling the Black pieces rated 2 3 7 6 played a balanced game which ended in a draw. Both sides showed good positional understanding.1/2-1/2 }
+) 11. Bxd7 Bxd7 12. exd7 Qxd7 13. Qf3 b5
+{ Here we see that Stockfish handling the Black pieces rated 3 4 9 8 could not hold the position, allowing Laser playing White, rated 3 2 5 5 to win. The position remained tense for most of the game.1-0 }
+) 10. fxe5 O-O { played by 3 1 5 5 rated Orion } 11. exf6 Nxf6 12. Nf3 a6 13.
+Be2 b5 14. O-O Re8 15. d6 h6 16. Ne1 Ra7 17. a3 g5 18. Nc2 b4 19. Na4 Rd7 20.
+Ne3 Rxd6 21. Qc2
+{ In this game, Lynx as White rated 3 1 2 6 and Orion, rated 3 1 5 5, had the Black pieces played a balanced game which ended in a draw. Both sides showed good positional understanding.1/2-1/2 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Torch v3 64-bit 4CPU"]
+[Black "Caissa 1.20 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[WhiteElo "3635"]
+[BlackElo "3609"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+{ entered in BENONI Taimanov Variation } 8... Nfd7
+{ played by 3 6 4 3 rated ShashChess } ( 8... Nbd7
+{ played by 3 5 7 1 rated PlentyChess } 9. e5 O-O
+{ played by 3 5 7 1 rated PlentyChess } 10. exf6 Nxf6 11. a4 a6
+{ Here we see that Revenge handling the White pieces rated 3 5 1 5 remained in control, handing PlentyChess, rated 3 5 7 1, had the Black pieces a loss. Small inaccuracies made the difference.1-0 }
+( 11... Qa5
+{ PlentyChess on White with Elo 3 5 7 1 remained in control, handing Revenge handling the Black pieces rated 3 5 1 5 a loss. Both sides showed good positional understanding.1-0 }
+) ) 9. a4 Na6 { played by 3 6 4 3 rated ShashChess } ( 9... Qh4+
+{ played by 3 6 2 1 rated PlentyChess } 10. g3 Qe7
+{ played by 3 6 0 8 rated Berserk } 11. Nf3 a6
+{ played by 3 4 2 1 rated Ginkgo } ( 11... Na6
+{ played by 3 3 3 7 rated Frozenight } 12. e5 O-O 13. O-O
+{ we will see this position later on1-0 } ) 12. Be2 O-O 13. O-O Re8 14. h3 Bxc3
+15. bxc3 Nf6 16. e5 Ne4 17. g4 Nxc3 18. Qd3 Nxe2+ 19. Qxe2 b5 20. Bb2 Nd7 21.
+Qd2
+{ In this game, ShashChess, rated 3 6 0 2, had the White pieces outplayed Ginkgo, rated 3 4 2 1, had the Black pieces and won the game. The opening quickly led to complex middlegame play.1-0 }
+) 10. Nf3 O-O { played by 3 6 2 5 rated Obsidian } 11. O-O Nb4
+{ we will see this position later on1-0 } ( 11... Re8
+{ played by 2 4 1 9 rated Hussar } 12. e5 dxe5 13. fxe5 Bxe5 14. Nxe5 Rxe5 15.
+d6 Nb4 16. Bf4 Rf5 17. g4 Rf6 18. Ne4 Re6 19. Bg5 Qf8 20. Be7 Rxe7 21. dxe7
+{ Once again, Quazar on White with Elo 2 5 6 8 outplayed Hussar, rated 2 4 1 9, had the Black pieces and won the game. Small inaccuracies made the difference.1-0 }
+) 1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Torch v3 64-bit 4CPU"]
+[Black "Caissa 1.20 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[WhiteElo "3635"]
+[BlackElo "3609"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+{ entered in BENONI Taimanov Variation } 8... Nbd7
+{ played by 3 5 7 1 rated PlentyChess } ( 8... Nfd7
+{ played by 3 6 4 3 rated ShashChess } 9. a4 Na6
+{ played by 3 6 4 3 rated ShashChess } ( 9... O-O
+{ played by 3 6 1 9 rated Stockfish } 10. Nf3 a6
+{ played by 3 4 4 9 rated Sirius } 11. Be2 Re8
+{ played by 3 4 4 9 rated Sirius } 12. O-O h6
+{ played by 3 4 4 9 rated Sirius } ( 12... Bxc3
+{ played by 2 4 1 7 rated MinimalChess } 13. bxc3 Rxe4 14. f5 Re8 15. Bg5 f6
+16. Bh6 Ne5 17. Nxe5 Rxe5 18. fxg6 hxg6 19. Bf4 Re8 20. Bd3 Kg7 21. Qf3
+{ Once again, MinimalChess from the Black side with rating 2 4 1 7 could not hold the position, allowing SoFCheck on White with Elo 2 4 0 4 to win.1-0 }
+) 13. h3 Nf6 14. Bd3 Nbd7 15. Re1 Nh5 16. Be3 Qf6 17. Qd2 Rb8 18. Kh2 Qd8 19.
+Rac1 Bf8 20. Bf2 g5 21. g3
+{ Once again, Turbulence, rated 3 4 7 4, had the White pieces remained in control, handing Sirius on Black with Elo 3 4 4 9 a loss. Small inaccuracies made the difference.1-0 }
+) 10. Nf3 Nb4 { played by 3 6 4 3 rated ShashChess } ( 10... O-O
+{ played by 3 6 2 5 rated Obsidian } 11. O-O Nc7
+{ played by 3 1 8 9 rated Stockfish } 12. Bd3 a6
+{ played by 3 1 8 9 rated Stockfish } ( 12... Rb8
+{ played by 2 7 0 7 rated Critter } 13. Qb3 Re8 14. Bd2 a6 15. Qc2 b5 16. axb5
+axb5 17. f5 gxf5 18. exf5 Nf6 19. Rfe1 c4 20. Rxe8+ Qxe8 21. Re1
+{ Once again, BugChess2 handling the Black pieces rated 2 6 5 4 outplayed Critter playing White, rated 2 7 0 7 and won as Black.0-1 }
+) 13. Qc2 Rb8 14. Be3 b5 15. Bf2 Nf6 16. Bh4 Qd7 17. Rfe1 Re8 18. axb5 axb5 19.
+Qf2 Nh5 20. g3 b4 21. Nd1
+{ In an interesting battle, After a long struggle, Stockfish, rated 3 1 8 9, had the White pieces and Komodo handling the Black pieces rated 3 1 3 3 shared the point. Both sides showed good positional understanding.1/2-1/2 }
+) 11. O-O O-O { played by 3 6 3 1 rated Alexandria } 12. Be3 Re8
+{ played by 3 6 0 9 rated Caissa } ( 12... a6
+{ played by 3 6 0 3 rated RubiChess } 13. Be2
+{ we will see this position later on1/2-1/2 } ) 13. Bf2 a6 14. Be2
+{ we will see this position later on1/2-1/2 } ) 9. e5 dxe5
+{ played by 3 5 5 8 rated Fritz } 10. fxe5 Nh5
+{ played by 3 5 5 8 rated Fritz } 11. e6 O-O { played by 3 0 3 2 rated Topple }
+12. exd7 Bxd7 13. Bxd7 Qxd7 14. Qd3 b5
+{ Cheng from the White side with rating 2 9 9 6 converted the advantage and defeated Topple playing Black, rated 3 0 3 2. The position remained tense for most of the game.1-0 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Torch v3 64-bit 4CPU"]
+[Black "Caissa 1.20 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[WhiteElo "3635"]
+[BlackElo "3609"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+{ entered in BENONI Taimanov Variation } 8... Nfd7
+{ played by 3 6 4 3 rated ShashChess } 9. a4 Na6
+{ played by 3 6 4 3 rated ShashChess } ( 9... Qh4+
+{ played by 3 6 2 1 rated PlentyChess } 10. g3 Qd8
+{ played by 3 6 2 1 rated PlentyChess } 11. Nf3 O-O 12. O-O a6
+{ played by 3 6 2 1 rated PlentyChess } 13. Bd3 Qa5
+{ played by 3 4 2 4 rated Arasan } ( 13... a5 { played by 2 9 4 7 rated Wasp }
+14. Kh1 Na6 15. g4 Nb4 16. Bb5 Nf6 17. g5 Ne8 18. Bd2 Nc7 19. Bc4 Re8 20. Qb3
+b6 21. Rad1
+{ Once again, Wasp from the Black side with rating 2 9 4 7 outplayed DiscoCheck playing White, rated 2 9 1 2 and won as Black. The position remained tense for most of the game.0-1 }
+) ( 13... Re8 { played by 2 9 1 2 rated DiscoCheck } 14. Kg2 a5 15. f5 gxf5 16.
+Nh4 Bxc3 17. Nxf5 Bf6 18. Nh6+ Kf8 19. Qh5 Ne5 20. Bg5 Nbd7 21. Bxf6
+{ In an interesting battle, Wasp on White with Elo 2 9 4 7 converted the advantage and defeated DiscoCheck, rated 2 9 1 2, had the Black pieces. Both sides showed good positional understanding.1-0 }
+) 14. Nd2 Nb6 15. Nb3 Qb4 16. Ra3 Bxc3 17. bxc3 Qxc3 18. Na1 Qg7 19. Nc2 a5 20.
+Rf2 Na6 21. Ne3
+{ Here we see that Berserk from the White side with rating 3 5 5 0 converted the advantage and defeated Arasan handling the Black pieces rated 3 4 2 4. The opening quickly led to complex middlegame play.1-0 }
+) 10. Nf3 Nb4 { played by 3 6 4 3 rated ShashChess } 11. O-O a6
+{ played by 3 6 4 3 rated ShashChess } ( 11... O-O
+{ played by 3 6 3 1 rated Alexandria } 12. Be3 Nf6
+{ played by 3 0 7 0 rated RubiChess } 13. h3 Qe7
+{ played by 2 9 8 4 rated Fritz } ( 13... Nxe4 { played by 2 9 6 1 rated Deep }
+14. Nxe4 Qe7
+{ In this game, Komodo on White with Elo 3 1 4 7 remained in control, handing Deep playing Black, rated 2 9 6 1 a loss.1-0 }
+) ( 13... a6 { played by 2 9 3 5 rated Spike } 14. Bc4 Nxe4 15. Nxe4 Re8
+{ Komodo handling the White pieces rated 3 1 3 3 remained in control, handing Spike, rated 2 9 3 5, had the Black pieces a loss. The position remained tense for most of the game.1-0 }
+) 14. e5 Rd8 15. Bc4 Bf5 16. Bf2 dxe5 17. fxe5 Nfxd5 18. Nxd5 Nxd5 19. Bxd5 Be6
+{ Here we see that Gull on White with Elo 2 8 9 6 outplayed Fritz handling the Black pieces rated 2 9 8 4 and won the game. The opening quickly led to complex middlegame play.1-0 }
+) 12. Be2 O-O 13. Be3 Rb8 { played by 3 0 9 8 rated Lozza } 14. Bf2 Nf6 15. h3
+Re8 16. Bh4 Qd7 17. Nd2 b6 18. Qb3 h6 19. Rae1 Nh7 20. Kh2 b5 21. axb5
+{ In this game, Protej on White with Elo 3 1 9 6 and Lozza playing Black, rated 3 0 9 8 played a balanced game which ended in a draw.1/2-1/2 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Torch v3 64-bit 4CPU"]
+[Black "Caissa 1.20 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[WhiteElo "3635"]
+[BlackElo "3609"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+{ entered in BENONI Taimanov Variation } 8... Nfd7
+{ played by 3 6 4 3 rated ShashChess } 9. a4 Qh4+
+{ played by 3 6 2 1 rated PlentyChess } ( 9... Na6
+{ played by 3 6 4 3 rated ShashChess } 10. Nf3 Nb4
+{ played by 3 6 4 3 rated ShashChess } 11. O-O a6
+{ played by 3 6 4 3 rated ShashChess } 12. Be2 O-O 13. Be3 Nf6
+{ played by 3 6 3 0 rated Torch } 14. Nd2 Re8
+{ played by 3 1 4 7 rated Komodo } 15. Bf2
+{ we will see this position later on1-0 } ) 10. g3 Qd8
+{ played by 3 6 2 1 rated PlentyChess } ( 10... Qe7
+{ played by 3 6 0 8 rated Berserk } 11. Nf3 O-O
+{ played by 3 6 0 8 rated Berserk } 12. O-O Na6 13. e5 dxe5
+{ played by 3 6 0 8 rated Berserk } ( 13... Nb4
+{ played by 3 3 3 7 rated Frozenight } 14. Ne4 dxe5 15. f5 Qd8 16. fxg6 hxg6
+17. Bg5 f6 18. d6 a6 19. Bc4+ Kh7 20. h4 Nb6 21. h5
+{ Here we see that Clover playing White, rated 3 4 5 9 outplayed Frozenight handling the Black pieces rated 3 3 3 7 and won the game. The outcome was decided in the later stages.1-0 }
+) ( 13... Nc7 { played by 2 4 9 4 rated ECE } 14. Re1 a6 15. Bc4 Nb6 16. Be2
+Ne8 17. Qb3 Nd7 18. exd6 Qd8 19. Ne4 Ndf6 20. Nxf6+ Nxf6 21. Ne5
+{ Once again, ECE as Black rated 2 4 9 4 could not hold the position, allowing Ifrit as White rated 2 3 8 3 to win. Both sides showed good positional understanding.1-0 }
+) 14. d6 Qd8 15. Ne4 exf4 16. Bxf4 Nb4 17. Bg5 f6 18. Bd2 Kh8 19. a5 Rb8 20.
+Nxc5 Nxc5 21. Bxb4
+{ In an interesting battle, Berserk playing Black, rated 3 6 0 8 could not hold the position, allowing Stockfish as White rated 3 6 4 0 to win. The opening quickly led to complex middlegame play.1-0 }
+) 11. Nf3 O-O 12. O-O Na6 { played by 3 6 0 4 rated Viridithas } 13. f5 Ne5
+{ played by 3 6 0 4 rated Viridithas } ( 13... Nb4
+{ played by 2 2 7 7 rated Tcheran } 14. Bg5 f6 15. Bd2 gxf5 16. exf5 a6 17. Be2
+Ne5 18. Nxe5 fxe5 19. Qb1 Bd7 20. Qe4 Qf6 21. Bg4
+{ In this game, Arcanum on White with Elo 2 2 2 9 remained in control, handing Tcheran as Black rated 2 2 7 7 a loss. The position remained tense for most of the game.1-0 }
+) 14. Nxe5 Bxe5 15. Bf4 f6 16. Bxe5 fxe5 17. g4 Nc7 18. Qd2 Qh4 19. Qg2 a6 20.
+Bd3 Ne8 21. Rf3
+{ Viridithas from the Black side with rating 3 6 0 4 could not hold the position, allowing PlentyChess from the White side with rating 3 6 1 9 to win.1-0 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Torch v3 64-bit 4CPU"]
+[Black "Caissa 1.20 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[WhiteElo "3635"]
+[BlackElo "3609"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+{ entered in BENONI Taimanov Variation } 8... Nfd7
+{ played by 3 6 4 3 rated ShashChess } 9. a4 Qh4+
+{ played by 3 6 2 1 rated PlentyChess } ( 9... a6
+{ played by 3 5 9 9 rated Clover } 10. Be2 Qh4+
+{ played by 3 5 9 9 rated Clover } 11. g3 Qd8 12. Nf3 O-O 13. O-O Re8 14. Qc2
+Nf8 { played by 3 5 9 9 rated Clover } ( 14... Bd4+
+{ played by 2 8 3 7 rated Cyclone } 15. Nxd4 cxd4 16. Nd1 a5 17. Nf2 Nc5 18. f5
+Qb6 19. Ng4 Nxe4 20. fxg6 f5 21. gxh7+
+{ Hiarcs playing White, rated 2 8 2 9 outplayed Cyclone handling the Black pieces rated 2 8 3 7 and won the game.1-0 }
+) 15. Bd2 Nbd7 16. Rfe1 Nf6 17. Kg2 b6 18. Bc4 Qd7 19. Nd1 Qb7 20. Bc3 Rb8 21.
+Bf1
+{ In this game, Torch, rated 3 6 3 7, had the White pieces converted the advantage and defeated Clover on Black with Elo 3 5 9 9. Both sides showed good positional understanding.1-0 }
+) ( 9... Qe7 { played by 3 5 5 9 rated Fat } 10. Nf3 Bxc3+ 11. bxc3 Qxe4+ 12.
+Kf2 O-O 13. Re1 Qf5 14. h3 Nf6 { played by 3 4 8 7 rated Koivisto } ( 14... Na6
+{ played by 3 4 4 6 rated Berserk } 15. g4 Qf6 16. f5 Nc7 17. Bg5 Qxc3 18. Rc1
+Qb2+ 19. Re2 Qh8 20. Be7 Nf6 21. Bd3
+{ Once again, Stockfish on White with Elo 3 5 7 2 converted the advantage and defeated Berserk, rated 3 4 4 6, had the Black pieces. Small inaccuracies made the difference.1-0 }
+) 15. Ne5 dxe5 16. Rxe5 Ne4+ 17. Kg1 Nxc3 18. Qd2 Ne4 19. Qb2 Qf6 20. Rxe4 Qxb2
+21. Bxb2
+{ Once again, ShashChess on White with Elo 3 6 0 2 converted the advantage and defeated Koivisto on Black with Elo 3 4 8 7.1-0 }
+) 10. g3 Qd8 { played by 3 6 2 1 rated PlentyChess } 11. Nf3 O-O 12. O-O a6
+{ played by 3 6 2 1 rated PlentyChess } 13. Bd3 Nf6
+{ played by 3 6 2 1 rated PlentyChess } 14. Kg2 b6
+{ played by 3 6 2 1 rated PlentyChess } ( 14... Re8
+{ played by 3 5 5 6 rated Clover } 15. Re1 Qd7 16. Bf1 Qh3+ 17. Kg1 Qh5 18. Bg2
+Bh3 19. Re2 Ng4 20. Qf1 Bd4+ 21. Kh1
+{ Torch as White rated 3 6 1 1 remained in control, handing Clover from the Black side with rating 3 5 5 6 a loss.1-0 }
+) 15. Qc2 Nbd7 16. Re1 Ne8 17. b3 Rb8 18. Bb2 Nc7 19. h3 b5 20. Kh2 Nb6 21. a5
+{ Here we see that SugaR from the White side with rating 3 5 9 9 remained in control, handing PlentyChess, rated 3 6 2 1, had the Black pieces a loss. Small inaccuracies made the difference.1-0 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Torch v3 64-bit 4CPU"]
+[Black "Caissa 1.20 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[WhiteElo "3635"]
+[BlackElo "3609"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+{ entered in BENONI Taimanov Variation } 8... Nfd7
+{ played by 3 6 4 3 rated ShashChess } ( 8... Nbd7
+{ played by 3 5 7 1 rated PlentyChess } 9. e5 dxe5
+{ played by 3 5 5 8 rated Fritz } 10. fxe5 Nh5
+{ played by 3 5 5 8 rated Fritz } 11. e6 Qh4+ { played by 3 5 5 8 rated Fritz }
+12. g3 Nxg3 13. hxg3 Qxh1 14. Be3 Bxc3+ { played by 3 5 5 8 rated Fritz } 15.
+bxc3 Qe4 { played by 3 0 8 5 rated Gull } 16. exd7+ Bxd7 17. Qd3 Qxd3 18. Bxd3
+b6 19. Bg5 O-O 20. Bf6 b5 21. Nf3
+{ Once again, Gull, rated 3 0 8 5, had the Black pieces could not hold the position, allowing ChessBrainVB handling the White pieces rated 3 0 1 6 to win.1-0 }
+) 9. a4 Na6 { played by 3 6 4 3 rated ShashChess } ( 9... Qh4+
+{ played by 3 6 2 1 rated PlentyChess } 10. g3 Qe7
+{ played by 3 6 0 8 rated Berserk } 11. Nf3 Bxc3+
+{ played by 3 4 1 5 rated Igel } 12. bxc3 Qxe4+ 13. Kf2 O-O 14. Re1 Qf5 15. Bb2
+Na6 { played by 3 4 1 5 rated Igel } ( 15... a6
+{ played by 3 3 5 8 rated Caissa } 16. Bf1 c4 17. Ba3 Nc5 18. Nd2 Nd3+ 19. Bxd3
+cxd3 20. Ne4 Nd7 21. Bxd6
+{ In this game, Caissa playing Black, rated 3 3 5 8 could not hold the position, allowing Marvin on White with Elo 3 3 6 6 to win. The opening quickly led to complex middlegame play.1-0 }
+) 16. Kg1 Nf6 17. Bd3 Qh5 18. c4 Ne8 19. Be2 Bg4 20. Nd2 Bxe2 21. Rxe2
+{ Once again, Superultra from the White side with rating 3 5 1 6 converted the advantage and defeated Igel playing Black, rated 3 4 1 5. The position remained tense for most of the game.1-0 }
+) 10. Nf3 Nb4 { played by 3 6 4 3 rated ShashChess } 11. O-O a6
+{ played by 3 6 4 3 rated ShashChess } 12. Be2 O-O 13. Be3 Re8
+{ played by 3 6 4 3 rated ShashChess } ( 13... Nf6
+{ played by 3 6 3 0 rated Torch } 14. Nd2 Rb8 { played by 3 6 3 0 rated Torch }
+15. a5 b6 { played by 3 6 1 1 rated Torch } ( 15... Re8
+{ played by 3 5 9 0 rated Viridithas } 16. Bf2 b6
+{ played by 3 5 8 9 rated Quanticade } 17. axb6
+{ we will see this position later on1-0 } ) 16. axb6 Nd7 17. b7 Rxb7 18. Nc4
+Nb6 19. Na5 Rb8 20. Qd2 Bd7 21. h3
+{ In an interesting battle, Stockfish, rated 3 6 2 0, had the White pieces remained in control, handing Torch handling the Black pieces rated 3 6 1 1 a loss. The opening quickly led to complex middlegame play.1-0 }
+) 14. Bf2 Nf6 { played by 3 4 4 6 rated Fire } 15. Nd2 b6
+{ played by 3 4 4 6 rated Fire } 16. Bh4 Qc7 17. Kh1 Rb8 18. Rc1 h6 19. Qb3 Bb7
+20. Bxf6 Bxf6 21. e5
+{ In an interesting battle, Fire, rated 3 4 4 6, had the Black pieces could not hold the position, allowing RubiChess playing White, rated 3 4 6 3 to win. The outcome was decided in the later stages.1-0 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Torch v3 64-bit 4CPU"]
+[Black "Caissa 1.20 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[WhiteElo "3635"]
+[BlackElo "3609"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+{ entered in BENONI Taimanov Variation } 8... Nfd7
+{ played by 3 6 4 3 rated ShashChess } ( 8... Nbd7
+{ played by 3 5 7 1 rated PlentyChess } 9. e5 dxe5
+{ played by 3 5 5 8 rated Fritz } 10. fxe5 Nh5
+{ played by 3 5 5 8 rated Fritz } 11. e6 Qh4+ { played by 3 5 5 8 rated Fritz }
+12. g3 Nxg3 13. hxg3 Qxh1 14. Be3 O-O { played by 3 0 0 6 rated Ares } 15. exd7
+Bxd7 16. Bxd7 Rfe8
+{ In an interesting battle, Ares, rated 3 0 0 6, had the Black pieces could not hold the position, allowing Jackal on White with Elo 3 0 8 1 to win. The opening quickly led to complex middlegame play.1-0 }
+( 16... Rae8
+{ In an interesting battle, Critter handling the White pieces rated 2 8 2 5 converted the advantage and defeated KnightX from the Black side with rating 2 7 0 3. The opening quickly led to complex middlegame play.1-0 }
+) ) 9. a4 O-O { played by 3 6 1 9 rated Stockfish } ( 9... Na6
+{ played by 3 6 4 3 rated ShashChess } 10. Nf3 Nb4
+{ played by 3 6 4 3 rated ShashChess } 11. O-O a6
+{ played by 3 6 4 3 rated ShashChess } 12. Be2 O-O 13. Be3 Re8
+{ played by 3 6 4 3 rated ShashChess } 14. Bf2 Nf6
+{ played by 3 4 4 6 rated Fire } 15. Nd2 Bd7 { played by 3 1 4 7 rated Komodo }
+16. Bh4 Qc7 17. a5 Rac8 { played by 3 1 4 7 rated Komodo } ( 17... Rab8
+{ played by 3 0 6 3 rated Komodo } 18. h3 h6 19. Bg3 Ra8 20. Kh1 Bb5 21. Bxb5
+{ Here we see that RubiChess as White rated 3 0 7 0 remained in control, handing Komodo as Black rated 3 0 6 3 a loss. Small inaccuracies made the difference.1-0 }
+) 18. h3 Rb8 19. Kh2 Rbd8 20. Bg3 Kh8 21. Qb3
+{ Once again, Komodo on Black with Elo 3 1 4 7 could not hold the position, allowing Deep as White rated 2 9 6 1 to win. The position remained tense for most of the game.1-0 }
+) 10. Nf3 a6 { played by 3 4 4 9 rated Sirius } 11. Be2 Bxc3+
+{ played by 3 0 8 8 rated Stockfish } 12. bxc3 Nf6 13. e5 dxe5 14. fxe5 Nxd5
+15. Bg5 Qd7 16. Qd2 Nc7 { played by 3 0 8 8 rated Stockfish } ( 16... Nb6
+{ played by 2 8 9 7 rated Quazar } 17. Qc1 f5 18. O-O Qe8 19. Bh6 Rf7 20. Ng5
+Be6 21. Qb2
+{ In an interesting battle, Gull from the White side with rating 3 0 0 5 remained in control, handing Quazar, rated 2 8 9 7, had the Black pieces a loss. The opening quickly led to complex middlegame play.1-0 }
+) 17. Qc1 Qd5 18. Be7 Ne6 19. Bxf8 Nxf8 20. O-O Nc6 21. Ng5
+{ Here we see that Stockfish playing Black, rated 3 0 8 8 could not hold the position, allowing Hannibal on White with Elo 2 8 8 8 to win. Both sides showed good positional understanding.1-0 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Torch v3 64-bit 4CPU"]
+[Black "Caissa 1.20 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[WhiteElo "3635"]
+[BlackElo "3609"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+{ entered in BENONI Taimanov Variation } 8... Nbd7
+{ played by 3 5 7 1 rated PlentyChess } ( 8... Nfd7
+{ played by 3 6 4 3 rated ShashChess } 9. a4 Na6
+{ played by 3 6 4 3 rated ShashChess } 10. Nf3 Nb4
+{ played by 3 6 4 3 rated ShashChess } 11. O-O a6
+{ played by 3 6 4 3 rated ShashChess } 12. Be2 O-O 13. Be3 Re8
+{ played by 3 6 4 3 rated ShashChess } ( 13... Nf6
+{ played by 3 6 3 0 rated Torch } 14. Nd2 Rb8 { played by 3 6 3 0 rated Torch }
+15. a5 Re8 { played by 3 5 9 0 rated Viridithas } 16. Bf2 b5
+{ played by 3 5 9 0 rated Viridithas } 17. axb6 Nd7 18. h3 h6
+{ played by 3 5 5 7 rated Quanticade } 19. Nf3 Qxb6 20. Kh1 a5 21. Bb5
+{ Here we see that Alexandria playing White, rated 3 5 8 8 outplayed Quanticade, rated 3 5 5 7, had the Black pieces and won the game.1-0 }
+) 14. Bf2 f5 { played by 3 6 4 3 rated ShashChess } 15. e5 dxe5 16. d6 exf4 17.
+Re1 h6 18. Nd5 Re4 { played by 3 6 3 7 rated Torch } ( 18... Nxd5
+{ played by 3 5 8 4 rated Renegade } 19. Qxd5+ Kh8 20. Bc4 Nb6 21. Rxe8+
+{ In an interesting battle, Renegade as Black rated 3 5 8 4 could not hold the position, allowing Lizard, rated 3 6 0 4, had the White pieces to win. The outcome was decided in the later stages.1-0 }
+) 19. Nd2 Nxd5 20. Nxe4 Ne3 21. Bxe3
+{ In this game, Torch, rated 3 6 3 5, had the White pieces outplayed Caissa handling the Black pieces rated 3 6 0 9 and won the game. Small inaccuracies made the difference.1-0 }
+) 9. e5 dxe5 { played by 3 5 5 8 rated Fritz } 10. fxe5 Nh5
+{ played by 3 5 5 8 rated Fritz } 11. e6 Qh4+ { played by 3 5 5 8 rated Fritz }
+12. g3 Nxg3 13. hxg3 Qxh1 14. Be3 Bxc3+ { played by 3 5 5 8 rated Fritz } (
+14... Qg2 { played by 3 3 1 5 rated SlowChess } 15. exd7+ Bxd7 16. Bxd7+ Kxd7
+17. Qg4+ f5 18. Qa4+ Kc8 { played by 3 3 1 5 rated SlowChess } ( 18... Kd8
+{ played by 3 2 5 5 rated Laser } 19. O-O-O Bxc3 20. bxc3 Qxg3 21. Bd2
+{ In an interesting battle, Laser playing Black, rated 3 2 5 5 could not hold the position, allowing Stockfish as White rated 3 4 9 8 to win.1-0 }
+) 19. O-O-O Bxc3 20. bxc3 Qe4 21. Qxe4
+{ In this game, Komodo as White rated 3 3 5 3 remained in control, handing SlowChess handling the Black pieces rated 3 3 1 5 a loss. The position remained tense for most of the game.1-0 }
+) 15. bxc3 a6 { played by 3 5 5 8 rated Fritz } 16. exd7+ Bxd7 17. Bf1 Qe4
+{ played by 3 3 6 1 rated Velvet } ( 17... Qh2
+{ played by 3 0 1 6 rated ChessBrainVB } 18. Qe2 Qxe2+ 19. Bxe2 Rc8 20. Kf2 f6
+21. Nf3
+{ Once again, Gull playing White, rated 3 0 8 5 converted the advantage and defeated ChessBrainVB handling the Black pieces rated 3 0 1 6. The opening quickly led to complex middlegame play.1-0 }
+) 18. Qf3 Qe7 19. Kf2 O-O-O 20. Bg2 Rhe8 21. d6
+{ In this game, Velvet handling the Black pieces rated 3 3 6 1 could not hold the position, allowing Houdini as White rated 3 2 1 3 to win. Both sides showed good positional understanding.1-0 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Torch v3 64-bit 4CPU"]
+[Black "Caissa 1.20 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[WhiteElo "3635"]
+[BlackElo "3609"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+{ entered in BENONI Taimanov Variation } 8... Nfd7
+{ played by 3 6 4 3 rated ShashChess } ( 8... Nbd7
+{ played by 3 5 7 1 rated PlentyChess } 9. e5 dxe5
+{ played by 3 5 5 8 rated Fritz } 10. fxe5 Nh5
+{ played by 3 5 5 8 rated Fritz } 11. e6 Bxc3+
+{ played by 3 5 2 1 rated Cinder } 12. bxc3 Qh4+ 13. g3 Nxg3 14. hxg3 Qxh1 15.
+exd7+ Bxd7 16. Qe2+ Kf8 17. Bxd7 Qxg1+ 18. Kd2 Qxg3 19. c4 Qc7
+{ played by 3 5 2 1 rated Cinder } ( 19... h5
+{ played by 3 4 2 4 rated Arasan } 20. Bb2 Rh7 21. Re1
+{ Once again, Berserk, rated 3 5 5 0, had the White pieces remained in control, handing Arasan as Black rated 3 4 2 4 a loss. The position remained tense for most of the game.1-0 }
+) 20. Bb2 Qxd7 21. Bxh8
+{ In this game, Fritz from the White side with rating 3 5 5 8 converted the advantage and defeated Cinder, rated 3 5 2 1, had the Black pieces.1-0 }
+) 9. a4 Na6 { played by 3 6 4 3 rated ShashChess } ( 9... Qh4+
+{ played by 3 6 2 1 rated PlentyChess } 10. g3 Qd8
+{ played by 3 6 2 1 rated PlentyChess } 11. Nf3 O-O 12. O-O Na6
+{ played by 3 6 0 4 rated Viridithas } 13. f5 Nf6
+{ played by 3 5 9 9 rated pawnocchio } 14. Bg5 h6 15. Bxf6 Qxf6 16. g4 c4 17.
+Qd2 Nc5 18. Bxc4 Bd7 19. Rae1 Rac8 { played by 3 5 9 9 rated pawnocchio } (
+19... Rae8 { played by 3 4 7 5 rated Wasp } 20. Bd3 a6 21. Bc2
+{ Wasp playing Black, rated 3 4 7 5 could not hold the position, allowing ShashChess on White with Elo 3 6 4 3 to win. Both sides showed good positional understanding.1-0 }
+) 20. Kh1 Qd8 21. Bd3
+{ In this game, Torch from the White side with rating 3 6 3 7 outplayed pawnocchio handling the Black pieces rated 3 5 9 9 and won the game. The opening quickly led to complex middlegame play.1-0 }
+) 10. Nf3 Nb4 { played by 3 6 4 3 rated ShashChess } 11. O-O a6
+{ played by 3 6 4 3 rated ShashChess } 12. Be2 O-O 13. Be3 Nf6
+{ played by 3 6 3 0 rated Torch } 14. Nd2 Rb8 { played by 3 6 3 0 rated Torch }
+15. a5 Re8 { played by 3 5 9 0 rated Viridithas } 16. Bf2 b5
+{ played by 3 5 9 0 rated Viridithas } 17. axb6 Nd7 18. h3 Nxb6
+{ played by 3 5 9 0 rated Viridithas } 19. Nf3 Bh6
+{ played by 3 5 9 0 rated Viridithas } ( 19... Nd7
+{ played by 3 5 5 8 rated Igel } 20. Re1 a5 21. Kh1
+{ Once again, Igel on Black with Elo 3 5 5 8 could not hold the position, allowing ShashChess handling the White pieces rated 3 6 3 6 to win. The position remained tense for most of the game.1-0 }
+) ( 19... Qc7 { played by 3 5 1 3 rated Starzix } 20. Re1 Bb7 21. Rc1
+{ Here we see that Starzix from the Black side with rating 3 5 1 3 could not hold the position, allowing Caissa handling the White pieces rated 3 5 6 4 to win. Small inaccuracies made the difference.1-0 }
+) 20. Bh4 Qc7 21. f5
+{ In this game, Torch playing White, rated 3 6 3 7 outplayed Quanticade on Black with Elo 3 5 8 9 and won the game. The outcome was decided in the later stages.1-0 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Torch v3 64-bit 4CPU"]
+[Black "Caissa 1.20 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "A67"]
+[Opening "Benoni"]
+[Variation "Taimanov variation"]
+[WhiteElo "3635"]
+[BlackElo "3609"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+{ entered in BENONI Taimanov Variation } 8... Nbd7
+{ played by 3 5 7 1 rated PlentyChess } 9. e5 dxe5
+{ played by 3 5 5 8 rated Fritz } 10. fxe5 Nh5
+{ played by 3 5 5 8 rated Fritz } 11. e6 Qh4+ { played by 3 5 5 8 rated Fritz }
+12. g3 Nxg3 13. hxg3 Qxh1 14. Be3 Bxc3+ { played by 3 5 5 8 rated Fritz } 15.
+bxc3 a6 { played by 3 5 5 8 rated Fritz } 16. exd7+ Bxd7 17. Bf1 O-O
+{ played by 3 5 5 8 rated Fritz } 18. Kf2 Qe4 19. Qd3 Qe7 20. Nf3 Rfe8
+{ played by 3 5 5 8 rated Fritz } ( 20... b6 { played by 3 3 5 3 rated Komodo }
+21. Re1
+{ After a long struggle, SlowChess as White rated 3 3 1 5 and Komodo from the Black side with rating 3 3 5 3 shared the point. Both sides showed good positional understanding.1/2-1/2 }
+) 21. Re1
+{ Here we see that Cinder from the White side with rating 3 5 2 1 converted the advantage and defeated Fritz handling the Black pieces rated 3 5 5 8. The position remained tense for most of the game.1-0 }
+1-0
+
+
+

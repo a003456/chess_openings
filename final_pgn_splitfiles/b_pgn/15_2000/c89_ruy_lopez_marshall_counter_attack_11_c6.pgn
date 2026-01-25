@@ -1,0 +1,689 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Viridithas 16.0.0 64-bit 4CPU"]
+[Black "Stockfish 17.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall counter-attack, 11...c6"]
+[WhiteElo "3603"]
+[BlackElo "3645"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6
+{ entered in RUY Lopez Marshall Counter Attack 11 C6 } 12. a4
+{ played by 2 9 3 0 rated RubiChess } ( 12. Re2
+{ played by 2 8 4 0 rated Toga } 12... Bd6 13. d4 Bg4 14. f3 Bf5 15. g3 Qc7 16.
+a4 Rae8 17. Nd2 Bxg3 18. hxg3 Qxg3+ 19. Rg2 Re1+ 20. Nf1 Qh4 21. Rh2 Qg3+ 22.
+Rg2 { we will see this position later on1/2-1/2 } ) ( 12. h3
+{ played by 2 4 4 5 rated LittleThought } 12... Bd6 13. Re1 Bf5 14. d4 Qf6 15.
+Qf3 Rae8 16. Be3 Nf4 17. Nd2 Nd3 18. Reb1 Qg6 19. Bc2 h5 20. Bxd3 Bxd3 21. Re1
+b4 22. Bf4 bxc3 23. bxc3 Ba3 24. Rad1 Bc2 25. Nc4
+{ In this game, Neither LittleThought handling the White pieces rated 2 4 4 5 nor Pupsi2 from the Black side with rating 2 4 5 6 could convert, and the game was drawn. Both sides showed good positional understanding.1/2-1/2 }
+) ( 12. Na3 { played by 2 4 3 6 rated Murka } 12... Bd6 13. Re1 Be6 14. Nc2 Qc7
+15. g3 Qd7 16. d3 Bg4 17. f3 Bh3 18. Ne3 Nf6 19. Bd2 Bc7 20. d4 c5 21. dxc5
+Rad8 22. Re2 Qc6 23. a4 Qxf3 24. axb5 Ne4 25. Qe1
+{ Once again, Eeyore playing Black, rated 2 4 1 4 defended accurately and defeated Murka as White rated 2 4 3 6. Small inaccuracies made the difference.0-1 }
+) ( 12. Bc2 { played by 2 4 2 1 rated Axolotl } 12... Bd6 13. Re1 Bxh2+ 14.
+Kxh2 Qh4+ 15. Kg1 Bg4 16. Bxh7+ Kxh7 17. Qc2+ f5 18. d4 Rh8 19. Re6 Rae8 20.
+Rxe8 Rxe8 21. Qxf5+ Bxf5
+{ Here we see that Axolotl from the White side with rating 2 4 2 1 overpressed, and Dorky, rated 2 5 4 3, had the Black pieces secured the win. Small inaccuracies made the difference.0-1 }
+) ( 12. Qf3 { played by 2 2 8 0 rated EveAnn } 12... Bd6 13. Rxd5 cxd5 14. Bxd5
+Qe8 15. Kf1 Ra7 16. d4 Bxh2 17. Be3 Be6 18. Nd2 Re7 19. Be4 f5 20. Bc6 Qg6 21.
+Bf4 Bxf4 22. Qxf4 Bf7 23. Bf3 Rfe8 24. a3 Qf6 25. g4
+{ In this game, After a long struggle, EveAnn from the White side with rating 2 2 8 0 and NG-Play on Black with Elo 2 1 1 7 shared the point. The outcome was decided in the later stages.1/2-1/2 }
+) 12... Bd6 13. Re1 { we will see this position later on1/2-1/2 } 1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Viridithas 16.0.0 64-bit 4CPU"]
+[Black "Stockfish 17.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall counter-attack, 11...c6"]
+[WhiteElo "3603"]
+[BlackElo "3645"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6
+{ entered in RUY Lopez Marshall Counter Attack 11 C6 } 12. Re1
+{ played by 3 6 4 3 rated Stockfish } ( 12. Bxd5
+{ played by 3 4 2 5 rated SugaR } 12... cxd5 13. Re1
+{ played by 2 8 1 4 rated Toga } ( 13. Kh1 { played by 2 2 3 0 rated Gibbon }
+13... d4 14. a4 bxa4 15. Rxa4 Bf6 16. Re1 Bf5 17. Na3 Re8 18. Rg1 Bd7 19. Rc4
+Be5 20. Rf1 Qh4 21. g3 Qh3 22. Rg1 Rad8 23. f3 Bf5 24. cxd4 Bxd4 25. Re1
+{ Here we see that Gibbon on White with Elo 2 2 3 0 and Butcher from the Black side with rating 2 2 3 8 played a balanced game which ended in a draw. Small inaccuracies made the difference.1/2-1/2 }
+) ( 13. Qf3 { played by 2 1 4 3 rated Alf } 13... Bd6 14. Re1 Re8 15. Re3 Rxe3
+16. fxe3 Qg5 17. a4 Bg4 18. Qf1 Qh4 19. g3 Qh5 20. h4 Bxg3 21. axb5 Qxh4 22.
+Qg2 Bb8 23. Qf2 Qh5 24. Ra4 Bh3 25. Rf4
+{ Once again, Joker handling the Black pieces rated 2 2 6 0 defended accurately and defeated Alf as White rated 2 1 4 3. The position remained tense for most of the game.0-1 }
+) 13... Bd6 { we will see this position later on1/2-1/2 } ) ( 12. g3
+{ played by 3 1 6 3 rated Andscacs } 12... Bd6 13. Re1
+{ we will see this position later on0-1 } ( 13. Bxd5
+{ played by 2 2 8 8 rated FireFly } 13... Bxe5 14. Bxc6 Rb8 15. d4 Qc7 16. Bf3
+Bd6 17. Nd2 f5 18. Bd5+ Kh8 19. a4 Bb7 20. Bxb7 Rxb7 21. axb5 axb5 22. Qf1 Qb8
+23. f4 Qe8 24. Nf3 Qe4 25. Bd2
+{ FireFly handling the White pieces rated 2 2 8 8 remained in control, handing Uralochka as Black rated 2 1 6 7 a loss. Both sides showed good positional understanding.1-0 }
+) ) 12... Bd6 13. d3 { we will see this position later on1/2-1/2 } ( 13. a4
+{ played by 2 8 4 1 rated Nalwald } 13... Bxh2+ 14. Kxh2 Qh4+ 15. Kg1 Bg4 16.
+f3 Bxf3 17. Qxf3 Qxe1+ 18. Qf1 Rae8 19. d4 Qh4 20. Bd2 Nf4 21. Bxf4 Re1 22. Nd2
+Rxf1+ 23. Rxf1 bxa4 24. Bxa4 Re8 25. Be5
+{ In an interesting battle, After a long struggle, Nalwald from the White side with rating 2 8 4 1 and Spark, rated 2 9 1 2, had the Black pieces shared the point. Both sides showed good positional understanding.1/2-1/2 }
+) 1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Viridithas 16.0.0 64-bit 4CPU"]
+[Black "Stockfish 17.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall counter-attack, 11...c6"]
+[WhiteElo "3603"]
+[BlackElo "3645"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6
+{ entered in RUY Lopez Marshall Counter Attack 11 C6 } 12. d3
+{ played by 3 6 4 5 rated Stockfish } ( 12. Re1
+{ played by 3 6 4 3 rated Stockfish } 12... Bd6 13. g3
+{ played by 3 5 1 3 rated Seer } ( 13. Bxd5 { played by 3 2 5 5 rated Laser }
+13... cxd5 14. d4 { played by 3 2 5 5 rated Laser } ( 14. d3
+{ played by 3 0 9 2 rated Myrddin } 14... Qh4 15. g3 Qh3 16. Qf3 Bg4 17. Qxd5
+Rad8 18. Qc6 Rc8 19. Qb7 Bd7 20. Qg2 Qh5 21. f3 Bc6 22. Kf2 f5 23. Nd2 Bd5 24.
+Re2 b4 25. cxb4
+{ Here we see that After a long struggle, Myrddin from the White side with rating 3 0 9 2 and Anubis handling the Black pieces rated 3 1 6 8 shared the point. The position remained tense for most of the game.1/2-1/2 }
+) 14... Qh4 15. g3 Qh3 16. Qf3 Bf5 17. Qxd5 Rae8 18. Bd2 Bd3 19. Na3 Bxa3 20.
+bxa3 Bc4 21. Qf3 h6 22. a4 bxa4 23. a3 Rb8 24. Re5 Rb5 25. Qe4
+{ In this game, After a long struggle, Laser on White with Elo 3 2 5 5 and ShashChess, rated 3 5 4 6, had the Black pieces shared the point. Small inaccuracies made the difference.1/2-1/2 }
+) 13... Bf5 14. d3 { we will see this position later on1/2-1/2 } ) ( 12. Bxd5
+{ played by 3 4 2 5 rated SugaR } 12... cxd5 13. d4
+{ played by 3 4 2 5 rated SugaR } 13... Bd6 14. Re1
+{ we will see this position later on1/2-1/2 } ( 14. Rg5
+{ played by 2 2 0 9 rated RattateChess } 14... g6 15. f4 Re8 16. a4 h6 17. Rg3
+bxa4 18. Na3 Qb6 19. Kh1 Qb3 20. Qg1 Bf5 21. Rf3 Ra7 22. c4 Qb4 23. Nb1 Bxb1
+24. c5
+{ In an interesting battle, Raven, rated 2 2 4 1, had the Black pieces defended accurately and defeated RattateChess as White rated 2 2 0 9. The outcome was decided in the later stages.0-1 }
+) ( 14. Rh5 { played by 2 1 4 0 rated Buzz } 14... g6 15. Rh6 Re8 16. g3 Qf6
+17. Bd2 Ra7 18. Rh4 Rae7 19. Be3 Rxe3 20. fxe3 Rxe3 21. Qf1 Qe7 22. Kf2 g5 23.
+Re4 Qf6+ 24. Kg1 Qxf1+ 25. Kxf1
+{ In an interesting battle, nanoSzachy from the Black side with rating 2 2 6 1 seized the initiative and handed Buzz from the White side with rating 2 1 4 0 a loss. Both sides showed good positional understanding.0-1 }
+) ) 12... Bd6 13. Re1 Bf5 14. d4 { played by 3 4 9 8 rated Stockfish } 14...
+Qh4 15. g3 Qh3 16. Qe2 Bg4 17. Qf1 Qh5 18. Nd2 Rae8 19. f3 Rxe1 20. Qxe1 Bxf3
+21. Nxf3 Qxf3 22. Bd2 Nf6 23. Qe3 Qg4 24. Rf1 a5 25. Bd1
+{ Once again, SlowChess handling the Black pieces rated 3 2 4 7 could not hold the position, allowing Stockfish playing White, rated 3 4 9 8 to win. Small inaccuracies made the difference.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Viridithas 16.0.0 64-bit 4CPU"]
+[Black "Stockfish 17.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall counter-attack, 11...c6"]
+[WhiteElo "3603"]
+[BlackElo "3645"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6
+{ entered in RUY Lopez Marshall Counter Attack 11 C6 } 12. Bxd5
+{ played by 3 4 2 5 rated SugaR } ( 12. d3
+{ played by 3 6 4 5 rated Stockfish } 12... Bd6 13. Re1 Bf5 14. Qf3
+{ played by 3 6 4 5 rated Stockfish } ( 14. Bxd5
+{ played by 3 6 1 7 rated Integral } 14... cxd5 15. a4
+{ played by 2 1 5 2 rated ChessAlex } 15... Re8 16. Rxe8+ Qxe8 17. g4 Bd7 18.
+axb5 axb5 19. Rxa8 Qxa8 20. h3 Qa2 21. Nd2 b4 22. c4 Ba4 23. Qe1 Bc6 24. Qe3
+Qa4 25. Nf1
+{ In an interesting battle, ChessAlex as White rated 2 1 5 2 outplayed Xpdnt, rated 2 2 6 1, had the Black pieces and won the game. The opening quickly led to complex middlegame play.1-0 }
+) 14... Qh4 15. h3 { played by 2 9 1 6 rated Hiarcs } 15... Rfe8 16. Rd1 Nf4
+17. Be3 Bg6 18. g3 Bh5 19. Qxf4 Bxf4 20. gxh4 Bxe3 21. fxe3 Bxd1 22. Bxd1 Rxe3
+23. Nd2 Rxd3 24. Nf3 Rad8 25. Be2
+{ Here we see that Neither Hiarcs from the White side with rating 2 9 1 6 nor Komodo playing Black, rated 3 1 3 3 could convert, and the game was drawn.1/2-1/2 }
+) 12... cxd5 13. a4 { played by 2 5 1 2 rated Orion } ( 13. d3
+{ played by 2 2 1 8 rated Popochin } 13... Bd6 14. Re3
+{ played by 2 2 1 8 rated Popochin } ( 14. Re1
+{ we will see this position later on1/2-1/2 } ) 14... Qc7 15. Qh5 Be6 16. Nd2
+Rfe8 17. Nf3 Qd7 18. Ne5 Qc7 19. Bd2 g6 20. Qe2 Kg7 21. Re1 h5 22. a3 Rac8 23.
+h3 h4 24. Qf3 Qd8 25. R3e2
+{ In an interesting battle, Popochin handling the White pieces rated 2 2 1 8 remained in control, handing Abbess, rated 2 1 9 7, had the Black pieces a loss. The position remained tense for most of the game.1-0 }
+) 13... Bd6 14. Re1 { played by 2 5 1 2 rated Orion } ( 14. Re3
+{ played by 2 4 7 7 rated Philou } 14... bxa4 15. d4 Bd7 16. Nd2 Qc7 17. Nf3
+Rfe8 18. Ne5 Bxe5 19. dxe5 Rxe5 20. Qd4 Rae8 21. Rxe5 Qxe5 22. Qxe5 Rxe5 23.
+Be3 f5 24. h3 Re4 25. g3
+{ Once again, Pupsi2 handling the Black pieces rated 2 4 5 6 defended accurately and defeated Philou from the White side with rating 2 4 7 7. The opening quickly led to complex middlegame play.0-1 }
+) 14... Be6 15. axb5 axb5 16. Rxa8 Qxa8 17. Na3 Bd7 18. Nc2 Qa4 19. d4 Rc8 20.
+Qd3 g6 21. Qd2 Qb3 22. g3 h5 23. Kg2 h4 24. gxh4 b4
+{ In an interesting battle, Orion from the White side with rating 2 5 1 2 outplayed Lozza, rated 2 4 5 1, had the Black pieces and won the game. The position remained tense for most of the game.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Viridithas 16.0.0 64-bit 4CPU"]
+[Black "Stockfish 17.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall counter-attack, 11...c6"]
+[WhiteElo "3603"]
+[BlackElo "3645"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6
+{ entered in RUY Lopez Marshall Counter Attack 11 C6 } 12. Re1
+{ played by 3 6 4 3 rated Stockfish } 12... Bd6 13. g3
+{ played by 3 5 1 3 rated Seer } ( 13. d4 { played by 3 3 6 8 rated Komodo }
+13... Bf5 14. Nd2 { played by 3 3 6 8 rated Komodo } 14... Qf6 15. Nf3
+{ played by 2 8 3 9 rated Grapefruit } ( 15. c4
+{ played by 2 7 9 6 rated Coiled } 15... Nb4 16. c5 Bc7 17. Nf3 Rfe8 18. Rxe8+
+Rxe8 19. a4 bxa4 20. Rxa4 a5 21. Bd2 Be4 22. Ne5 Bxe5 23. dxe5 Qxe5 24. Rxa5
+Bc2 25. Bxc2
+{ Here we see that Neither Coiled on White with Elo 2 7 9 6 nor Keele as Black rated 2 6 4 9 could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 15... Bg4 16. h3 Bxf3 17. Qxf3 Qxf3 18. gxf3 Rfe8 19. Re4 f5 20. Rxe8+ Rxe8
+21. a4 Re1+ 22. Kg2 Kf7 23. axb5 axb5 24. Ra6 Rxc1 25. Bxd5+
+{ In an interesting battle, The game between Grapefruit as White rated 2 8 3 9 and Protector as Black rated 2 8 5 8 finished level. The outcome was decided in the later stages.1/2-1/2 }
+) 13... Bf5 14. a4 { played by 3 5 1 3 rated Seer } ( 14. d4
+{ played by 3 4 1 2 rated Komodo } 14... Qd7 15. a4
+{ we will see this position later on1/2-1/2 } ( 15. c4
+{ played by 3 1 8 0 rated Protector } 15... Nb4 16. cxb5 axb5 17. Nc3 Bc7 18.
+Be3 Nd3 19. Re2 Ba5 20. Qd2 Bg6 21. Bc2 Nxb2 22. Bxg6 Nc4 23. Bxh7+ Kxh7 24.
+Qc2+ Kg8 25. Ne4
+{ Neither Protector playing White, rated 3 1 8 0 nor Komodo as Black rated 3 3 8 4 could convert, and the game was drawn. Both sides showed good positional understanding.1/2-1/2 }
+) ( 15. Nd2 { played by 2 8 7 4 rated OliThink } 15... Rfe8 16. Rxe8+ Rxe8 17.
+Bxd5 cxd5 18. Nf1 Bg4 19. f3 Bh3 20. Ne3 Qe6 21. Qd3 f5 22. Bd2 f4 23. gxf4
+Bxf4 24. Kh1 Qf7 25. Qe2
+{ In an interesting battle, Zangdar on Black with Elo 2 9 7 2 seized the initiative and handed OliThink, rated 2 8 7 4, had the White pieces a loss.0-1 }
+) ) 14... Qd7 15. axb5 { played by 3 5 1 3 rated Seer } ( 15. d3
+{ played by 3 1 6 3 rated Andscacs } 15... Rae8 16. Rxe8 Rxe8 17. axb5 axb5 18.
+Bxd5 cxd5 19. Be3 b4 20. cxb4 Bxb4 21. Bd4 h6 22. Nc3 Bxc3 23. bxc3 Qb5 24. Qf3
+Qxd3 25. Qxd3
+{ Here we see that Andscacs from the White side with rating 3 1 6 3 and Hannibal handling the Black pieces rated 3 1 1 8 played a balanced game which ended in a draw. Small inaccuracies made the difference.1/2-1/2 }
+) 15... axb5 16. Rxa8 Rxa8 17. d3 b4 18. Qc2 bxc3 19. bxc3 h5 20. Nd2 h4 21.
+Ne4 h3 22. f3 Be7 23. Kf1 Bg6 24. d4 c5 25. dxc5
+{ In an interesting battle, Neither Seer, rated 3 5 1 3, had the White pieces nor Viridithas, rated 3 5 0 1, had the Black pieces could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Viridithas 16.0.0 64-bit 4CPU"]
+[Black "Stockfish 17.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall counter-attack, 11...c6"]
+[WhiteElo "3603"]
+[BlackElo "3645"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6
+{ entered in RUY Lopez Marshall Counter Attack 11 C6 } 12. Re1
+{ played by 3 6 4 3 rated Stockfish } ( 12. d3
+{ played by 3 6 4 5 rated Stockfish } 12... Bd6 13. Re1 Bf5 14. Qf3
+{ played by 3 6 4 5 rated Stockfish } ( 14. Nd2
+{ played by 3 6 2 4 rated ShashChess } 14... Nf4 15. Ne4
+{ played by 3 6 0 4 rated Uralochka } 15... Nxd3 16. Re3
+{ we will see this position later on1/2-1/2 } ) ( 14. Bxd5
+{ played by 3 6 1 7 rated Integral } 14... cxd5 15. Be3
+{ played by 3 6 1 7 rated Integral } 15... b4 16. Bd4
+{ played by 3 5 6 3 rated Uralochka } ( 16. a3
+{ played by 3 5 2 1 rated RubiChess } 16... bxa3 17. Nxa3 Qb8 18. Bd4 Qxb2 19.
+Nc2 Qb5 20. Ne3 Be6 21. Qh5 Rfe8 22. h3 f6 23. Nf5 Bf8 24. Re3 Bf7 25. Qg4
+{ Here we see that RubiChess, rated 3 5 2 1, had the White pieces and Stockfish playing Black, rated 3 6 2 0 played a balanced game which ended in a draw. Both sides showed good positional understanding.1/2-1/2 }
+) ( 16. g3 { played by 3 4 7 6 rated Altair } 16... Re8 17. a3 a5 18. Qf3 Bxd3
+19. axb4 Be4 20. Qh5 axb4 21. Nd2 bxc3 22. bxc3 Re5 23. Qh4 Bf5 24. Qxd8+ Rxd8
+25. Nf3
+{ In this game, Neither Altair from the White side with rating 3 4 7 6 nor Booot on Black with Elo 3 4 7 9 could convert, and the game was drawn. Small inaccuracies made the difference.1/2-1/2 }
+) ( 16. h3 { played by 3 4 1 5 rated Uralochka } 16... Qf6 17. Bd4 Qg5 18. Be3
+Qg6 19. Qf3 Rfe8 20. Nd2 Bxd3 21. Qxd5 bxc3 22. bxc3 h6 23. Qf3 Rac8 24. Bd4 h5
+25. a4
+{ Once again, Stockfish playing Black, rated 3 5 9 9 seized the initiative and handed Uralochka as White rated 3 4 1 5 a loss. Small inaccuracies made the difference.0-1 }
+) 16... Rb8 17. Nd2 bxc3 18. bxc3 Bxd3 19. Nf1 Bg6 20. h3 Re8 21. Rxe8+ Qxe8
+22. Ba7 Rd8 23. Bb6 Rd7 24. a4 h6 25. a5
+{ In this game, Uralochka playing White, rated 3 5 6 3 and Obsidian on Black with Elo 3 5 9 7 played a balanced game which ended in a draw. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 14... Qh4 15. g3 { played by 3 6 4 3 rated Stockfish } 15... Qh3 16. Bxd5
+{ played by 3 5 8 0 rated Clover } 16... cxd5 17. Be3 Bxd3
+{ we will see this position later on1/2-1/2 } ) 12... Bd6 13. d4
+{ played by 3 3 6 8 rated Komodo } 13... Bf5 14. Bxd5
+{ played by 2 4 8 2 rated Crafty } 14... cxd5 15. Nd2
+{ played by 3 4 2 5 rated SugaR } ( 15. Be3 { played by 2 8 8 6 rated Komodo }
+15... Rc8 16. Nd2 b4 17. cxb4 Bxb4 18. a3 Be7 19. Bf4 Bf6 20. Nf3 Qb6 21. b4 a5
+22. Be5 axb4 23. Bxf6 gxf6 24. Qb3 Rc4 25. axb4
+{ In an interesting battle, Bright handling the White pieces rated 2 7 8 4 and Thinker on Black with Elo 2 8 4 9 played a balanced game which ended in a draw. The opening quickly led to complex middlegame play.1/2-1/2 }
+) ( 15. Qf3 { played by 2 1 3 6 rated Shallow } 15... Re8 16. Be3 Qd7 17. h3
+Be4 18. Qd1 Qf5 19. Nd2 Bc2 20. Qf3 Qxf3 21. Nxf3 Rac8 22. Rac1 Bd3 23. Bd2 f6
+24. Rxe8+ Rxe8 25. Ne1
+{ Once again, Shallow on White with Elo 2 1 3 6 converted the advantage and defeated ChessKISS playing Black, rated 2 2 3 1. The outcome was decided in the later stages.1-0 }
+) 15... Qh4 16. Nf1 Rae8 17. Rxe8 Rxe8 18. Be3 Qd8 19. Ng3 Bg6 20. Qf3 Bf8 21.
+a3 Qd7 22. Bf4 a5 23. Nf1 Re4 24. h3 Qc6 25. h4
+{ Once again, Fritz on Black with Elo 3 1 4 5 could not hold the position, allowing SugaR handling the White pieces rated 3 4 2 5 to win. Both sides showed good positional understanding.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Viridithas 16.0.0 64-bit 4CPU"]
+[Black "Stockfish 17.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall counter-attack, 11...c6"]
+[WhiteElo "3603"]
+[BlackElo "3645"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6
+{ entered in RUY Lopez Marshall Counter Attack 11 C6 } 12. d3
+{ played by 3 6 4 5 rated Stockfish } ( 12. Re1
+{ played by 3 6 4 3 rated Stockfish } 12... Bd6 13. g3
+{ played by 3 5 1 3 rated Seer } 13... Bf5 14. a4
+{ played by 3 5 1 3 rated Seer } ( 14. d4 { played by 3 4 1 2 rated Komodo }
+14... Qd7 15. Be3 { played by 3 4 1 2 rated Komodo } 15... Rae8 16. Nd2
+{ played by 3 4 0 4 rated Ethereal } ( 16. Bxd5
+{ played by 3 4 0 3 rated Komodo } 16... cxd5 17. Nd2 Bg4 18. Qb3 Qf5 19. a4
+Re6 20. axb5 axb5 21. Qxb5 Rb8 22. Qf1 h5 23. b3 Rbe8 24. Ra6 Bh3 25. Qe2
+{ Once again, ShashChess from the Black side with rating 3 5 4 6 outplayed Komodo from the White side with rating 3 4 0 3 and won as Black.0-1 }
+) 16... Bg4 17. Qb1 h6 18. a4 Re7 19. axb5 axb5 20. Nf1 Bf3 21. Bd1 Bxd1 22.
+Qxd1 f5 23. Bd2 f4 24. Rxe7 Qxe7 25. Qh5
+{ In this game, Ethereal handling the White pieces rated 3 4 0 4 converted the advantage and defeated Booot as Black rated 3 3 5 3. The position remained tense for most of the game.1-0 }
+) 14... Qd7 15. d4 { played by 3 2 5 3 rated Fire } 15... Rae8 16. Be3
+{ played by 2 9 3 9 rated Koivisto } 16... Bg4 17. Qc2 Bf5 18. Qd2 b4 19. cxb4
+Nxb4 20. Rc1 Nd3 21. Rc3 Nb4 22. Rc1
+{ we will see this position later on1/2-1/2 } ) 12... Bd6 13. Re1 Bf5 14. g3
+{ played by 3 5 3 1 rated Clarity } ( 14. a4
+{ played by 2 7 9 4 rated Grapefruit } 14... Qh4 15. g3 Qh3 16. Bxd5
+{ played by 2 7 9 4 rated Grapefruit } ( 16. Re4
+{ played by 2 6 2 3 rated WildCat } 16... Bg6 17. Na3 Bxe4 18. dxe4 Nf6 19.
+Qxd6 Ng4 20. Qf4 Qxh2+
+{ Once again, Dirty handling the Black pieces rated 2 6 9 2 seized the initiative and handed WildCat as White rated 2 6 2 3 a loss. The opening quickly led to complex middlegame play.0-1 }
+) 16... cxd5 17. Qf3 Be6 18. axb5 axb5 19. Rxa8 Rxa8 20. Na3 Bxa3 21. bxa3 Qf5
+22. Qd1 Rc8 23. Bb2 h6 24. Re3 Qh3 25. Qe2
+{ In an interesting battle, Grapefruit as White rated 2 7 9 4 and Odonata, rated 2 7 5 7, had the Black pieces played a balanced game which ended in a draw. Small inaccuracies made the difference.1/2-1/2 }
+) 14... Re8 15. Rxe8+ Qxe8 16. d4 { played by 3 5 3 1 rated Clarity } 16... Qe6
+17. c4 bxc4 18. Bxc4 Bg4 19. Qd3 Bf5 20. Qd1
+{ we will see this position later on1/2-1/2 } 1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Viridithas 16.0.0 64-bit 4CPU"]
+[Black "Stockfish 17.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall counter-attack, 11...c6"]
+[WhiteElo "3603"]
+[BlackElo "3645"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6
+{ entered in RUY Lopez Marshall Counter Attack 11 C6 } 12. Re1
+{ played by 3 6 4 3 rated Stockfish } ( 12. d3
+{ played by 3 6 4 5 rated Stockfish } 12... Bd6 13. Re1 Bf5 14. Qf3
+{ played by 3 6 4 5 rated Stockfish } 14... Qh4 15. g3
+{ played by 3 6 4 3 rated Stockfish } 15... Qh3 16. Be3
+{ played by 3 6 4 3 rated Stockfish } 16... Bxd3 17. Nd2
+{ played by 3 6 4 3 rated Stockfish } ( 17. Bd4
+{ played by 3 5 8 8 rated ShashChess } 17... Bf5 18. Bxd5 cxd5 19. Qxd5 Rad8
+20. Qg2 Qh6 21. Qc6 Bd7 22. Qxa6 Rc8 23. Nd2 Rc6 24. Qa7 Rc7 25. Qb6
+{ Here we see that The game between ShashChess handling the White pieces rated 3 5 8 8 and SugaR as Black rated 3 5 8 1 finished level.1/2-1/2 }
+) 17... Bg6 18. Bxd5 cxd5 19. Qxd5 Rfd8 20. Qg2 Qxg2+ 21. Kxg2 f6 22. Rad1 Bc2
+23. Rc1 Bg6 24. Nb3 Bf7 25. Bb6
+{ Once again, Neither Viridithas from the White side with rating 3 6 0 3 nor Stockfish as Black rated 3 6 4 5 could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 12... Bd6 13. d4 { played by 3 3 6 8 rated Komodo } 13... Bf5 14. Nd2
+{ played by 3 3 6 8 rated Komodo } 14... Qf6 15. Nf1
+{ played by 3 3 9 5 rated Komodo } ( 15. a4 { played by 3 3 6 8 rated Komodo }
+15... Rae8 16. Rxe8 { played by 3 2 5 7 rated Black } 16... Rxe8 17. axb5 axb5
+18. Nf1 Qe6 19. Bd2 Qd7 20. Ne3 Nxe3 21. Bxe3 Be4 22. Bc2 Bd5 23. h3 Bb8 24.
+Qg4 Qd6 25. g3
+{ Rybka handling the Black pieces rated 3 1 5 2 could not hold the position, allowing Black, rated 3 2 5 7, had the White pieces to win. The opening quickly led to complex middlegame play.1-0 }
+) 15... Rfe8 16. a4 { played by 3 3 9 5 rated Komodo } ( 16. Ng3
+{ played by 3 1 7 3 rated Sting } 16... Bg6 17. Bd2 Nf4 18. Re3 Rxe3 19. Bxe3
+Rb8 20. Qd2 Re8 21. Re1 Nd3 22. Rf1 Nf4 23. a4 h6 24. Ra1 Nd5 25. Bxd5
+{ Here we see that Neither Sting from the White side with rating 3 1 7 3 nor Fritz on Black with Elo 3 2 0 5 could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
+) ( 16. Bd2
+{ Komodo playing White, rated 3 0 7 8 converted the advantage and defeated Gull on Black with Elo 2 9 4 2.1-0 }
+) 16... b4 17. c4 Ne7 18. c5 Bc7 19. Be3 h6 20. Qf3 Ng6
+{ Here we see that Komodo handling the White pieces rated 3 3 9 5 outplayed Critter from the Black side with rating 3 2 0 1 and won the game. The outcome was decided in the later stages.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Viridithas 16.0.0 64-bit 4CPU"]
+[Black "Stockfish 17.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall counter-attack, 11...c6"]
+[WhiteElo "3603"]
+[BlackElo "3645"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6
+{ entered in RUY Lopez Marshall Counter Attack 11 C6 } 12. d3
+{ played by 3 6 4 5 rated Stockfish } ( 12. Re1
+{ played by 3 6 4 3 rated Stockfish } 12... Bd6 13. d4
+{ played by 3 3 6 8 rated Komodo } 13... Bf5 14. Nd2
+{ played by 3 3 6 8 rated Komodo } 14... Qf6 15. a4
+{ played by 3 3 6 8 rated Komodo } 15... Rae8 16. Nf1
+{ played by 3 3 6 8 rated Komodo } 16... b4 17. c4
+{ played by 3 3 6 8 rated Komodo } ( 17. Bxd5 { played by 2 8 0 8 rated Naum }
+17... cxd5 18. Ne3 Be4 19. cxb4 Re6 20. h3 Bxb4 21. Rf1 Qh4 22. f3 Bg6 23. Bd2
+Qxd4 24. Bxb4 Qxe3+ 25. Kh1
+{ In an interesting battle, Naum on White with Elo 2 8 0 8 and Loop, rated 2 7 9 2, had the Black pieces played a balanced game which ended in a draw. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 17... Nf4 18. c5 Qg6 19. Bxf4 Bxf4 20. Rxe8 Rxe8 21. a5 h5 22. Bc4 Bc8 23.
+Qb3 h4 24. h3 Kf8 25. Nh2
+{ Once again, Komodo, rated 3 3 6 8, had the White pieces remained in control, handing Rybka, rated 3 1 8 4, had the Black pieces a loss. Small inaccuracies made the difference.1-0 }
+) 12... Bd6 13. Re1 Bf5 14. Nd2 { played by 3 6 2 4 rated ShashChess } ( 14. g3
+{ played by 3 5 3 1 rated Clarity } 14... Re8 15. Rxe8+ Qxe8 16. a4
+{ played by 3 2 7 1 rated Stash } 16... b4 17. Bxd5
+{ played by 2 4 1 8 rated Arasan } ( 17. d4 { played by 3 2 7 1 rated Stash }
+17... Bh3 18. cxb4 { played by 3 2 2 6 rated Fizbo } ( 18. c4
+{ played by 3 1 1 8 rated Hannibal } 18... Bf4 19. cxd5 Bxc1 20. Nd2 Bxb2 21.
+Rb1 Bc3 22. Qh5 Bxd2 23. Qxh3 cxd5 24. Rd1 Bc3 25. Bxd5
+{ Once again, After a long struggle, Hannibal on White with Elo 3 1 1 8 and Andscacs from the Black side with rating 3 1 6 3 shared the point. Small inaccuracies made the difference.1/2-1/2 }
+) 18... Qe4 19. f3 Qg6 20. Qe2 Bxg3 21. hxg3 Qxg3+ 22. Kh1 Nf6 23. Be3 Ng4 24.
+Bg1 Qh4 25. Bh2
+{ Once again, The game between Fizbo from the White side with rating 3 2 2 6 and Stockfish from the Black side with rating 3 4 3 7 finished level. Both sides showed good positional understanding.1/2-1/2 }
+) 17... cxd5 18. cxb4 Bxb4 19. Na3 Qe5 20. Nc2 Be7 21. Rb1 Rc8 22. Be3 Qd6 23.
+Nd4 Bg6 24. Qb3 Bf6
+{ After a long struggle, Arasan, rated 2 4 1 8, had the White pieces and List handling the Black pieces rated 2 6 0 9 shared the point. The position remained tense for most of the game.1/2-1/2 }
+) ( 14. Qf3 { played by 3 6 4 5 rated Stockfish } 14... Qh4 15. g3
+{ played by 3 6 4 3 rated Stockfish } 15... Qh3 16. Be3
+{ played by 3 6 4 3 rated Stockfish } 16... Bxd3 17. Bxd5
+{ played by 3 6 1 6 rated Dragon } 17... cxd5 18. Qxd5
+{ played by 3 3 6 8 rated Lc0 } 18... Rad8 19. Qf3 Bf5 20. Nd2 Be5 21. a4 b4
+22. Bc5 bxc3 23. bxc3 Rfe8 24. Bd4 h6 25. Nb3
+{ In an interesting battle, After a long struggle, Koivisto handling the White pieces rated 3 3 3 3 and Dragon as Black rated 3 5 2 8 shared the point. Small inaccuracies made the difference.1/2-1/2 }
+) 14... Nf4 15. d4 { played by 3 1 8 7 rated Princhess } 15... Qg5 16. g3 Nh3+
+17. Kg2 { played by 3 1 8 7 rated Princhess } 17... Nf4+ 18. Kf1 Qh6 19. h4 Qg6
+20. Re3 Rae8 21. Nf3 Bd3+ 22. Rxd3 Nxd3 23. h5 Qf5 24. g4 Qxg4 25. Qxd3
+{ In this game, Komodo from the Black side with rating 3 1 4 2 outplayed Princhess playing White, rated 3 1 8 7 and won as Black. Both sides showed good positional understanding.0-1 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Viridithas 16.0.0 64-bit 4CPU"]
+[Black "Stockfish 17.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall counter-attack, 11...c6"]
+[WhiteElo "3603"]
+[BlackElo "3645"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6
+{ entered in RUY Lopez Marshall Counter Attack 11 C6 } 12. Re1
+{ played by 3 6 4 3 rated Stockfish } ( 12. d3
+{ played by 3 6 4 5 rated Stockfish } 12... Bd6 13. Re1 Bf5 14. Qf3
+{ played by 3 6 4 5 rated Stockfish } ( 14. Nd2
+{ played by 3 6 2 4 rated ShashChess } 14... Nf4 15. Ne4
+{ played by 3 6 0 4 rated Uralochka } 15... Nxd3 16. Bg5
+{ played by 2 9 1 6 rated Hiarcs } 16... Qd7 17. Nxd6 Qxd6 18. Bc2 Rfe8 19. Re3
+{ played by 2 9 1 6 rated Hiarcs } ( 19. Qd2
+{ played by 2 5 8 8 rated Betsabe } 19... c5 20. g4 Bg6 21. Bxd3 Bxd3 22. Re3
+Rxe3 23. Qxe3 Qd7 24. h3 Re8 25. Qxc5
+{ Neither Betsabe handling the White pieces rated 2 5 8 8 nor Giraffe on Black with Elo 2 4 3 7 could convert, and the game was drawn.1/2-1/2 }
+) 19... Rxe3 20. Bxe3 Qg6 21. Qe2 Re8 22. Rd1 Ne5 23. Bxf5 Qxf5 24. b3 f6 25.
+h3
+{ Once again, After a long struggle, Hiarcs, rated 2 9 1 6, had the White pieces and Nemo playing Black, rated 2 8 0 3 shared the point. Small inaccuracies made the difference.1/2-1/2 }
+) 14... Qh4 15. g3 { played by 3 6 4 3 rated Stockfish } 15... Qh3 16. Be3
+{ played by 3 6 4 3 rated Stockfish } 16... Bxd3 17. Bxd5
+{ played by 3 6 1 6 rated Dragon } 17... cxd5 18. Nd2
+{ played by 3 6 1 6 rated Dragon } 18... Qf5 19. Qxf5
+{ played by 3 5 9 9 rated Stockfish } ( 19. a3
+{ played by 3 5 9 7 rated Caissa } 19... Rfc8 20. Qxf5 Bxf5 21. Nf3 Be4 22. Nd4
+Be5 23. Rad1 f6 24. Ne6 Bf3 25. Rd3
+{ Once again, Neither Caissa playing White, rated 3 5 9 7 nor Stockfish on Black with Elo 3 6 3 8 could convert, and the game was drawn. Small inaccuracies made the difference.1/2-1/2 }
+) ( 19. Rad1 { played by 3 5 8 0 rated Clover } 19... Rfc8 20. Qxf5 Bxf5 21.
+Nf3 Bf8 22. Nd4 Bg4 23. Rd3 Re8 24. a3 f6 25. h4
+{ After a long struggle, Clover playing White, rated 3 5 8 0 and Fat playing Black, rated 3 5 5 9 shared the point. The outcome was decided in the later stages.1/2-1/2 }
+) 19... Bxf5 20. a3 Rfe8 21. Nb3 Bd3 22. Nd4 Bc5 23. Nc6 Bf8 24. Na5 Be4 25.
+Kf1
+{ Stockfish on White with Elo 3 5 9 9 remained in control, handing Igel playing Black, rated 3 4 0 9 a loss. The outcome was decided in the later stages.1-0 }
+) 12... Bd6 13. g3 { played by 3 5 1 3 rated Seer } 13... Bf5 14. a4
+{ played by 3 5 1 3 rated Seer } 14... Qd7 15. d4
+{ played by 3 2 5 3 rated Fire } 15... Rae8 16. Rxe8
+{ played by 3 2 5 3 rated Fire } 16... Rxe8 17. axb5 axb5 18. Bxd5
+{ played by 3 0 3 1 rated EveAnn } 18... cxd5 19. Be3 h6 20. Nd2 Bh3 21. Qb3
+Bf8 22. Qd1 b4 23. Qa4 bxc3 24. Qxd7 Bxd7 25. bxc3
+{ EveAnn, rated 3 0 3 1, had the White pieces overpressed, and Cheers, rated 3 0 2 7, had the Black pieces secured the win. Both sides showed good positional understanding.0-1 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Viridithas 16.0.0 64-bit 4CPU"]
+[Black "Stockfish 17.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall counter-attack, 11...c6"]
+[WhiteElo "3603"]
+[BlackElo "3645"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6
+{ entered in RUY Lopez Marshall Counter Attack 11 C6 } 12. d3
+{ played by 3 6 4 5 rated Stockfish } 12... Bd6 13. Re1 Bf5 14. Nd2
+{ played by 3 6 2 4 rated ShashChess } ( 14. Bxd5
+{ played by 3 6 1 7 rated Integral } 14... cxd5 15. Nd2
+{ played by 3 6 0 4 rated Integral } 15... Bxd3 16. Nf1 Bg6 17. a3 h6 18. Be3
+Qd7 19. Ng3 { played by 3 5 6 8 rated Integral } 19... Bc7 20. Ne2 f6 21. Qd2
+Rfe8 22. Nd4 Qd6 23. g3 Qd7 24. Kg2 h5 25. f3
+{ The game between Integral on White with Elo 3 5 6 8 and Motor as Black rated 3 5 6 1 finished level. The position remained tense for most of the game.1/2-1/2 }
+) ( 14. g3 { played by 3 5 3 1 rated Clarity } 14... Re8 15. Rxe8+ Qxe8 16. a4
+{ played by 3 2 7 1 rated Stash } 16... b4 17. Bd2
+{ played by 3 1 6 1 rated Gull } 17... a5 18. cxb4 axb4 19. Bxd5
+{ played by 3 1 6 1 rated Gull } ( 19. Qf3 { played by 2 8 3 3 rated Murka }
+19... Qe5 20. d4 Qxd4 21. Qxf5 Qxb2 22. Bxd5 cxd5 23. Qxd5 Rd8 24. Bg5 Be7 25.
+Qa2
+{ Once again, Murka on White with Elo 2 8 3 3 overpressed, and RubiChess handling the Black pieces rated 2 9 3 0 secured the win. Both sides showed good positional understanding.0-1 }
+) 19... cxd5 20. Be3 Be7 21. Nd2 Bxd3 22. Nf3 Ba6 23. Bb6 Bf6 24. Nd4 Qe4 25.
+Qd2
+{ Gull as White rated 3 1 6 1 overpressed, and Andscacs playing Black, rated 3 2 1 6 secured the win. The opening quickly led to complex middlegame play.0-1 }
+) ( 14. Qf3 { played by 3 6 4 5 rated Stockfish } 14... Qh4 15. g3
+{ played by 3 6 4 3 rated Stockfish } 15... Qh3 16. Nd2
+{ played by 3 6 3 2 rated Reckless } 16... Rae8 17. Ne4 Bg4 18. Qg2 Qxg2+ 19.
+Kxg2 f5 20. Bf4 { played by 3 6 0 4 rated Integral } 20... Bxf4 21. gxf4 fxe4
+22. dxe4 Bf3+ 23. Kxf3 Rxf4+ 24. Kg2 Rfxe4 25. Rxe4
+{ In this game, The game between Integral, rated 3 6 0 4, had the White pieces and Starzix handling the Black pieces rated 3 6 0 6 finished level. The outcome was decided in the later stages.1/2-1/2 }
+) 14... Nf4 15. d4 { played by 3 1 8 7 rated Princhess } 15... Qg5 16. g3 Nh3+
+17. Kf1 { played by 2 7 3 2 rated Jonny } 17... Qg6 18. Nf3 Bg4 19. Ne5
+{ played by 2 7 3 2 rated Jonny } ( 19. Kg2 { played by 2 5 1 8 rated Arasan }
+19... Rae8 20. Rxe8 Rxe8 21. Be3 Qh5 22. a4 Re4 23. axb5 Nf4+ 24. Bxf4 Rxf4 25.
+gxf4
+{ After a long struggle, Arasan handling the White pieces rated 2 5 1 8 and Petir playing Black, rated 2 5 6 8 shared the point. The outcome was decided in the later stages.1/2-1/2 }
+) 19... Bxe5 20. f3
+{ In an interesting battle, Booot handling the Black pieces rated 2 8 3 6 defended accurately and defeated Jonny handling the White pieces rated 2 7 3 2. The opening quickly led to complex middlegame play.0-1 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Viridithas 16.0.0 64-bit 4CPU"]
+[Black "Stockfish 17.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall counter-attack, 11...c6"]
+[WhiteElo "3603"]
+[BlackElo "3645"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6
+{ entered in RUY Lopez Marshall Counter Attack 11 C6 } 12. d3
+{ played by 3 6 4 5 rated Stockfish } ( 12. Re1
+{ played by 3 6 4 3 rated Stockfish } 12... Bd6 13. g3
+{ played by 3 5 1 3 rated Seer } 13... Bf5 14. a4
+{ played by 3 5 1 3 rated Seer } 14... Qd7 15. d4
+{ played by 3 2 5 3 rated Fire } 15... Rae8 16. Rxe8
+{ played by 3 2 5 3 rated Fire } 16... Rxe8 17. axb5 axb5 18. Na3
+{ played by 3 2 5 3 rated Fire } 18... Bg4 19. f3 Be6 20. Bc2
+{ played by 3 2 5 3 rated Fire } ( 20. Qd3 { played by 3 1 8 7 rated Andscacs }
+20... Qc7 21. Qe2 Qb8 22. Bc2 Bxg3
+{ Neither Andscacs on White with Elo 3 1 8 7 nor NirvanaChess playing Black, rated 3 1 7 9 could convert, and the game was drawn.1/2-1/2 }
+) 20... Bh3 21. c4 Nb4 22. cxb5 cxb5 23. Bd2 Nxc2 24. Nxc2 Qc7 25. Kf2
+{ In an interesting battle, Fire as White rated 3 2 5 3 and Roc from the Black side with rating 3 1 5 8 played a balanced game which ended in a draw. The outcome was decided in the later stages.1/2-1/2 }
+) 12... Bd6 13. Re1 Bf5 14. Bxd5 { played by 3 6 1 7 rated Integral } ( 14. Nd2
+{ played by 3 6 2 4 rated ShashChess } 14... Nf4 15. Re3
+{ played by 3 6 2 4 rated ShashChess } 15... Nxd3 16. Ne4 Bxe4 17. Rxe4 Bc5 18.
+Be3 Bxe3 19. Rxe3 Nxb2 20. Qe2 { played by 3 6 2 4 rated ShashChess } 20... Na4
+21. Rd1 Qg5 22. c4 { played by 3 5 7 3 rated Obsidian } ( 22. Rg3
+{ played by 3 4 8 8 rated SlowChess } 22... Qf5 23. Bc2 Qf6 24. Rf3 Qe6 25.
+Qxe6
+{ In this game, Neither SlowChess handling the White pieces rated 3 4 8 8 nor Caissa as Black rated 3 5 0 0 could convert, and the game was drawn.1/2-1/2 }
+) ( 22. Re5 { played by 3 4 5 4 rated Carp } 22... Qf6 23. Rd3 Nb6 24. Rf3 Qd8
+25. g3
+{ Carp on White with Elo 3 4 5 4 and Alexandria as Black rated 3 4 4 5 played a balanced game which ended in a draw. The outcome was decided in the later stages.1/2-1/2 }
+) ( 22. Qf3 { played by 3 4 2 1 rated Reckless } 22... Qg6 23. Red3 Nc5 24. Rd6
+Qg5 25. g3
+{ Once again, Reckless, rated 3 4 2 1, had the White pieces and Serendipity on Black with Elo 3 4 8 7 played a balanced game which ended in a draw. Both sides showed good positional understanding.1/2-1/2 }
+) 22... Qf6 23. Bxa4 bxa4 24. g3 Rab8 25. Kg2
+{ In an interesting battle, After a long struggle, Obsidian, rated 3 5 7 3, had the White pieces and PlentyChess, rated 3 5 7 1, had the Black pieces shared the point. Small inaccuracies made the difference.1/2-1/2 }
+) 14... cxd5 15. Nd2 { played by 3 6 0 4 rated Integral } 15... Bxd3 16. Nf1
+Bg6 17. a3 h6 18. Be3 Qd7 19. Qd2 { played by 3 6 0 4 rated Integral } 19...
+Rad8 20. Bb6 { played by 3 6 0 4 rated Integral } ( 20. Bd4
+{ played by 3 6 0 3 rated Obsidian } 20... Rfe8 21. Bb6 Rb8 22. Rxe8+ Rxe8 23.
+Rd1 Qe6 24. Be3 Rd8 25. f3
+{ Once again, After a long struggle, Obsidian playing White, rated 3 6 0 3 and Heimdall on Black with Elo 3 4 9 4 shared the point. The position remained tense for most of the game.1/2-1/2 }
+) 20... Rb8 21. Bd4 Rbe8 22. Rad1 f6 23. Bb6 Bf7 24. Qd3 Rxe1 25. Rxe1
+{ In this game, Neither Integral on White with Elo 3 6 0 4 nor PlentyChess, rated 3 6 1 1, had the Black pieces could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Viridithas 16.0.0 64-bit 4CPU"]
+[Black "Stockfish 17.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall counter-attack, 11...c6"]
+[WhiteElo "3603"]
+[BlackElo "3645"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6
+{ entered in RUY Lopez Marshall Counter Attack 11 C6 } 12. d3
+{ played by 3 6 4 5 rated Stockfish } ( 12. Re1
+{ played by 3 6 4 3 rated Stockfish } 12... Bd6 13. g3
+{ played by 3 5 1 3 rated Seer } 13... Bf5 14. a4
+{ played by 3 5 1 3 rated Seer } 14... Qd7 15. d4
+{ played by 3 2 5 3 rated Fire } 15... Rae8 16. Rxe8
+{ played by 3 2 5 3 rated Fire } 16... Rxe8 17. axb5 axb5 18. Na3
+{ played by 3 2 5 3 rated Fire } 18... Bg4 19. f3 Be6 20. Nc2
+{ played by 3 1 8 2 rated Alfil } 20... h5 21. Qf1 c5 22. Bxd5 Bxd5 23. Qf2
+{ played by 3 1 8 2 rated Alfil } ( 23. Be3
+{ played by 3 1 5 7 rated Stockfish } 23... c4 24. Bd2 Qb7 25. Re1
+{ In this game, BlackMamba handling the Black pieces rated 3 0 5 8 outplayed Stockfish on White with Elo 3 1 5 7 and won as Black.0-1 }
+) 23... cxd4 24. Nxd4 b4 25. Be3
+{ In this game, Neither Alfil playing White, rated 3 1 8 2 nor Komodo as Black rated 3 3 9 5 could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+) 12... Bd6 13. Re1 Bf5 14. Nd2 { played by 3 6 2 4 rated ShashChess } 14...
+Nf4 15. Re3 { played by 3 6 2 4 rated ShashChess } 15... Nxd3 16. Ne4 Bxe4 17.
+Rxe4 Bc5 18. Be3 Bxe3 19. Rxe3 Nxb2 20. Qc2
+{ played by 3 6 0 4 rated Uralochka } ( 20. Qe2
+{ played by 3 6 2 4 rated ShashChess } 20... Na4 21. Rd1 Qg5 22. g3
+{ played by 3 6 2 4 rated ShashChess } 22... Nb6 23. Re5
+{ played by 3 6 2 4 rated ShashChess } ( 23. Rd6
+{ played by 3 5 1 3 rated Ginkgo } 23... Qc5 24. Qd3 Nd5 25. Bxd5
+{ In this game, After a long struggle, Ginkgo as White rated 3 5 1 3 and Booot as Black rated 3 5 3 0 shared the point. Both sides showed good positional understanding.1/2-1/2 }
+) 23... Qf6 24. Rd4 Rac8 25. h4
+{ After a long struggle, ShashChess playing White, rated 3 6 2 4 and Stockfish on Black with Elo 3 6 2 2 shared the point. Small inaccuracies made the difference.1/2-1/2 }
+) 20... Nc4 21. Bxc4 bxc4 22. Qe2 { played by 3 6 0 4 rated Uralochka } ( 22.
+Rd1 { played by 3 4 5 7 rated Caissa } 22... Qa5 23. Qe2 Rad8 24. Rxd8 Qxd8 25.
+g3
+{ Once again, Neither Caissa handling the White pieces rated 3 4 5 7 nor Rebel from the Black side with rating 3 5 3 1 could convert, and the game was drawn.1/2-1/2 }
+) 22... g6 23. g3 Kg7 24. Qxc4 Qd5 25. Qxd5
+{ Once again, The game between Elixir handling the White pieces rated 3 5 5 4 and Integral handling the Black pieces rated 3 6 1 7 finished level. The opening quickly led to complex middlegame play.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Viridithas 16.0.0 64-bit 4CPU"]
+[Black "Stockfish 17.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall counter-attack, 11...c6"]
+[WhiteElo "3603"]
+[BlackElo "3645"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6
+{ entered in RUY Lopez Marshall Counter Attack 11 C6 } 12. d3
+{ played by 3 6 4 5 rated Stockfish } 12... Bd6 13. Re1 Bf5 14. Nd2
+{ played by 3 6 2 4 rated ShashChess } ( 14. Qf3
+{ played by 3 6 4 5 rated Stockfish } 14... Qh4 15. g3
+{ played by 3 6 4 3 rated Stockfish } 15... Qh3 16. Nd2
+{ played by 3 6 3 2 rated Reckless } 16... Rae8 17. Ne4 Bg4 18. Qg2 Qxg2+ 19.
+Kxg2 f5 20. h3 { played by 3 6 3 2 rated Reckless } 20... Bh5 21. Bf4 Bxf4 22.
+gxf4 fxe4 23. dxe4 Bf3+ 24. Kxf3 Rxf4+ 25. Kg3
+{ Once again, Neither Reckless from the White side with rating 3 6 3 2 nor Fat on Black with Elo 3 6 0 2 could convert, and the game was drawn.1/2-1/2 }
+( 25. Kg2
+{ The game between Stockfish on White with Elo 3 6 1 9 and PlentyChess playing Black, rated 3 5 7 7 finished level. The position remained tense for most of the game.1/2-1/2 }
+) ) 14... Nf4 15. Re3 { played by 3 6 2 4 rated ShashChess } 15... Nxd3 16. Ne4
+Bxe4 17. Rxe4 Bc5 18. Be3 Bxe3 19. Rxe3 Nxb2 20. Qe2
+{ played by 3 6 2 4 rated ShashChess } 20... Na4 21. Rd1 Qg5 22. Bxa4
+{ played by 3 5 8 3 rated Obsidian } 22... bxa4 23. g3 a3 24. Kg2
+{ played by 3 4 9 7 rated Cinder } ( 24. c4
+{ played by 3 5 8 3 rated Obsidian } 24... Qc5 25. Rb1
+{ In an interesting battle, After a long struggle, Obsidian on White with Elo 3 5 8 3 and Caissa, rated 3 5 6 5, had the Black pieces shared the point. Small inaccuracies made the difference.1/2-1/2 }
+( 25. Rc1
+{ In an interesting battle, Neither Minic on White with Elo 3 4 5 8 nor Serendipity from the Black side with rating 3 4 8 7 could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
+) ) 24... Qc5 25. c4
+{ Once again, The game between Cinder from the White side with rating 3 4 9 7 and Willow as Black rated 3 4 4 5 finished level. The position remained tense for most of the game.1/2-1/2 }
+1/2-1/2
+
+
+

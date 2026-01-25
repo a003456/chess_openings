@@ -1,0 +1,111 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17.1 64-bit 4CPU"]
+[Black "Titan 1.1.0 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation"]
+[WhiteElo "3645"]
+[BlackElo "3589"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6
+{ entered in RUY Lopez Exchange Variation } 4... dxc6
+{ played by 3 6 1 2 rated Dragon } ( 4... bxc6
+{ played by 3 6 4 3 rated ShashChess } 5. d4 exd4 6. Qxd4 Qf6
+{ played by 3 6 0 7 rated Torch } ( 6... c5 { played by 2 1 4 2 rated Alarm }
+7. Qd3 d6 8. h3 Be7 9. O-O Nf6 10. c4 O-O 11. Nc3 Bb7 12. b3 Re8 13. Re1 Nd7
+14. Rb1 Nb6 15. Nd5 Nxd5 16. exd5 c6 17. Bb2
+{ In this game, Clever as White rated 2 1 2 0 outplayed Alarm handling the Black pieces rated 2 1 4 2 and won the game. Both sides showed good positional understanding.1-0 }
+) ( 6... Bb7 { played by 2 5 1 5 rated Admete } 7. O-O c5 8. Qe5+ Ne7 9. Qxc5
+Bxe4 10. Nbd2 d6 { played by 2 5 1 5 rated Admete } ( 10... Bf5
+{ played by 2 4 1 8 rated Waxman } 11. Re1 Be6 12. Ne4 Ng6 13. Qc3 Rb8 14. Be3
+f6 15. Nc5 Bxc5 16. Bxc5 Kf7 17. Rad1
+{ Once again, Admete handling the White pieces rated 2 5 1 5 converted the advantage and defeated Waxman, rated 2 4 1 8, had the Black pieces. The position remained tense for most of the game.1-0 }
+) 11. Qc3 Bb7 12. Qb3 Rb8 13. Re1 h6 14. Qc3 Rg8 15. Ne4 Qd7 16. Qd3 Kd8 17. b3
+{ Waxman from the White side with rating 2 4 1 8 outplayed Admete as Black rated 2 5 1 5 and won the game.1-0 }
+) 7. Qa4 Bc5 8. Nc3 Ne7 9. O-O Rb8 10. Bd2 Ba7 11. Rfe1 O-O 12. e5 Qe6 13. Ne4
+c5 14. Rad1 Nc6 15. a3 c4 16. Neg5 Qg6 17. Qxc4
+{ In an interesting battle, Stockfish handling the White pieces rated 3 6 4 5 outplayed Titan from the Black side with rating 3 5 8 9 and won the game. The outcome was decided in the later stages.1-0 }
+) 5. d3 f6 { played by 3 1 2 7 rated Strelka } ( 5... Bg4
+{ played by 2 8 9 3 rated Gull } 6. h3 Bxf3 7. Qxf3 Nf6 8. Nc3 Qd6 9. Be3 O-O-O
+10. Rb1 Kb8 11. b4 Qe6 12. O-O Rg8 13. a4 g5 14. b5 cxb5 15. axb5 a5 16. b6 c6
+17. Ne2
+{ In an interesting battle, After a long struggle, Fritz, rated 2 9 0 7, had the White pieces and Gull as Black rated 2 8 9 3 shared the point. Both sides showed good positional understanding.1/2-1/2 }
+) 6. Be3 Bg4 7. O-O Bd6 8. c4 c5 9. h3 Bh5 10. Nbd2 b6 11. a4 a5 12. Re1 Ne7
+13. Nf1 Qd7 14. Bd2 Bf7 15. Ne3 Ng6 16. Qc2 Be6 17. Rad1
+{ Deep on Black with Elo 2 9 6 4 outplayed Strelka playing White, rated 3 1 2 7 and won as Black. Small inaccuracies made the difference.0-1 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17.1 64-bit 4CPU"]
+[Black "Titan 1.1.0 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation"]
+[WhiteElo "3645"]
+[BlackElo "3589"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6
+{ entered in RUY Lopez Exchange Variation } 4... dxc6
+{ played by 3 6 1 2 rated Dragon } 5. d3 Bd6 { played by 3 6 1 2 rated Dragon }
+6. Nbd2 f6 { played by 3 6 1 2 rated Dragon } ( 6... Nf6
+{ played by 2 7 9 6 rated Coiled } 7. Nc4 Bg4 8. h3 Bh5 9. g4 Bg6 10. Nfxe5 Nd7
+{ played by 2 7 9 6 rated Coiled } ( 10... Bxe5
+{ played by 2 6 6 1 rated Drosophila } 11. Nxe5 Qe7 12. f4 O-O-O 13. Qe2 Rhe8
+14. h4 h5 15. g5 Nd7 16. Nxg6 fxg6 17. Be3
+{ Drosophila playing Black, rated 2 6 6 1 could not hold the position, allowing Coiled, rated 2 7 9 6, had the White pieces to win. Small inaccuracies made the difference.1-0 }
+) 11. Nxd6+ cxd6 12. Nc4 Qc7 13. Bf4 Ne5 14. O-O h5 15. Bxe5 dxe5 16. Qf3 O-O-O
+17. g5
+{ Once again, Drosophila as White rated 2 6 6 1 converted the advantage and defeated Coiled from the Black side with rating 2 7 9 6.1-0 }
+) 7. Nc4 Be6 8. O-O Ne7 9. Qe2 c5 { played by 3 5 7 2 rated Velvet } ( 9... Ng6
+{ played by 3 5 3 1 rated Ethereal } 10. Rd1 Qe7 11. Nxd6+ cxd6 12. d4 O-O 13.
+dxe5 dxe5 14. b3 c5 { played by 3 5 3 1 rated Ethereal } ( 14... Bf7
+{ played by 3 5 1 7 rated Koivisto } 15. Be3 c5 16. h3 Rfe8 17. Qf1
+{ In an interesting battle, Neither Dragon, rated 3 6 1 2, had the White pieces nor Koivisto, rated 3 5 1 7, had the Black pieces could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 15. Be3 Qc7 16. h3 Qc6 17. Nd2
+{ In this game, RubiChess playing White, rated 3 5 4 8 and Ethereal on Black with Elo 3 5 3 1 played a balanced game which ended in a draw. The outcome was decided in the later stages.1/2-1/2 }
+) 10. c3 O-O { played by 3 5 7 2 rated Velvet } ( 10... Ng6
+{ played by 3 5 4 8 rated RubiChess } 11. Be3 Qd7 12. d4 cxd4 13. cxd4 Bg4 14.
+Nxd6+ cxd6 15. h3 Nh4 16. Kh2 Bxf3 17. gxf3
+{ RubiChess playing Black, rated 3 5 4 8 seized the initiative and handed Ethereal from the White side with rating 3 5 3 1 a loss.0-1 }
+) 11. Rd1 Qe8 12. d4 Qf7 13. Nxd6 cxd6 14. dxc5 dxc5 15. Be3 Ng6 16. b3 Qc7 17.
+Nd2
+{ Starzix from the White side with rating 3 6 0 6 and Velvet as Black rated 3 5 7 2 played a balanced game which ended in a draw. The outcome was decided in the later stages.1/2-1/2 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17.1 64-bit 4CPU"]
+[Black "Titan 1.1.0 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation"]
+[WhiteElo "3645"]
+[BlackElo "3589"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6
+{ entered in RUY Lopez Exchange Variation } 4... dxc6
+{ played by 3 6 1 2 rated Dragon } 5. d3 Qf6 { played by 3 4 8 7 rated Black }
+6. O-O Ne7 7. Be3 Ng6 8. Nbd2 Bd6 9. h3 O-O 10. Nc4 Re8 11. a4 Bf8 12. a5 c5
+13. Bd2 Qd8 14. Ne3 b5 { played by 3 4 8 7 rated Black } ( 14... Ra7
+{ played by 3 4 8 7 rated Black } 15. Re1 Ra8 16. Rf1
+{ we will see this position later on1/2-1/2 } ) 15. axb6
+{ The game between Winter, rated 3 4 3 6, had the White pieces and Black handling the Black pieces rated 3 4 8 7 finished level. The position remained tense for most of the game.1/2-1/2 }
+1-0
+
+
+

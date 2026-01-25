@@ -1,0 +1,740 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Torch v3 64-bit 4CPU"]
+[Black "Stockfish 16.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Cozio (Lasker) attack"]
+[WhiteElo "3635"]
+[BlackElo "3638"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Qe2
+{ entered in PETROV Cozio Lasker Attack } 5... Qe7 6. d3 Nf6 7. Bg5 Bg4
+{ played by 2 4 5 8 rated Yace } ( 7... Kd8
+{ played by 2 2 7 9 rated Googleplex } 8. Nc3 h6 9. Bd2 Be6 10. g3 d5 11. Nd4
+Nc6 12. Nxc6+ bxc6 13. Bg2 Rb8 14. b3 Bg4 15. Qxe7+ Bxe7 16. h3 Be6 17. O-O Kc8
+18. Rfe1
+{ KnightX as White rated 2 3 1 7 and Googleplex as Black rated 2 2 7 9 played a balanced game which ended in a draw. The opening quickly led to complex middlegame play.1/2-1/2 }
+) ( 7... Nbd7 { played by 3 6 1 6 rated SugaR } 8. Nc3 Qxe2+
+{ played by 3 6 0 3 rated RubiChess } 9. Bxe2
+{ we will see this position later on1/2-1/2 } ) ( 7... Nc6
+{ played by 3 0 6 3 rated Rybka } 8. Nc3 h6 { played by 3 4 4 1 rated Seer } (
+8... Qxe2+ { played by 3 3 8 3 rated Ethereal } 9. Bxe2
+{ we will see this position later on0-1 } ) ( 8... Bf5
+{ played by 3 1 5 5 rated Senpai } 9. Bxf6 gxf6 10. Nd5 Qxe2+ 11. Bxe2 O-O-O
+12. O-O Be6 13. Nf4 Rg8 14. c3 d5 15. d4 Bd6 16. Nxe6 fxe6 17. Bd3 Rg7 18. Rae1
+{ In an interesting battle, Neither Demolito as White rated 2 9 8 7 nor Senpai from the Black side with rating 3 1 5 5 could convert, and the game was drawn. Both sides showed good positional understanding.1/2-1/2 }
+) ( 8... Bg4 { played by 2 6 8 0 rated WyldChess } 9. O-O-O O-O-O 10. h3 Bxf3
+11. Qxf3 Nd4 12. Qe3 Qe5 13. Ne2 Ne6 14. Bxf6 Qxe3+ 15. fxe3 gxf6 16. Ng3 Rg8
+17. Nf5 d5 18. g4
+{ In an interesting battle, WyldChess handling the White pieces rated 2 6 8 0 and Nawito as Black rated 2 5 8 9 played a balanced game which ended in a draw. The position remained tense for most of the game.1/2-1/2 }
+) 9. Bxf6 gxf6 10. Nd5 Qxe2+ 11. Bxe2 Kd8 12. d4 Be6 13. Ne3 Ne7 14. g3 c6 15.
+Nh4 a5 16. f4 a4 17. c3 h5 18. Bd3
+{ Here we see that After a long struggle, Stockfish from the White side with rating 3 5 9 9 and Seer as Black rated 3 4 4 1 shared the point. Small inaccuracies made the difference.1/2-1/2 }
+) 8. Bxf6 gxf6 9. Qxe7+ Bxe7 10. Nd4 c5 11. Nb5 Kd7 12. N1c3 a6 13. Na3 Re8 14.
+Nc4 Bd8+ 15. Ne3 Ba5 16. Be2 Bxe2 17. Kxe2 Nc6 18. Nd5
+{ Once again, Glass from the White side with rating 2 5 3 7 converted the advantage and defeated Yace as Black rated 2 4 5 8. The opening quickly led to complex middlegame play.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Torch v3 64-bit 4CPU"]
+[Black "Stockfish 16.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Cozio (Lasker) attack"]
+[WhiteElo "3635"]
+[BlackElo "3638"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Qe2
+{ entered in PETROV Cozio Lasker Attack } 5... Qe7 6. d3 Nf6 7. Bg5 Qxe2+
+{ played by 3 6 3 8 rated Stockfish } ( 7... Nbd7
+{ played by 3 6 1 6 rated SugaR } 8. Nc3 h6 { played by 3 6 1 6 rated SugaR }
+9. Bd2 Nc5 { played by 3 5 5 8 rated Revenge } ( 9... Qxe2+
+{ played by 3 5 5 5 rated Ethereal } 10. Bxe2
+{ we will see this position later on1/2-1/2 } ) ( 9... Nb6
+{ played by 2 7 3 8 rated Viridithas } 10. a4 c5 11. O-O-O Be6 12. d4 O-O-O 13.
+dxc5 dxc5 14. Nb5 Nbd5 15. Nxa7+ Kb8 16. Nb5 Ka8 17. Ba5 b6 18. c4
+{ In an interesting battle, Tornado on White with Elo 2 7 4 5 remained in control, handing Viridithas as Black rated 2 7 3 8 a loss.1-0 }
+) ( 9... Ne5 { played by 2 6 8 1 rated Fridolin } 10. Nxe5 dxe5 11. O-O-O Bg4
+12. f3 Be6 13. Qxe5 O-O-O 14. Bf4 Qd7 15. Qa5 a6 16. Be5 Bd6 17. Bxf6 gxf6 18.
+Ne4
+{ In an interesting battle, After a long struggle, Clovis from the White side with rating 2 6 4 8 and Fridolin on Black with Elo 2 6 8 1 shared the point. Both sides showed good positional understanding.1/2-1/2 }
+) 10. O-O-O Qxe2 11. Bxe2 Ne6 12. Rde1 Bd7 13. Nd1 g6 14. Ne3 O-O-O 15. Bd1 Re8
+16. g3 Bg7 17. Nh4 Nc5 18. b3
+{ Neither Ethereal from the White side with rating 3 5 5 5 nor Revenge on Black with Elo 3 5 5 8 could convert, and the game was drawn. Small inaccuracies made the difference.1/2-1/2 }
+) 8. Bxe2 Nbd7 { played by 2 8 9 8 rated Critter } ( 8... Nc6
+{ played by 2 5 5 4 rated Fatalii } 9. Nc3 Be7
+{ we will see this position later on1/2-1/2 } ) 9. Nc3 g6
+{ played by 3 5 7 7 rated Stockfish } ( 9... Nc5
+{ played by 3 0 0 3 rated Rybka } 10. Bxf6 gxf6 11. d4 Ne6 12. O-O Bd7 13. Rfe1
+O-O-O 14. Bc4 Bh6 15. Nd5 Bg7 16. h4 Kb8 17. Ne3 Rhg8 18. g3
+{ In an interesting battle, The game between Asymptote handling the White pieces rated 3 0 0 5 and Rybka handling the Black pieces rated 3 0 0 3 finished level. Small inaccuracies made the difference.1/2-1/2 }
+) 10. Nb5 Kd8 11. c4 Bg7 12. Nc3 Re8 13. h3 a5 14. O-O-O Nc5 15. Rhe1 h6 16.
+Be3 Bd7 17. Nd4 c6 18. Nc2
+{ In this game, After a long struggle, RubiChess handling the White pieces rated 3 6 0 3 and Revenge on Black with Elo 3 5 5 8 shared the point. The opening quickly led to complex middlegame play.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Torch v3 64-bit 4CPU"]
+[Black "Stockfish 16.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Cozio (Lasker) attack"]
+[WhiteElo "3635"]
+[BlackElo "3638"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Qe2
+{ entered in PETROV Cozio Lasker Attack } 5... Qe7 6. d3 Nf6 7. Bg5 Be6
+{ played by 3 5 6 3 rated Caissa } ( 7... Qxe2+
+{ played by 3 6 3 8 rated Stockfish } 8. Bxe2 Be7
+{ played by 3 6 3 8 rated Stockfish } 9. Nc3 h6
+{ played by 3 6 3 8 rated Stockfish } ( 9... Nc6
+{ played by 3 6 0 5 rated Horsie } 10. Nb5 Bd8
+{ played by 3 6 0 5 rated Horsie } ( 10... Kd7 { played by 2 9 2 9 rated Deep }
+11. c4 h6 12. Be3 Rd8 13. Rd1 a6 14. Nc3 b5 15. O-O Ke8 16. Rc1 Kf8 17. Rfd1
+Bd7 18. d4
+{ Once again, Caissa, rated 3 5 8 5, had the White pieces and Reckless, rated 3 6 0 6, had the Black pieces played a balanced game which ended in a draw. The position remained tense for most of the game.1/2-1/2 }
+) 11. Bxf6 gxf6 12. Nc3 Ne7 13. d4 h5 14. Bd3 h4 15. g3 hxg3 16. fxg3 Bh3 17.
+Kf2 Kf8 18. Ne2
+{ Igel handling the White pieces rated 3 5 8 0 and Horsie from the Black side with rating 3 6 0 5 played a balanced game which ended in a draw. Small inaccuracies made the difference.1/2-1/2 }
+) 10. Be3 c6 { played by 3 5 8 0 rated Igel } ( 10... a6
+{ played by 2 4 6 1 rated Princhess } 11. O-O Bd7 12. Rfe1 Nc6 13. Nd4 Kd8 14.
+Nxc6+ bxc6 15. b3 g5 16. a3 Ne8 17. Bh5 f5 18. Bd4
+{ Once again, Hamsters as White rated 2 5 4 0 converted the advantage and defeated Princhess, rated 2 4 6 1, had the Black pieces.1-0 }
+) 11. O-O-O Na6 { we will see this position later on1/2-1/2 } ) 8. Nc3 Nbd7
+{ played by 3 3 5 7 rated Ethereal } 9. g3 h6 { played by 3 3 1 2 rated Igel }
+( 9... O-O-O { played by 3 2 8 8 rated Igel } 10. Bg2 Bg4 11. Qxe7 Bxe7 12. Bd2
+d5 13. O-O c6 14. Rfe1 Bb4 15. Nd4 Nf8 16. a3 Bd6 17. h3 Bd7 18. Nd1
+{ In this game, The game between Booot from the White side with rating 3 2 8 5 and Igel playing Black, rated 3 2 8 8 finished level.1/2-1/2 }
+) 10. Bd2 Bg4 11. Qxe7+ Bxe7 12. Bg2 O-O 13. Nd4 Nc5 14. O-O c6 15. h3 Bd7 16.
+b4 Ne6 17. Nf5 Rfe8 18. Nxe7+
+{ Ethereal handling the White pieces rated 3 3 5 7 and Igel on Black with Elo 3 3 1 2 played a balanced game which ended in a draw. The opening quickly led to complex middlegame play.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Torch v3 64-bit 4CPU"]
+[Black "Stockfish 16.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Cozio (Lasker) attack"]
+[WhiteElo "3635"]
+[BlackElo "3638"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Qe2
+{ entered in PETROV Cozio Lasker Attack } 5... Qe7 6. d3 Nf6 7. Bg5 Qxe2+
+{ played by 3 6 3 8 rated Stockfish } 8. Bxe2 Be7
+{ played by 3 6 3 8 rated Stockfish } 9. Nc3 O-O
+{ played by 3 4 8 9 rated Rebel } ( 9... Be6
+{ played by 3 4 6 3 rated rofChade } 10. Nb5 Na6
+{ played by 3 4 6 3 rated rofChade } ( 10... Kd7
+{ played by 2 6 7 6 rated Tucano } 11. c4 h6 12. Bd2 c5 13. d4 Ne4 14. dxc5
+Nxd2 15. Nxd2 dxc5 16. O-O-O Nc6 17. Nb3+ Kc8 18. Rhe1
+{ In an interesting battle, Godel from the White side with rating 2 7 2 8 outplayed Tucano as Black rated 2 6 7 6 and won the game. Small inaccuracies made the difference.1-0 }
+) 11. O-O-O h6 12. Bf4 Bd7 13. d4 Ne4 14. Rde1 Be6 15. Nc3 Nxc3 16. bxc3 Kd7
+17. c4 c6 18. h4
+{ In an interesting battle, Rebel handling the White pieces rated 3 4 8 7 and rofChade handling the Black pieces rated 3 4 6 3 played a balanced game which ended in a draw. The outcome was decided in the later stages.1/2-1/2 }
+) 10. Nd4 Bd8 { played by 3 1 8 6 rated Smallbrain } ( 10... Nc6
+{ played by 3 0 5 2 rated Gull } 11. Ndb5 Bd8 12. Bxf6 gxf6 13. Nd5 a6 14. Na3
+Re8 15. c3 Ne5 16. Kd2 c6 17. Ne3 f5 18. g3
+{ In this game, Gull from the Black side with rating 3 0 5 2 could not hold the position, allowing Peacekeeper playing White, rated 3 0 1 2 to win. The position remained tense for most of the game.1-0 }
+) ( 10... Re8 { played by 3 0 4 5 rated Marvin } 11. O-O-O h6 12. Bf4 Nbd7 13.
+Rde1 Ne5 14. Bg3 Bd7 15. h3 Rab8 16. f4 Nc6 17. Nb3 b5 18. Bf3
+{ Topple from the White side with rating 3 0 1 2 outplayed Marvin handling the Black pieces rated 3 0 4 5 and won the game. Small inaccuracies made the difference.1-0 }
+) ( 10... Na6 { played by 2 3 2 7 rated Phalanx } 11. O-O-O d5 12. Nf3 c6 13.
+d4 Nc7 14. Ne5 Re8 15. Rhe1 Bf5 16. f3 h6 17. Bh4 Ne6 18. Bf2
+{ In this game, Fornax on White with Elo 2 2 2 6 remained in control, handing Phalanx, rated 2 3 2 7, had the Black pieces a loss. The outcome was decided in the later stages.1-0 }
+) 11. O-O-O c6 12. Nb3 a5 13. a4 Be6 14. Nd4 Bd7 15. Be3 d5 16. Nb3 Na6 17. h3
+Bc7 18. g4
+{ After a long struggle, Xiphos as White rated 3 3 0 2 and Smallbrain as Black rated 3 1 8 6 shared the point. The opening quickly led to complex middlegame play.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Torch v3 64-bit 4CPU"]
+[Black "Stockfish 16.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Cozio (Lasker) attack"]
+[WhiteElo "3635"]
+[BlackElo "3638"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Qe2
+{ entered in PETROV Cozio Lasker Attack } 5... Qe7 6. d3 Nf6 7. Bg5 Qxe2+
+{ played by 3 6 3 8 rated Stockfish } 8. Bxe2 Be7
+{ played by 3 6 3 8 rated Stockfish } ( 8... Nbd7
+{ played by 2 8 9 8 rated Critter } 9. Nc3 Be7
+{ played by 3 5 1 4 rated Halogen } 10. O-O h6
+{ played by 3 5 1 4 rated Halogen } ( 10... Nf8
+{ played by 3 0 6 2 rated Stockfish } 11. a4 Ne6 12. Be3 O-O 13. d4 c6 14. Rfe1
+Bd7 15. Bd3 Rfe8 16. h3 a5
+{ In an interesting battle, Stockfish on Black with Elo 3 0 6 2 seized the initiative and handed Naum, rated 3 0 0 0, had the White pieces a loss. The outcome was decided in the later stages.0-1 }
+) ( 10... Nc5 { played by 3 0 0 5 rated Asymptote } 11. Be3 Ne6 12. Rfe1 c6 13.
+Nd4 Nxd4 14. Bxd4 O-O 15. f4 d5 16. Bf3 Bd6 17. g3 Be6 18. Kg2
+{ In an interesting battle, Neither Rybka from the White side with rating 3 0 0 3 nor Asymptote, rated 3 0 0 5, had the Black pieces could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
+) ( 10... c6 { we will see this position later on1-0 } ) 11. Be3 c6 12. Nd4 Nb6
+13. a4 Nbd5 14. Bd2 Nc7 15. b4 O-O 16. Bf3 d5 17. Nce2 Nh7 18. g3
+{ Once again, pawnocchio from the White side with rating 3 5 1 6 and Halogen as Black rated 3 5 1 4 played a balanced game which ended in a draw. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 9. Nc3 c6 { played by 3 4 4 7 rated Stockfish } ( 9... a6
+{ played by 3 2 9 1 rated Little } 10. O-O-O O-O
+{ played by 3 2 9 1 rated Little } ( 10... h6
+{ played by 3 2 6 2 rated RukChess } 11. Bh4 Nbd7 12. Rhe1 Kf8 13. Nd2 g5 14.
+Bg3 Nc5 15. d4 Ne6 16. Nc4 h5 17. h4 Ng4 18. hxg5
+{ In this game, Ynode handling the White pieces rated 3 2 3 6 and RukChess handling the Black pieces rated 3 2 6 2 played a balanced game which ended in a draw. The position remained tense for most of the game.1/2-1/2 }
+) 11. Rhe1 h6 12. Bd2 Nc6 13. h3 b5 14. Bf1 b4 15. Ne2 a5 16. g4 Bb7 17. Bg2
+Ne5 18. Nxe5
+{ Once again, Neither Alexandria as White rated 3 2 3 3 nor Little from the Black side with rating 3 2 9 1 could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
+) ( 9... Bd7 { played by 3 1 2 7 rated Andscacs } 10. d4 h6
+{ played by 2 3 9 1 rated K2 } 11. Bf4 Nc6 12. d5 Nb4 13. O-O-O g5 14. Bg3 g4
+15. Nh4 Nh5 16. a3 Na6 17. Bxa6 bxa6 18. Rhe1
+{ In this game, K2 from the Black side with rating 2 3 9 1 seized the initiative and handed Typhoon, rated 2 3 2 6, had the White pieces a loss. The opening quickly led to complex middlegame play.0-1 }
+) 10. O-O-O Na6 { played by 3 6 1 1 rated Torch } ( 10... d5
+{ played by 3 4 6 6 rated Ethereal } 11. Rde1 O-O
+{ we will see this position later on1/2-1/2 } ) 11. Rde1 h6 12. Bd2 Nc7 13. Nd4
+Kf8 14. h3 Bd7 15. g4 d5 16. Bd1 Bd6 17. Nce2 Re8 18. Nf5
+{ Once again, Clover handling the Black pieces rated 3 5 5 3 could not hold the position, allowing Torch from the White side with rating 3 6 1 1 to win. The opening quickly led to complex middlegame play.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Torch v3 64-bit 4CPU"]
+[Black "Stockfish 16.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Cozio (Lasker) attack"]
+[WhiteElo "3635"]
+[BlackElo "3638"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Qe2
+{ entered in PETROV Cozio Lasker Attack } 5... Qe7 6. d3 Nf6 7. Bg5 Qxe2+
+{ played by 3 6 3 8 rated Stockfish } 8. Bxe2 Nbd7
+{ played by 2 8 9 8 rated Critter } ( 8... Nc6
+{ played by 2 5 5 4 rated Fatalii } 9. Nc3 Be6
+{ played by 3 2 9 3 rated Marvin } 10. O-O-O d5
+{ played by 3 2 9 3 rated Marvin } ( 10... a6 { played by 3 0 9 1 rated Minic }
+11. d4 d5 12. Ne5 Nxe5 13. dxe5 Ne4 14. Nxe4 dxe4 15. Be3 h5 16. Rd4 Bf5 17.
+Rhd1 Bc5 18. Rc4
+{ In this game, Minic handling the Black pieces rated 3 0 9 1 outplayed Lc0 on White with Elo 3 1 6 6 and won as Black.0-1 }
+) 11. d4 h6 12. Bxf6 gxf6 13. Bb5 h5 14. Bxc6+ bxc6 15. Na4 h4 16. Rde1 h3 17.
+g3 O-O-O 18. Nd2
+{ Here we see that Berserk on White with Elo 3 5 1 0 converted the advantage and defeated Marvin from the Black side with rating 3 2 9 3.1-0 }
+) 9. Nc3 h6 { played by 3 5 1 1 rated Viridithas } 10. Bd2 Be7
+{ played by 3 4 6 6 rated Black } ( 10... c6 { played by 2 9 9 2 rated Zappa }
+11. O-O d5 12. Rfe1 Be7 13. Bd1 a5 14. Na4 b5 15. Nc3 Bb7 16. Bf4 Kd8 17. Nd4
+g6 18. a4
+{ Bright handling the White pieces rated 2 9 0 6 overpressed, and Zappa handling the Black pieces rated 2 9 9 2 secured the win. Both sides showed good positional understanding.0-1 }
+) ( 10... Ne5 { played by 2 8 6 1 rated Loop } 11. Nb5 Kd8 12. Nxe5 dxe5 13. d4
+e4 14. Bc4 Be6 15. Bxe6 fxe6 16. c4 Kd7 17. h3 Rd8 18. O-O-O
+{ In this game, Deep, rated 2 8 4 5, had the White pieces and Loop from the Black side with rating 2 8 6 1 played a balanced game which ended in a draw. The opening quickly led to complex middlegame play.1/2-1/2 }
+) ( 10... a6 { played by 2 8 4 8 rated Pedone } 11. O-O Be7 12. Nd4 O-O 13. Nd1
+Re8 14. Ne3 c5 15. Ndf5 Bf8 16. Ng3
+{ Here we see that After a long struggle, SmarThink handling the White pieces rated 3 0 5 8 and rofChade on Black with Elo 3 1 1 9 shared the point. Both sides showed good positional understanding.1/2-1/2 }
+) 11. O-O-O c6 12. Nd4 Nf8 13. Rde1 Bd7 14. f4 Ng6 15. g3 O-O 16. Bf3 Rfe8 17.
+a4 Nf8 18. Nd1
+{ In an interesting battle, Seer, rated 3 5 3 4, had the White pieces and Black on Black with Elo 3 4 6 6 played a balanced game which ended in a draw. The position remained tense for most of the game.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Torch v3 64-bit 4CPU"]
+[Black "Stockfish 16.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Cozio (Lasker) attack"]
+[WhiteElo "3635"]
+[BlackElo "3638"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Qe2
+{ entered in PETROV Cozio Lasker Attack } 5... Qe7 6. d3 Nf6 7. Bg5 Be6
+{ played by 3 5 6 3 rated Caissa } ( 7... Qxe2+
+{ played by 3 6 3 8 rated Stockfish } 8. Bxe2 Be7
+{ played by 3 6 3 8 rated Stockfish } 9. Nc3 h6
+{ played by 3 6 3 8 rated Stockfish } ( 9... Nc6
+{ played by 3 6 0 5 rated Horsie } 10. Nb5 Kd8
+{ played by 3 3 8 3 rated Ethereal } 11. c4 a6
+{ played by 2 6 2 6 rated MadChess } 12. Nc3 h6 13. Bd2 Be6 14. O-O Re8 15. h3
+g5 16. Be3 g4 17. hxg4 Nxg4 18. d4
+{ In this game, MadChess as Black rated 2 6 2 6 outplayed Tantabus from the White side with rating 2 5 6 0 and won as Black. Both sides showed good positional understanding.0-1 }
+) 10. Be3 Nc6 { played by 3 6 3 8 rated Stockfish } ( 10... O-O
+{ played by 3 5 0 0 rated Ethereal } 11. h3 Bd7
+{ played by 3 5 0 0 rated Ethereal } ( 11... Nbd7
+{ played by 3 2 7 7 rated Frozenight } 12. Nd4 Re8 13. g4 c6 14. O-O-O d5 15.
+Nb3 a5 16. a4 Bb4 17. Rde1 b6 18. Reg1
+{ In this game, Dark playing White, rated 3 2 1 0 remained in control, handing Frozenight, rated 3 2 7 7, had the Black pieces a loss. The position remained tense for most of the game.1-0 }
+) 12. g4 Na6 13. O-O-O Nb4 14. Rdg1 c5 15. Bd1 Bc6 16. Bd2 b5 17. h4 Nfd5 18.
+Nxd5
+{ In this game, After a long struggle, Revenge on White with Elo 3 5 1 5 and Ethereal, rated 3 5 0 0, had the Black pieces shared the point.1/2-1/2 }
+) 11. h3 a6 { played by 3 5 1 5 rated Revenge } 12. Nd4 Nxd4 13. Bxd4 Be6 14.
+Bf3 c6 15. a4 a5 16. O-O-O O-O 17. Rde1 Rfe8 18. Ne2
+{ In this game, The game between Ethereal handling the White pieces rated 3 5 0 0 and Revenge as Black rated 3 5 1 5 finished level. The position remained tense for most of the game.1/2-1/2 }
+) 8. Nc3 h6 { played by 3 5 6 3 rated Caissa } 9. Bxf6 Qxf6 10. d4 c6
+{ played by 2 6 3 6 rated Fatalii } ( 10... Be7
+{ played by 2 6 1 6 rated NoraGrace } 11. Qb5+ Nd7 12. Qxb7 Rb8 13. Qxc7 O-O
+{ In an interesting battle, Fatalii handling the White pieces rated 2 6 3 6 remained in control, handing NoraGrace as Black rated 2 6 1 6 a loss.1-0 }
+) 11. d5 cxd5 12. O-O-O Be7 13. Qb5+ Nd7 14. Nxd5 Bxd5 15. Qxd5 O-O 16. Bd3 Nc5
+17. Rhe1 a6 18. Kb1
+{ In this game, NoraGrace playing White, rated 2 6 1 6 and Fatalii on Black with Elo 2 6 3 6 played a balanced game which ended in a draw. The opening quickly led to complex middlegame play.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Torch v3 64-bit 4CPU"]
+[Black "Stockfish 16.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Cozio (Lasker) attack"]
+[WhiteElo "3635"]
+[BlackElo "3638"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Qe2
+{ entered in PETROV Cozio Lasker Attack } 5... Qe7 6. d3 Nf6 7. Bg5 Qxe2+
+{ played by 3 6 3 8 rated Stockfish } 8. Bxe2 Be7
+{ played by 3 6 3 8 rated Stockfish } 9. Nc3 O-O
+{ played by 3 4 8 9 rated Rebel } ( 9... c6
+{ played by 3 4 4 7 rated Stockfish } 10. O-O-O h6
+{ played by 3 5 6 8 rated Dragon } 11. Bd2 Na6
+{ played by 3 5 2 3 rated Koivisto } ( 11... O-O
+{ played by 3 0 4 1 rated Pirarucu } 12. Rde1 d5 13. d4 Be6 14. Bd3 Nbd7 15. h3
+Rfe8 16. Re2 b5 17. Rhe1 a5 18. g4
+{ Neither Pirarucu handling the White pieces rated 3 0 4 1 nor Winter on Black with Elo 2 9 5 0 could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
+) 12. h3 Bd7 13. Rhe1 O-O 14. Bf1 Rfe8 15. Bf4 Be6 16. Nd4 Nc7 17. Be2 Rad8 18.
+Ne4
+{ In this game, The game between Clover as White rated 3 5 1 1 and Koivisto on Black with Elo 3 5 2 3 finished level.1/2-1/2 }
+) 10. Nd4 Bd7 { played by 3 3 8 5 rated Caissa } ( 10... h6
+{ played by 2 9 0 7 rated Hiarcs } 11. Be3 c5 { played by 2 9 3 5 rated Spike }
+( 11... Bd7 { played by 2 9 0 7 rated Hiarcs } 12. Bf3 Nc6 13. Nxc6 Bxc6 14.
+Bxc6 bxc6 15. h3 Nd5 16. Nxd5 cxd5 17. O-O-O a5 18. a4
+{ In an interesting battle, After a long struggle, Spike handling the White pieces rated 2 7 5 0 and Hiarcs on Black with Elo 2 9 0 7 shared the point. Both sides showed good positional understanding.1/2-1/2 }
+) ( 11... a6 { played by 2 8 8 0 rated Spark } 12. O-O-O Ng4 13. Bf3 Nxe3 14.
+fxe3 Nd7 15. Bg4 g6 16. h4 h5 17. Bh3 Kg7 18. Nd5
+{ Here we see that The game between Sting handling the White pieces rated 3 0 5 6 and Clovis handling the Black pieces rated 2 8 6 5 finished level. Both sides showed good positional understanding.1/2-1/2 }
+) 12. Ndb5 Nc6 13. O-O-O a6 14. Nc7 Rb8 15. Bf4 Ne8 16. N3d5 Bg5 17. Bxg5 hxg5
+18. h4
+{ After a long struggle, Arasan playing White, rated 2 8 8 6 and Spike, rated 2 9 3 5, had the Black pieces shared the point. Small inaccuracies made the difference.1/2-1/2 }
+) 11. Bf3 d5 { played by 3 3 8 5 rated Caissa } ( 11... Nc6
+{ played by 2 8 9 6 rated Andscacs } 12. Nxc6 bxc6 13. h3 Rab8 14. O-O-O Rfe8
+15. b3 Nd5 16. Bd2 Nb6 17. a4 Nc8 18. Na2
+{ Once again, Gaviota handling the White pieces rated 2 8 7 6 outplayed Andscacs, rated 2 8 9 6, had the Black pieces and won the game. The position remained tense for most of the game.1-0 }
+) 12. O-O-O c6 13. h3 Na6 14. Rde1 Rae8 15. Bg4 Nc5 16. Bxd7 Ncxd7 17. Nce2 Bc5
+18. Bd2
+{ Igel handling the White pieces rated 3 5 0 0 outplayed Caissa on Black with Elo 3 3 8 5 and won the game. Small inaccuracies made the difference.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Torch v3 64-bit 4CPU"]
+[Black "Stockfish 16.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Cozio (Lasker) attack"]
+[WhiteElo "3635"]
+[BlackElo "3638"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Qe2
+{ entered in PETROV Cozio Lasker Attack } 5... Qe7 6. d3 Nf6 7. Bg5 Qxe2+
+{ played by 3 6 3 8 rated Stockfish } 8. Bxe2 Be7
+{ played by 3 6 3 8 rated Stockfish } ( 8... Nbd7
+{ played by 2 8 9 8 rated Critter } 9. Nc3 c6
+{ played by 3 6 0 3 rated RubiChess } 10. O-O Be7 11. Nd4 Nf8
+{ played by 3 5 2 7 rated rofChade } ( 11... Nc5
+{ played by 3 3 4 7 rated Seer } 12. f4 d5 13. f5 a5 14. Rae1 a4 15. Bd1 Kd8
+16. Nce2 Re8 17. Nf4 a3 18. b3
+{ In an interesting battle, Stockfish as White rated 3 5 7 7 remained in control, handing Seer as Black rated 3 3 4 7 a loss. Both sides showed good positional understanding.1-0 }
+) ( 11... h6 { played by 2 7 6 2 rated Colossus } 12. Bd2 Ne5 13. f4 Ng6 14. f5
+Ne5 15. Nb3 a5 16. Na4 Bd8 17. d4 Ned7 18. Bf4
+{ In an interesting battle, After a long struggle, Carballo handling the White pieces rated 2 7 4 0 and Colossus playing Black, rated 2 7 6 2 shared the point. The position remained tense for most of the game.1/2-1/2 }
+) 12. Bd2 d5 13. Rfe1 Ne6 14. Nf5 Bf8 15. Nd1 a5 16. Bf1 Kd8 17. Nde3 Ne8 18.
+g3
+{ The game between Viridithas from the White side with rating 3 5 1 1 and rofChade from the Black side with rating 3 5 2 7 finished level. The outcome was decided in the later stages.1/2-1/2 }
+) 9. Nc3 c6 { played by 3 4 4 7 rated Stockfish } ( 9... Bd7
+{ played by 3 1 2 7 rated Andscacs } 10. d4 O-O
+{ played by 3 1 2 7 rated Andscacs } ( 10... Nc6
+{ played by 2 5 3 0 rated Arasan } 11. O-O-O O-O
+{ we will see this position later on1/2-1/2 } ( 11... O-O-O
+{ played by 2 3 6 8 rated KnightDreamer } 12. Bc4 Rhf8 13. Rde1 Rde8 14. d5 Nb4
+15. a3 Na6 16. b4 Nb8 17. h3 h6 18. Be3
+{ Here we see that KnightDreamer as Black rated 2 3 6 8 defended accurately and defeated Prophet on White with Elo 2 5 3 3. The position remained tense for most of the game.0-1 }
+) ) 11. O-O-O h6 { played by 3 1 2 7 rated Andscacs } 12. Bxf6 Bxf6 13. Nd5 Bd8
+14. Ne3 a5 15. g4 Re8 16. Rhg1 Bc6 17. Rde1 Re4 18. Rg3
+{ Once again, Andscacs from the Black side with rating 3 1 2 7 could not hold the position, allowing Nalwald handling the White pieces rated 3 1 9 0 to win. The opening quickly led to complex middlegame play.1-0 }
+) 10. O-O-O O-O { played by 3 5 1 1 rated Clover } 11. Rde1 Bd8
+{ played by 3 5 1 1 rated Clover } 12. h3 Na6 13. g4 Nc7 14. Bd2 Ncd5 15. Nxd5
+Nxd5 16. Ng5 f5 17. Bd1 Nc7 18. Rhg1
+{ Once again, Neither Koivisto, rated 3 5 2 3, had the White pieces nor Clover as Black rated 3 5 1 1 could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Torch v3 64-bit 4CPU"]
+[Black "Stockfish 16.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Cozio (Lasker) attack"]
+[WhiteElo "3635"]
+[BlackElo "3638"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Qe2
+{ entered in PETROV Cozio Lasker Attack } 5... Qe7 6. d3 Nf6 7. Bg5 Qxe2+
+{ played by 3 6 3 8 rated Stockfish } ( 7... Nbd7
+{ played by 3 6 1 6 rated SugaR } 8. Nc3 h6 { played by 3 6 1 6 rated SugaR }
+9. Bd2 c6 { played by 3 6 1 2 rated Dragon } 10. O-O-O Qxe2 11. Bxe2 d5
+{ played by 3 6 1 2 rated Dragon } ( 11... Nc5
+{ played by 3 5 1 6 rated pawnocchio } 12. Rde1 Bd7 13. Bd1+ Kd8 14. h4 b5 15.
+Ne2 a5 16. h5 Nd5 17. Nfd4 Be7 18. g4
+{ Halogen, rated 3 5 1 4, had the White pieces and pawnocchio as Black rated 3 5 1 6 played a balanced game which ended in a draw. Small inaccuracies made the difference.1/2-1/2 }
+) ( 11... Be7 { we will see this position later on1/2-1/2 } ) 12. Rde1 Bd6 13.
+Bd1+ Kd8 14. Ne2 Ne5 15. Nxe5 Bxe5 16. f4 Bd6 17. Nd4 Kc7 18. h3
+{ In this game, The game between SugaR handling the White pieces rated 3 6 1 6 and Dragon on Black with Elo 3 6 1 2 finished level. The position remained tense for most of the game.1/2-1/2 }
+) 8. Bxe2 Nbd7 { played by 2 8 9 8 rated Critter } ( 8... Bg4
+{ played by 2 1 3 9 rated OBender } 9. Nc3 c6 10. O-O-O h6 11. Bh4 Nbd7
+{ played by 2 1 3 9 rated OBender } ( 11... Be7
+{ played by 2 0 2 3 rated BikJump } 12. Rde1 O-O 13. Nd4 Bd7 14. Bf3 Bd8 15.
+Bg3 d5 16. Bd6 Re8 17. Rxe8+ Nxe8 18. Be5
+{ In this game, BikJump from the Black side with rating 2 0 2 3 could not hold the position, allowing TJchess handling the White pieces rated 2 0 7 5 to win. Small inaccuracies made the difference.1-0 }
+) 12. h3 Bf5 13. Nd4 Bh7 14. Bf3 O-O-O 15. Bxc6 bxc6 16. Nxc6 Re8 17. Nxa7+ Kb7
+18. Nab5
+{ Here we see that FireFly playing White, rated 2 0 2 5 remained in control, handing OBender playing Black, rated 2 1 3 9 a loss. The opening quickly led to complex middlegame play.1-0 }
+) 9. Nc3 h6 { played by 3 5 1 1 rated Viridithas } 10. Bd2 Nc5
+{ played by 3 5 5 5 rated Ethereal } 11. Nd4 c6
+{ played by 3 5 5 5 rated Ethereal } ( 11... Ne6
+{ played by 3 0 5 8 rated Rybka } 12. Nxe6 Bxe6 13. Nb5 Kd7 14. a4 c5 15. a5 a6
+16. Nc3 d5 17. Na4 Kc6 18. O-O
+{ In this game, Rybka, rated 3 0 5 8, had the Black pieces could not hold the position, allowing Petrel as White rated 3 2 0 7 to win.1-0 }
+) 12. Bf3 d5 13. O-O Bd6 14. Rfe1+ Kd8 15. Nce2 Re8 16. Ng3 a5 17. Be2 Ne6 18.
+Ndf5
+{ In this game, The game between Revenge as White rated 3 5 5 8 and Ethereal from the Black side with rating 3 5 5 5 finished level. Both sides showed good positional understanding.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Torch v3 64-bit 4CPU"]
+[Black "Stockfish 16.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Cozio (Lasker) attack"]
+[WhiteElo "3635"]
+[BlackElo "3638"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Qe2
+{ entered in PETROV Cozio Lasker Attack } 5... Qe7 6. d3 Nf6 7. Bg5 Qxe2+
+{ played by 3 6 3 8 rated Stockfish } 8. Bxe2 Be7
+{ played by 3 6 3 8 rated Stockfish } 9. Nc3 h6
+{ played by 3 6 3 8 rated Stockfish } 10. Be3 Na6
+{ played by 3 6 3 5 rated Torch } ( 10... O-O
+{ played by 3 5 0 0 rated Ethereal } 11. h3 c6 { played by 3 4 8 8 rated Seer }
+( 11... Nc6 { played by 3 4 7 8 rated Clover } 12. O-O-O Bd7
+{ played by 3 4 7 8 rated Clover } 13. d4 Bd8 14. d5 Ne7 15. g4 a6 16. a3 Re8
+17. Rhg1 Ng6 18. Bd3
+{ In an interesting battle, Clover handling the Black pieces rated 3 4 7 8 defended accurately and defeated Rice playing White, rated 3 3 2 1. The outcome was decided in the later stages.0-1 }
+) ( 11... Na6 { played by 3 4 5 4 rated Minic } 12. O-O-O c6
+{ we will see this position later on1-0 } ( 12... Nb4
+{ played by 3 4 5 4 rated Minic } 13. Rde1 Nfd5 14. Nxd5 Nxd5 15. Bd2 c6 16. g4
+Bd8 17. Bd1 Bd7 18. Reg1
+{ Minic as Black rated 3 4 5 4 could not hold the position, allowing Rebel handling the White pieces rated 3 5 0 4 to win. The position remained tense for most of the game.1-0 }
+) ) 12. O-O-O Na6 { played by 3 4 8 8 rated Seer } ( 12... Re8
+{ played by 3 2 3 3 rated Alexandria } 13. Rhe1 d5 14. Bf4 b5 15. Bf1 a5 16. g4
+a4 17. a3 b4 18. axb4
+{ In an interesting battle, The game between Weiss, rated 3 2 6 4, had the White pieces and Shredder handling the Black pieces rated 3 2 4 6 finished level. Small inaccuracies made the difference.1/2-1/2 }
+) 13. Nd4 d5 14. Nb3 Re8 15. g4 Nh7 16. h4 Nc7 17. Rdg1 Bd7 18. Bd1
+{ Fat as White rated 3 5 5 9 outplayed Seer playing Black, rated 3 4 8 8 and won the game. Both sides showed good positional understanding.1-0 }
+) 11. O-O-O c6 12. Rde1 O-O { played by 3 5 8 0 rated Igel } ( 12... Kf8
+{ played by 3 5 3 9 rated Renegade } 13. Ne4 Nc7 14. a4 Bd7 15. h4 h5 16. Nxf6
+Bxf6 17. a5 Nd5 18. Bd2
+{ In this game, After a long struggle, Stockfish from the White side with rating 3 6 1 9 and Renegade, rated 3 5 3 9, had the Black pieces shared the point. The position remained tense for most of the game.1/2-1/2 }
+) 13. Ne4 Re8 14. Nxf6+ Bxf6 15. Nd2 Be7 16. Bf4 Be6 17. a3 Bd5 18. Bg4
+{ Here we see that Horsie as White rated 3 6 0 5 and Igel on Black with Elo 3 5 8 0 played a balanced game which ended in a draw. The position remained tense for most of the game.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Torch v3 64-bit 4CPU"]
+[Black "Stockfish 16.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Cozio (Lasker) attack"]
+[WhiteElo "3635"]
+[BlackElo "3638"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Qe2
+{ entered in PETROV Cozio Lasker Attack } 5... Qe7 6. d3 Nf6 7. Bg5 Qxe2+
+{ played by 3 6 3 8 rated Stockfish } 8. Bxe2 Be7
+{ played by 3 6 3 8 rated Stockfish } 9. Nc3 h6
+{ played by 3 6 3 8 rated Stockfish } ( 9... O-O
+{ played by 3 4 8 9 rated Rebel } 10. Nd4 a6 { played by 2 3 4 9 rated Sage }
+11. O-O c5 12. Nb3 h6 { played by 2 7 1 4 rated Arasan } 13. Be3 Nc6 14. d4
+cxd4 15. Nxd4 Ng4 16. Nxc6 bxc6 17. Bf4 Bf5 18. Rae1
+{ The game between DiscoCheck playing White, rated 2 7 6 3 and Arasan as Black rated 2 7 1 4 finished level. The outcome was decided in the later stages.1/2-1/2 }
+) ( 9... c6 { played by 3 4 4 7 rated Stockfish } 10. O-O-O O-O
+{ played by 3 5 1 1 rated Clover } 11. Rde1 d5
+{ played by 3 0 1 5 rated Demolito } 12. Bd1 Bc5
+{ played by 3 0 1 5 rated Demolito } 13. Bxf6 gxf6 14. d4 Bb4 15. Nh4 Be6 16.
+Re3 Bd6 17. Rf3 Kh8 18. Ne2
+{ In an interesting battle, RubiChess as White rated 3 0 7 0 and Demolito playing Black, rated 3 0 1 5 played a balanced game which ended in a draw.1/2-1/2 }
+) ( 9... Bd7 { played by 3 1 2 7 rated Andscacs } 10. d4 O-O
+{ played by 3 1 2 7 rated Andscacs } 11. O-O-O Nc6
+{ played by 2 7 6 3 rated DiscoCheck } 12. Rhe1 a6
+{ played by 2 7 6 3 rated DiscoCheck } ( 12... Rfe8
+{ played by 2 5 3 0 rated Arasan } 13. d5 Ne5 14. Nxe5 dxe5 15. Bb5 Ne4 16.
+Bxe7 Nxc3 17. bxc3 Bxb5 18. Rxe5
+{ Here we see that Arasan playing Black, rated 2 5 3 0 could not hold the position, allowing Ufim, rated 2 5 2 4, had the White pieces to win.1-0 }
+) 13. d5 Ne5 14. Nxe5 dxe5 15. f4 exf4 16. Bxa6 Bb4 17. Bxb7 Bxc3 18. bxc3
+{ In an interesting battle, After a long struggle, Arasan on White with Elo 2 7 1 4 and DiscoCheck playing Black, rated 2 7 6 3 shared the point. The outcome was decided in the later stages.1/2-1/2 }
+) 10. Be3 O-O { played by 3 5 0 0 rated Ethereal } 11. h3 Re8
+{ played by 3 3 4 5 rated Stockfish } 12. O-O-O c6
+{ we will see this position later on1/2-1/2 } ( 12... Nc6
+{ played by 3 1 8 5 rated Arasan } 13. d4 a6 14. Rhe1 b5 15. a3 Bb7 16. d5 Ne5
+17. Kb1 Nxf3 18. Bxf3
+{ Once again, RubiChess from the White side with rating 3 2 2 0 remained in control, handing Arasan as Black rated 3 1 8 5 a loss. Small inaccuracies made the difference.1-0 }
+) 1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Torch v3 64-bit 4CPU"]
+[Black "Stockfish 16.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Cozio (Lasker) attack"]
+[WhiteElo "3635"]
+[BlackElo "3638"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Qe2
+{ entered in PETROV Cozio Lasker Attack } 5... Qe7 6. d3 Nf6 7. Bg5 Qxe2+
+{ played by 3 6 3 8 rated Stockfish } 8. Bxe2 Nbd7
+{ played by 2 8 9 8 rated Critter } ( 8... Be7
+{ played by 3 6 3 8 rated Stockfish } 9. Nc3 h6
+{ played by 3 6 3 8 rated Stockfish } 10. Be3 Nc6
+{ played by 3 6 3 8 rated Stockfish } ( 10... Na6
+{ played by 3 6 3 5 rated Torch } 11. O-O-O c6 12. Rde1 Nc7
+{ played by 3 6 3 5 rated Torch } 13. Nd4 h5 { played by 3 6 3 5 rated Torch }
+( 13... O-O { played by 3 5 4 7 rated Viridithas } 14. Bf3 Re8 15. Ne4 a5 16.
+Bf4 Nxe4 17. Rxe4 d5 18. Re2
+{ In this game, The game between PlentyChess, rated 3 5 7 4, had the White pieces and Viridithas, rated 3 5 4 7, had the Black pieces finished level. The position remained tense for most of the game.1/2-1/2 }
+) 14. Bf3 d5 15. h3 Bd7 16. Bf4 Ne6 17. Nxe6 Bxe6 18. Ne2
+{ In this game, Stockfish as White rated 3 6 3 8 and Torch from the Black side with rating 3 6 3 5 played a balanced game which ended in a draw. Both sides showed good positional understanding.1/2-1/2 }
+) ( 10... O-O { played by 3 5 0 0 rated Ethereal } 11. h3 Nc6
+{ played by 3 4 7 8 rated Clover } 12. O-O-O Be6
+{ played by 3 2 5 0 rated Combusken } 13. a3 a6
+{ played by 3 2 5 0 rated Combusken } ( 13... Nd5
+{ played by 3 1 5 8 rated Roc } 14. Nxd5 Bxd5 15. c4 Be6 16. d4 d5 17. c5 Rfe8
+18. Bb5
+{ In an interesting battle, Neither Igel handling the White pieces rated 3 0 1 6 nor Roc, rated 3 1 5 8, had the Black pieces could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
+) 14. d4 Nd5 15. Nxd5 Bxd5 16. c4 Be4 17. d5 Nb8 18. Bd3
+{ In an interesting battle, Combusken playing Black, rated 3 2 5 0 seized the initiative and handed Dark, rated 3 2 1 0, had the White pieces a loss. Small inaccuracies made the difference.0-1 }
+) 11. h3 Be6 { played by 3 6 3 8 rated Stockfish } 12. O-O a6 13. a3 O-O-O
+{ played by 3 6 3 8 rated Stockfish } ( 13... g5
+{ played by 3 3 5 0 rated Tucano } 14. Nd4 Nxd4 15. Bxd4 c5 16. Be3 Rg8 17. b4
+O-O-O 18. Bd2
+{ After a long struggle, Weiss handling the White pieces rated 3 2 6 4 and Tucano on Black with Elo 3 3 5 0 shared the point. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 14. b4 g5 15. Rab1 g4 16. hxg4 Nxg4 17. Bd2 Nge5 18. b5
+{ In this game, Torch handling the White pieces rated 3 6 3 5 and Stockfish on Black with Elo 3 6 3 8 played a balanced game which ended in a draw. The position remained tense for most of the game.1/2-1/2 }
+) 9. Nc3 h6 { played by 3 5 1 1 rated Viridithas } 10. Bd2 Nb6
+{ played by 3 3 7 1 rated SugaR } 11. Nb5 Nbd5 12. c4 c6
+{ played by 3 3 7 1 rated SugaR } 13. Nbd4 Ne7 14. O-O Ng6 15. Rfe1 Be7 16. a4
+O-O 17. b4 Bd7 18. Bf1
+{ Once again, SugaR as White rated 3 3 7 1 converted the advantage and defeated NirvanaChess on Black with Elo 3 1 3 8. The opening quickly led to complex middlegame play.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Torch v3 64-bit 4CPU"]
+[Black "Stockfish 16.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Cozio (Lasker) attack"]
+[WhiteElo "3635"]
+[BlackElo "3638"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Qe2
+{ entered in PETROV Cozio Lasker Attack } 5... Qe7 6. d3 Nf6 7. Bg5 Qxe2+
+{ played by 3 6 3 8 rated Stockfish } 8. Bxe2 Be7
+{ played by 3 6 3 8 rated Stockfish } ( 8... Nbd7
+{ played by 2 8 9 8 rated Critter } 9. Nc3 Be7
+{ played by 3 5 1 4 rated Halogen } 10. O-O O-O
+{ played by 2 7 3 3 rated Twisted } 11. Rae1 c6 12. Bd1 Re8
+{ played by 2 8 2 0 rated Zappa } 13. Re3 Nb6 { played by 2 8 2 0 rated Zappa }
+( 13... Bf8 { played by 2 1 4 0 rated EveAnn } 14. Rxe8 Nxe8 15. Re1 Ndf6 16.
+Nd2 d5 17. Nb3 Bd6 18. Bf3
+{ In this game, Neither NagaSkaki handling the White pieces rated 2 1 3 6 nor EveAnn handling the Black pieces rated 2 1 4 0 could convert, and the game was drawn. Both sides showed good positional understanding.1/2-1/2 }
+) 14. Bxf6 gxf6 15. Nd4 Kf8 16. Rg3 d5 17. Bg4 Bb4 18. Nd1
+{ Once again, Neither Naum handling the White pieces rated 2 9 5 5 nor Zappa as Black rated 2 8 2 0 could convert, and the game was drawn. Both sides showed good positional understanding.1/2-1/2 }
+) 9. Nc3 Nc6 { played by 3 6 0 5 rated Horsie } ( 9... c6
+{ played by 3 4 4 7 rated Stockfish } 10. O-O-O O-O
+{ played by 3 5 1 1 rated Clover } 11. Rde1 d5
+{ played by 3 0 1 5 rated Demolito } 12. Bd1 Bd8
+{ played by 3 4 6 6 rated Ethereal } 13. h3 h6
+{ played by 3 4 6 6 rated Ethereal } ( 13... Na6
+{ played by 3 2 9 4 rated Pedone } 14. g4 Nc7 15. Ne2 c5 16. Bf4 Nfe8 17. Bg3
+a5 18. c4
+{ In this game, SugaR playing White, rated 3 5 5 2 outplayed Pedone from the Black side with rating 3 2 9 4 and won the game.1-0 }
+) 14. Bh4 Nbd7 15. g4 Nc5 16. Ne2 Ne6 17. Bg3 Ba5 18. c3
+{ In an interesting battle, After a long struggle, Dragon handling the White pieces rated 3 5 6 8 and Houdini, rated 3 4 5 6, had the Black pieces shared the point. The position remained tense for most of the game.1/2-1/2 }
+) 10. Nb5 Kd8 { played by 3 3 8 3 rated Ethereal } 11. c4 h6
+{ played by 3 3 7 9 rated Wasp } 12. Be3 Ng4 13. Nc3 Nxe3
+{ played by 3 3 7 9 rated Wasp } ( 13... Re8 { played by 3 3 2 1 rated Rice }
+14. Kd2 Bf6 15. h3 Nxe3 16. fxe3 Bxc3+ 17. bxc3 Re7 18. Nd4
+{ Here we see that Clover handling the White pieces rated 3 4 7 8 outplayed Rice from the Black side with rating 3 3 2 1 and won the game. Small inaccuracies made the difference.1-0 }
+) 14. fxe3 Ne5 15. Kd2 c6 16. Raf1 Ke8 17. b4 g6 18. b5
+{ In this game, Wasp playing Black, rated 3 3 7 9 could not hold the position, allowing Seer playing White, rated 3 4 8 8 to win. Small inaccuracies made the difference.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Torch v3 64-bit 4CPU"]
+[Black "Stockfish 16.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Cozio (Lasker) attack"]
+[WhiteElo "3635"]
+[BlackElo "3638"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Qe2
+{ entered in PETROV Cozio Lasker Attack } 5... Qe7 6. d3 Nf6 7. Bg5 Qxe2+
+{ played by 3 6 3 8 rated Stockfish } ( 7... Be6
+{ played by 3 5 6 3 rated Caissa } 8. Nc3 h6 { played by 3 5 6 3 rated Caissa }
+9. Bxf6 Qxf6 10. d4 Qe7 { played by 3 5 6 3 rated Caissa } 11. O-O-O d5 12. Rd3
+c6 13. g3 g5 { played by 3 5 6 3 rated Caissa } ( 13... Kd8
+{ played by 2 3 3 6 rated Cinnamon } 14. h4 Kc7 15. Re3 Qd8 16. Ne5 Bd6 17. Bh3
+Bxe5 18. Rxe5
+{ Arcanum, rated 2 2 2 9, had the White pieces converted the advantage and defeated Cinnamon as Black rated 2 3 3 6. The outcome was decided in the later stages.1-0 }
+) 14. Re3 Rg8 15. Ne5 Nd7 16. Bh3 Nxe5 17. Bxe6 fxe6 18. Rxe5
+{ Here we see that Arasan from the White side with rating 3 5 0 2 and Caissa as Black rated 3 5 6 3 played a balanced game which ended in a draw. The position remained tense for most of the game.1/2-1/2 }
+) 8. Bxe2 Nbd7 { played by 2 8 9 8 rated Critter } ( 8... Be7
+{ played by 3 6 3 8 rated Stockfish } 9. Nc3 O-O
+{ played by 3 4 8 9 rated Rebel } 10. Nd4 a6 { played by 2 3 4 9 rated Sage }
+11. O-O c5 12. Nb3 Nc6 { played by 2 8 6 7 rated EXchess } 13. Rfe1 Be6 14. Bf3
+Rfe8 { played by 2 8 6 7 rated EXchess } ( 14... Ra7
+{ played by 2 3 0 0 rated CyberPagno } 15. Bxc6 bxc6 16. Na5 Rc8 17. Ne4 Nxe4
+18. Bxe7
+{ After a long struggle, Bagatur playing White, rated 2 2 8 8 and CyberPagno handling the Black pieces rated 2 3 0 0 shared the point. Both sides showed good positional understanding.1/2-1/2 }
+) 15. Rad1 Nb4 16. Rd2 h6 17. Bh4 g5 18. Bg3
+{ In this game, The game between Atlas as White rated 2 8 6 1 and EXchess playing Black, rated 2 8 6 7 finished level.1/2-1/2 }
+) 9. Nc3 h6 { played by 3 5 1 1 rated Viridithas } 10. Bd2 Nb6
+{ played by 3 3 7 1 rated SugaR } 11. Nb5 Nbd5 12. c4 Bd7
+{ played by 2 2 9 3 rated Asterisk } 13. O-O Be7
+{ played by 2 3 2 6 rated Typhoon } ( 13... Bxb5
+{ played by 2 2 9 3 rated Asterisk } 14. cxb5 Be7 15. Nd4 O-O 16. Nf5 Rfe8 17.
+Bf3 a6 18. bxa6
+{ Rodin playing White, rated 2 3 0 2 remained in control, handing Asterisk handling the Black pieces rated 2 2 9 3 a loss. The opening quickly led to complex middlegame play.1-0 }
+) 14. Nfd4 c6 15. cxd5 cxb5 16. Bf3 O-O 17. Rfe1 Rfe8 18. Rac1
+{ Here we see that K2 handling the White pieces rated 2 3 9 1 outplayed Typhoon handling the Black pieces rated 2 3 2 6 and won the game. The outcome was decided in the later stages.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Torch v3 64-bit 4CPU"]
+[Black "Stockfish 16.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Cozio (Lasker) attack"]
+[WhiteElo "3635"]
+[BlackElo "3638"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Qe2
+{ entered in PETROV Cozio Lasker Attack } 5... Qe7 6. d3 Nf6 7. Bg5 Qxe2+
+{ played by 3 6 3 8 rated Stockfish } ( 7... Be6
+{ played by 3 5 6 3 rated Caissa } 8. Nc3 h6 { played by 3 5 6 3 rated Caissa }
+9. Bxf6 Qxf6 10. d4 Qe7 { played by 3 5 6 3 rated Caissa } 11. O-O-O d5 12. Rd3
+c6 13. g3 Na6 { played by 3 5 0 2 rated Arasan } 14. Re3 O-O-O
+{ played by 3 2 5 8 rated Nalwald } ( 14... Nc7
+{ played by 3 5 0 2 rated Arasan } 15. Bh3 O-O-O 16. Bxe6+ Nxe6
+{ played by 3 5 0 2 rated Arasan } ( 16... fxe6 { played by 2 6 4 1 rated ECE }
+17. Ne5 Rg8 18. Rf3
+{ In this game, Bagatur handling the White pieces rated 2 5 1 0 converted the advantage and defeated ECE as Black rated 2 6 4 1. Small inaccuracies made the difference.1-0 }
+) 17. Rd1 Kb8 18. Ne5
+{ Once again, After a long struggle, Caissa handling the White pieces rated 3 5 6 3 and Arasan from the Black side with rating 3 5 0 2 shared the point. Both sides showed good positional understanding.1/2-1/2 }
+) 15. Qd2 Nc7 16. Bh3 g5 17. Bxe6+ Nxe6 18. Rhe1
+{ In an interesting battle, Cheng on White with Elo 3 3 2 7 converted the advantage and defeated Nalwald from the Black side with rating 3 2 5 8. The position remained tense for most of the game.1-0 }
+) 8. Bxe2 Nbd7 { played by 2 8 9 8 rated Critter } 9. Nc3 Be7
+{ played by 3 5 1 4 rated Halogen } 10. O-O O-O
+{ played by 2 7 3 3 rated Twisted } 11. Rae1 c6 12. Bd1 Bd8
+{ played by 2 7 5 7 rated Glaurung } 13. Bf4 Bc7 14. Re7 Nh5
+{ played by 2 7 5 7 rated Glaurung } ( 14... b5
+{ played by 2 5 1 2 rated Movei } 15. Rfe1 b4 16. Ne4 Nd5 17. Nxd6 N7f6 18.
+Rxc7
+{ In this game, Homer on White with Elo 2 4 0 3 overpressed, and Movei on Black with Elo 2 5 1 2 secured the win. Small inaccuracies made the difference.0-1 }
+) 15. Bd2 Nhf6 16. h3 d5 17. Bg5 Bd8 18. Ree1
+{ In an interesting battle, Naum, rated 2 9 5 5, had the White pieces outplayed Glaurung handling the Black pieces rated 2 7 5 7 and won the game. Both sides showed good positional understanding.1-0 }
+1/2-1/2
+
+
+

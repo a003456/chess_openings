@@ -1,0 +1,74 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Revenge 3.0 64-bit"]
+[Black "Stockfish 16.1 64-bit"]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Blumenfeld attack"]
+[WhiteElo "3515"]
+[BlackElo "3620"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. Nb5
+{ entered in SCOTCH Blumenfeld Attack } 6... Bxe3 7. fxe3 Qh4+ 8. g3 Qd8
+{ played by 3 6 2 0 rated Stockfish } ( 8... Qxe4
+{ played by 3 2 4 0 rated Houdini } 9. Nxc7+ Kf8
+{ played by 2 6 5 8 rated CM10th } ( 9... Kd8
+{ played by 3 2 4 0 rated Houdini } 10. Nxa8 Nf6 11. Nc3 Qxh1 12. Qd2 Re8
+{ played by 3 2 4 0 rated Houdini } ( 12... Ng4
+{ played by 2 5 9 0 rated Alfil } 13. O-O-O Qxh2 14. Qd6 Nxe3 15. Qc7+ Ke7 16.
+Nd5+ Nxd5 17. Re1+ Kf6 18. Qd6+ Kg5 19. Qxd5+
+{ In an interesting battle, Booot playing Black, rated 2 5 6 6 seized the initiative and handed Chess playing White, rated 2 6 2 1 a loss. Small inaccuracies made the difference.0-1 }
+) 13. O-O-O Qf3 14. Re1 Ne4 15. Nxe4 Qxe4 16. Bg2 Qe5 17. Bd5 Re7 18. a3 d6 19.
+Kb1
+{ In this game, Houdini from the Black side with rating 3 2 4 0 seized the initiative and handed Chiron on White with Elo 3 0 6 9 a loss. The opening quickly led to complex middlegame play.0-1 }
+) 10. Nxa8 Qxh1 11. Qd2 Qe4 12. Nc3 Qe5 13. O-O-O Nge7 14. Nb5 Qb8 15. Bg2 Qxa8
+16. Bxc6 Nxc6 17. Nd6 f6 18. Qd3 Ne5 19. Qa3
+{ Here we see that Neither Chess handling the White pieces rated 2 6 8 0 nor CM10th playing Black, rated 2 6 5 8 could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
+) 9. Qg4 g5 { played by 2 5 2 3 rated Arasan } ( 9... g6
+{ played by 3 6 2 0 rated Stockfish } 10. Qf4 d6 11. N1c3 a6
+{ played by 3 1 5 5 rated Orion } ( 11... Ne5
+{ played by 3 6 2 0 rated Stockfish } 12. O-O-O a6 13. Nd4 Nf6
+{ played by 2 8 8 9 rated Lozza } 14. Be2 O-O 15. h3 Nfd7 16. g4 c6 17. h4 b5
+18. g5 Qe7 19. h5
+{ In this game, Pluto from the White side with rating 2 8 9 5 converted the advantage and defeated Lozza, rated 2 8 8 9, had the Black pieces. Both sides showed good positional understanding.1-0 }
+) 12. Nd4 Ne5 13. Be2 Bh3 14. O-O-O h5 15. Kb1 Nf6 16. Rd2 Qe7 17. Bf1 Bd7 18.
+h3 c6 19. Bg2
+{ Once again, After a long struggle, Perseus from the White side with rating 3 1 1 6 and Orion from the Black side with rating 3 1 5 5 shared the point. Both sides showed good positional understanding.1/2-1/2 }
+) 10. N1c3 d6 11. Qe2 a6 12. Nd4 Ne5 13. Bg2 Bg4 14. Qd2 Qd7 15. Nd5 O-O-O 16.
+Qc3 Kb8 17. h3 Bh5 18. O-O c6 19. Nb6
+{ In an interesting battle, Aurora, rated 2 5 9 7, had the White pieces converted the advantage and defeated Arasan playing Black, rated 2 5 2 3. Small inaccuracies made the difference.1-0 }
+0-1
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Revenge 3.0 64-bit"]
+[Black "Stockfish 16.1 64-bit"]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Blumenfeld attack"]
+[WhiteElo "3515"]
+[BlackElo "3620"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. Nb5
+{ entered in SCOTCH Blumenfeld Attack } 6... Bxe3 7. fxe3 Qh4+ 8. g3 Qd8
+{ played by 3 6 2 0 rated Stockfish } 9. Qg4 g6
+{ played by 3 6 2 0 rated Stockfish } 10. Qf4 d6 11. N1c3 Ne5
+{ played by 3 6 2 0 rated Stockfish } 12. O-O-O a6 13. Nd4 Bg4
+{ played by 3 6 2 0 rated Stockfish } 14. Be2 h5 15. h3 Bxe2 16. Ndxe2 c6
+{ played by 3 6 2 0 rated Stockfish } ( 16... Qd7
+{ played by 3 5 6 7 rated Clover } 17. Rh2 O-O-O 18. Qf1 c6 19. Rf2
+{ Here we see that After a long struggle, Stockfish, rated 3 6 2 0, had the White pieces and Revenge playing Black, rated 3 5 1 5 shared the point.1/2-1/2 }
+) 17. Rhf1 Kf8 18. Nd4 Qe7 19. Rf2
+{ Here we see that Revenge on White with Elo 3 5 1 5 overpressed, and Stockfish handling the Black pieces rated 3 6 2 0 secured the win. The position remained tense for most of the game.0-1 }
+0-1
+
+
+

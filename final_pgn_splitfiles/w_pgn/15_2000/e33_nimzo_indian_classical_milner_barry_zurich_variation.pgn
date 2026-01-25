@@ -1,0 +1,223 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17.1 64-bit 4CPU"]
+[Black "SlowChess Blitz 2.9 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "E33"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Milner-Barry (Zurich) variation"]
+[WhiteElo "3645"]
+[BlackElo "3545"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. Nf3 d6
+{ entered in NIMZO Indian Classical Milner Barry Zurich Variation } 6. e3 O-O
+7. Bd2 e5 { played by 3 0 4 5 rated Deep } ( 7... Qe7
+{ played by 3 6 4 5 rated Stockfish } 8. a3 Bxc3 9. Bxc3 g6
+{ played by 3 0 9 1 rated Naum } 10. Bd3 e5 11. dxe5 Nxe5 12. Nxe5 dxe5 13. b4
+b6 14. O-O Bb7 15. Qb2 Rfe8 16. f3 Bc6 17. Bc2 Nh5 18. Bb3 a5 19. Rfe1
+{ In an interesting battle, Critter as White rated 3 1 9 4 remained in control, handing Naum handling the Black pieces rated 3 0 9 1 a loss. The position remained tense for most of the game.1-0 }
+) 8. d5 e4 { played by 2 5 1 0 rated Bagatur } ( 8... Na5
+{ played by 2 4 4 3 rated Quark } 9. a3 Bxc3 10. Bxc3 b6 11. b4 Nb7 12. Nd2 a5
+13. Bd3 Qe7 14. O-O Bd7 15. f3 c6 16. dxc6 Bxc6 17. Rfb1 Kh8 18. Bf5 Nd8 19.
+bxa5
+{ In an interesting battle, Quark from the Black side with rating 2 4 4 3 could not hold the position, allowing Thinker from the White side with rating 2 5 3 3 to win. The opening quickly led to complex middlegame play.1-0 }
+) ( 8... Ne7 { played by 3 0 4 5 rated Deep } 9. Bd3 Bd7
+{ played by 3 0 4 5 rated Deep } ( 9... c6 { played by 2 7 2 5 rated GreKo }
+10. dxc6 bxc6 11. a3 Ba5 12. O-O Rb8 13. b4 Bc7 14. e4 Bg4 15. Be2 a5 16. h3
+Bd7 17. Rfb1 Ng6 18. Bg5 h6 19. Be3
+{ Once again, The game between Arminius handling the White pieces rated 2 7 4 0 and GreKo, rated 2 7 2 5, had the Black pieces finished level. The outcome was decided in the later stages.1/2-1/2 }
+) ( 9... Ng6 { played by 2 5 7 9 rated Coiled } 10. a3 Bxc3 11. Bxc3 Bd7 12. h4
+h6 13. b3 c6 14. dxc6 Bxc6 15. h5 Ne7 16. e4 Qb6 17. b4 Rac8 18. Rb1 Bxe4 19.
+Bxe4
+{ In an interesting battle, After a long struggle, Orion on White with Elo 2 5 1 2 and Coiled, rated 2 5 7 9, had the Black pieces shared the point. The opening quickly led to complex middlegame play.1/2-1/2 }
+) ( 9... Bg4 { played by 2 4 8 2 rated Tao } 10. a3 Bxf3 11. gxf3 Ba5 12. O-O-O
+Qd7 13. h4 Bb6 14. Kb1 a6 15. h5 h6 16. Rdg1 c6 17. dxc6 Qxc6 18. e4 Kh8 19.
+Qc1
+{ In this game, Bagatur playing White, rated 2 5 1 0 overpressed, and FrankWalter as Black rated 2 4 3 4 secured the win. Both sides showed good positional understanding.0-1 }
+) 10. Ng5 h6 11. Nh7 Nxh7 12. Bxh7+ Kh8 13. Bd3 a5 14. Be2 Bf5 15. Qb3 Ng8 16.
+a3 Bxc3 17. Qxc3 Nf6 18. f3 Nd7 19. O-O
+{ Here we see that Deep, rated 3 0 4 5, had the Black pieces seized the initiative and handed Stockfish on White with Elo 3 1 8 9 a loss. The position remained tense for most of the game.0-1 }
+) 9. Ng5 Ne5 10. Ngxe4 Bf5 11. Nxf6+ Qxf6 12. Qb3 Bc5 13. Na4 Bb6 14. h4 Rfe8
+15. Bc3 Qh6 16. Nxb6 axb6 17. Qd1 f6 18. a3 Qf4 19. Bd4
+{ Here we see that FrankWalter from the White side with rating 2 4 3 4 converted the advantage and defeated Bagatur from the Black side with rating 2 5 1 0. Small inaccuracies made the difference.1-0 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17.1 64-bit 4CPU"]
+[Black "SlowChess Blitz 2.9 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "E33"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Milner-Barry (Zurich) variation"]
+[WhiteElo "3645"]
+[BlackElo "3545"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. Nf3 d6
+{ entered in NIMZO Indian Classical Milner Barry Zurich Variation } 6. e3 O-O
+7. Bd2 Qe7 { played by 3 6 4 5 rated Stockfish } 8. a3 Bxc3 9. Bxc3 e5
+{ played by 3 6 4 5 rated Stockfish } ( 9... a5
+{ played by 3 3 4 9 rated Houdini } 10. Bd3 Re8
+{ played by 2 7 3 4 rated Jacky } 11. d5 exd5 12. Bxf6 Qxf6 13. cxd5 Nd4 14.
+Nxd4 Qxd4 15. Rd1 Qh4 16. O-O Re7 17. Rc1 b6 18. f4 Bb7 19. Rf3
+{ Once again, Neither Loop playing White, rated 2 7 9 2 nor Jacky from the Black side with rating 2 6 7 1 could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
+) ( 9... Bd7 { played by 2 4 6 0 rated Jumbo } 10. Bd3 Rae8
+{ played by 2 4 6 0 rated Jumbo } ( 10... g6
+{ played by 2 3 2 4 rated OliThink } 11. O-O a6 12. d5 Na7 13. e4 e5 14. Qb3 b6
+15. Qc2 Nh5 16. Bd2 Nf4 17. Bxf4 exf4 18. Qc3 f6 19. Rfe1
+{ In this game, Zeus from the White side with rating 2 2 6 2 converted the advantage and defeated OliThink as Black rated 2 3 2 4. The opening quickly led to complex middlegame play.1-0 }
+) ( 10... d5 { played by 2 2 6 2 rated Zeus } 11. Ne5 dxc4 12. Bxc4 Rfd8 13.
+Nxd7 Rxd7 14. g3 e5 15. dxe5 Nxe5 16. Bb5 c6 17. Be2 Qc5 18. Qf5 Rd5 19. O-O
+{ In this game, OliThink playing White, rated 2 3 2 4 outplayed Zeus playing Black, rated 2 2 6 2 and won the game. Both sides showed good positional understanding.1-0 }
+) 11. O-O e5 12. dxe5 Nxe5 13. Nxe5 dxe5 14. Rad1 Bg4 15. f3 e4 16. Bxf6 exd3
+17. Rxd3 Qxf6 18. fxg4 Qg6 19. Qe2
+{ In an interesting battle, The game between Simplex on White with Elo 2 3 7 4 and Jumbo handling the Black pieces rated 2 4 6 0 finished level.1/2-1/2 }
+) ( 9... Re8 { played by 2 4 1 1 rated NoC } 10. Be2 b6
+{ played by 2 4 1 1 rated NoC } ( 10... e5 { played by 2 1 8 2 rated Dolphin }
+11. d5 Nb8 12. O-O c6 13. e4 Bg4 14. b4 Rc8 15. Rac1 Nbd7 16. Rfd1 cxd5 17.
+cxd5 a5 18. h3 axb4 19. axb4
+{ Once again, Isa handling the White pieces rated 2 2 8 2 remained in control, handing Dolphin handling the Black pieces rated 2 1 8 2 a loss. Both sides showed good positional understanding.1-0 }
+) 11. O-O Bb7 12. b4 a5 13. Rfb1 h6 14. Kh1 Rec8 15. Bd3 g5 16. Qb2 Nd7 17. Nd2
+g4 18. b5 Ncb8 19. a4
+{ Here we see that NoC handling the Black pieces rated 2 4 1 1 could not hold the position, allowing Arasan handling the White pieces rated 2 4 5 5 to win. The outcome was decided in the later stages.1-0 }
+) 10. d5 Nd8 { played by 2 2 0 9 rated RattateChess } 11. Bd3 c6 12. dxc6 Nxc6
+13. Ng5 h6 14. Nh7 Nxh7 15. Bxh7+ Kh8 16. Bd3 Qh4 17. O-O Be6 18. f4 exf4 19.
+Rxf4
+{ In this game, The game between Butcher as White rated 2 2 4 2 and RattateChess as Black rated 2 2 0 9 finished level.1/2-1/2 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17.1 64-bit 4CPU"]
+[Black "SlowChess Blitz 2.9 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "E33"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Milner-Barry (Zurich) variation"]
+[WhiteElo "3645"]
+[BlackElo "3545"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. Nf3 d6
+{ entered in NIMZO Indian Classical Milner Barry Zurich Variation } 6. e3 O-O
+7. Bd2 Qe7 { played by 3 6 4 5 rated Stockfish } 8. a3 Bxc3 9. Bxc3 e5
+{ played by 3 6 4 5 rated Stockfish } ( 9... a5
+{ played by 3 3 4 9 rated Houdini } 10. Bd3 e5
+{ played by 3 3 4 9 rated Houdini } 11. d5 Nb8 12. Ng5 g6
+{ played by 3 3 4 9 rated Houdini } 13. O-O a4
+{ played by 3 3 4 9 rated Houdini } ( 13... Nfd7
+{ played by 3 3 1 1 rated Fire } 14. f4 Nc5 15. Ne4 Nxd3 16. Qxd3 Nd7 17. fxe5
+Nxe5 18. Bxe5 Qxe5 19. Nf6+
+{ Once again, Stockfish as Black rated 3 3 0 2 could not hold the position, allowing Komodo playing White, rated 3 3 1 4 to win. Both sides showed good positional understanding.1-0 }
+) ( 13... Ng4 { played by 3 1 6 9 rated Andscacs } 14. Nf3 a4 15. h3 Nf6 16. e4
+Nfd7 17. Qd1 Nc5 18. Bc2 f5 19. Nxe5
+{ Here we see that Houdini as White rated 3 3 4 9 outplayed Andscacs from the Black side with rating 3 1 6 9 and won the game. Both sides showed good positional understanding.1-0 }
+) ( 13... Nxd5 { played by 3 1 0 9 rated Bouquet } 14. cxd5 Qxg5 15. f4 Qe7 16.
+fxe5 dxe5 17. b4 c6 18. bxa5 Qc5 19. Rac1
+{ In this game, Komodo as White rated 3 3 4 4 outplayed Bouquet on Black with Elo 3 1 0 9 and won the game. Small inaccuracies made the difference.1-0 }
+) 14. f4 Nbd7 15. Rf3 Nc5 16. Raf1 Nxd3 17. Qxd3 e4 18. Bxf6 Qxf6 19. Nxe4
+{ Here we see that Neither Andscacs as White rated 3 1 6 9 nor Houdini as Black rated 3 3 4 9 could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+) 10. d5 Nb8 { played by 3 6 4 5 rated Stockfish } 11. b4 b5
+{ played by 3 5 4 5 rated SlowChess } ( 11... c6
+{ played by 3 3 6 6 rated Pedone } 12. dxc6 Nxc6 13. b5 e4 14. bxc6 exf3 15.
+gxf3 bxc6 16. Rb1 Be6 17. Bd3 Rfb8 18. Bb2 Rb6 19. a4
+{ In an interesting battle, After a long struggle, Invictus as White rated 3 2 0 7 and Pedone on Black with Elo 3 3 6 6 shared the point. The opening quickly led to complex middlegame play.1/2-1/2 }
+) ( 11... a5 { played by 3 3 3 2 rated Komodo } 12. bxa5 Na6 13. Nd2 Re8 14.
+Be2 Nd7 15. O-O Ndc5 16. Rab1 Qg5 17. g3 Bd7 18. Rb2 Bf5 19. e4
+{ Here we see that After a long struggle, Defenchess, rated 3 2 5 2, had the White pieces and Komodo as Black rated 3 3 3 2 shared the point. The position remained tense for most of the game.1/2-1/2 }
+) ( 11... Bg4 { played by 3 1 1 5 rated Fire } 12. Nd2 Nbd7
+{ played by 3 1 1 5 rated Fire } ( 12... c6
+{ played by 2 6 0 7 rated Hamsters } 13. e4 cxd5 14. cxd5 Na6 15. Bc4 Nh5 16.
+Nf1 Rac8 17. Ne3 Qg5 18. Bd3 Nf4 19. Bf1
+{ Once again, Hamsters as Black rated 2 6 0 7 seized the initiative and handed Weiss, rated 2 6 2 7, had the White pieces a loss. Small inaccuracies made the difference.0-1 }
+) 13. e4 c6 14. f3 cxd5 15. cxd5 Bh5 16. Nc4 Rac8 17. Qd3 Bg6 18. g3 b5 19. Ne3
+{ In this game, Neither Komodo playing White, rated 3 2 1 7 nor Fire handling the Black pieces rated 3 1 1 5 could convert, and the game was drawn.1/2-1/2 }
+) 12. cxb5 Nxd5 13. Be2 h6 14. O-O Be6 15. Rac1 Nd7 16. g3 f5 17. Nh4 Qf7 18.
+Ba1 Rac8 19. Ng2
+{ Stockfish from the White side with rating 3 6 4 5 converted the advantage and defeated SlowChess handling the Black pieces rated 3 5 4 5. The outcome was decided in the later stages.1-0 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17.1 64-bit 4CPU"]
+[Black "SlowChess Blitz 2.9 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "E33"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Milner-Barry (Zurich) variation"]
+[WhiteElo "3645"]
+[BlackElo "3545"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. Nf3 d6
+{ entered in NIMZO Indian Classical Milner Barry Zurich Variation } 6. e3 O-O
+7. Bd2 Qe7 { played by 3 6 4 5 rated Stockfish } 8. a3 Bxc3 9. Bxc3 a5
+{ played by 3 3 4 9 rated Houdini } 10. Bd3 e5
+{ played by 3 3 4 9 rated Houdini } 11. d5 Nb8 12. Ng5 g6
+{ played by 3 3 4 9 rated Houdini } ( 12... h6
+{ played by 3 1 8 8 rated Booot } 13. Nh7 Nxh7 14. Bxh7+ Kh8 15. Bd3 Na6
+{ played by 3 1 8 8 rated Booot } ( 15... a4 { played by 2 9 7 7 rated Naum }
+16. O-O f5 { played by 2 9 7 7 rated Naum } ( 16... Nd7
+{ played by 2 4 7 4 rated MadChess } 17. Bb4 Nc5 18. Bxc5 dxc5 19. f3
+{ Here we see that MadChess from the Black side with rating 2 4 7 4 outplayed RomiChess on White with Elo 2 3 2 5 and won as Black. The outcome was decided in the later stages.0-1 }
+) 17. c5 dxc5 18. Rad1 e4 19. Be2
+{ Once again, ChessBrainVB playing White, rated 3 0 5 8 remained in control, handing Naum playing Black, rated 2 9 7 7 a loss. The opening quickly led to complex middlegame play.1-0 }
+) 16. Be2 Qg5 17. O-O Bf5 18. Qd1 Bh3 19. Bf3
+{ In this game, After a long struggle, Booot as White rated 3 1 8 8 and ChessBrainVB playing Black, rated 3 0 5 8 shared the point. Both sides showed good positional understanding.1/2-1/2 }
+) 13. O-O Nbd7 { played by 3 3 4 4 rated Komodo } 14. b4 Nxd5
+{ played by 3 2 8 0 rated Xiphos } ( 14... b5
+{ played by 3 3 4 4 rated Komodo } 15. e4 bxc4
+{ played by 3 3 4 4 rated Komodo } ( 15... Nh5
+{ played by 3 3 1 4 rated Komodo } 16. Bd2 Nf4 17. h4 bxc4 18. Bxc4 h6 19. Nf3
+{ In an interesting battle, Komodo handling the Black pieces rated 3 3 1 4 could not hold the position, allowing Stockfish on White with Elo 3 3 0 2 to win.1-0 }
+) 16. Bxc4 Nb6 17. Bd2 Nh5 18. Bd3 Nf4 19. Bxf4
+{ Once again, Komodo from the Black side with rating 3 3 4 4 defended accurately and defeated Bouquet as White rated 3 1 0 9. Small inaccuracies made the difference.0-1 }
+) 15. cxd5 Qxg5 16. Bd2 axb4 17. axb4 Rxa1 18. Rxa1 Nf6 19. e4
+{ In an interesting battle, After a long struggle, Fire on White with Elo 3 3 1 1 and Xiphos as Black rated 3 2 8 0 shared the point. Both sides showed good positional understanding.1/2-1/2 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17.1 64-bit 4CPU"]
+[Black "SlowChess Blitz 2.9 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "E33"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Milner-Barry (Zurich) variation"]
+[WhiteElo "3645"]
+[BlackElo "3545"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. Nf3 d6
+{ entered in NIMZO Indian Classical Milner Barry Zurich Variation } 6. e3 O-O
+7. Bd2 Qe7 { played by 3 6 4 5 rated Stockfish } 8. a3 Bxc3 9. Bxc3 a5
+{ played by 3 3 4 9 rated Houdini } 10. Bd3 e5
+{ played by 3 3 4 9 rated Houdini } 11. d5 Nb8 12. Ng5 h6
+{ played by 3 1 8 8 rated Booot } 13. Nh7 Nxh7 14. Bxh7+ Kh8 15. Bd3 Nd7
+{ played by 3 0 6 7 rated Sting } 16. b4 axb4 17. axb4 Rxa1+ 18. Bxa1 b5
+{ played by 3 0 6 7 rated Sting } ( 18... Nf6
+{ played by 2 5 4 2 rated Frenzee } 19. Bc3
+{ In an interesting battle, GreKo on White with Elo 2 5 7 2 converted the advantage and defeated Frenzee from the Black side with rating 2 5 4 2. The position remained tense for most of the game.1-0 }
+) ( 18... Nb6 { played by 2 3 2 5 rated RomiChess } 19. O-O
+{ RomiChess handling the Black pieces rated 2 3 2 5 defended accurately and defeated MadChess playing White, rated 2 4 7 4. The position remained tense for most of the game.0-1 }
+) 19. cxb5
+{ Here we see that Amoeba playing White, rated 2 9 9 0 and Sting handling the Black pieces rated 3 0 6 7 played a balanced game which ended in a draw. Small inaccuracies made the difference.1/2-1/2 }
+1-0
+
+
+

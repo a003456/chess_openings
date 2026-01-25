@@ -1,0 +1,177 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16.1 64-bit 4CPU"]
+[Black "Berserk 13 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[Variation ""]
+[WhiteElo "3638"]
+[BlackElo "3617"]
+
+1. e4 e5 2. Nf3 d5 { entered in QP Counter Gambit Elephant Gambit } 3. d3
+{ played by 3 6 0 0 rated Caissa } ( 3. d4 { played by 3 5 9 9 rated Ethereal }
+3... dxe4 4. Nxe5 Bd6 { we will see this position later on1/2-1/2 } ) ( 3. Nc3
+{ played by 2 6 8 7 rated Chessmaster } 3... d4 4. Ne2 Bd6 5. Ng3 Ne7 6. Bc4 h6
+7. a3 c5 8. d3 Nbc6 9. Nh4 g6 10. O-O Ng8 11. Nf3 Nf6 12. Bd2 a6 13. Qc1 Bg4
+14. Bxh6 Bxf3 15. gxf3 Ng8 16. Bg5
+{ In an interesting battle, Chessmaster playing Black, rated 2 6 8 7 defended accurately and defeated Hamsters as White rated 2 6 0 6.0-1 }
+) ( 3. exd5 { played by 3 6 3 8 rated Stockfish } 3... e4 4. Qe2
+{ played by 3 6 3 8 rated Stockfish } 4... Nf6 5. d3
+{ played by 3 6 3 8 rated Stockfish } ( 5. Nc3 { played by 2 8 8 6 rated The }
+5... Be7 6. Nxe4 O-O
+{ Once again, Spark handling the Black pieces rated 2 8 8 0 could not hold the position, allowing The as White rated 2 8 8 6 to win. The position remained tense for most of the game.1-0 }
+) 5... Bb4+ 6. c3 Bc5 7. dxe4 O-O
+{ Once again, Stockfish from the White side with rating 3 6 3 8 remained in control, handing Berserk from the Black side with rating 3 6 1 7 a loss. Small inaccuracies made the difference.1-0 }
+) ( 3. Nxe5 { played by 3 6 1 7 rated Berserk } 3... Bd6 4. d4 dxe4 5. Bc4
+{ played by 3 6 1 7 rated Berserk } 5... Bxe5 6. Qh5 Qe7 7. Qxe5
+{ played by 3 6 1 7 rated Berserk } 7... Qxe5 8. dxe5 Nc6 9. Nc3 Bf5 10. Bf4
+Rd8 11. Nd5 Rd7 12. O-O-O Be6 13. Bb3 Na5 14. Nc3 Nxb3+ 15. axb3 Ne7 16. Nxe4
+{ In this game, Ethereal handling the White pieces rated 3 5 9 9 and Stockfish, rated 3 6 4 3, had the Black pieces played a balanced game which ended in a draw. The position remained tense for most of the game.1/2-1/2 }
+) 3... dxe4 4. dxe4 Qxd1+ 5. Kxd1 Nf6 6. Bb5+ Bd7 7. Bxd7+ Nbxd7 8. Nbd2 g5 9.
+c3 Bc5 10. Ke2 Rg8 11. Ne1 h5 12. h4 g4 13. f3 O-O-O 14. Nc4 Ne8 15. Nd3 gxf3+
+16. gxf3
+{ In this game, Neither Caissa as White rated 3 6 0 0 nor Berserk handling the Black pieces rated 3 6 1 7 could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16.1 64-bit 4CPU"]
+[Black "Berserk 13 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[Variation ""]
+[WhiteElo "3638"]
+[BlackElo "3617"]
+
+1. e4 e5 2. Nf3 d5 { entered in QP Counter Gambit Elephant Gambit } 3. exd5
+{ played by 3 6 3 8 rated Stockfish } ( 3. Nxe5
+{ played by 3 6 1 7 rated Berserk } 3... Bd6 4. d4 dxe4 5. Nc3
+{ played by 3 5 5 9 rated Fat } 5... Bxe5 6. dxe5 Qxd1+ 7. Nxd1
+{ played by 3 5 8 2 rated Caissa } 7... Nc6 8. Nc3 Bf5 9. Bg5
+{ played by 3 5 8 2 rated Caissa } ( 9. Bf4 { played by 3 5 5 9 rated Fat }
+9... O-O-O 10. Bc4 f6 11. exf6 Nxf6 12. Be3 Nb4 13. Bb3 Rhe8 14. Rd1 Rxd1+ 15.
+Kxd1 Be6 16. Bxe6+
+{ Here we see that Revenge, rated 3 4 6 9, had the White pieces and Fat handling the Black pieces rated 3 5 5 9 played a balanced game which ended in a draw. Both sides showed good positional understanding.1/2-1/2 }
+) ( 9. Bb5 { played by 3 3 5 4 rated HIARCS } 9... Ne7 10. Bg5 a6 11. Bxc6+
+Nxc6 12. O-O-O O-O 13. Nd5 Rac8 14. h3 h6 15. Bh4 Rfe8 16. Rhe1
+{ In this game, Neither HIARCS from the White side with rating 3 3 5 4 nor Velvet on Black with Elo 3 3 6 1 could convert, and the game was drawn. Both sides showed good positional understanding.1/2-1/2 }
+) 9... Nge7 10. O-O-O Nxe5 11. Bxe7 Kxe7 12. Nd5+ Kf8 13. Nxc7 Rb8 14. Nb5 g6
+15. h3 Kg7 16. Re1
+{ In an interesting battle, After a long struggle, Caissa on White with Elo 3 5 8 2 and Velvet from the Black side with rating 3 5 3 2 shared the point. Both sides showed good positional understanding.1/2-1/2 }
+) ( 3. Bb5+ { played by 2 6 8 1 rated Fridolin } 3... c6 4. Be2 Bd6 5. d3 d4 6.
+Bg5 f6 7. Bh4 Ne7 8. Nbd2 Be6 9. O-O { played by 2 4 2 6 rated SoFCheck } 9...
+O-O 10. Bg3 { we will see this position later on0-1 } ) 3... e4 4. Nd4
+{ played by 3 6 2 0 rated Stockfish } ( 4. Ne5
+{ played by 2 5 4 8 rated Avalanche } 4... Qxd5 5. d4 exd3 6. Nxd3 Be7 7. Nc3
+Qa5 8. Be2 Nf6 9. O-O O-O 10. a3 { played by 2 5 4 8 rated Avalanche } ( 10.
+Bf3 { played by 2 5 4 8 rated Avalanche } 10... Nc6 11. Re1 Be6 12. Nf4 Rad8
+13. Bd2 Qf5 14. Nxe6 fxe6 15. Bxc6 bxc6 16. Qe2
+{ Here we see that Sorgenkind playing Black, rated 2 3 6 0 seized the initiative and handed Avalanche from the White side with rating 2 5 4 8 a loss. Small inaccuracies made the difference.0-1 }
+) 10... Nc6 11. Be3 Rd8 12. Re1 { we will see this position later on1-0 } )
+4... Qxd5 5. Nb5 Qd7 6. d4 a6 7. N5a3 Nf6 8. c3 Nc6 9. Nc2
+{ played by 3 5 7 4 rated PlentyChess } 9... Bd6 10. Nd2 O-O 11. Nc4 Nd5 12.
+Nxd6 Qxd6 13. Bc4 Nce7 14. O-O b5 15. Bb3 Qg6 16. f3
+{ Neither PlentyChess playing White, rated 3 5 7 4 nor Stockfish playing Black, rated 3 6 2 0 could convert, and the game was drawn. Small inaccuracies made the difference.1/2-1/2 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16.1 64-bit 4CPU"]
+[Black "Berserk 13 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[Variation ""]
+[WhiteElo "3638"]
+[BlackElo "3617"]
+
+1. e4 e5 2. Nf3 d5 { entered in QP Counter Gambit Elephant Gambit } 3. Nxe5
+{ played by 3 6 1 7 rated Berserk } ( 3. Bb5+
+{ played by 2 6 8 1 rated Fridolin } 3... c6 4. Be2 Bd6 5. d3 d4 6. Bg5 f6 7.
+Bh4 Ne7 8. Nbd2 Be6 9. Bg3 { played by 2 6 8 1 rated Fridolin } 9... O-O 10. c3
+{ played by 2 3 3 8 rated Prophet } 10... dxc3 11. bxc3 Qa5 12. O-O Nd7 13. d4
+Qxc3 14. Rc1 Qa5 15. Nc4 Qc7 16. d5
+{ Here we see that SoFCheck playing Black, rated 2 4 2 6 could not hold the position, allowing Prophet, rated 2 3 3 8, had the White pieces to win. Both sides showed good positional understanding.1-0 }
+) ( 3. exd5 { played by 3 6 3 8 rated Stockfish } 3... e4 4. Nd4
+{ played by 3 6 2 0 rated Stockfish } 4... Qxd5 5. Nb5 Qd7 6. d4 a6 7. N5a3 Nf6
+8. c3 Nc6 9. g3 { played by 3 6 2 0 rated Stockfish } 9... h5 10. h4 b5 11. Nc2
+{ played by 3 6 2 0 rated Stockfish } ( 11. Bg2
+{ played by 3 5 7 1 rated PlentyChess } 11... Bd6 12. Nc2 Bb7 13. O-O O-O 14.
+Nd2 Rae8 15. Re1 Ne7 16. a4
+{ In this game, Stockfish from the Black side with rating 3 6 2 0 defended accurately and defeated PlentyChess handling the White pieces rated 3 5 7 1. Small inaccuracies made the difference.0-1 }
+) 11... Ng4 12. Bg2 f5 13. a4 Rb8 14. axb5 axb5 15. f3 Bd6 16. O-O
+{ Here we see that After a long struggle, Stockfish playing White, rated 3 6 2 0 and PlentyChess on Black with Elo 3 5 7 4 shared the point. The outcome was decided in the later stages.1/2-1/2 }
+) 3... Bd6 4. d4 dxe4 5. Bc4 { played by 3 6 1 7 rated Berserk } ( 5. Nc3
+{ played by 3 5 5 9 rated Fat } 5... Bxe5 6. dxe5 Qxd1+ 7. Kxd1
+{ played by 3 4 0 9 rated Igel } 7... Bg4+ 8. Be2 Bxe2+ 9. Kxe2 Nc6 10. Rd1
+Nge7 11. Nxe4 { played by 3 4 0 9 rated Igel } ( 11. e6
+{ played by 3 3 5 9 rated Nemorino } 11... fxe6 12. Nxe4 e5 13. c3 Rd8 14. Be3
+b6 15. Rxd8+ Nxd8 16. Rd1
+{ In this game, After a long struggle, Nemorino playing White, rated 3 3 5 9 and Igel playing Black, rated 3 4 0 9 shared the point.1/2-1/2 }
+) 11... Nxe5 12. Bf4 N7g6 13. Bg3 O-O 14. f4 Nc6 15. Nc3 f5 16. Nd5
+{ Once again, Igel as White rated 3 4 0 9 and Nemorino on Black with Elo 3 3 5 9 played a balanced game which ended in a draw. The position remained tense for most of the game.1/2-1/2 }
+) 5... Bxe5 6. Qh5 Qe7 7. dxe5 { played by 2 9 6 1 rated Nu-chess } 7... Be6 8.
+Bb3 Bxb3 9. axb3 Nc6 10. Bf4 { played by 2 9 6 1 rated Nu-chess } ( 10. Nc3
+{ played by 2 8 5 9 rated OliThink } 10... Nxe5 11. Qf5 Nf6 12. Bg5 O-O 13. Nd5
+Qd7 14. Nxf6+ gxf6 15. Qxf6 Rfe8 16. O-O
+{ In this game, OliThink as White rated 2 8 5 9 overpressed, and Nu-chess as Black rated 2 9 6 1 secured the win. The outcome was decided in the later stages.0-1 }
+) 10... O-O-O 11. Nc3 f6 12. Qh3+ Kb8 13. e6 a6 14. O-O Nd4 15. Rad1 Nh6 16.
+Bxh6
+{ Here we see that The game between Nu-chess from the White side with rating 2 9 6 1 and OliThink from the Black side with rating 2 8 5 9 finished level.1/2-1/2 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16.1 64-bit 4CPU"]
+[Black "Berserk 13 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "C40"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[Variation ""]
+[WhiteElo "3638"]
+[BlackElo "3617"]
+
+1. e4 e5 2. Nf3 d5 { entered in QP Counter Gambit Elephant Gambit } 3. exd5
+{ played by 3 6 3 8 rated Stockfish } ( 3. Bb5+
+{ played by 2 6 8 1 rated Fridolin } 3... c6 4. Be2 Bd6 5. d3 d4 6. Bg5 f6 7.
+Bh4 Ne7 8. Nbd2 Be6 9. Bg3 { played by 2 6 8 1 rated Fridolin } 9... O-O 10.
+O-O { played by 2 6 8 1 rated Fridolin } 10... c5 11. Nc4 Bc7 12. a4 Nbc6 13.
+Nfd2 { played by 2 6 8 1 rated Fridolin } ( 13. h3
+{ played by 2 4 2 6 rated SoFCheck } 13... a6 14. c3 b5 15. Ncd2 Qd7 16. Nb3
+{ In this game, SoFCheck on White with Elo 2 4 2 6 overpressed, and Fridolin playing Black, rated 2 6 8 1 secured the win. Small inaccuracies made the difference.0-1 }
+) 13... Rb8 14. Nb3 b6 15. Bg4 Bxc4 16. dxc4
+{ In this game, Fridolin handling the White pieces rated 2 6 8 1 outplayed SoFCheck handling the Black pieces rated 2 4 2 6 and won the game. Both sides showed good positional understanding.1-0 }
+) 3... e4 4. Ne5 { played by 2 5 4 8 rated Avalanche } 4... Qxd5 5. d4 exd3 6.
+Nxd3 Be7 7. Nc3 Qa5 8. Be2 Nf6 9. O-O O-O 10. Be3
+{ played by 2 5 4 8 rated Avalanche } 10... Rd8 11. Re1 Nc6 12. a3 Nd4 13. b4
+{ played by 2 5 4 8 rated Avalanche } ( 13. Bxd4
+{ played by 2 5 4 8 rated Avalanche } 13... Rxd4 14. Bf3 Bf8 15. h3
+{ played by 2 5 4 8 rated Avalanche } ( 15. Qe2
+{ played by 2 5 4 8 rated Avalanche } 15... c6 16. Ne5
+{ In this game, Avalanche on White with Elo 2 5 4 8 overpressed, and Sorgenkind playing Black, rated 2 3 6 0 secured the win. The opening quickly led to complex middlegame play.0-1 }
+) ( 15. Re5 { played by 2 5 4 8 rated Avalanche } 15... Qxe5 16. Nxe5
+{ Avalanche, rated 2 5 4 8, had the White pieces outplayed Sorgenkind handling the Black pieces rated 2 3 6 0 and won the game.1-0 }
+) 15... Bd6 16. Ne4
+{ Once again, Sorgenkind on Black with Elo 2 3 6 0 could not hold the position, allowing Avalanche as White rated 2 5 4 8 to win. The position remained tense for most of the game.1-0 }
+) 13... Qf5 14. Bxd4 Rxd4 15. Bf3 Bd6 16. Ne2
+{ Here we see that Sorgenkind handling the Black pieces rated 2 3 6 0 outplayed Avalanche handling the White pieces rated 2 5 4 8 and won as Black.0-1 }
+1-0
+
+
+

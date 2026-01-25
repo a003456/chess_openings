@@ -1,0 +1,161 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Clarity 7.2.0 64-bit 4CPU"]
+[Black "ShashChess Santiago 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C12"]
+[Opening "French"]
+[Variation "MacCutcheon, Janowski variation"]
+[WhiteElo "3570"]
+[BlackElo "3643"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. e5 h6 6. Be3
+{ entered in FRENCH Maccutcheon Janowski Variation } 6... Ne4 7. Qg4
+{ played by 3 6 4 3 rated ShashChess } ( 7. Ne2
+{ played by 3 2 5 5 rated Laser } 7... c5 8. dxc5
+{ played by 3 2 9 0 rated Houdini } ( 8. a3 { played by 3 2 5 5 rated Laser }
+8... Nxc3 9. Nxc3 cxd4 10. Qxd4 Nc6 11. Bb5 Be7 12. Qg4 Kf8 13. f4 Qc7 14. Rd1
+g6 15. Bd3 Qa5 16. Bd2 Qb6 17. Qh3 Qxb2 18. Nb5 a6 19. Bc3
+{ Here we see that Laser, rated 3 2 5 5, had the Black pieces defended accurately and defeated Clover playing White, rated 3 2 4 3.0-1 }
+) 8... Nc6 9. a3 Nxc3 10. Nxc3 Bxc3+ 11. bxc3 Qa5 12. Qd2 Nxe5 13. f4 Nc4 14.
+Bxc4 dxc4 15. Qd4 O-O 16. O-O Rd8 17. Qxc4 Bd7 18. Rf2 Bb5 19. Qb4
+{ In this game, The game between Houdini on White with Elo 3 2 9 0 and Stockfish playing Black, rated 3 2 5 3 finished level. The position remained tense for most of the game.1/2-1/2 }
+) ( 7. a3 { played by 3 3 9 0 rated Houdini } 7... Bxc3+ 8. bxc3 c5 9. Bd3
+{ played by 3 3 9 0 rated Houdini } 9... Qa5 10. Ne2
+{ played by 3 3 9 0 rated Houdini } ( 10. Bxe4
+{ played by 2 5 0 2 rated CyberPagno } 10... dxe4 11. Bd2 cxd4 12. cxd4 Qd5 13.
+Ne2 e3 14. Bxe3 Qxg2 15. Rg1 Qxh2 16. Rxg7 h5 17. Qd3 Qh1+ 18. Rg1 Qf3 19. Nc3
+{ In an interesting battle, Fischerle on Black with Elo 2 2 5 4 could not hold the position, allowing CyberPagno as White rated 2 5 0 2 to win. Both sides showed good positional understanding.1-0 }
+) 10... cxd4 11. Bxd4 Nc6 12. O-O Nc5 13. Ng3 g6 14. Qc1 Nxd3 15. cxd3 Nxd4 16.
+cxd4 Bd7 17. Qf4 Qd8 18. h4 Rc8 19. Rfb1
+{ In this game, The game between Ethereal, rated 3 2 3 8, had the White pieces and Houdini on Black with Elo 3 3 9 0 finished level. Small inaccuracies made the difference.1/2-1/2 }
+) 7... Kf8 8. Bd3 { played by 2 7 8 1 rated Shredder } ( 8. Ne2
+{ played by 2 9 1 0 rated Hiarcs } 8... c5 9. O-O-O
+{ played by 2 9 0 4 rated Rybka } 9... Nxc3 10. Nxc3 Bxc3 11. bxc3 Nc6 12. dxc5
+{ we will see this position later on1-0 } ) 8... Nxc3 9. a3
+{ Once again, SmarThink as Black rated 2 6 6 3 outplayed Shredder from the White side with rating 2 7 8 1 and won as Black. Small inaccuracies made the difference.0-1 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Clarity 7.2.0 64-bit 4CPU"]
+[Black "ShashChess Santiago 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C12"]
+[Opening "French"]
+[Variation "MacCutcheon, Janowski variation"]
+[WhiteElo "3570"]
+[BlackElo "3643"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. e5 h6 6. Be3
+{ entered in FRENCH Maccutcheon Janowski Variation } 6... Ne4 7. Qg4
+{ played by 3 6 4 3 rated ShashChess } ( 7. a3
+{ played by 3 3 9 0 rated Houdini } 7... Bxc3+ 8. bxc3 c5 9. Ne2
+{ played by 2 4 2 6 rated Bagatur } 9... Qa5 10. f3 cxd4 11. Bxd4 Nc5 12. Qd2
+{ played by 2 4 2 6 rated Bagatur } ( 12. Nc1
+{ played by 2 2 5 4 rated Fischerle } 12... Qc7 13. Be2 O-O 14. O-O Na4 15. Qd2
+Nc6 16. Bb5 Nb6 17. Bc5 Nc4 18. Bxc4 Nxe5 19. Bxf8
+{ Here we see that CyberPagno handling the Black pieces rated 2 5 0 2 outplayed Fischerle from the White side with rating 2 2 5 4 and won as Black. Small inaccuracies made the difference.0-1 }
+) 12... b6 13. Nc1 Qa4 14. Be2 Nc6 15. O-O Ba6 16. Bxc5 Bxe2 17. Qxe2 bxc5 18.
+Nb3 c4 19. Nd4
+{ In this game, Bagatur, rated 2 4 2 6, had the White pieces and Bumblebee as Black rated 2 4 2 0 played a balanced game which ended in a draw. The outcome was decided in the later stages.1/2-1/2 }
+) 7... Kf8 8. a3 { played by 3 6 4 3 rated ShashChess } 8... Bxc3+ 9. bxc3 c5
+10. Bd3 Nxc3 11. Ne2 { played by 2 2 9 1 rated Apotheosis } ( 11. dxc5
+{ played by 3 6 3 7 rated Torch } 11... Nc6 12. Nf3 f5 13. Qg3
+{ played by 3 5 7 0 rated Clarity } ( 13. Qh5
+{ played by 2 8 1 4 rated Scorpio } 13... Bd7 14. O-O Kg8 15. Rfe1 Ne4 16. Rab1
+Be8 17. Qh3 g5 18. Bxe4 dxe4 19. Rbd1
+{ In this game, After a long struggle, Scorpio handling the White pieces rated 2 8 1 4 and DisasterArea playing Black, rated 2 8 6 2 shared the point. The position remained tense for most of the game.1/2-1/2 }
+) ( 13. Qh4 { played by 2 4 4 0 rated Anka } 13... Qxh4 14. Nxh4 Kf7 15. Nf3 g5
+16. Bd4 Nxd4 17. Nxd4 Bd7 18. Kd2 Na4 19. c4
+{ Once again, FoxSEE playing Black, rated 2 4 7 9 defended accurately and defeated Anka handling the White pieces rated 2 4 4 0. The opening quickly led to complex middlegame play.0-1 }
+) 13... Ne4 14. Bxe4 fxe4 15. Nh4 Qa5+ 16. Bd2 Qa6 17. Ng6+ Kg8 18. Rc1 Qc4 19.
+Qc3
+{ In an interesting battle, Clarity as White rated 3 5 7 0 and Texel playing Black, rated 3 5 3 0 played a balanced game which ended in a draw.1/2-1/2 }
+) 11... Nxe2 12. Bxe2 Nc6 13. c3 Qb6 14. O-O Qb2 15. Rfb1 Qxc3 16. Rc1 Qb2 17.
+Rab1 Qxa3 18. Rxc5 Qa2 19. Bd3
+{ Typhoon playing Black, rated 2 4 1 6 could not hold the position, allowing Apotheosis from the White side with rating 2 2 9 1 to win. Small inaccuracies made the difference.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Clarity 7.2.0 64-bit 4CPU"]
+[Black "ShashChess Santiago 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C12"]
+[Opening "French"]
+[Variation "MacCutcheon, Janowski variation"]
+[WhiteElo "3570"]
+[BlackElo "3643"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. e5 h6 6. Be3
+{ entered in FRENCH Maccutcheon Janowski Variation } 6... Ne4 7. Qg4
+{ played by 3 6 4 3 rated ShashChess } 7... Kf8 8. Ne2
+{ played by 2 9 1 0 rated Hiarcs } ( 8. a3
+{ played by 3 6 4 3 rated ShashChess } 8... Bxc3+ 9. bxc3 c5 10. Bd3 Nxc3 11.
+dxc5 { played by 3 6 3 7 rated Torch } 11... Nc6 12. Nf3 f5 13. exf6
+{ played by 3 6 3 7 rated Torch } 13... Qxf6 14. Qg6
+{ played by 3 6 3 7 rated Torch } ( 14. Qh5 { played by 3 6 1 7 rated Berserk }
+14... e5 15. Bg6 Kg8 16. O-O Be6 17. Nh4 Ne7 18. f4 Nxg6 19. Qxg6
+{ Once again, After a long struggle, Berserk from the White side with rating 3 6 1 7 and Obsidian playing Black, rated 3 6 0 9 shared the point. The outcome was decided in the later stages.1/2-1/2 }
+) ( 14. Nh4 { played by 2 9 9 2 rated Zappa } 14... Kg8 15. Qg6
+{ played by 2 9 2 4 rated Quazar } 15... Bd7 16. Qxf6 gxf6 17. a4 d4 18. Ra3
+dxe3 19. Rxc3
+{ In this game, Neither Quazar, rated 2 9 2 4, had the White pieces nor Sting on Black with Elo 3 0 5 5 could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 14... e5 15. Bd2 Na4 16. Qxf6+ gxf6 17. Bb5 Nb2 18. Bc3 Nc4 19. Bxc4
+{ In an interesting battle, The game between Clarity playing White, rated 3 5 7 0 and ShashChess, rated 3 6 4 3, had the Black pieces finished level. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 8... c5 9. dxc5 { played by 2 9 1 0 rated Hiarcs } 9... Nc6 10. O-O-O Nxc3
+11. Nxc3 Bxc3 12. bxc3 Qa5 13. Kd2 { played by 2 9 1 0 rated Hiarcs } ( 13. Qf4
+{ played by 2 9 0 5 rated Deep } 13... Qxc3 14. Bd4 Qa5 15. Rd3 Nxd4 16. Qxd4
+Qxa2 17. Rb3 Qa5 18. Bb5 a6 19. Ba4
+{ In this game, Deep, rated 2 9 0 5, had the White pieces converted the advantage and defeated Hiarcs as Black rated 2 9 1 0. The opening quickly led to complex middlegame play.1-0 }
+) ( 13. Bd4 { played by 2 7 8 6 rated Deep } 13... Qxa2 14. c4 Qa5 15. Bb2 Qxc5
+16. Qg3 Kg8 17. cxd5 Nb4 18. c4 Nxd5 19. Qa3
+{ After a long struggle, Deep playing White, rated 2 7 8 6 and Hiarcs playing Black, rated 2 9 1 0 shared the point. Small inaccuracies made the difference.1/2-1/2 }
+) 13... h5 14. Qf4 h4 15. Bd3 Bd7 16. Rb1 Rb8 17. g3 h3 18. Rb3 Qc7 19. Rhb1
+{ In an interesting battle, Hiarcs playing White, rated 2 9 1 0 and Deep handling the Black pieces rated 2 9 0 5 played a balanced game which ended in a draw. Both sides showed good positional understanding.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Clarity 7.2.0 64-bit 4CPU"]
+[Black "ShashChess Santiago 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C12"]
+[Opening "French"]
+[Variation "MacCutcheon, Janowski variation"]
+[WhiteElo "3570"]
+[BlackElo "3643"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. e5 h6 6. Be3
+{ entered in FRENCH Maccutcheon Janowski Variation } 6... Ne4 7. Qg4
+{ played by 3 6 4 3 rated ShashChess } 7... Kf8 8. a3
+{ played by 3 6 4 3 rated ShashChess } 8... Bxc3+ 9. bxc3 c5 10. Bd3 Nxc3 11.
+dxc5 { played by 3 6 3 7 rated Torch } 11... Nc6 12. Nf3 f5 13. exf6
+{ played by 3 6 3 7 rated Torch } 13... Qxf6 14. Nh4
+{ played by 2 9 9 2 rated Zappa } 14... Kg8 15. Ng6
+{ played by 2 9 9 2 rated Zappa } 15... e5 16. Qf3
+{ played by 2 9 9 2 rated Zappa } ( 16. Qh5
+{ played by 2 4 2 0 rated Bumblebee } 16... e4 17. Nxh8 Kxh8 18. Bxe4 dxe4 19.
+Qe8+
+{ Here we see that Bumblebee, rated 2 4 2 0, had the White pieces overpressed, and Bagatur, rated 2 4 2 6, had the Black pieces secured the win. Both sides showed good positional understanding.0-1 }
+) 16... Rh7 17. Nf8
+{ In this game, The game between Zappa as White rated 2 9 9 2 and Toga as Black rated 2 9 2 1 finished level. The opening quickly led to complex middlegame play.1/2-1/2 }
+1/2-1/2
+
+
+

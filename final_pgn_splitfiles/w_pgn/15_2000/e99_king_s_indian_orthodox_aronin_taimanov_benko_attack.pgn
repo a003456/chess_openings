@@ -1,0 +1,103 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Torch v1 64-bit 4CPU"]
+[Black "Ethereal 14.00 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "E99"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov, Benko attack"]
+[WhiteElo "3630"]
+[BlackElo "3579"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. f3 f5 11. g4
+{ entered in KING S Indian Orthodox Aronin Taimanov Benko Attack } 11... Kh8
+{ played by 3 4 9 1 rated Stockfish } ( 11... c6
+{ played by 3 3 1 0 rated Booot } 12. dxc6 Qb6+ 13. Kh1 Qxc6 14. gxf5 gxf5 15.
+Bg5 Ng6 16. Nd3 a5 17. Rg1 Nf6 18. Nf2 Nh5 19. Nd5 Kh8 20. Ne7 Qb6 21. exf5
+Bxf5 22. Nxf5 Rxf5 23. Bd3 Rff8 24. Bxg6
+{ In this game, Booot, rated 3 3 1 0, had the White pieces converted the advantage and defeated Laser on Black with Elo 3 2 6 4. The position remained tense for most of the game.1-0 }
+) ( 11... fxg4 { played by 2 4 7 3 rated Cheng3 } 12. fxg4 Rxf1+ 13. Kxf1 h6
+14. h4 b6 15. Kg1 a5 16. Be3 Ba6 17. Qd2 h5 18. gxh5 gxh5 19. Ng2 Nf6 20. Bg5
+Qe8 21. Rf1 Qg6 22. b3 Rf8 23. Qd1 Kh8 24. Bxf6
+{ In an interesting battle, Quazar as White rated 2 5 6 8 outplayed Cheng3 as Black rated 2 4 7 3 and won the game. The position remained tense for most of the game.1-0 }
+) ( 11... f4 { played by 3 6 3 0 rated Torch } 12. h4 Bf6
+{ played by 3 5 7 9 rated Ethereal } ( 12... c6
+{ played by 3 3 2 8 rated Deep } 13. Kg2 Nc5 14. b4 Nd7 15. a4 a5 16. Ba3 axb4
+17. Bxb4 c5 18. Ba3 Nf6 19. Bc1 Bd7 20. Nd3 Qb6 21. Nb5 Ra6 22. a5 Qd8 23. Nxd6
+Rxd6 24. Nxc5
+{ Here we see that Stockfish handling the White pieces rated 3 5 2 6 outplayed Deep playing Black, rated 3 3 2 8 and won the game. Small inaccuracies made the difference.1-0 }
+) ( 12... Kf7 { played by 3 0 2 2 rated Critter } 13. Rf2 c5 14. dxc6 Nxc6 15.
+Qxd6 Bf6 16. Nd5 Bxh4 17. Rh2 Kg7 18. Nd3 a5 19. Bd2 Nd4 20. Nc5 Be7 21. Ne6+
+Nxe6 22. Qxe7+ Qxe7 23. Nxe7 Rf7 24. Nd5
+{ Once again, Critter on White with Elo 3 0 2 2 outplayed Pirarucu playing Black, rated 2 9 9 3 and won the game. The outcome was decided in the later stages.1-0 }
+) 13. Ng2 a5 14. Bd2 Nc5 15. Be1 Bd7 16. Kh2 a4 17. Bf2 c6 18. Qc2 cxd5 19.
+cxd5 Rc8 20. Rfc1 b5 21. Bxb5 Bxb5 22. Nxb5 Nb3 23. Qxc8 Nxc8 24. axb3
+{ Once again, Torch from the White side with rating 3 6 3 0 converted the advantage and defeated Ethereal as Black rated 3 5 7 9. The position remained tense for most of the game.1-0 }
+) 12. Rf2 a6 13. a4 a5 14. h4 b6 15. Rh2 Nc5 16. Nd3 h6 17. Qc2 Ng8 18. Nxc5
+bxc5 19. Bd2 Nf6 20. exf5 gxf5 21. Rg2 Ng8 22. Kh1 fxg4 23. fxg4 e4 24. Nxe4
+{ In an interesting battle, Neither Alexandria from the White side with rating 3 5 6 9 nor Clover on Black with Elo 3 5 5 8 could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Torch v1 64-bit 4CPU"]
+[Black "Ethereal 14.00 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "E99"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov, Benko attack"]
+[WhiteElo "3630"]
+[BlackElo "3579"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. f3 f5 11. g4
+{ entered in KING S Indian Orthodox Aronin Taimanov Benko Attack } 11... Nf6
+{ played by 3 3 9 0 rated Houdini } 12. Nd3 c5 { played by 2 8 5 8 rated Deep }
+( 12... f4 { played by 2 7 7 1 rated Thinker } 13. c5 c6 14. Qb3 cxd5 15. exd5
+Kh8 16. Rd1 e4 17. cxd6 Neg8 18. d7 Bxd7 19. Ne5 exf3 20. Bxf3 Nxg4 21. Nxg4
+Bxg4 22. Bxg4 Qg5 23. h3 Nf6 24. Qc2
+{ Here we see that Thinker on Black with Elo 2 7 7 1 defended accurately and defeated Glaurung on White with Elo 2 7 7 4. The outcome was decided in the later stages.0-1 }
+) ( 12... Kh8 { played by 3 3 9 0 rated Houdini } 13. Be3 b6
+{ played by 3 3 9 0 rated Houdini } ( 13... f4
+{ played by 2 2 2 5 rated Zevra } 14. Bf2 g5 15. h4 gxh4 16. Bxh4 Ng6 17. Qe1
+Qe7 18. Bf2 h5 19. g5 Nh7 20. Kg2 Kg8 21. Rg1 a6 22. Rc1 Qxg5+ 23. Kh1 Qh6 24.
+c5
+{ In this game, Zevra playing Black, rated 2 2 2 5 seized the initiative and handed Robocide from the White side with rating 2 1 7 2 a loss.0-1 }
+) 14. h4 Qd7 15. Nf2 f4 16. Bc1 Rb8 17. b4 c6 18. Bb2 h6 19. a4 c5 20. b5 a5
+21. bxa6 Bxa6 22. Nb5 Nc8 23. Kh2 Na7 24. Nc3
+{ In an interesting battle, Houdini as White rated 3 3 9 0 remained in control, handing Komodo on Black with Elo 3 3 8 2 a loss. The position remained tense for most of the game.1-0 }
+) ( 12... c6 { played by 3 3 4 7 rated Ethereal } 13. Be3 b6
+{ played by 3 3 4 7 rated Ethereal } ( 13... f4
+{ played by 3 3 0 9 rated Andscacs } 14. Bf2 g5 15. c5 b6 16. cxb6 cxd5 17.
+bxa7 Kh8 18. Rc1 d4 19. Nb5 Ne8 20. Nb4 Bd7 21. a4 Nc8 22. Nc6 Bxc6 23. Rxc6
+Nxa7 24. Nxa7
+{ In an interesting battle, Ethereal as White rated 3 3 4 7 converted the advantage and defeated Andscacs playing Black, rated 3 3 0 9.1-0 }
+) ( 13... Kh8 { played by 3 3 0 9 rated Andscacs } 14. a4 b6 15. b4 Bd7 16. Nf2
+cxd5 17. cxd5 f4 18. Bd2 Ne8 19. b5 Bf6 20. Na2 Bh4 21. Nb4 Nc8 22. Nc6 Qg5 23.
+Nh3 Qf6 24. a5
+{ Andscacs as Black rated 3 3 0 9 could not hold the position, allowing Xiphos on White with Elo 3 2 2 1 to win. The opening quickly led to complex middlegame play.1-0 }
+) ( 13... Qd7 { played by 3 1 4 4 rated Combusken } 14. exf5 cxd5 15. cxd5 gxf5
+16. Nf2 Kh8 17. g5 Nh5 18. Rc1 Qd8 19. Nb5 f4 20. Bd2 Nxd5 21. Ne4 Ne3 22. Bxe3
+fxe3 23. Nbxd6 Be6 24. Bc4
+{ In an interesting battle, The game between Cheng on White with Elo 3 1 4 4 and Combusken on Black with Elo 3 1 4 4 finished level. The position remained tense for most of the game.1/2-1/2 }
+) ( 13... cxd5 { played by 2 2 6 1 rated Rival } 14. cxd5 f4 15. Bf2 h5 16. g5
+Nh7 17. h4 Bh3 18. Re1 Qd7 19. Kh2 b6 20. Rc1 b5 21. Nb4 Rf7 22. Bxb5 Qb7 23.
+Kxh3 a6
+{ Here we see that Asymptote handling the White pieces rated 2 4 7 8 converted the advantage and defeated Rival from the Black side with rating 2 2 6 1. The position remained tense for most of the game.1-0 }
+) 14. Kh1 Qd7 15. gxf5 gxf5 16. Rg1 c5 17. f4 Nxe4 18. fxe5 dxe5 19. Qc1 Ng6
+20. Nxe4 fxe4 21. Nf2 Qc7 22. Qc2 Bf5 23. Bg4 Qd7 24. Bxf5
+{ In this game, Andscacs handling the White pieces rated 3 3 0 9 outplayed Xiphos, rated 3 2 2 1, had the Black pieces and won the game. Both sides showed good positional understanding.1-0 }
+) 13. exf5 gxf5 14. g5 Ne8 15. Kh1 f4 16. Nf2 h6 17. gxh6 Bxh6 18. Rg1+ Kh8 19.
+Ng4 Bg7 20. Bd2 Nf5 21. Ne4 Qh4 22. Be1 Qe7 23. b4 b6 24. Rb1
+{ Here we see that Deep from the Black side with rating 2 8 5 8 could not hold the position, allowing Thinker handling the White pieces rated 2 7 7 1 to win. The outcome was decided in the later stages.1-0 }
+1-0
+
+
+

@@ -1,0 +1,36 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 1.5.1 64-bit 4CPU"]
+[Black "Zappa Mexico II 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "B74"]
+[Opening "Sicilian"]
+[Variation "dragon, classical, Spielmann variation"]
+[WhiteElo "2995"]
+[BlackElo "2992"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. Be2 Nc6 8.
+O-O O-O 9. Nb3 Be6 10. f4 Na5 11. f5 Bc4 12. Bd3
+{ entered in SICILIAN Dragon Classical Spielmann Variation } 12... Bxd3 13.
+cxd3 Nc6 { played by 2 8 6 9 rated Fritz } ( 13... Nxb3
+{ played by 2 9 9 5 rated Stockfish } 14. axb3 a6 15. Qf3 e6
+{ played by 2 9 9 2 rated Zappa } ( 15... Rc8 { played by 2 6 9 7 rated Booot }
+16. Rf2 Nh5 17. d4 e6 18. g4 Nf6 19. g5 Nh5 20. f6 Bh8 21. e5 d5 22. Na4 Rc6
+23. Bd2 Qc7 24. Qd3 Rc8 25. Rd1
+{ In an interesting battle, Minic handling the White pieces rated 2 5 4 9 outplayed Booot on Black with Elo 2 6 9 7 and won the game. Small inaccuracies made the difference.1-0 }
+) 16. b4 Qd7 17. g4
+{ In this game, Stockfish on White with Elo 2 9 9 5 converted the advantage and defeated Zappa, rated 2 9 9 2, had the Black pieces. Small inaccuracies made the difference.1-0 }
+) 14. d4 Qb6 { played by 2 8 6 9 rated Fritz } ( 14... a5
+{ played by 2 7 2 2 rated CT800 } 15. Nd2 Rc8 16. b3 e6 17. fxe6 fxe6 18. Rc1
+Qe7 19. a3 e5 20. d5 Nd4 21. Nc4 a4 22. Nb6 Rc7 23. b4 Nh5 24. Nbxa4 Nf4 25.
+Kh1
+{ Once again, CT800 from the Black side with rating 2 7 2 2 outplayed Aurora handling the White pieces rated 2 7 4 5 and won as Black. The position remained tense for most of the game.0-1 }
+) 15. Qf3 Qb4 16. Qe2 Rac8 17. Rad1 Rfe8 18. Rf2 Rf8 19. g4 Nd7 20. g5 Nb6 21.
+f6 exf6 22. gxf6 Bh8 23. Qf3 Rfe8 24. Qh3 Nb8 25. Rdf1
+{ Here we see that Stockfish as White rated 2 8 4 5 outplayed Fritz, rated 2 8 6 9, had the Black pieces and won the game. The outcome was decided in the later stages.1-0 }
+1-0
+
+
+

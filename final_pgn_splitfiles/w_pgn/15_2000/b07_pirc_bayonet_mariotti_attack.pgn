@@ -1,0 +1,82 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Dragon by Komodo 3.3 64-bit 4CPU"]
+[Black "Stockfish 17 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "bayonet (Mariotti) attack"]
+[WhiteElo "3626"]
+[BlackElo "3643"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be2 Bg7 5. h4
+{ entered in Pirc Defense Bayonet Mariotti Attack } 5... Nc6
+{ played by 3 6 4 3 rated Stockfish } ( 5... c5
+{ played by 3 6 0 9 rated Stockfish } 6. dxc5 Qa5 7. Kf1 Qxc5 8. h5 gxh5 9. Be3
+Qb4 { played by 3 5 4 5 rated SlowChess } ( 9... Qc7
+{ played by 3 0 3 9 rated Monolith } 10. Bd4 Be6 11. Nd5 Bxd5 12. exd5 Nbd7 13.
+Rh4 Ne5 14. Nf3 O-O 15. c3 a5 16. Rh3 a4 17. Nh4 e6 18. dxe6
+{ In an interesting battle, Neither Seer playing White, rated 3 0 8 9 nor Monolith as Black rated 3 0 3 9 could convert, and the game was drawn. Small inaccuracies made the difference.1/2-1/2 }
+) 10. a3 Qa5 11. Nh3 Bg4 12. Nf4 Bxe2+ 13. Qxe2 Nbd7 14. Nxh5 Nxh5 15. Rxh5 Qd8
+16. Nb5 Bxb2 17. Rb1 Be5 18. Nxa7
+{ In this game, Stockfish handling the White pieces rated 3 6 0 9 remained in control, handing Igel as Black rated 3 4 7 5 a loss.1-0 }
+) ( 5... h5 { played by 3 5 5 9 rated Fat } 6. Nh3 Nc6 7. Ng5 e5 8. dxe5 Nxe5
+9. Bf4 O-O { played by 3 4 4 6 rated Berserk } ( 9... Bd7
+{ played by 2 9 5 6 rated Midnight } 10. Qd4 Nc6 11. Qd2 Qe7 12. O-O-O O-O-O
+13. Bc4 Be6 14. Nxe6 fxe6 15. a3 Rhf8 16. Ba2 Qf7 17. Bg5 Rde8 18. f3
+{ Here we see that After a long struggle, Polaris on White with Elo 3 0 2 3 and Midnight playing Black, rated 2 9 5 6 shared the point. Both sides showed good positional understanding.1/2-1/2 }
+) 10. O-O Re8 11. Qd2 Be6 12. Rad1 Qe7 13. Bg3 Rad8 14. f4 Nc4 15. Qc1 Nb6 16.
+Rde1 Bd7 17. Kh1 d5 18. f5
+{ In this game, Fat from the White side with rating 3 5 5 9 and Berserk, rated 3 4 4 6, had the Black pieces played a balanced game which ended in a draw. The outcome was decided in the later stages.1/2-1/2 }
+) 6. h5 Nxh5 { played by 3 6 4 3 rated Stockfish } ( 6... gxh5
+{ played by 3 2 1 9 rated Gull } 7. Nf3 a6 8. d5 Nb8 9. Ng5 h6 10. Nh3 e5 11.
+Bxh5 b5
+{ Here we see that Naum on White with Elo 3 0 9 1 and Gull, rated 3 2 1 9, had the Black pieces played a balanced game which ended in a draw. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 7. Bxh5 gxh5 8. Nge2 e5 9. d5 Nd4 10. Rxh5 f5 11. Bg5 Qd7 12. Be3 Nxe2 13.
+Qxe2 f4 14. Bd2 O-O 15. f3 Rf6 16. O-O-O Qf7 17. Rhh1 Bd7 18. Kb1
+{ In this game, Neither Dragon playing White, rated 3 6 2 6 nor Stockfish from the Black side with rating 3 6 4 3 could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Dragon by Komodo 3.3 64-bit 4CPU"]
+[Black "Stockfish 17 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "bayonet (Mariotti) attack"]
+[WhiteElo "3626"]
+[BlackElo "3643"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be2 Bg7 5. h4
+{ entered in Pirc Defense Bayonet Mariotti Attack } 5... c5
+{ played by 3 6 0 9 rated Stockfish } 6. dxc5 Qa5 7. Kf1 Qxc5 8. h5 gxh5 9. Be3
+Qa5 { played by 3 6 0 9 rated Stockfish } 10. Nh3 h4
+{ played by 3 6 0 9 rated Stockfish } ( 10... Bg4
+{ played by 3 4 9 4 rated Uralochka } 11. Nf4 Nbd7 12. f3 Be6 13. Nb5 Ne5 14.
+a4 Bd7 15. Nxh5 Nxh5 16. Rxh5 a6 17. Bd2 Qd8 18. Nd4
+{ SlowChess handling the White pieces rated 3 5 4 5 converted the advantage and defeated Uralochka as Black rated 3 4 9 4. The opening quickly led to complex middlegame play.1-0 }
+) ( 10... Ng4 { played by 2 7 7 8 rated Twisted } 11. Bd2 Nc6 12. Nf4 Qb6 13.
+Be1 O-O 14. Nxh5 Bxc3 15. bxc3 Nge5 16. Rb1 Qa5 17. c4 Qc7 18. Qd2
+{ Here we see that Clovis playing White, rated 2 8 6 5 remained in control, handing Twisted playing Black, rated 2 7 7 8 a loss. The outcome was decided in the later stages.1-0 }
+) ( 10... Nc6 { played by 2 9 9 5 rated Puffin } 11. Nf4 Bg4
+{ played by 2 9 9 5 rated Puffin } ( 11... Ng4
+{ played by 2 8 6 5 rated Clovis } 12. Rxh5 Nxe3+ 13. fxe3 Be5 14. Ncd5 Be6 15.
+Nxe6 fxe6 16. Nf4 Rf8 17. Kg1 Qb6 18. Nxe6
+{ Here we see that After a long struggle, Twisted as White rated 2 7 7 8 and Clovis, rated 2 8 6 5, had the Black pieces shared the point.1/2-1/2 }
+) 12. f3 Be6 13. Ncd5 Bxd5 14. exd5 Ne5 15. Nxh5 Nxh5 16. Rxh5 Nd7 17. Qe1
+Qxe1+ 18. Rxe1
+{ Once again, Puffin on Black with Elo 2 9 9 5 seized the initiative and handed Cheers on White with Elo 3 0 2 7 a loss. Small inaccuracies made the difference.0-1 }
+) 11. Nf4 h3 12. Nxh3 h5 13. Bd2 Qe5 14. Ng5 Nc6 15. Nf3 Qe6 16. Rh4 Kf8 17.
+Bg5 Ng4 18. Qd2
+{ The game between Igel, rated 3 4 7 5, had the White pieces and Stockfish handling the Black pieces rated 3 6 0 9 finished level.1/2-1/2 }
+1/2-1/2
+
+
+

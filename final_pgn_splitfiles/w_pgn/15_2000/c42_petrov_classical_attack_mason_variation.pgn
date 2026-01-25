@@ -1,0 +1,94 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17.1 64-bit 4CPU"]
+[Black "Lizard 11.2 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Mason variation"]
+[WhiteElo "3645"]
+[BlackElo "3604"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O O-O
+{ entered in PETROV Classical Attack Mason Variation } 8. Re1 Nf6
+{ played by 3 4 9 8 rated Stockfish } ( 8... f5
+{ played by 2 3 4 8 rated Horizon } 9. c4 c6 10. Nc3 Be6 11. cxd5 cxd5 12. Qb3
+Nc6 13. Qxb7 Nb4 14. Bg5 Nxd3 15. Bxe7 Qc8 16. Qxc8 Rfxc8 17. Re2 Rab8 18. Ba3
+Bf7 19. Nxe4 dxe4 20. Ne5 Bxa2 21. Rd2
+{ In this game, Neither Amy playing White, rated 2 3 7 4 nor Horizon on Black with Elo 2 3 4 8 could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
+) ( 8... Nc6 { played by 3 6 4 5 rated Stockfish } 9. Nc3 Nf6
+{ played by 3 6 0 6 rated Starzix } ( 9... Nxc3
+{ played by 3 5 9 5 rated Caissa } 10. bxc3 Bg4 11. Bf4 Na5 12. h3 Bh5 13. Re5
+Bg6 14. Re2 Re8 15. Ne5 Bh5 16. g4 Bg6 17. Bxg6 hxg6 18. Qd3 Bf6 19. Bg3 g5 20.
+Rae1 Re6 21. Kg2
+{ Once again, Obsidian from the White side with rating 3 5 8 1 and Caissa on Black with Elo 3 5 9 5 played a balanced game which ended in a draw. The outcome was decided in the later stages.1/2-1/2 }
+) ( 9... f5 { played by 3 1 6 4 rated NirvanaChess } 10. Ne2 Re8
+{ played by 3 1 6 4 rated NirvanaChess } ( 10... Be6
+{ played by 2 7 4 7 rated Inanis } 11. c3 a6 12. Ne5 Nxe5 13. dxe5 c6 14. Nd4
+Bc8 15. Bc2 Bc5 16. f3 Ng5 17. Be3 f4 18. Bf2 g6 19. Kh1 Be7 20. Bb3 c5 21. Ne2
+{ In this game, Neither KnightX handling the White pieces rated 2 6 9 8 nor Inanis handling the Black pieces rated 2 7 4 7 could convert, and the game was drawn. Both sides showed good positional understanding.1/2-1/2 }
+) 11. c3 Rb8 12. c4 Bb4 13. Rf1 dxc4 14. Bxc4+ Kh8 15. Bf4 Bd6 16. Re1 Bd7 17.
+Rc1 Qf6 18. Ne5 Nxe5 19. dxe5 Rxe5 20. Bxe5 Bxe5 21. Qd3
+{ In this game, RukChess handling the White pieces rated 3 2 2 4 converted the advantage and defeated NirvanaChess from the Black side with rating 3 1 6 4. The opening quickly led to complex middlegame play.1-0 }
+) 10. h3 Nb4 11. Bf1 Bf5 12. a3 Nxc2 13. Re5 Be4 14. Ra2 c5 15. Nxe4 dxe4 16.
+Qxc2 exf3 17. dxc5 b6 18. Qb3 Qc7 19. Re1 fxg2 20. Bxg2 Rae8 21. cxb6
+{ In this game, Neither Stockfish as White rated 3 6 4 5 nor Lizard from the Black side with rating 3 6 0 4 could convert, and the game was drawn. Both sides showed good positional understanding.1/2-1/2 }
+) ( 8... Nd6 { played by 3 4 2 1 rated Velvet } 9. c3 Re8
+{ played by 3 2 3 3 rated Drofa } 10. Bf4 Nd7 11. a4 c5 12. Bc2 c4 13. Nbd2 Nf6
+14. Nf1 Be6 15. Ne5 g6 16. h3 Bf8 17. Ne3 Qb6 18. Rb1 Bg7 19. g4 Rad8 20. h4
+Nd7 21. Nxd7
+{ In an interesting battle, Velvet from the White side with rating 3 4 2 1 converted the advantage and defeated Drofa, rated 3 2 3 3, had the Black pieces. Both sides showed good positional understanding.1-0 }
+) 9. Be3 Be6 10. Nbd2 Nbd7 11. c3 c6 12. Qc2 h6 13. Ne5 Bd6 14. f4 Ng4 15. Nxg4
+Bxg4 16. h3 Bh5 17. g3 Qf6 18. Kg2 Rae8 19. g4 Bg6 20. f5 Bh7 21. Nf3
+{ In this game, Stockfish on White with Elo 3 4 9 8 converted the advantage and defeated Komodo, rated 3 4 0 2, had the Black pieces.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17.1 64-bit 4CPU"]
+[Black "Lizard 11.2 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Mason variation"]
+[WhiteElo "3645"]
+[BlackElo "3604"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O O-O
+{ entered in PETROV Classical Attack Mason Variation } 8. Re1 Bf5
+{ played by 3 6 1 1 rated Torch } ( 8... Nd6 { played by 3 4 2 1 rated Velvet }
+9. c3 Be6 { played by 3 0 2 2 rated Bagatur } 10. Qc2 h6 11. Bf4 Nd7 12. Nbd2
+Nf6 { played by 3 0 7 4 rated Chiron } ( 12... c5
+{ played by 3 0 2 2 rated Bagatur } 13. dxc5 Nxc5 14. Bh7+ Kh8 15. Be3 Rc8 16.
+Bxc5 Rxc5 17. Nb3 Rc7 18. Nbd4 Bg4 19. Ne5 Bc8 20. Bd3 Bf6 21. Nef3
+{ In this game, Neither Minic from the White side with rating 3 0 0 9 nor Bagatur as Black rated 3 0 2 2 could convert, and the game was drawn. Small inaccuracies made the difference.1/2-1/2 }
+) 13. b3 Re8 14. c4 c6 15. h3 a6 16. Re2 a5 17. Rb1 b6 18. Rbe1 Qc8 19. a4 Bf8
+20. Bh2 Nde4 21. Bxe4
+{ Neither Rybka on White with Elo 3 1 8 4 nor Chiron, rated 3 0 7 4, had the Black pieces could convert, and the game was drawn.1/2-1/2 }
+) 9. Nbd2 Nd6 10. Nf1 c6 { played by 3 6 0 0 rated PlentyChess } ( 10... Nd7
+{ played by 3 5 2 2 rated Fire } 11. Bf4 Bg6 12. Bxg6 hxg6 13. Qd3 c6 14. Qb3
+Nb6 15. Re2 Nbc4 16. Ne3 Nxe3 17. Bxd6 Bxd6 18. Rxe3 Qb6 19. Qxb6 axb6 20. a3
+b5 21. Ree1
+{ PlentyChess playing White, rated 3 6 0 0 and Fire playing Black, rated 3 5 2 2 played a balanced game which ended in a draw. The position remained tense for most of the game.1/2-1/2 }
+) ( 10... Be4 { played by 2 9 8 1 rated Toga } 11. Ng3 f5 12. Ne5 Nc6 13. Nxc6
+bxc6 14. Ba6 f4 15. Nxe4 dxe4 16. Qg4 Bg5 17. h4 Bxh4 18. Bxf4 Bxf2+ 19. Kxf2
+g5 20. g3 Kh8 21. Rh1
+{ Once again, Toga playing Black, rated 2 9 8 1 outplayed Monolith on White with Elo 2 8 6 6 and won as Black. Small inaccuracies made the difference.0-1 }
+) ( 10... Bxd3 { played by 3 5 6 6 rated Obsidian } 11. Qxd3 Nd7
+{ played by 3 5 6 6 rated Obsidian } ( 11... c6
+{ we will see this position later on1-0 } ) 12. Bf4 Nf6 13. Re2 Re8 14. Rae1 a5
+15. a4 c6 16. h3 Bf8 17. Ne5 Nfe4 18. c3 Qh4 19. Qf3 Rad8 20. Qg4 Qxg4 21. hxg4
+{ Once again, Chess from the White side with rating 3 5 8 3 and Obsidian from the Black side with rating 3 5 6 6 played a balanced game which ended in a draw. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 11. Bxf5 Nxf5 12. Qd3 Nd6 13. Bf4 Na6 14. h4 Nc7 15. Ne3 Ne6 16. Bxd6 Bxd6
+17. g3 Re8 18. Kg2 Qf6 19. b4 Qg6 20. Qxg6 hxg6 21. Reb1 a6 22. a4
+{ In this game, Marvin from the Black side with rating 3 4 5 6 could not hold the position, allowing Stockfish as White rated 3 6 4 0 to win. Small inaccuracies made the difference.1-0 }
+1/2-1/2
+
+
+

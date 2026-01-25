@@ -1,0 +1,145 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17.1 64-bit 4CPU"]
+[Black "Titan 1.1.0 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation"]
+[WhiteElo "3645"]
+[BlackElo "3589"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6
+{ entered in RUY Lopez Exchange Variation } 4... bxc6 5. O-O
+{ played by 3 4 9 8 rated Stockfish } ( 5. d4
+{ played by 3 6 4 5 rated Stockfish } 5... exd4 6. Qxd4
+{ played by 3 6 4 5 rated Stockfish } ( 6. Nxd4
+{ played by 3 6 4 3 rated ShashChess } 6... g6 7. Nc3 Bg7 8. O-O Ne7 9. Be3
+{ played by 3 5 5 1 rated Koivisto } ( 9. Qd3 { played by 2 6 2 3 rated Igel }
+9... c5 10. Nb3 d6 11. Bg5 h6 12. Bxe7 Qxe7 13. Na5 Be6 14. f4 Bd7 15. Nd5 Qd8
+16. Nc4 Be6 17. c3
+{ Here we see that Minic, rated 2 5 4 9, had the Black pieces defended accurately and defeated Igel playing White, rated 2 6 2 3. The outcome was decided in the later stages.0-1 }
+) ( 9. Nb3 { played by 2 5 4 9 rated Minic } 9... O-O 10. Qf3 d6 11. Bg5 f6 12.
+Bf4 g5 13. Be3 Ng6 14. Nd4 Nh4 15. Qe2 c5 16. Nb3 a5 17. Qc4+
+{ Here we see that The game between Minic on White with Elo 2 5 4 9 and Igel as Black rated 2 6 2 3 finished level. Both sides showed good positional understanding.1/2-1/2 }
+) ( 9. Bg5 { played by 2 4 1 6 rated King } 9... h6 10. Bf4 d5 11. exd5 cxd5
+12. Qd2 c5 13. Nf3 g5 14. Bg3 O-O 15. Rae1 Bf5 16. Be5 f6 17. Bg3
+{ Here we see that King as Black rated 2 4 1 6 outplayed Rival from the White side with rating 2 2 6 1 and won as Black. Small inaccuracies made the difference.0-1 }
+) 9... d6 10. Qd2 O-O 11. Bh6 Bxh6 12. Qxh6 c5 13. Nde2 Nc6 14. Rad1 f5 15.
+Rfe1 Rf7 16. b3 Bb7 17. exf5
+{ In this game, After a long struggle, Koivisto handling the White pieces rated 3 5 5 1 and Stockfish on Black with Elo 3 6 2 2 shared the point. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 6... Qf6 7. Qa4 { played by 3 6 4 5 rated Stockfish } ( 7. e5
+{ played by 3 2 7 1 rated Stash } 7... Qg6 8. O-O Bb7 9. Nh4
+{ played by 3 2 5 0 rated Combusken } 9... Qh5 10. b4 Be7 11. Nf3 c5 12. bxc5
+Bxf3 13. gxf3 Qxf3 14. Nc3 Bxc5 15. Qxc5
+{ In an interesting battle, Neither Combusken handling the White pieces rated 3 2 5 0 nor Stash as Black rated 3 2 7 1 could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
+) 7... Bc5 8. O-O { played by 3 5 5 8 rated Clover } 8... Ne7 9. Nc3
+{ we will see this position later on1/2-1/2 } ) 5... d6 6. d4 exd4 7. Qxd4
+{ played by 3 4 9 8 rated Stockfish } ( 7. Nxd4
+{ played by 3 3 9 2 rated Komodo } 7... Qd7 8. Re1 Ne7 9. Qf3 Qg4 10. Qd3 g6
+11. e5 dxe5 12. Rxe5 Bf5 13. Nxf5 Rd8 14. Qf1 Rd1 15. Re1 Rxe1 16. Qxe1 gxf5
+17. Nd2
+{ After a long struggle, Komodo from the White side with rating 3 3 9 2 and Stockfish as Black rated 3 4 9 8 shared the point. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 7... c5 8. Qe3 Rb8 9. Rd1 Ne7 10. b3 Ng6 11. Bb2 Bb7 12. Re1 Qd7 13. Nbd2 f6
+14. Rad1 Qf7 15. Nf1 Be7 16. Ng3 O-O 17. h4
+{ In an interesting battle, Komodo handling the Black pieces rated 3 3 9 2 could not hold the position, allowing Stockfish handling the White pieces rated 3 4 9 8 to win. The position remained tense for most of the game.1-0 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17.1 64-bit 4CPU"]
+[Black "Titan 1.1.0 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation"]
+[WhiteElo "3645"]
+[BlackElo "3589"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6
+{ entered in RUY Lopez Exchange Variation } 4... bxc6 5. Nxe5
+{ played by 3 6 0 7 rated Torch } ( 5. Nc3 { played by 3 0 5 6 rated Komodo }
+5... d6 6. d4 f6 7. O-O Ne7 8. Qd3 a5 9. Ne2 { played by 3 0 5 6 rated Komodo }
+( 9. Re1 { played by 2 7 3 2 rated Crafty } 9... Ba6 10. Qe3 g6 11. dxe5 fxe5
+12. Na4 h6 13. Bd2 g5 14. b3 Ng6 15. Bxa5 g4 16. Nd2 Be7 17. Nb2
+{ In this game, Chronos handling the Black pieces rated 2 7 4 1 outplayed Crafty from the White side with rating 2 7 3 2 and won as Black.0-1 }
+) 9... c5 10. d5 c6 11. Nd2 cxd5 12. exd5 Ng6 13. f4 f5 14. fxe5 Nxe5 15. Qg3
+g6 16. Nf3 Bg7 17. Bg5
+{ Once again, Protector playing Black, rated 2 8 9 8 defended accurately and defeated Komodo playing White, rated 3 0 5 6. The outcome was decided in the later stages.0-1 }
+) ( 5. d4 { played by 3 6 4 5 rated Stockfish } 5... exd4 6. Qxd4
+{ played by 3 6 4 5 rated Stockfish } 6... Qf6 7. e5
+{ played by 3 2 7 1 rated Stash } 7... Qg6 8. O-O Bb7 9. Rd1
+{ played by 3 2 7 1 rated Stash } 9... O-O-O 10. Nc3
+{ played by 3 2 7 1 rated Stash } ( 10. Qc3
+{ played by 2 8 9 8 rated Protector } 10... c5 11. Na3 d5 12. Bf4 Nh6 13. Qa5
+Qb6 14. Qd2 Be7 15. Bg5 f6 16. Bxh6 gxh6 17. Qxh6
+{ In an interesting battle, Neither Protector, rated 2 8 9 8, had the White pieces nor Deep on Black with Elo 2 9 3 6 could convert, and the game was drawn. Both sides showed good positional understanding.1/2-1/2 }
+) 10... c5 11. Qd3 Qxd3 12. Rxd3 Re8 13. Bf4 Ne7 14. Rad1 Bc6 15. h4 h6 16. Bh2
+f5 17. h5
+{ Stash from the White side with rating 3 2 7 1 and Combusken playing Black, rated 3 2 5 0 played a balanced game which ended in a draw. Both sides showed good positional understanding.1/2-1/2 }
+) 5... Qg5 6. d4 Qxg2 7. Qf3 Qxf3 8. Nxf3 d6 9. Nc3
+{ played by 3 6 0 7 rated Torch } ( 9. Rg1
+{ played by 2 3 7 2 rated Princhess } 9... Nf6 10. Nc3 Rb8 11. b3 d5 12. Ne5
+dxe4 13. Nxc6 Rb6 14. Ne5 Bb4 15. Bd2 O-O 16. Na4 Bxd2+ 17. Kxd2
+{ The game between Princhess as White rated 2 3 7 2 and Ceibo on Black with Elo 2 3 1 7 finished level.1/2-1/2 }
+) ( 9. O-O { played by 2 3 1 7 rated Ceibo } 9... Ne7 10. Bg5 f6 11. Be3 g5 12.
+Nbd2 Ng6 13. Rac1 h5 14. d5 cxd5 15. exd5 Bg7 16. Rfe1 O-O 17. b3
+{ In this game, Princhess, rated 2 3 7 2, had the Black pieces defended accurately and defeated Ceibo as White rated 2 3 1 7.0-1 }
+) 9... Bg4 10. Nh4 Ne7 11. Rg1 Bd7 12. f3 O-O-O 13. Be3 Re8 14. O-O-O g6 15.
+Rd3 Bg7 16. f4 Ng8 17. Bd2
+{ In an interesting battle, Neither Caissa from the White side with rating 3 5 5 9 nor Torch as Black rated 3 6 0 7 could convert, and the game was drawn. Small inaccuracies made the difference.1/2-1/2 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17.1 64-bit 4CPU"]
+[Black "Titan 1.1.0 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation"]
+[WhiteElo "3645"]
+[BlackElo "3589"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6
+{ entered in RUY Lopez Exchange Variation } 4... bxc6 5. d4
+{ played by 3 6 4 5 rated Stockfish } ( 5. Nc3
+{ played by 3 0 5 6 rated Komodo } 5... d6 6. d4 f6 7. O-O Ne7 8. Qd3 a5 9. Rd1
+{ played by 3 0 4 0 rated Komodo } 9... Ba6 10. Qe3 Ng6 11. Ne2 Qd7 12. Ng3
+{ played by 3 0 4 0 rated Komodo } ( 12. b3
+{ played by 2 8 9 8 rated Protector } 12... Be7 13. c4 O-O 14. Ng3 Rfb8 15. a4
+Qe8 16. Nf5 Bf8 17. Ra2
+{ Neither Protector handling the White pieces rated 2 8 9 8 nor Komodo playing Black, rated 3 0 5 6 could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 12... Be7 13. Qb3 Bc8 14. dxe5 a4 15. Qc4 Nxe5 16. Nxe5 fxe5 17. Be3
+{ In this game, The game between Komodo as White rated 3 0 4 0 and Protector, rated 2 8 9 8, had the Black pieces finished level. Small inaccuracies made the difference.1/2-1/2 }
+) 5... exd4 6. Qxd4 { played by 3 6 4 5 rated Stockfish } ( 6. Nxd4
+{ played by 3 6 4 3 rated ShashChess } 6... g6 7. Nc3 Bg7 8. O-O Ne7 9. f4
+{ played by 3 6 4 3 rated ShashChess } 9... c5 10. Nb3 d6 11. f5 gxf5 12. exf5
+Bxf5 13. Bg5 f6 14. Bh6 { played by 3 6 4 3 rated ShashChess } ( 14. Bh4
+{ played by 3 6 2 6 rated PlentyChess } 14... Bg6 15. Nd5 O-O 16. Nxf6+ Bxf6
+17. Rxf6
+{ Once again, Neither PlentyChess on White with Elo 3 6 2 6 nor ShashChess handling the Black pieces rated 3 6 4 3 could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+) 14... Bxh6 15. Qh5+ Bg6 16. Qxh6 Qd7 17. Qd2
+{ In an interesting battle, The game between ShashChess handling the White pieces rated 3 6 4 3 and PlentyChess, rated 3 6 2 6, had the Black pieces finished level.1/2-1/2 }
+) 6... Qf6 7. Qa4 { played by 3 6 4 5 rated Stockfish } 7... Bc5 8. Nc3
+{ played by 3 6 4 5 rated Stockfish } 8... Ne7 9. O-O Rb8 10. Bd2 Ba7 11. Rfe1
+O-O 12. e5 { played by 3 6 4 5 rated Stockfish } ( 12. b3
+{ played by 3 5 5 8 rated Clover } 12... Bb7 13. Rad1 Ng6 14. Be3 Bxe3 15. Rxe3
+d6 16. Qa5 Qd8 17. e5
+{ In an interesting battle, Neither Clover handling the White pieces rated 3 5 5 8 nor Torch, rated 3 6 0 7, had the Black pieces could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+) 12... Qe6 13. Ne4 c5 14. Rad1 Nc6 15. a3 c4 16. Neg5 Qg6 17. Qxc4
+{ Once again, Stockfish playing White, rated 3 6 4 5 converted the advantage and defeated Titan from the Black side with rating 3 5 8 9. The position remained tense for most of the game.1-0 }
+1-0
+
+
+

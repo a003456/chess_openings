@@ -1,0 +1,28 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 1.7.1 32-bit"]
+[Black "RubiChess 1.3 64-bit"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald attack, Gruenfeld variation"]
+[WhiteElo "3013"]
+[BlackElo "3006"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Be7 7. d4 d6 8. c3
+Bg4 { entered in RUY Lopez Wormald Attack Gruenfeld Variation } 9. Be3
+{ played by 3 0 1 3 rated Stockfish } ( 9. d5
+{ played by 3 0 0 6 rated RubiChess } 9... Na5 10. Bc2 c6 11. h3 Bh5 12. b4 Nc4
+13. dxc6 Qc7 14. Nbd2 Nb6 15. Bb2 Qxc6 16. a3 O-O 17. O-O Rfc8 18. Rfe1 h6 19.
+Qe3 Nh7 20. Bb3 a5 21. Rac1 Nc4 22. Nxc4
+{ In this game, RubiChess handling the White pieces rated 3 0 0 6 outplayed Stockfish playing Black, rated 3 0 1 3 and won the game. The opening quickly led to complex middlegame play.1-0 }
+) 9... O-O 10. h3 Bh5 11. Nbd2 exd4 12. cxd4 d5 13. e5 Ne4 14. O-O Qd7 15. Rfc1
+Nd8 16. Bc2 Nxd2 17. Bxd2 Ne6 18. Bf5 a5 19. Rc2 Bg6 20. Bxg6 hxg6 21. Be3 b4
+22. Rac1
+{ Stockfish playing White, rated 3 0 1 3 remained in control, handing RubiChess handling the Black pieces rated 3 0 0 6 a loss. The position remained tense for most of the game.1-0 }
+1-0
+
+
+

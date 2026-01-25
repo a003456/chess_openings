@@ -1,0 +1,495 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Caissa 1.18 64-bit 4CPU"]
+[Black "Alexandria 6.1.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C26"]
+[Opening "Vienna game"]
+[Variation ""]
+[WhiteElo "3600"]
+[BlackElo "3584"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 { entered in VIENNA Game } 3... Bc5 4. Nf3
+{ played by 3 6 1 9 rated Stockfish } 4... d6 5. a3
+{ played by 2 5 1 0 rated Hermann } ( 5. d3 { played by 3 6 0 9 rated Fritz }
+5... c6 6. a4 { played by 3 2 4 0 rated Stockfish } ( 6. Bg5
+{ played by 2 4 8 3 rated Cheng3 } 6... h6 7. Bd2 b5 8. Bb3 a5 9. a3 a4 10. Ba2
+O-O 11. O-O Na6 12. h3 Re8 13. Re1 Bb6 14. Be3 Nc5 15. Qd2 Ba5 16. Qc1
+{ Here we see that Hermann as Black rated 2 5 1 0 could not hold the position, allowing Cheng3 handling the White pieces rated 2 4 8 3 to win. Small inaccuracies made the difference.1-0 }
+) 6... O-O 7. O-O { we will see this position later on1-0 } ) ( 5. O-O
+{ played by 3 5 7 4 rated Caissa } 5... O-O 6. d4
+{ played by 3 5 7 4 rated Caissa } ( 6. d3 { played by 3 4 0 2 rated Komodo }
+6... c6 { we will see this position later on1/2-1/2 } ) ( 6. a3
+{ played by 2 9 3 5 rated Deep } 6... Nc6 7. d3 Bg4 8. h3 Bxf3 9. Qxf3 Nd4 10.
+Qd1 c6 11. Ba2 a5 12. Be3 Re8 13. Na4 Ba7 14. c3 Ne6 15. Bxa7 Rxa7 16. Bxe6
+{ Deep, rated 2 9 3 5, had the White pieces and Komodo as Black rated 3 1 4 7 played a balanced game which ended in a draw. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 6... exd4 7. Nxd4 { we will see this position later on1/2-1/2 } ) 5... Nc6 6.
+d3 Bg4 7. Na4 Bxf3 8. gxf3 Bb6 9. Nxb6 axb6 10. f4 O-O 11. fxe5 Nxe5 12. Ba2
+Nfg4 13. Ke2 Nf6 14. f4 Nc6 15. c3 Qd7 16. Kd2
+{ Hermann as White rated 2 5 1 0 converted the advantage and defeated Cheng3 playing Black, rated 2 4 8 3. Both sides showed good positional understanding.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Caissa 1.18 64-bit 4CPU"]
+[Black "Alexandria 6.1.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C26"]
+[Opening "Vienna game"]
+[Variation ""]
+[WhiteElo "3600"]
+[BlackElo "3584"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 { entered in VIENNA Game } 3... Bc5 4. Nf3
+{ played by 3 6 1 9 rated Stockfish } 4... d6 5. d3
+{ played by 3 6 0 9 rated Fritz } ( 5. O-O { played by 3 5 7 4 rated Caissa }
+5... O-O 6. h3 { played by 3 4 4 5 rated Willow } 6... c6 7. a4
+{ played by 3 4 4 5 rated Willow } ( 7. Bb3 { played by 3 1 1 2 rated Rybka }
+7... a5 8. a4 Nbd7 9. d3 { we will see this position later on1/2-1/2 } ) 7...
+d5 8. Bb3 dxe4 9. Nxe5 Bd4 10. Nxf7 Rxf7 11. d3
+{ In an interesting battle, Willow playing Black, rated 3 4 4 5 outplayed Drofa, rated 3 2 4 6, had the White pieces and won as Black. Small inaccuracies made the difference.0-1 }
+) 5... c6 6. O-O { played by 3 6 2 6 rated Dragon } ( 6. Bb3
+{ played by 3 6 0 9 rated Fritz } 6... O-O 7. O-O
+{ we will see this position later on0-1 } ( 7. a4
+{ played by 3 1 3 7 rated Wasp } 7... Nbd7 8. O-O Bb6 9. Ba2 Re8 10. Ng5 Re7
+11. Nf3 Nf8 12. Be3 Bxe3 13. fxe3 Ng6 14. Nd2 Qb6 15. Nc4 Qc7 16. Nd2
+{ Wasp, rated 3 1 3 7, had the White pieces overpressed, and Texel handling the Black pieces rated 3 1 8 8 secured the win. The outcome was decided in the later stages.0-1 }
+) ) 6... O-O 7. h3 { played by 3 4 0 2 rated Komodo } ( 7. Na4
+{ played by 2 4 5 1 rated Lozza } 7... Bb4 8. a3 Ba5 9. b4 b5 10. Ba2 Bc7 11.
+Nc3 a5 12. Be3 Ba6 13. Qe2 Re8 14. Ng5 Rf8 15. f4 Nbd7 16. fxe5
+{ Once again, Raven from the Black side with rating 2 3 4 1 defended accurately and defeated Lozza handling the White pieces rated 2 4 5 1. Both sides showed good positional understanding.0-1 }
+) 7... h6 8. Ne2 d5 9. Bb3 a5 10. c3 dxe4 11. Nxe5 Nbd7 12. Bxf7+ Rxf7 13. Nxf7
+Kxf7 14. Qb3+ Ke8 15. dxe4 Ne5 16. Rd1
+{ Once again, Komodo on White with Elo 3 4 0 2 remained in control, handing SlowChess on Black with Elo 3 3 1 5 a loss. Small inaccuracies made the difference.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Caissa 1.18 64-bit 4CPU"]
+[Black "Alexandria 6.1.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C26"]
+[Opening "Vienna game"]
+[Variation ""]
+[WhiteElo "3600"]
+[BlackElo "3584"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 { entered in VIENNA Game } 3... Bc5 4. d3
+{ played by 3 6 3 8 rated Stockfish } ( 4. Nf3
+{ played by 3 6 1 9 rated Stockfish } 4... d6 5. d4
+{ played by 3 6 1 9 rated Stockfish } 5... exd4 6. Nxd4 O-O 7. O-O Nbd7 8. a4
+{ played by 3 6 1 9 rated Stockfish } ( 8. Nb3
+{ played by 3 6 1 9 rated Stockfish } 8... Bb6 9. a4 a5 10. Bg5 h6 11. Bh4 Re8
+12. Kh1 Ne5 13. Bxf6 Qxf6 14. Nd5 Qh4 15. Nxb6 Ng4 16. h3
+{ Neither Stockfish from the White side with rating 3 6 1 9 nor Titan handling the Black pieces rated 3 5 4 7 could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+) ( 8. Kh1 { played by 3 5 7 4 rated Caissa } 8... Ne5 9. Be2 Re8 10. f3 a6 11.
+g4 d5 12. Nb3 Ba7 13. g5 d4 14. Nb1 Nfd7 15. Nxd4 Nc5 16. Be3
+{ The game between Alexandria on White with Elo 3 5 6 9 and Caissa handling the Black pieces rated 3 5 7 4 finished level. Small inaccuracies made the difference.1/2-1/2 }
+) ( 8. Bb3 { played by 3 1 5 1 rated EveAnn } 8... a5 9. a4 Re8 10. f3 c6 11.
+Kh1 Ne5 12. Bg5 h6 13. Be3 Qb6 14. Bg1 Ng6 15. Qd3 d5 16. exd5
+{ In this game, The game between EveAnn from the White side with rating 3 1 5 1 and Isa as Black rated 3 0 8 5 finished level. The outcome was decided in the later stages.1/2-1/2 }
+) 8... Ne5 9. Ba2 a5 10. Kh1 c6 11. f3 Re8 12. Be3 Bd7 13. Bg1 Qb6 14. Qd2 Rad8
+15. Rae1 Ng6 16. Bb3
+{ Stockfish playing White, rated 3 6 1 9 converted the advantage and defeated Clover on Black with Elo 3 5 5 8. Small inaccuracies made the difference.1-0 }
+) 4... O-O 5. Bg5 h6 6. Bh4 Be7 7. Nf3 Nc6 8. a4
+{ played by 3 6 0 4 rated Viridithas } ( 8. Bxf6
+{ played by 2 1 6 8 rated SpaceDog } 8... Bxf6 9. O-O Ne7 10. d4 exd4 11. Nxd4
+c6 12. Qd2 b5 13. Bb3 Qb6 14. Nf3 Ng6 15. Rfe1 Qc5 16. Rad1
+{ In an interesting battle, SpaceDog from the White side with rating 2 1 6 8 and Clever on Black with Elo 2 1 2 0 played a balanced game which ended in a draw. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 8... d6 9. O-O { we will see this position later on1/2-1/2 } 1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Caissa 1.18 64-bit 4CPU"]
+[Black "Alexandria 6.1.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C26"]
+[Opening "Vienna game"]
+[Variation ""]
+[WhiteElo "3600"]
+[BlackElo "3584"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 { entered in VIENNA Game } 3... Bc5 4. Nf3
+{ played by 3 6 1 9 rated Stockfish } 4... d6 5. d3
+{ played by 3 6 0 9 rated Fritz } 5... c6 6. O-O
+{ played by 3 6 2 6 rated Dragon } ( 6. Bb3 { played by 3 6 0 9 rated Fritz }
+6... O-O 7. Ne2 { played by 3 6 0 9 rated Fritz } 7... Re8 8. c3
+{ played by 3 6 0 9 rated Fritz } ( 8. O-O { played by 3 5 9 9 rated Clover }
+8... Nbd7 9. c3 h6 10. Ng3 { we will see this position later on0-1 } ) 8... d5
+9. Ng3 h6 10. O-O dxe4 11. dxe4 Nbd7 12. Bc2 a5 13. Nf5 a4 14. h3 b5 15. Bxh6
+gxh6 16. Nxh6+
+{ Once again, Clover, rated 3 5 9 9, had the Black pieces outplayed Fritz, rated 3 6 0 9, had the White pieces and won as Black. Small inaccuracies made the difference.0-1 }
+) 6... O-O 7. a4 { played by 3 2 4 0 rated Stockfish } ( 7. a3
+{ played by 3 1 6 2 rated BlackMamba } 7... a5 8. Qe2
+{ played by 3 1 1 4 rated Critter } ( 8. Bg5
+{ played by 3 0 8 4 rated Stockfish } 8... h6 9. Be3 Bxe3 10. fxe3 b5 11. Ba2
+Kh7 12. Nh4 g6 13. Qe1 Nbd7 14. Qg3 Qe7 15. Nf3 Kg7 16. Nd2
+{ Here we see that Komodo handling the Black pieces rated 3 1 2 3 outplayed Stockfish, rated 3 0 8 4, had the White pieces and won as Black. Small inaccuracies made the difference.0-1 }
+) 8... b5 9. Ba2 h6 10. h3 Na6 11. Nh4 Nc7 12. Be3 Bxe3 13. Qxe3 Nh5 14. Nf3
+Nf4 15. d4 Be6 16. dxe5
+{ In an interesting battle, Komodo from the Black side with rating 3 1 2 3 could not hold the position, allowing Critter as White rated 3 1 1 4 to win. The outcome was decided in the later stages.1-0 }
+) ( 7. Bb3 { played by 2 5 8 6 rated Myrddin } 7... a5 8. a4
+{ played by 3 2 2 8 rated Mantissa } 8... Bg4 9. Ne2 Nbd7 10. c3 Bh5 11. Ng3
+Bg6 12. Nh4 Nxe4 13. Nxg6 Nxf2 14. Qf3 hxg6 15. Rxf2 Bxf2+ 16. Qxf2
+{ Here we see that Mantissa handling the White pieces rated 3 2 2 8 overpressed, and Uralochka handling the Black pieces rated 3 3 9 2 secured the win. The outcome was decided in the later stages.0-1 }
+) 7... a5 8. Be3 { played by 3 1 1 6 rated Chiron } 8... Bxe3 9. fxe3 Be6 10.
+Bxe6 fxe6 11. b3 Nbd7 12. d4 Qc7 13. Qd3 Rae8 14. Rad1 d5 15. Rde1
+{ In an interesting battle, After a long struggle, Fritz handling the White pieces rated 3 2 4 6 and Andscacs on Black with Elo 3 2 3 0 shared the point.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Caissa 1.18 64-bit 4CPU"]
+[Black "Alexandria 6.1.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C26"]
+[Opening "Vienna game"]
+[Variation ""]
+[WhiteElo "3600"]
+[BlackElo "3584"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 { entered in VIENNA Game } 3... Bc5 4. d3
+{ played by 3 6 3 8 rated Stockfish } ( 4. Nf3
+{ played by 3 6 1 9 rated Stockfish } 4... d6 5. d3
+{ played by 3 6 0 9 rated Fritz } 5... c6 6. O-O
+{ played by 3 6 2 6 rated Dragon } 6... O-O 7. Ne2
+{ played by 3 6 2 6 rated Dragon } 7... h6 8. Ng3 Re8 9. a3
+{ played by 3 3 9 8 rated Minic } ( 9. a4 { played by 3 3 8 8 rated Texel }
+9... d5 10. Ba2 Bd6 11. Bd2 Be6 12. Re1 Nbd7 13. b4 Qe7 14. Qb1 b6 15. a5 bxa5
+16. bxa5
+{ In an interesting battle, Texel on White with Elo 3 3 8 8 and Chess playing Black, rated 3 5 4 0 played a balanced game which ended in a draw. The position remained tense for most of the game.1/2-1/2 }
+) ( 9. c3 { played by 3 1 6 2 rated Little } 9... Bb6 10. Bb3 Nbd7
+{ we will see this position later on1/2-1/2 } ) ( 9. h3
+{ played by 2 9 8 2 rated Willow } 9... d5 10. Bb3 a5 11. c3 dxe4 12. dxe4 Qxd1
+13. Rxd1 b5 14. a4 Nbd7 15. Bc2 Nb6 16. axb5
+{ Once again, Little playing Black, rated 3 1 6 2 defended accurately and defeated Willow on White with Elo 2 9 8 2. Small inaccuracies made the difference.0-1 }
+) ( 9. Qe2 { played by 2 4 6 7 rated Fornax } 9... d5 10. Bb3 a5 11. c3 Bd6 12.
+Be3 a4 13. Bc2 c5 14. exd5 Nxd5 15. Ne4 f5 16. Nxc5
+{ Once again, FoxSEE as Black rated 2 4 9 6 could not hold the position, allowing Fornax playing White, rated 2 4 6 7 to win. Small inaccuracies made the difference.1-0 }
+) 9... Nbd7 10. b4 Bb6 11. Bb3 Nf8 12. c4 Ng6 13. h3 a5 14. Rb1 axb4 15. axb4
+Bd7 16. Qc2
+{ Here we see that After a long struggle, Minic playing White, rated 3 3 9 8 and Houdini playing Black, rated 3 3 9 0 shared the point. Small inaccuracies made the difference.1/2-1/2 }
+) 4... O-O 5. Bg5 h6 6. Bh4 Be7 7. Nf3 Nc6 8. O-O
+{ played by 3 6 3 8 rated Stockfish } ( 8. a3
+{ played by 3 6 1 5 rated Caissa } 8... d6 9. h3
+{ played by 3 6 1 5 rated Caissa } ( 9. Bxf6 { played by 2 1 2 0 rated Clever }
+9... Bxf6 10. Nd5 Na5 11. Ba2 c5 12. b4 Nc6 13. c3 a6 14. h3 Be6 15. O-O Rb8
+16. Qd2
+{ Clever as White rated 2 1 2 0 and SpaceDog on Black with Elo 2 1 6 8 played a balanced game which ended in a draw. Both sides showed good positional understanding.1/2-1/2 }
+) 9... Be6 10. Bxf6 Bxf6 11. O-O Ne7 12. Bxe6 fxe6 13. Nb1 Qd7 14. b4 Rfc8 15.
+a4 a5 16. b5
+{ Once again, Neither Caissa as White rated 3 6 1 5 nor Viridithas as Black rated 3 6 0 4 could convert, and the game was drawn. Both sides showed good positional understanding.1/2-1/2 }
+) 8... d6 9. Re1 { played by 3 3 3 3 rated Lc0 } ( 9. a3
+{ played by 3 2 8 7 rated Little } 9... Be6 10. Bxf6 Bxf6 11. Nd5 a5 12. c3 g6
+13. Nxf6+ Qxf6 14. Bxe6 Qxe6 15. Re1 a4 16. d4
+{ Here we see that Little handling the White pieces rated 3 2 8 7 converted the advantage and defeated Lc0 as Black rated 3 3 3 3. Both sides showed good positional understanding.1-0 }
+) ( 9. Bxf6 { played by 3 2 0 5 rated Seredina } 9... Bxf6 10. Nd5 Na5 11. Bb3
+a6 12. Qe1 Nxb3 13. axb3 Be6 14. Qb4 b5 15. Rfe1 c5 16. Nxf6+
+{ In an interesting battle, Neither Chiron as White rated 3 1 5 8 nor Fizbo on Black with Elo 3 2 4 3 could convert, and the game was drawn. Both sides showed good positional understanding.1/2-1/2 }
+) 9... g5 10. Bg3 Bg4 11. h3 Bh5 12. Nb1 b5 13. Bxb5 Nd4 14. Bc4 Nxf3+ 15. gxf3
+c6 16. Nc3
+{ In an interesting battle, The game between Lc0 on White with Elo 3 3 3 3 and Little playing Black, rated 3 2 8 7 finished level.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Caissa 1.18 64-bit 4CPU"]
+[Black "Alexandria 6.1.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C26"]
+[Opening "Vienna game"]
+[Variation ""]
+[WhiteElo "3600"]
+[BlackElo "3584"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 { entered in VIENNA Game } 3... Bc5 4. Nf3
+{ played by 3 6 1 9 rated Stockfish } 4... d6 5. d3
+{ played by 3 6 0 9 rated Fritz } 5... c6 6. O-O
+{ played by 3 6 2 6 rated Dragon } ( 6. Bb3 { played by 3 6 0 9 rated Fritz }
+6... O-O 7. h3 { played by 3 6 0 0 rated Dragon } 7... Nbd7 8. O-O Bb6 9. Ne2
+{ played by 3 6 0 0 rated Dragon } ( 9. Na4
+{ played by 3 3 9 2 rated Uralochka } 9... Bc7 10. c4 Re8 11. Be3 Nf8 12. Nc3
+h6 13. Bc2 Ng6 14. d4 Nh5 15. d5 Nhf4 16. Kh2
+{ Uralochka handling the White pieces rated 3 3 9 2 outplayed Mantissa handling the Black pieces rated 3 2 2 8 and won the game. Small inaccuracies made the difference.1-0 }
+) ( 9. Re1 { played by 2 8 6 0 rated Defenchess } 9... a5 10. a3 Nc5 11. Ba2 a4
+12. Be3 Be6 13. Bxe6 Nxe6 14. d4 exd4 15. Nxd4 Bxd4 16. Bxd4
+{ Defenchess handling the White pieces rated 2 8 6 0 and Vengeance from the Black side with rating 2 7 5 9 played a balanced game which ended in a draw. Both sides showed good positional understanding.1/2-1/2 }
+) ( 9. Qe2 { played by 2 7 5 9 rated Vengeance } 9... a5 10. Bc4 a4 11. a3 Ba5
+12. Ba2 b5 13. Bg5 Re8 14. Bd2 Nf8 15. Ng5 Re7 16. f4
+{ Neither Vengeance, rated 2 7 5 9, had the White pieces nor Defenchess as Black rated 2 8 6 0 could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 9... h6 10. c3 Re8 11. Ng3 { we will see this position later on1/2-1/2 } )
+6... O-O 7. a4 { played by 3 2 4 0 rated Stockfish } ( 7. Bb3
+{ played by 2 5 8 6 rated Myrddin } 7... a5 8. h3
+{ played by 3 3 7 4 rated Clover } 8... Nbd7 9. a4
+{ played by 3 2 0 4 rated Stash } ( 9. Bd2 { played by 3 1 3 6 rated Fritz }
+9... Re8 10. Ng5 Re7 11. Nf3 h6 12. a3 b5 13. Nh4 Nf8 14. Qf3 Rb7 15. Ba2 Bd4
+16. Nf5
+{ Here we see that Komodo from the Black side with rating 3 3 8 2 defended accurately and defeated Fritz handling the White pieces rated 3 1 3 6.0-1 }
+) 9... Ba7 10. Ba2 Nc5 11. Be3 Bb6 12. Re1 Be6 13. Bxe6 Nxe6 14. Qd2 Bxe3 15.
+Qxe3 Re8 16. Rad1
+{ Here we see that After a long struggle, Stash playing White, rated 3 2 0 4 and Velvet from the Black side with rating 3 2 5 0 shared the point. The outcome was decided in the later stages.1/2-1/2 }
+) 7... a5 8. h3 { played by 3 2 4 0 rated Stockfish } 8... h6 9. Ne2
+{ played by 2 7 8 4 rated Colossus } 9... d5 10. Ba2 Re8 11. Ng3 Qc7 12. Re1
+Nbd7 13. exd5 cxd5 14. c3 Ba7 15. Rb1 Bb8 16. Be3
+{ In this game, After a long struggle, Colossus, rated 2 7 8 4, had the White pieces and Apotheosis on Black with Elo 2 7 7 1 shared the point. The opening quickly led to complex middlegame play.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Caissa 1.18 64-bit 4CPU"]
+[Black "Alexandria 6.1.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C26"]
+[Opening "Vienna game"]
+[Variation ""]
+[WhiteElo "3600"]
+[BlackElo "3584"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 { entered in VIENNA Game } 3... Bc5 4. f4
+{ played by 3 4 5 6 rated Houdini } ( 4. Nh3 { played by 2 3 3 7 rated iCE }
+4... h6 5. a3 a5 6. d3 d6 7. Be3 Bg4 8. Qd2 Bxe3 9. fxe3
+{ played by 2 6 6 3 rated Ktulu } ( 9. Qxe3 { played by 2 6 2 8 rated Gandalf }
+9... Nc6 10. Bb5 O-O 11. Bxc6 bxc6 12. f4 exf4 13. Qxf4 Be6 14. Nf2 a4 15. O-O
+Qb8 16. Rab1
+{ Once again, Ktulu from the Black side with rating 2 6 6 3 could not hold the position, allowing Gandalf on White with Elo 2 6 2 8 to win.1-0 }
+) 9... Bxh3 10. gxh3 c6 11. a4 Nbd7 12. O-O-O Rg8 13. Rhg1 Qe7 14. Rdf1 Nb6 15.
+Bb3 Nbd7 16. Bc4 { we will see this position later on1/2-1/2 } ) ( 4. d3
+{ played by 3 6 3 8 rated Stockfish } 4... O-O 5. Bg5 h6 6. Bh4 Be7 7. Nf3 Nc6
+8. O-O { played by 3 6 3 8 rated Stockfish } 8... d6 9. h3
+{ played by 3 5 3 8 rated Ginkgo } 9... Na5 10. Bxf6
+{ played by 2 6 1 8 rated KnightX } 10... Bxf6 11. Nd5 c6 12. Nxf6+ Qxf6 13. a4
+Nxc4 14. dxc4 Rd8 15. Qe2 Qg6
+{ In this game, After a long struggle, KnightX, rated 2 6 1 8, had the White pieces and Raven from the Black side with rating 2 5 8 7 shared the point. The outcome was decided in the later stages.1/2-1/2 }
+) ( 4. Nf3 { played by 3 6 1 9 rated Stockfish } 4... d6 5. d3
+{ played by 3 6 0 9 rated Fritz } 5... c6 6. O-O
+{ played by 3 6 2 6 rated Dragon } 6... O-O 7. a3
+{ played by 3 1 6 2 rated BlackMamba } 7... a5 8. h3
+{ played by 3 2 0 1 rated Critter } 8... b5 9. Ba2 Be6 10. d4
+{ played by 3 2 0 1 rated Critter } ( 10. Bxe6 { played by 3 0 9 1 rated Naum }
+10... fxe6 11. d4 exd4 12. Nxd4 Qd7 13. Nb3 Bb6 14. Qe2 a4 15. Nd2 e5 16. Rd1
+{ Once again, Komodo from the Black side with rating 3 3 3 8 seized the initiative and handed Naum as White rated 3 0 9 1 a loss.0-1 }
+) 10... exd4 11. Nxd4 Bxa2 12. Rxa2 Re8 13. Nf5 g6 14. b4 axb4 15. Nh6+ Kg7 16.
+axb4
+{ Once again, Neither Critter handling the White pieces rated 3 2 0 1 nor Komodo handling the Black pieces rated 3 2 8 4 could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+) 4... d5 5. exd5 e4 6. d4 exd3 7. cxd3 O-O 8. d4 Re8+ 9. Kf2
+{ played by 2 7 6 5 rated Amoeba } 9... Ng4+ 10. Kf1 Bb4 11. Nf3 Nd7 12. h3
+Ngf6 13. Qb3 Bd6 14. Ne5 Nb6 15. Bb5 Bd7 16. Bxd7
+{ Once again, Amoeba handling the White pieces rated 2 7 6 5 remained in control, handing Jacky from the Black side with rating 2 7 7 7 a loss. Small inaccuracies made the difference.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Caissa 1.18 64-bit 4CPU"]
+[Black "Alexandria 6.1.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C26"]
+[Opening "Vienna game"]
+[Variation ""]
+[WhiteElo "3600"]
+[BlackElo "3584"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 { entered in VIENNA Game } 3... Bc5 4. Nf3
+{ played by 3 6 1 9 rated Stockfish } ( 4. d3
+{ played by 3 6 3 8 rated Stockfish } 4... O-O 5. Bg5 h6 6. Bh4 Be7 7. Nf3 Nc6
+8. O-O { played by 3 6 3 8 rated Stockfish } 8... d6 9. a4
+{ played by 3 6 3 8 rated Stockfish } 9... g5 10. Bg3 Bg4 11. h3
+{ played by 3 4 3 2 rated Viridithas } 11... Bh5 12. Bh2 Kg7 13. a5 Qd7 14. Nd5
+Nd4 15. Nxe5 dxe5 16. Nxf6
+{ In this game, Viridithas from the White side with rating 3 4 3 2 converted the advantage and defeated Stockfish handling the Black pieces rated 3 4 4 7. Both sides showed good positional understanding.1-0 }
+) 4... d6 5. d3 { played by 3 6 0 9 rated Fritz } 5... c6 6. O-O
+{ played by 3 6 2 6 rated Dragon } ( 6. a3 { played by 3 5 8 5 rated Berserk }
+6... Nbd7 7. Ba2 Bb6 8. Be3 O-O 9. Qd2 { played by 3 5 8 5 rated Berserk } 9...
+Re8 10. Ng5 { played by 3 5 6 6 rated Alexandria } ( 10. Bxb6
+{ played by 3 5 4 0 rated Alexandria } 10... axb6 11. Ng5 Rf8 12. f4 exf4
+{ we will see this position later on1/2-1/2 } ) ( 10. O-O-O
+{ played by 3 5 2 7 rated rofChade } 10... Nc5 11. Ng5 Ne6 12. Bxb6 axb6 13. d4
+exd4 14. Bxe6 Bxe6 15. Qxd4 d5 16. Rhe1
+{ Berserk on Black with Elo 3 5 8 5 defended accurately and defeated Peacekeeper from the White side with rating 3 5 2 2. The opening quickly led to complex middlegame play.0-1 }
+) 10... Rf8 11. f4 exf4 12. Bxb6 axb6 13. Qxf4 Ne5 14. O-O Qe7 15. h3 b5 16.
+Ne2
+{ In this game, The game between Alexandria playing White, rated 3 5 6 6 and Seer handling the Black pieces rated 3 5 8 5 finished level. Both sides showed good positional understanding.1/2-1/2 }
+) 6... O-O 7. a3 { played by 3 1 6 2 rated BlackMamba } 7... a5 8. Ba2
+{ played by 3 1 2 9 rated Naum } 8... Be6 9. Bxe6 fxe6 10. Ne2
+{ played by 3 1 9 4 rated Simbelmyne } ( 10. Qe2
+{ played by 3 1 2 5 rated Sting } 10... a4 11. Be3 Bxe3 12. Qxe3 c5 13. Ng5 Ng4
+14. Qd2 Qd7 15. f4 exf4 16. Rxf4
+{ Once again, Komodo on Black with Elo 3 2 8 4 seized the initiative and handed Sting from the White side with rating 3 1 2 5 a loss. The position remained tense for most of the game.0-1 }
+) 10... Nbd7 11. Ng3 h6 12. c3 d5 13. Qe2 Qe8 14. d4 exd4 15. cxd4 Bb6 16. Bd2
+{ EveAnn playing Black, rated 3 2 0 7 defended accurately and defeated Simbelmyne handling the White pieces rated 3 1 9 4.0-1 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Caissa 1.18 64-bit 4CPU"]
+[Black "Alexandria 6.1.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C26"]
+[Opening "Vienna game"]
+[Variation ""]
+[WhiteElo "3600"]
+[BlackElo "3584"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 { entered in VIENNA Game } 3... Bc5 4. d3
+{ played by 3 6 3 8 rated Stockfish } ( 4. Nf3
+{ played by 3 6 1 9 rated Stockfish } 4... d6 5. d3
+{ played by 3 6 0 9 rated Fritz } 5... c6 6. O-O
+{ played by 3 6 2 6 rated Dragon } 6... O-O 7. Ne2
+{ played by 3 6 2 6 rated Dragon } ( 7. a4
+{ played by 3 2 4 0 rated Stockfish } 7... a5 8. h3
+{ played by 3 2 4 0 rated Stockfish } 8... h6 9. Be3
+{ played by 3 2 4 0 rated Stockfish } 9... Bxe3 10. fxe3 Qb6 11. d4
+{ played by 3 2 4 0 rated Stockfish } ( 11. Qd2
+{ played by 2 9 8 5 rated Francesca } 11... Re8 12. g4 Be6 13. g5 hxg5 14. Bxe6
+Rxe6 15. Nxg5 Re7 16. Kh2
+{ Francesca playing White, rated 2 9 8 5 and Bagatur as Black rated 3 0 1 0 played a balanced game which ended in a draw. Both sides showed good positional understanding.1/2-1/2 }
+) 11... Re8 12. Nh4 exd4 13. Rxf6 gxf6 14. Qh5 d5 15. Nxd5 cxd5 16. Bxd5
+{ Once again, Komodo playing Black, rated 3 2 1 7 could not hold the position, allowing Stockfish, rated 3 2 4 0, had the White pieces to win. The opening quickly led to complex middlegame play.1-0 }
+) 7... h6 8. Ng3 Re8 9. Bb3 { played by 3 6 2 0 rated Stockfish } 9... Nbd7 10.
+c3 Bb6 11. Bc2 { played by 3 5 7 4 rated Caissa } ( 11. h3
+{ played by 3 1 6 2 rated Little } 11... d5 12. Re1
+{ we will see this position later on1/2-1/2 } ) 11... d5 12. exd5 cxd5 13. d4
+exd4 14. Nxd4 Ne5 15. Bf4 Ng6 16. Be3
+{ In an interesting battle, After a long struggle, Caissa on White with Elo 3 5 7 4 and Velvet handling the Black pieces rated 3 5 3 0 shared the point. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 4... O-O 5. Bg5 h6 6. Bh4 Be7 7. Nf3 Nc6 8. O-O
+{ played by 3 6 3 8 rated Stockfish } 8... d6 9. h3
+{ played by 3 5 3 8 rated Ginkgo } 9... Na5 10. Bb3
+{ played by 3 5 3 8 rated Ginkgo } 10... a6 11. d4
+{ played by 3 5 3 8 rated Ginkgo } ( 11. Re1
+{ played by 3 3 6 8 rated Houdini } 11... b5 12. a3 Nxb3 13. cxb3 c5 14. b4
+cxb4 15. axb4 Bb7 16. Bxf6
+{ In an interesting battle, Koivisto as Black rated 3 4 0 4 seized the initiative and handed Booot, rated 3 3 1 0, had the White pieces a loss. Small inaccuracies made the difference.0-1 }
+) 11... exd4 12. Qxd4 b5 13. e5 dxe5 14. Qxe5 Bd6 15. Qd4 c5 16. Qd2
+{ Neither Ginkgo as White rated 3 5 3 8 nor Integral as Black rated 3 5 6 8 could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Caissa 1.18 64-bit 4CPU"]
+[Black "Alexandria 6.1.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C26"]
+[Opening "Vienna game"]
+[Variation ""]
+[WhiteElo "3600"]
+[BlackElo "3584"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 { entered in VIENNA Game } 3... Bc5 4. Nf3
+{ played by 3 6 1 9 rated Stockfish } ( 4. f4
+{ played by 3 4 5 6 rated Houdini } 4... d5 5. exd5 e4 6. d4 exd3 7. cxd3 O-O
+8. d4 Re8+ 9. Nge2 { played by 3 4 5 6 rated Houdini } 9... Bb6 10. O-O Bg4 11.
+f5 { played by 3 3 4 2 rated RubiChess } ( 11. Qb3
+{ played by 2 4 4 6 rated Ares } 11... Ne4 12. Qc2 Nxc3 13. bxc3 Bxe2 14. Bxe2
+Qxd5 15. Rb1 Nd7 16. Bf3
+{ Once again, After a long struggle, Ares handling the White pieces rated 2 4 4 6 and RedQueen as Black rated 2 3 4 6 shared the point. Both sides showed good positional understanding.1/2-1/2 }
+) 11... c6 12. Bg5 h6 13. Bxf6 Qxf6 14. Kh1 Nd7 15. Qc2 Bxe2 16. Nxe2
+{ In this game, RubiChess handling the White pieces rated 3 3 4 2 and Houdini from the Black side with rating 3 4 5 6 played a balanced game which ended in a draw. Small inaccuracies made the difference.1/2-1/2 }
+) ( 4. d3 { played by 3 6 3 8 rated Stockfish } 4... O-O 5. Bg5 h6 6. Bh4 Be7
+7. Nf3 Nc6 8. O-O { played by 3 6 3 8 rated Stockfish } 8... d6 9. a4
+{ played by 3 6 3 8 rated Stockfish } 9... g5 10. Bg3 Bg4 11. Nb1
+{ played by 3 6 3 8 rated Stockfish } 11... Bc8 12. Nc3
+{ we will see this position later on1/2-1/2 } ) 4... d6 5. d3
+{ played by 3 6 0 9 rated Fritz } 5... c6 6. a3
+{ played by 3 5 8 5 rated Berserk } ( 6. O-O { played by 3 6 2 6 rated Dragon }
+6... O-O 7. Ne2 { played by 3 6 2 6 rated Dragon } 7... h6 8. Ng3 Re8 9. Bb3
+{ played by 3 6 2 0 rated Stockfish } 9... Nbd7 10. c3 Bb6 11. Re1
+{ played by 3 5 9 9 rated Clover } 11... d5 12. Bc2
+{ played by 3 5 0 1 rated Viridithas } 12... Nf8 13. exd5 Qxd5 14. Bb3 Qd6 15.
+Be3 Be6 16. Bxe6
+{ In an interesting battle, Viridithas, rated 3 5 0 1, had the White pieces overpressed, and Stockfish as Black rated 3 6 2 0 secured the win. The position remained tense for most of the game.0-1 }
+) 6... Nbd7 7. Ba2 Bb6 8. Be3 O-O 9. O-O { played by 3 4 1 6 rated Patricia }
+9... Re8 10. Ng5 Re7 11. h3 { played by 3 4 1 6 rated Patricia } ( 11. Na4
+{ played by 3 4 1 6 rated Patricia } 11... Bxe3 12. fxe3 h6 13. Nf3 Nf8 14. Nh4
+Rc7 15. Qe1 b5 16. Nc3
+{ In this game, chess.cpp handling the Black pieces rated 3 4 3 1 defended accurately and defeated Patricia from the White side with rating 3 4 1 6. Both sides showed good positional understanding.0-1 }
+) 11... Nf8 12. d4 Qc7 13. Nf3 h6 14. d5 cxd5 15. Nxd5 Nxd5 16. Bxd5
+{ Once again, Astra on Black with Elo 3 5 3 5 seized the initiative and handed Patricia on White with Elo 3 4 1 6 a loss. The position remained tense for most of the game.0-1 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Caissa 1.18 64-bit 4CPU"]
+[Black "Alexandria 6.1.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C26"]
+[Opening "Vienna game"]
+[Variation ""]
+[WhiteElo "3600"]
+[BlackElo "3584"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 { entered in VIENNA Game } 3... Bc5 4. d3
+{ played by 3 6 3 8 rated Stockfish } ( 4. Nf3
+{ played by 3 6 1 9 rated Stockfish } 4... d6 5. d3
+{ played by 3 6 0 9 rated Fritz } 5... c6 6. O-O
+{ played by 3 6 2 6 rated Dragon } 6... O-O 7. Ne2
+{ played by 3 6 2 6 rated Dragon } ( 7. Bb3 { played by 2 5 8 6 rated Myrddin }
+7... a5 8. h3 { played by 3 3 7 4 rated Clover } 8... Nbd7 9. a3
+{ played by 3 3 7 4 rated Clover } 9... h6 10. Ba2 b5 11. Ne2 Re8 12. Ng3 d5
+13. Re1 { played by 3 3 7 4 rated Clover } ( 13. c3
+{ played by 3 2 5 0 rated Velvet } 13... Bf8 14. Be3 Bb7 15. Nh4 g6 16. Qd2
+{ After a long struggle, Velvet playing White, rated 3 2 5 0 and Stash as Black rated 3 2 0 4 shared the point. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 13... Bd6 14. Nf5 Bf8 15. Nh2 Nc5 16. Qf3
+{ In this game, RubiChess handling the Black pieces rated 3 5 1 6 defended accurately and defeated Clover, rated 3 3 7 4, had the White pieces. The position remained tense for most of the game.0-1 }
+) 7... h6 8. Ng3 Re8 9. Bb3 { played by 3 6 2 0 rated Stockfish } 9... Nbd7 10.
+c3 Bb6 11. Re1 { played by 3 5 9 9 rated Clover } 11... d5 12. h3
+{ played by 3 6 2 0 rated Stockfish } 12... Bc7 13. Bc2
+{ played by 3 6 2 0 rated Stockfish } ( 13. a4
+{ played by 3 5 3 0 rated Velvet } 13... Nf8 14. d4 Nxe4 15. Nxe4 dxe4 16. Nxe5
+{ Here we see that The game between Velvet, rated 3 5 3 0, had the White pieces and Caissa, rated 3 5 7 4, had the Black pieces finished level. The outcome was decided in the later stages.1/2-1/2 }
+) 13... a6 14. Nh4 Nf8 15. Nhf5 a5 16. Qd2
+{ In an interesting battle, Clover, rated 3 5 9 9, had the White pieces and Fritz as Black rated 3 6 0 9 played a balanced game which ended in a draw.1/2-1/2 }
+) 4... O-O 5. Bg5 h6 6. Bh4 Be7 7. Nf3 Nc6 8. O-O
+{ played by 3 6 3 8 rated Stockfish } 8... d6 9. a4
+{ played by 3 6 3 8 rated Stockfish } 9... g5 10. Bg3 Bg4 11. Nb1
+{ played by 3 6 3 8 rated Stockfish } 11... Bc8 12. a5
+{ played by 3 6 3 8 rated Stockfish } 12... a6 13. Ne1
+{ played by 3 6 3 8 rated Stockfish } ( 13. Nbd2
+{ played by 3 5 7 9 rated Chess } 13... g4 14. Nh4
+{ Once again, Neither Chess from the White side with rating 3 5 7 9 nor Stockfish playing Black, rated 3 6 3 8 could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 13... Be6 14. Nd2 h5 15. Bxe6 fxe6 16. f3
+{ In an interesting battle, The game between Caissa playing White, rated 3 6 0 0 and Alexandria as Black rated 3 5 8 4 finished level. Small inaccuracies made the difference.1/2-1/2 }
+1/2-1/2
+
+
+

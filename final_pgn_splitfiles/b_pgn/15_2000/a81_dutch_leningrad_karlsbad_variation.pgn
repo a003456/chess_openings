@@ -1,0 +1,82 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 15.1 64-bit 4CPU"]
+[Black "Koivisto 9.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "A81"]
+[Opening "Dutch"]
+[Variation "Leningrad, Karlsbad variation"]
+[WhiteElo "3629"]
+[BlackElo "3561"]
+
+1. d4 f5 2. g3 g6 3. Bg2 Bg7 4. Nh3
+{ entered in DUTCH Leningrad Karlsbad Variation } 4... Nc6 5. d5 Ne5 6. Nc3 Nf6
+7. f4 { played by 2 9 2 5 rated Toga } ( 7. Ng5
+{ played by 2 2 0 6 rated Zevra } 7... O-O 8. f4 Neg4 9. h3 Nh6 10. Be3 c6 11.
+O-O cxd5 12. Nxd5 Nh5 13. Qe1 e6 14. Nc3 Nf7 15. Nxf7 Rxf7 16. g4 fxg4 17. hxg4
+{ Here we see that Zevra playing White, rated 2 2 0 6 and Weini playing Black, rated 2 1 9 7 played a balanced game which ended in a draw. The position remained tense for most of the game.1/2-1/2 }
+) ( 7. Nf4 { played by 3 0 5 8 rated Stockfish } 7... c6 8. O-O cxd5 9. Ncxd5
+{ played by 3 0 5 8 rated Stockfish } ( 9. Nfxd5
+{ played by 2 9 6 4 rated Deep } 9... Nxd5 10. Qxd5 e6 11. Qb3 O-O 12. Rd1 Kh8
+13. Be3 d5 14. Bc5 Rf7 15. Bd4 Bd7 16. a4 Nc6 17. Bxg7+
+{ The game between Deep playing White, rated 2 9 6 4 and Stockfish as Black rated 3 0 5 8 finished level.1/2-1/2 }
+) 9... e6 10. Nxf6+ Qxf6 11. Rb1 O-O 12. Qd6 a5 13. Nd3 Nf7 14. Qc7 Qd8 15.
+Qxd8 Rxd8 16. c4 d6 17. Be3
+{ Here we see that Stockfish on White with Elo 3 0 5 8 remained in control, handing Deep on Black with Elo 2 9 6 4 a loss. The opening quickly led to complex middlegame play.1-0 }
+) ( 7. Bf4 { played by 3 6 2 9 rated Stockfish } 7... d6 8. O-O h6 9. Bc1
+{ played by 3 6 2 9 rated Stockfish } ( 9. Be3
+{ played by 3 4 5 1 rated Komodo } 9... O-O 10. Bd4
+{ played by 3 4 5 1 rated Komodo } ( 10. a4 { played by 3 3 1 0 rated Booot }
+10... c6 11. a5 e6 12. dxe6 Bxe6 13. Qc1 Kh7 14. Bd4 Qe7 15. Nf4 Bf7 16. e3
+Rfe8 17. Re1
+{ Once again, Komodo on Black with Elo 3 4 5 1 seized the initiative and handed Booot as White rated 3 3 1 0 a loss.0-1 }
+) 10... c5 11. dxc6 Nxc6 12. Bxf6 Bxf6 13. Rb1 e6 14. Nf4 g5 15. Nd3 d5 16. e3
+Rb8 17. f4
+{ Here we see that The game between Komodo handling the White pieces rated 3 4 5 1 and Booot, rated 3 3 1 0, had the Black pieces finished level. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 9... c6 10. a4 { played by 3 5 6 1 rated Koivisto } 10... O-O 11. Nf4
+{ we will see this position later on1/2-1/2 } ) 7... Nc4 8. Qd3 Nd6 9. Be3 O-O
+10. O-O c6 11. Bd4 Qc7 12. Rab1 c5 13. Be5 Qa5 14. a3 b6 15. b4 Qxa3 16. Qd1
+Ng4 17. Ra1
+{ Arasan on Black with Elo 3 0 7 8 defended accurately and defeated Toga on White with Elo 2 9 2 5. Small inaccuracies made the difference.0-1 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 15.1 64-bit 4CPU"]
+[Black "Koivisto 9.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "A81"]
+[Opening "Dutch"]
+[Variation "Leningrad, Karlsbad variation"]
+[WhiteElo "3629"]
+[BlackElo "3561"]
+
+1. d4 f5 2. g3 g6 3. Bg2 Bg7 4. Nh3
+{ entered in DUTCH Leningrad Karlsbad Variation } 4... Nc6 5. d5 Ne5 6. Nc3 Nf6
+7. O-O { played by 3 0 7 8 rated Arasan } ( 7. Bf4
+{ played by 3 6 2 9 rated Stockfish } 7... d6 8. O-O h6 9. Bc1
+{ played by 3 6 2 9 rated Stockfish } 9... c6 10. Nf4
+{ played by 3 6 2 9 rated Stockfish } 10... O-O 11. a4 Bd7 12. e4
+{ played by 3 6 2 9 rated Stockfish } ( 12. a5
+{ played by 3 5 6 1 rated Koivisto } 12... Qc8 13. a6 bxa6 14. dxc6 Bxc6 15.
+Ncd5 Rf7 16. Nxf6+ Bxf6 17. Bxc6
+{ In an interesting battle, Neither Koivisto handling the White pieces rated 3 5 6 1 nor Stockfish on Black with Elo 3 6 2 9 could convert, and the game was drawn.1/2-1/2 }
+) 12... fxe4 13. Nxe4 Nxd5 14. Nxd5 cxd5 15. Qxd5+ Kh8 16. Bf4 Bc6 17. Qd1
+{ Here we see that After a long struggle, Stockfish playing White, rated 3 6 2 9 and Koivisto playing Black, rated 3 5 6 1 shared the point. Small inaccuracies made the difference.1/2-1/2 }
+) 7... c6 8. Bf4 Nh5 9. Bxe5 Bxe5 10. Qd2 { played by 3 0 7 8 rated Arasan } (
+10. Qd3 { played by 2 1 9 7 rated Weini } 10... Nf6 11. Nf4 Qb6 12. Rab1 O-O
+13. e3 Qc5 14. Rfe1 e6 15. dxe6 dxe6 16. Red1 a5 17. Na4
+{ In an interesting battle, Neither Weini handling the White pieces rated 2 1 9 7 nor Zevra from the Black side with rating 2 2 0 6 could convert, and the game was drawn.1/2-1/2 }
+) 10... O-O 11. Rad1 Qb6 12. Na4 Qa6 13. dxc6 dxc6 14. b3 Bd6 15. Qh6 Nf6 16.
+Ng5 Qa5 17. Nb2
+{ In this game, Arasan, rated 3 0 7 8, had the White pieces outplayed Toga as Black rated 2 9 2 5 and won the game. The position remained tense for most of the game.1-0 }
+1/2-1/2
+
+
+

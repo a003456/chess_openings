@@ -1,0 +1,27 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 9 64-bit 4CPU"]
+[Black "Booot 6.3.1 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "D55"]
+[Opening "QGD"]
+[Variation "Pillsbury attack"]
+[WhiteElo "3491"]
+[BlackElo "3310"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 b6 7. Bd3 Bb7 8. cxd5
+exd5 9. Ne5 { entered in Queens Gambit Declined Pillsbury Attack } 9... Ne4
+{ played by 3 4 9 1 rated Stockfish } ( 9... Nbd7
+{ played by 2 3 4 0 rated Seawall } 10. Bf4 Nxe5 11. dxe5 Nd7 12. Qg4 g6 13.
+Rd1 Nc5 14. Bc2 h5 15. Qe2 Ba6 16. Qf3 c6 17. Bf5 gxf5 18. Qxh5 Nd3+ 19. Rxd3
+Bxd3 20. g4 fxg4 21. e4 dxe4 22. Qxg4+
+{ Princhess on White with Elo 2 3 7 2 remained in control, handing Seawall on Black with Elo 2 3 4 0 a loss. Small inaccuracies made the difference.1-0 }
+) 10. Bxe7 Qxe7 11. O-O Nxc3 12. bxc3 c5 13. Qg4 Nc6 14. f4 g6 15. Rf3 Kh8 16.
+Qh3 Rg8 17. Nxc6 Bxc6 18. f5 Bd7 19. f6 Qd6 20. Qh4 Rgd8 21. Re1 Re8 22. Rg3
+{ Stockfish, rated 3 4 9 1, had the White pieces remained in control, handing Booot playing Black, rated 3 3 1 0 a loss.1-0 }
+1-0
+
+
+

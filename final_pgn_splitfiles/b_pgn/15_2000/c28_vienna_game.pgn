@@ -1,0 +1,678 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Integral v7 64-bit 4CPU"]
+[Black "Stockfish 17 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C28"]
+[Opening "Vienna game"]
+[Variation ""]
+[WhiteElo "3617"]
+[BlackElo "3643"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Nc6 { entered in VIENNA Game } 4. Bb3
+{ played by 3 0 3 9 rated Monolith } ( 4. Nge2
+{ played by 2 6 8 4 rated Crafty } 4... Nxe4 5. Nxe4 d5
+{ Here we see that Crafty handling the White pieces rated 2 6 8 4 outplayed RedQueen as Black rated 2 5 6 3 and won the game. Both sides showed good positional understanding.1-0 }
+) ( 4. Qe2 { played by 2 5 8 3 rated Arasan } 4... Nd4 5. Qd1 Nxe4 6. Bxf7+
+Kxf7 7. Nxe4 d5 8. Ng3 Kg8 9. c3 Nf5 10. N1e2 Nxg3 11. hxg3 c6 12. d4 e4 13. f3
+Bf5 14. Bf4 h5 15. Qd2 Be7 16. Be5 Rh6 17. Qf4
+{ Arasan, rated 2 5 8 3, had the White pieces converted the advantage and defeated Sloppy as Black rated 2 6 0 8. Both sides showed good positional understanding.1-0 }
+) ( 4. d3 { played by 3 6 4 3 rated Stockfish } 4... Na5 5. Bd5
+{ played by 2 6 8 0 rated Daydreamer } ( 5. a3
+{ played by 3 3 9 2 rated Komodo } 5... Nxc4 6. dxc4 c6 7. Nf3
+{ played by 3 0 2 2 rated 4ku } ( 7. h3 { played by 2 9 7 4 rated Eidolon }
+7... d6 8. Nge2 Be7 9. O-O Be6 10. Qd3 Qc7 11. f4 O-O 12. f5 Bc8 13. Ng3 b6 14.
+Bg5 Ba6 15. Bxf6 Bxf6 16. b3 Bg5 17. Rad1
+{ In this game, Eidolon playing White, rated 2 9 7 4 remained in control, handing 4ku playing Black, rated 3 0 2 2 a loss. Small inaccuracies made the difference.1-0 }
+) 7... d6 8. O-O Be7 9. a4 Be6 10. Qe2 O-O 11. a5 h6 12. h3 Nd7 13. b3 f5 14.
+Rd1 Qc7 15. Ba3 Rad8 16. exf5 Bxf5 17. Ne4
+{ Here we see that 4ku from the White side with rating 3 0 2 2 overpressed, and Eidolon as Black rated 2 9 7 4 secured the win. The position remained tense for most of the game.0-1 }
+) 5... c6 6. Bb3 d6 7. Nf3 Be7 8. d4 Qc7 9. O-O O-O 10. Qd3 b5 11. Rd1 Nxb3 12.
+axb3 b4 13. Ne2 c5 14. d5 a5 15. Nd2 Bd7 16. Nc4 Ra7 17. f4
+{ In this game, Deuterium on Black with Elo 2 6 5 4 could not hold the position, allowing Daydreamer on White with Elo 2 6 8 0 to win.1-0 }
+) ( 4. f4 { played by 3 5 2 5 rated Revenge } 4... Nxe4 5. Bxf7+
+{ played by 2 3 4 8 rated Horizon } 5... Kxf7 6. Nxe4 d5 7. Ng5+ Kg8 8. d3 exf4
+9. N5f3 g5 10. Ne2 g4 11. Nfg1 Qh4+ 12. Kf1 f3 13. gxf3 Be7 14. Nf4 Bd6 15.
+fxg4 Bxg4 16. Nf3 Bh3+ 17. Nxh3
+{ Here we see that Teki playing Black, rated 2 4 0 0 defended accurately and defeated Horizon on White with Elo 2 3 4 8. The opening quickly led to complex middlegame play.0-1 }
+) 4... a5 5. Nf3 Bb4 6. O-O O-O 7. d3 Bxc3 8. bxc3 a4 9. Bc4 h6 10. Re1 d6 11.
+Rb1 Bg4 12. h3 Bd7 13. d4 b6 14. a3 Re8 15. Bd3 Qe7 16. Bb2 Nh7 17. Qe2
+{ In this game, Monolith handling the White pieces rated 3 0 3 9 overpressed, and Molybdenum handling the Black pieces rated 3 1 7 2 secured the win.0-1 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Integral v7 64-bit 4CPU"]
+[Black "Stockfish 17 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C28"]
+[Opening "Vienna game"]
+[Variation ""]
+[WhiteElo "3617"]
+[BlackElo "3643"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Nc6 { entered in VIENNA Game } 4. f4
+{ played by 3 5 2 5 rated Revenge } ( 4. d3
+{ played by 3 6 4 3 rated Stockfish } 4... Na5 5. Nge2
+{ played by 3 6 4 3 rated Stockfish } 5... Nxc4 6. dxc4 d6 7. b3
+{ played by 3 6 4 3 rated Stockfish } ( 7. O-O
+{ played by 3 6 2 0 rated Stockfish } 7... Be7 8. Re1
+{ played by 3 1 3 8 rated NirvanaChess } ( 8. Be3
+{ played by 2 4 5 1 rated Lozza } 8... c6 9. Ng3 g6 10. Qd3 Be6 11. Rfd1 Ng4
+12. Bc1 Qb6 13. Qf3 Nf6 14. h3 Bxc4 15. Na4 Qc7 16. Bg5 Ng8 17. Bxe7
+{ Lozza on White with Elo 2 4 5 1 converted the advantage and defeated Jumbo on Black with Elo 2 4 7 3.1-0 }
+) 8... Be6 9. b3 c6 10. Ng3 g6 11. Bh6 Ng4 12. Bd2 Nf6 13. Bh6
+{ we will see this position later on1-0 } ) ( 7. Qd3
+{ played by 3 3 4 5 rated Arasan } 7... Be7 8. Ng3
+{ played by 3 3 4 5 rated Arasan } ( 8. O-O
+{ we will see this position later on1/2-1/2 } ) 8... c6 9. Bg5 g6 10. O-O-O h6
+11. Bd2 Qb6 12. Rhf1 Ng4 13. h3 Nxf2 14. Qf3 Nxd1 15. Qxf7+ Kd7 16. Na4 Qd8 17.
+Nc5+
+{ In this game, The game between Arasan on White with Elo 3 3 4 5 and Revenge playing Black, rated 3 4 6 9 finished level. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 7... Be7 8. h3 { played by 3 6 4 3 rated Stockfish } ( 8. a4
+{ played by 3 2 8 3 rated Minic } 8... Be6 9. Ba3 a5 10. Qd3 O-O 11. Rd1 Nd7
+12. Ng3 Bg5 13. Nf5 h5 14. h4 Be7 15. Qf3 g6 16. Kd2 Bf6 17. Kc1
+{ In an interesting battle, Minic on White with Elo 3 2 8 3 remained in control, handing Xiphos as Black rated 3 3 0 2 a loss. The opening quickly led to complex middlegame play.1-0 }
+) 8... O-O 9. Ng3 Be6 10. Qf3 Re8 11. a4 c6 12. O-O d5 13. exd5 cxd5 14. cxd5
+Bxd5 15. Nxd5 Qxd5 16. Qe2 Qc6 17. c4
+{ Here we see that After a long struggle, Integral playing White, rated 3 6 1 7 and Stockfish playing Black, rated 3 6 4 3 shared the point. The position remained tense for most of the game.1/2-1/2 }
+) 4... Nxe4 5. Nf3 { played by 3 5 2 5 rated Revenge } 5... Nxc3 6. dxc3 Qe7 7.
+Be2 { played by 3 5 4 7 rated Titan } 7... e4 8. Nd4 g6 9. Nxc6 dxc6 10. Qd4 f6
+11. a4 a5 12. g4 Bg7 13. f5 gxf5 14. gxf5 Bxf5 15. Bf4 Rd8 16. Qa7 e3 17. Qxa5
+{ In this game, The game between Titan playing White, rated 3 5 4 7 and Ginkgo, rated 3 5 3 8, had the Black pieces finished level. The position remained tense for most of the game.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Integral v7 64-bit 4CPU"]
+[Black "Stockfish 17 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C28"]
+[Opening "Vienna game"]
+[Variation ""]
+[WhiteElo "3617"]
+[BlackElo "3643"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Nc6 { entered in VIENNA Game } 4. d3
+{ played by 3 6 4 3 rated Stockfish } 4... Na5 5. Qf3
+{ played by 3 6 2 9 rated Stockfish } ( 5. Bb3
+{ played by 3 6 1 6 rated SugaR } 5... Nxb3 6. axb3 d5 7. exd5
+{ played by 3 6 0 0 rated Dragon } 7... Nxd5 8. Bd2
+{ played by 2 2 4 1 rated Galjoen } 8... Nxc3 9. bxc3 Bd6 10. Ne2 O-O 11. O-O
+f6 12. Ng3 Bd7 13. f4 Re8 14. Qf3 Bc6 15. Qf2 a6 16. Nf5 e4 17. Nxd6
+{ Once again, Neither Galjoen as White rated 2 2 4 1 nor Galjoen playing Black, rated 2 3 5 6 could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
+) ( 5. Bg5 { played by 2 6 2 9 rated Rodin } 5... Nxc4 6. dxc4 h6 7. Bxf6 Qxf6
+8. Nd5 { played by 2 6 2 9 rated Rodin } 8... Qd6 9. c3 c6 10. Ne3 Qxd1+ 11.
+Rxd1 d6 12. h4 Be6 13. Nf3 O-O-O 14. Ke2 Kc7 15. h5 Be7 16. b3 a5 17. a4
+{ Here we see that Ethereal playing Black, rated 2 6 3 6 seized the initiative and handed Rodin on White with Elo 2 6 2 9 a loss. The position remained tense for most of the game.0-1 }
+) ( 5. Nf3 { played by 2 3 4 4 rated Jazz } 5... Nxc4 6. dxc4 Bb4 7. Bd2 d6 8.
+Nd5 { played by 2 3 4 4 rated Jazz } ( 8. Qe2
+{ played by 2 3 2 6 rated Myrddin } 8... Bg4 9. O-O-O Bxc3 10. Bxc3 Nd7 11. c5
+Nxc5 12. Bxe5 O-O 13. Bd4 Ne6 14. Qe3 Re8 15. Kb1 a5 16. Rhe1 a4 17. Bc3
+{ Myrddin playing White, rated 2 3 2 6 outplayed Exacto from the Black side with rating 2 2 1 0 and won the game. Both sides showed good positional understanding.1-0 }
+) 8... Bxd2+ 9. Nxd2 c6 10. Nxf6+ Qxf6 11. Qe2 O-O 12. O-O-O Be6 13. Qe3 Qg6
+14. f3 f6 15. Qb3 Rab8 16. g3 Rfd8 17. Qa3
+{ Here we see that After a long struggle, Jazz on White with Elo 2 3 4 4 and Sjakk, rated 2 5 0 7, had the Black pieces shared the point. The outcome was decided in the later stages.1/2-1/2 }
+) ( 5. Nge2 { played by 3 6 4 3 rated Stockfish } 5... Nxc4 6. dxc4 d6 7. O-O
+{ played by 3 6 2 0 rated Stockfish } 7... Be7 8. b3
+{ played by 3 6 2 0 rated Stockfish } 8... O-O 9. Kh1
+{ played by 3 3 3 7 rated Zahak } 9... a6 10. a4 Be6 11. f4 exf4 12. Nxf4 Nd7
+13. Ncd5 Bxd5 14. Nxd5 c6 15. Nxe7+ Qxe7 16. Bf4 Rfe8 17. Re1
+{ In an interesting battle, RubiChess, rated 3 5 0 2, had the Black pieces outplayed Zahak playing White, rated 3 3 3 7 and won as Black.0-1 }
+) 5... Nxc4 6. dxc4 Bb4 7. Ne2 d6 8. O-O { played by 3 5 9 7 rated Obsidian }
+8... c6 9. a3 Ba5 10. Ng3 Bg4 11. Qd3 O-O 12. h3 Be6 13. Bd2 h6 14. b3 a6 15.
+a4 Rc8 16. Rad1 Qc7 17. f4
+{ Neither Obsidian on White with Elo 3 5 9 7 nor Berserk from the Black side with rating 3 6 1 7 could convert, and the game was drawn. Both sides showed good positional understanding.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Integral v7 64-bit 4CPU"]
+[Black "Stockfish 17 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C28"]
+[Opening "Vienna game"]
+[Variation ""]
+[WhiteElo "3617"]
+[BlackElo "3643"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Nc6 { entered in VIENNA Game } 4. d3
+{ played by 3 6 4 3 rated Stockfish } ( 4. f4
+{ played by 3 5 2 5 rated Revenge } 4... Nxe4 5. Nf3
+{ played by 3 5 2 5 rated Revenge } 5... Nxc3 6. dxc3 Qe7 7. b4
+{ played by 2 8 6 3 rated Counter } 7... d6 8. O-O Be6 9. Qe2
+{ played by 2 8 6 3 rated Counter } 9... f6 10. b5 Na5 11. Bd3 O-O-O 12. c4 d5
+13. cxd5 Bxd5 14. fxe5 Nc4 15. exf6 Qxe2 16. Bxe2 Bc5+ 17. Kh1
+{ Here we see that Igel handling the White pieces rated 2 8 4 2 and Counter on Black with Elo 2 8 6 3 played a balanced game which ended in a draw. Both sides showed good positional understanding.1/2-1/2 }
+) 4... Na5 5. Nge2 { played by 3 6 4 3 rated Stockfish } ( 5. Bb3
+{ played by 3 6 1 6 rated SugaR } 5... Nxb3 6. axb3 d5 7. exd5
+{ played by 3 6 0 0 rated Dragon } 7... Nxd5 8. Qe2
+{ played by 3 4 5 6 rated Houdini } 8... f6 9. Nf3
+{ played by 3 4 5 6 rated Houdini } 9... Bb4 10. Bd2 O-O 11. O-O Nb6 12. Rfe1
+Re8 13. Rad1 Bf5 14. Ne4 Bf8 15. h3 Qd7 16. g4 Be6 17. c4
+{ In this game, The game between Houdini handling the White pieces rated 3 4 5 6 and RubiChess on Black with Elo 3 5 1 6 finished level. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 5... Nxc4 6. dxc4 d6 7. O-O { played by 3 6 2 0 rated Stockfish } 7... Be7 8.
+Qd3 { played by 3 0 7 3 rated Wasp } ( 8. b3
+{ played by 3 6 2 0 rated Stockfish } 8... O-O 9. a4
+{ played by 3 6 2 0 rated Stockfish } ( 9. Ng3
+{ played by 3 6 0 9 rated Torch } 9... Be6 10. a4
+{ we will see this position later on1/2-1/2 } ( 10. h3
+{ played by 3 5 9 9 rated Alexandria } 10... Nd7 11. Nd5 a5 12. Be3 h6 13. Qe2
+a4 14. Rfd1 Bg5 15. Bxg5 hxg5 16. Qh5 Re8 17. b4
+{ Alexandria from the White side with rating 3 5 9 9 and Cinder on Black with Elo 3 5 4 5 played a balanced game which ended in a draw. The position remained tense for most of the game.1/2-1/2 }
+) ( 10. Qf3 { played by 3 5 4 6 rated Caissa } 10... Bg4 11. Qe3 Be6 12. a4 c6
+13. h3 Qc7 14. Rd1 g6 15. Qe2 h5 16. Bg5 Nh7 17. Bxe7
+{ Caissa as White rated 3 5 4 6 and Torch on Black with Elo 3 6 0 8 played a balanced game which ended in a draw.1/2-1/2 }
+) ( 10. Nd5 { played by 3 5 4 5 rated Cinder } 10... Nxd5 11. cxd5 Bd7 12. a4
+a5 13. Qd3 Bg5 14. Qc3 Bxc1 15. Raxc1 b6 16. f4 exf4 17. Rxf4
+{ Once again, Neither Cinder handling the White pieces rated 3 5 4 5 nor Alexandria, rated 3 5 9 9, had the Black pieces could convert, and the game was drawn. Both sides showed good positional understanding.1/2-1/2 }
+) ) 9... Be6 10. h3 { played by 3 6 2 0 rated Stockfish } ( 10. f4
+{ played by 3 0 9 5 rated Pedone } 10... exf4 11. Nxf4 c6 12. Be3 Nd7 13. Nxe6
+fxe6 14. Qg4 Bf6 15. Qxe6+ Kh8 16. Bd2 Qb6+ 17. Kh1
+{ Once again, Pedone, rated 3 0 9 5, had the White pieces and Komodo, rated 3 2 6 3, had the Black pieces played a balanced game which ended in a draw. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 10... Nd7 11. a5 f5 12. exf5 Bxf5 13. a6 b6 14. f4 c6 15. Ng3 Qe8 16. Nxf5
+Rxf5 17. Qf3
+{ Stockfish, rated 3 6 2 0, had the White pieces remained in control, handing RubiChess handling the Black pieces rated 3 5 6 8 a loss. The outcome was decided in the later stages.1-0 }
+) 8... c6 9. Ng3 { played by 3 0 7 3 rated Wasp } 9... h5 10. Nf5 Bxf5 11. exf5
+h4 12. Bg5 h3 13. g3 Qd7 14. Bxf6 Bxf6 15. Rfd1 O-O-O 16. a4 Rh5 17. g4
+{ Here we see that Wasp from the White side with rating 3 0 7 3 and NirvanaChess, rated 3 1 3 8, had the Black pieces played a balanced game which ended in a draw. The opening quickly led to complex middlegame play.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Integral v7 64-bit 4CPU"]
+[Black "Stockfish 17 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C28"]
+[Opening "Vienna game"]
+[Variation ""]
+[WhiteElo "3617"]
+[BlackElo "3643"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Nc6 { entered in VIENNA Game } 4. d3
+{ played by 3 6 4 3 rated Stockfish } 4... Na5 5. Nge2
+{ played by 3 6 4 3 rated Stockfish } 5... Nxc4 6. dxc4 d6 7. O-O
+{ played by 3 6 2 0 rated Stockfish } ( 7. Qd3
+{ played by 3 3 4 5 rated Arasan } 7... Be7 8. a4
+{ played by 3 4 8 7 rated Stormphrax } 8... Be6 9. O-O
+{ played by 3 4 5 7 rated Superultra } 9... c6 10. Ng3
+{ played by 3 1 3 8 rated Stockfish } ( 10. a5
+{ played by 3 0 5 2 rated NirvanaChess } 10... Qc7 11. Rd1 O-O 12. Bg5 h6 13.
+Bxf6 Bxf6 14. Ng3 g6 15. a6 Rfd8 16. axb7 Qxb7 17. b3
+{ The game between NirvanaChess from the White side with rating 3 0 5 2 and Senpai as Black rated 2 9 8 6 finished level. Small inaccuracies made the difference.1/2-1/2 }
+) 10... h5 11. Nf5 Bxf5 12. exf5 h4 13. Bg5 h3 14. g3 Qd7 15. a5 a6 16. Bxf6
+Bxf6 17. Rad1
+{ In this game, Senpai on White with Elo 2 9 8 6 outplayed NirvanaChess handling the Black pieces rated 3 0 5 2 and won the game. The opening quickly led to complex middlegame play.1-0 }
+) 7... Be7 8. b3 { played by 3 6 2 0 rated Stockfish } ( 8. Qd3
+{ played by 3 0 7 3 rated Wasp } 8... c6 9. h3
+{ played by 3 5 7 7 rated Stockfish } 9... O-O 10. b3
+{ we will see this position later on1/2-1/2 } ( 10. Rd1
+{ played by 2 8 3 2 rated tomitankChess } 10... Qa5 11. b3 Be6 12. Bd2 Qc7 13.
+Bg5 Rad8 14. Qg3 Nh5 15. Qh4 f6 16. Be3 g6 17. Rd2
+{ tomitankChess on White with Elo 2 8 3 2 and Dirty, rated 2 9 4 1, had the Black pieces played a balanced game which ended in a draw. The opening quickly led to complex middlegame play.1/2-1/2 }
+) ) 8... O-O 9. h3 { played by 3 6 0 8 rated Torch } ( 9. Qd3
+{ played by 2 5 2 3 rated Maverick } 9... c6 10. Bd2
+{ played by 2 5 2 3 rated Maverick } 10... Be6 11. Rad1 Re8 12. f4 Rc8 13. f5
+Bd7 14. Bg5 Qb6+ 15. Kh1 Rcd8 16. Qg3 Qc7 17. Rf3
+{ Maverick on White with Elo 2 5 2 3 outplayed Leorik on Black with Elo 2 5 9 7 and won the game. The opening quickly led to complex middlegame play.1-0 }
+) 9... b6 10. Ng3 { played by 3 3 0 2 rated Xiphos } 10... Re8 11. Qf3 g6 12.
+Bh6 Nd7 13. Qe3 Bb7 14. Rad1 Bf8 15. Bxf8 Rxf8 16. Nd5 Nc5 17. f4
+{ Xiphos playing White, rated 3 3 0 2 overpressed, and Fire on Black with Elo 3 3 8 5 secured the win. Small inaccuracies made the difference.0-1 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Integral v7 64-bit 4CPU"]
+[Black "Stockfish 17 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C28"]
+[Opening "Vienna game"]
+[Variation ""]
+[WhiteElo "3617"]
+[BlackElo "3643"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Nc6 { entered in VIENNA Game } 4. d3
+{ played by 3 6 4 3 rated Stockfish } ( 4. f4
+{ played by 3 5 2 5 rated Revenge } 4... Nxe4 5. Nf3
+{ played by 3 5 2 5 rated Revenge } 5... Nxc3 6. dxc3 Qe7 7. b4
+{ played by 2 8 6 3 rated Counter } 7... d6 8. O-O Be6 9. Bxe6
+{ played by 2 7 4 0 rated Arminius } 9... Qxe6 10. b5
+{ played by 2 7 4 0 rated Arminius } ( 10. fxe5
+{ played by 2 7 2 8 rated Devel } 10... Nxe5 11. Qe2 Qc4 12. Qe3 f6 13. Bd2 a6
+14. a4 O-O-O 15. Kh1 h5 16. Nd4 c5 17. Nb3
+{ Devel as White rated 2 7 2 8 outplayed Arminius handling the Black pieces rated 2 7 4 0 and won the game.1-0 }
+) 10... Ne7 11. fxe5 dxe5 12. Ng5 Qb6+ 13. Kh1 f5 14. Qe2 h6 15. Nf3 e4 16. Nd4
+O-O-O 17. a4
+{ In an interesting battle, The game between Arminius playing White, rated 2 7 4 0 and Devel handling the Black pieces rated 2 7 2 8 finished level. Small inaccuracies made the difference.1/2-1/2 }
+) 4... Na5 5. Qf3 { played by 3 6 2 9 rated Stockfish } ( 5. Bb3
+{ played by 3 6 1 6 rated SugaR } 5... Nxb3 6. axb3 d5 7. Nf3
+{ played by 3 6 1 5 rated Dragon } 7... dxe4 8. dxe4
+{ played by 3 5 8 5 rated Caissa } 8... Qxd1+ 9. Kxd1 Bd6 10. Nd2
+{ played by 3 5 8 0 rated Clover } 10... Be6 11. Ke2 a6 12. Nc4 Bb4 13. Nxe5
+Bxc3 14. bxc3 Nxe4 15. c4 O-O-O 16. Nd3 Nd6 17. Re1
+{ Here we see that Neither Clover from the White side with rating 3 5 8 0 nor Caissa from the Black side with rating 3 5 8 5 could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
+) ( 5. a3 { played by 3 3 9 2 rated Komodo } 5... Nxc4 6. dxc4 c6 7. Qd3
+{ played by 3 5 4 7 rated Viridithas } 7... d6 8. Nge2 Be7 9. Ng3
+{ played by 3 5 4 7 rated Viridithas } 9... g6 10. h3
+{ played by 3 5 4 7 rated Viridithas } ( 10. O-O
+{ played by 3 1 9 7 rated Houdini } 10... Be6 11. Rd1 Qc7 12. a4 Nd7 13. a5 Nc5
+14. Qe2 O-O 15. h3 b6 16. Nf1 Na6 17. Bh6
+{ In this game, Vitruvius on Black with Elo 3 0 8 1 could not hold the position, allowing Houdini from the White side with rating 3 1 9 7 to win. Both sides showed good positional understanding.1-0 }
+) 10... Be6 11. O-O h5 12. a4 h4 13. Nge2 Nh5 14. a5 f5 15. Rd1 O-O 16. c5 dxc5
+17. Qe3
+{ In an interesting battle, Viridithas handling the White pieces rated 3 5 4 7 and Berserk handling the Black pieces rated 3 5 8 5 played a balanced game which ended in a draw. Small inaccuracies made the difference.1/2-1/2 }
+) 5... Nxc4 6. dxc4 Bb4 7. Ne2 d6 8. h3 { played by 3 6 2 9 rated Stockfish }
+8... Be6 9. b3 Nd7 10. Be3 { played by 3 2 9 8 rated Expositor } 10... O-O 11.
+a3 Bc5 12. O-O a5 13. Qg3 Bxe3 14. Qxe3 a4 15. Nxa4 Bxc4 16. Nac3 Bxe2 17. Nxe2
+{ In an interesting battle, Neither Expositor from the White side with rating 3 2 9 8 nor Vajolet2 on Black with Elo 3 2 3 8 could convert, and the game was drawn. Small inaccuracies made the difference.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Integral v7 64-bit 4CPU"]
+[Black "Stockfish 17 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C28"]
+[Opening "Vienna game"]
+[Variation ""]
+[WhiteElo "3617"]
+[BlackElo "3643"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Nc6 { entered in VIENNA Game } 4. d3
+{ played by 3 6 4 3 rated Stockfish } 4... Na5 5. Nge2
+{ played by 3 6 4 3 rated Stockfish } ( 5. Qf3
+{ played by 3 6 2 9 rated Stockfish } 5... Nxc4 6. dxc4 Bb4 7. Ne2 d6 8. h3
+{ played by 3 6 2 9 rated Stockfish } 8... Be6 9. b3 Nd7 10. O-O
+{ played by 3 6 2 9 rated Stockfish } 10... O-O 11. Ng3
+{ played by 3 5 4 5 rated Cinder } ( 11. Bd2 { played by 3 4 5 7 rated Caissa }
+11... a5 12. Be3 c6 13. Qg3 f5 14. f4 Ba3 15. Bc1 Bc5+ 16. Be3 Qf6 17. Bxc5
+{ Here we see that After a long struggle, Caissa on White with Elo 3 4 5 7 and Seer as Black rated 3 5 3 4 shared the point. Small inaccuracies made the difference.1/2-1/2 }
+) 11... Qf6 12. Qe3 Bxc3 13. Qxc3 Qg6 14. f4 exf4 15. Bxf4 f6 16. Rf3 Qe8 17.
+Qd2
+{ Here we see that Stockfish on Black with Elo 3 6 2 9 outplayed Igel on White with Elo 3 5 2 2 and won as Black. The outcome was decided in the later stages.0-1 }
+) 5... Nxc4 6. dxc4 d6 7. O-O { played by 3 6 2 0 rated Stockfish } ( 7. Qd3
+{ played by 3 3 4 5 rated Arasan } 7... Be7 8. a4
+{ played by 3 4 8 7 rated Stormphrax } 8... Be6 9. Nd5
+{ played by 3 4 8 7 rated Stormphrax } 9... Nxd5 10. cxd5 Bd7 11. O-O
+{ played by 3 4 8 7 rated Stormphrax } ( 11. Be3
+{ played by 2 6 2 3 rated WildCat } 11... O-O 12. Ng3 g6 13. O-O h5 14. h3 a5
+15. b3 h4 16. Ne2 f5 17. exf5
+{ In an interesting battle, WildCat as White rated 2 6 2 3 and K2 on Black with Elo 2 6 6 1 played a balanced game which ended in a draw. Small inaccuracies made the difference.1/2-1/2 }
+) 11... O-O 12. Ng3 Bg5 13. h3 Bxc1 14. Rfxc1 a5 15. Ra3 b6 16. Rca1 Rc8 17.
+Rc3
+{ Stormphrax handling the White pieces rated 3 4 8 7 and Superultra handling the Black pieces rated 3 4 5 7 played a balanced game which ended in a draw. Both sides showed good positional understanding.1/2-1/2 }
+) 7... Be7 8. b3 { played by 3 6 2 0 rated Stockfish } 8... O-O 9. a4
+{ played by 3 6 2 0 rated Stockfish } ( 9. Qd3
+{ played by 2 5 2 3 rated Maverick } 9... c6 10. h3
+{ played by 3 5 8 1 rated SugaR } 10... Re8 11. f4
+{ played by 3 5 8 1 rated SugaR } ( 11. Kh1 { played by 3 5 2 3 rated Rebel }
+11... Nd7 12. Be3 Nc5 13. Qd2 Bf8 14. Ng3 Qa5 15. f3 Be6 16. a3 Na6 17. Rad1
+{ In this game, The game between Rebel from the White side with rating 3 5 2 3 and Berserk playing Black, rated 3 5 8 4 finished level.1/2-1/2 }
+) 11... a6 12. a4 Qa5 13. Bd2 exf4 14. Nxf4 Qe5 15. Rad1 Bd8 16. Be3 Nd7 17.
+Bd4
+{ Once again, The game between SugaR from the White side with rating 3 5 8 1 and Stockfish, rated 3 5 7 7, had the Black pieces finished level.1/2-1/2 }
+) 9... Be6 10. Ng3 { played by 3 5 9 8 rated PlentyChess } 10... a5 11. Qf3
+{ played by 3 5 9 8 rated PlentyChess } 11... Nd7 12. Nd5 Re8 13. Be3 Bf8 14.
+Qe2 g6 15. Qd2 Bg7 16. Rae1 b6 17. Bg5
+{ In this game, Neither PlentyChess from the White side with rating 3 5 9 8 nor Torch on Black with Elo 3 6 0 9 could convert, and the game was drawn.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Integral v7 64-bit 4CPU"]
+[Black "Stockfish 17 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C28"]
+[Opening "Vienna game"]
+[Variation ""]
+[WhiteElo "3617"]
+[BlackElo "3643"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Nc6 { entered in VIENNA Game } 4. d3
+{ played by 3 6 4 3 rated Stockfish } 4... Na5 5. Qf3
+{ played by 3 6 2 9 rated Stockfish } ( 5. Bb3
+{ played by 3 6 1 6 rated SugaR } 5... Nxb3 6. axb3 d5 7. Nf3
+{ played by 3 6 1 5 rated Dragon } ( 7. exd5 { played by 3 6 0 0 rated Dragon }
+7... Nxd5 8. Qh5 { played by 3 5 5 8 rated Clover } 8... Nb4 9. Qxe5+ Be7 10.
+Qe2 { played by 2 7 9 2 rated Rodent } 10... O-O 11. Be3
+{ played by 2 7 9 2 rated Rodent } ( 11. Qd1 { played by 2 1 0 7 rated iCE }
+11... Bd6 12. Nge2 Qh4 13. Nb5 Be5 14. Rxa7 Rxa7 15. Nxa7 Bd7 16. Be3 Ra8 17.
+g3
+{ In an interesting battle, Atak, rated 2 1 8 8, had the Black pieces defended accurately and defeated iCE, rated 2 1 0 7, had the White pieces. The opening quickly led to complex middlegame play.0-1 }
+) 11... Re8 12. Nf3 Bf6 13. h3 b6 14. O-O Bb7 15. Nh2 Qd7 16. Rfc1 Qc6 17. Qf3
+{ In an interesting battle, After a long struggle, Rodent playing White, rated 2 7 9 2 and Murka from the Black side with rating 2 8 3 3 shared the point. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 7... dxe4 8. dxe4 { played by 3 5 8 5 rated Caissa } 8... Qxd1+ 9. Kxd1 Bd6
+10. Bg5 { played by 3 5 8 5 rated Caissa } 10... Be6 11. Bxf6
+{ played by 3 5 8 5 rated Caissa } ( 11. Ke2
+{ played by 2 4 2 2 rated Polaris } 11... h6 12. Bxf6 gxf6 13. Nd5 Bxd5 14.
+exd5 a6 15. g3 O-O-O 16. Nh4 Rhg8 17. Nf5
+{ Once again, Neither Polaris playing White, rated 2 4 2 2 nor Seawall on Black with Elo 2 3 4 0 could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+) 11... gxf6 12. Nh4 O-O-O 13. Ke2 Bc5 14. Rhd1 Rdg8 15. Rd3 c6 16. g3 Kc7 17.
+Nd1
+{ Once again, Neither Caissa handling the White pieces rated 3 5 8 5 nor Clover, rated 3 5 8 0, had the Black pieces could convert, and the game was drawn.1/2-1/2 }
+) 5... Nxc4 6. dxc4 Bb4 7. Ne2 d6 8. h3 { played by 3 6 2 9 rated Stockfish }
+8... Be6 9. b3 Nd7 10. a3 { played by 3 4 4 1 rated Seer } 10... Ba5 11. Qd3
+{ played by 3 4 4 1 rated Seer } ( 11. Be3 { played by 3 3 3 3 rated Koivisto }
+11... Qf6 12. Qxf6 Nxf6 13. O-O-O h5 14. Kb2 O-O-O 15. f3 Bxc3+ 16. Nxc3 h4 17.
+Nd5
+{ Here we see that Koivisto on White with Elo 3 3 3 3 and Dragon as Black rated 3 5 2 8 played a balanced game which ended in a draw. The position remained tense for most of the game.1/2-1/2 }
+) 11... Qh4 12. O-O g5 13. f3 h5 14. Nd5 g4 15. Be3 Rg8 16. b4 c6 17. hxg4
+{ Once again, Seer as White rated 3 4 4 1 overpressed, and Black as Black rated 3 3 8 2 secured the win. The opening quickly led to complex middlegame play.0-1 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Integral v7 64-bit 4CPU"]
+[Black "Stockfish 17 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C28"]
+[Opening "Vienna game"]
+[Variation ""]
+[WhiteElo "3617"]
+[BlackElo "3643"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Nc6 { entered in VIENNA Game } 4. d3
+{ played by 3 6 4 3 rated Stockfish } 4... Na5 5. a3
+{ played by 3 3 9 2 rated Komodo } ( 5. Bg5 { played by 2 6 2 9 rated Rodin }
+5... Nxc4 6. dxc4 h6 7. Bxf6 Qxf6 8. Nge2
+{ played by 2 3 6 9 rated pikoSzachy } 8... c6 9. O-O Be7 10. Qd3 d6 11. Ng3
+{ played by 2 6 7 5 rated Fridolin } ( 11. a4
+{ played by 2 3 6 9 rated pikoSzachy } 11... h5 12. a5 h4 13. h3 O-O 14. Kh2
+Qg6 15. Ra4 f5 16. Raa1 fxe4 17. Nxe4
+{ In an interesting battle, pikoSzachy on White with Elo 2 3 6 9 overpressed, and GreKo, rated 2 4 3 3, had the Black pieces secured the win. The position remained tense for most of the game.0-1 }
+) 11... g6 12. a4 a5 13. Qe3 Qg5 14. Qb6 h5 15. Rfd1 h4 16. Nf1 Bh3 17. g3
+{ After a long struggle, Fridolin handling the White pieces rated 2 6 7 5 and Colossus handling the Black pieces rated 2 7 5 9 shared the point.1/2-1/2 }
+) ( 5. Nge2 { played by 3 6 4 3 rated Stockfish } 5... Nxc4 6. dxc4 d6 7. O-O
+{ played by 3 6 2 0 rated Stockfish } 7... Be7 8. b3
+{ played by 3 6 2 0 rated Stockfish } 8... O-O 9. Ng3
+{ played by 3 6 0 9 rated Torch } 9... Be6 10. Qe2
+{ played by 3 5 9 4 rated Obsidian } 10... c6 11. h3 Re8 12. a4
+{ played by 3 5 6 1 rated Motor } ( 12. Rd1
+{ played by 3 4 8 8 rated SlowChess } 12... Qa5 13. Bb2 g6 14. a4 Rad8 15. Rd3
+Nd7 16. Rf3 Qc7 17. Bc1
+{ SlowChess from the White side with rating 3 4 8 8 and Fire as Black rated 3 4 3 5 played a balanced game which ended in a draw.1/2-1/2 }
+) 12... Qa5 13. Bd2 Qc7 14. Rfd1 d5 15. exd5 cxd5 16. Nxd5 Nxd5 17. cxd5
+{ Here we see that After a long struggle, Motor as White rated 3 5 6 1 and Obsidian playing Black, rated 3 5 9 4 shared the point. The outcome was decided in the later stages.1/2-1/2 }
+) 5... Nxc4 6. dxc4 c6 7. Qd3 { played by 3 5 4 7 rated Viridithas } 7... d6 8.
+Nge2 Be7 9. O-O { played by 3 3 9 2 rated Komodo } 9... O-O 10. Ng3 Qc7 11. Bg5
+{ played by 3 3 9 2 rated Komodo } ( 11. Rd1 { played by 2 9 7 1 rated Wasp }
+11... Rd8 12. Bg5 Bg4 13. Re1 h6 14. Bxf6 Bxf6 15. Nf5 Qd7 16. h3 Bh5 17. Ng3
+{ Once again, Protector on Black with Elo 3 0 9 1 outplayed Wasp as White rated 2 9 7 1 and won as Black.0-1 }
+) 11... Rd8 12. Rad1 Bg4 13. Rde1 h6 14. Bxf6 Bxf6 15. Nf5 Kh8 16. h3 Bxf5 17.
+exf5
+{ Neither Komodo from the White side with rating 3 3 9 2 nor Fizbo handling the Black pieces rated 3 2 4 3 could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Integral v7 64-bit 4CPU"]
+[Black "Stockfish 17 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C28"]
+[Opening "Vienna game"]
+[Variation ""]
+[WhiteElo "3617"]
+[BlackElo "3643"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Nc6 { entered in VIENNA Game } 4. d3
+{ played by 3 6 4 3 rated Stockfish } 4... Na5 5. Nge2
+{ played by 3 6 4 3 rated Stockfish } ( 5. Bb3
+{ played by 3 6 1 6 rated SugaR } 5... Nxb3 6. axb3 d5 7. exd5
+{ played by 3 6 0 0 rated Dragon } 7... Nxd5 8. Qh5
+{ played by 3 5 5 8 rated Clover } 8... Nb4 9. Qxe5+ Be7 10. Kd1
+{ played by 3 5 5 8 rated Clover } 10... O-O 11. Nf3 Be6 12. Bd2
+{ played by 3 5 5 8 rated Clover } ( 12. Qd4 { played by 3 0 7 3 rated Senpai }
+12... Nd5 13. Ne4 a6 14. Re1 c6 15. h3 Re8 16. Bd2 h6 17. Qe5
+{ Once again, Rodent handling the Black pieces rated 3 0 1 1 outplayed Senpai, rated 3 0 7 3, had the White pieces and won as Black. Both sides showed good positional understanding.0-1 }
+) 12... Re8 13. Nd4 Bg4+ 14. f3 Bf6 15. Qf4 Bh5 16. Ndb5 c5 17. Qd6
+{ In an interesting battle, Clover on White with Elo 3 5 5 8 and Stockfish as Black rated 3 6 1 9 played a balanced game which ended in a draw. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 5... Nxc4 6. dxc4 d6 7. Qd3 { played by 3 3 4 5 rated Arasan } ( 7. O-O
+{ played by 3 6 2 0 rated Stockfish } 7... Be7 8. b3
+{ played by 3 6 2 0 rated Stockfish } 8... O-O 9. a4
+{ played by 3 6 2 0 rated Stockfish } 9... Be6 10. Ng3
+{ played by 3 5 9 8 rated PlentyChess } 10... a5 11. Qe2
+{ played by 3 6 0 9 rated Torch } 11... Nd7 12. Nd5 b6 13. Nf5
+{ played by 3 6 0 9 rated Torch } ( 13. f3 { played by 3 5 6 9 rated Lizard }
+13... Rc8 14. Nf5 Bxf5 15. exf5 Re8 16. Be3 Nf6 17. Nc3
+{ In this game, Lizard as White rated 3 5 6 9 and Horsie, rated 3 5 8 2, had the Black pieces played a balanced game which ended in a draw.1/2-1/2 }
+) 13... Bf6 14. Bb2 g6 15. Nxf6+ Qxf6 16. Ne3 Qh4 17. f3
+{ In an interesting battle, The game between Torch on White with Elo 3 6 0 9 and PlentyChess, rated 3 5 9 8, had the Black pieces finished level. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 7... Be7 8. a4 { played by 3 4 8 7 rated Stormphrax } 8... Be6 9. O-O
+{ played by 3 4 5 7 rated Superultra } 9... c6 10. f4
+{ played by 3 4 5 7 rated Superultra } 10... exf4 11. Bxf4 O-O 12. Nd4
+{ played by 3 4 5 7 rated Superultra } ( 12. Rad1
+{ played by 3 1 8 8 rated Booot } 12... Qb6+ 13. Kh1 Rad8 14. b3 Rfe8 15. h3
+Qa5 16. Qf3
+{ Here we see that The game between Booot, rated 3 1 8 8, had the White pieces and NirvanaChess handling the Black pieces rated 3 1 0 3 finished level. Small inaccuracies made the difference.1/2-1/2 }
+) 12... Nh5 13. Be3 Bf6 14. Qe2 g6 15. Qd3 Be5 16. a5 Qc7 17. Nf3
+{ In an interesting battle, The game between Superultra playing White, rated 3 4 5 7 and Stormphrax, rated 3 4 8 7, had the Black pieces finished level. The position remained tense for most of the game.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Integral v7 64-bit 4CPU"]
+[Black "Stockfish 17 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C28"]
+[Opening "Vienna game"]
+[Variation ""]
+[WhiteElo "3617"]
+[BlackElo "3643"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Nc6 { entered in VIENNA Game } 4. d3
+{ played by 3 6 4 3 rated Stockfish } 4... Na5 5. Nge2
+{ played by 3 6 4 3 rated Stockfish } ( 5. Qf3
+{ played by 3 6 2 9 rated Stockfish } 5... Nxc4 6. dxc4 Bb4 7. Ne2 d6 8. h3
+{ played by 3 6 2 9 rated Stockfish } 8... Be6 9. b3 Nd7 10. O-O
+{ played by 3 6 2 9 rated Stockfish } 10... O-O 11. Nd5
+{ played by 3 6 2 9 rated Stockfish } 11... Bc5 12. Ng3 a6 13. Rb1
+{ played by 3 5 6 8 rated Integral } ( 13. a4 { played by 3 5 2 9 rated Minic }
+13... a5 14. Rd1 f6 15. Rd3 Kh8 16. Bb2 g6 17. Rf1
+{ In this game, The game between Minic as White rated 3 5 2 9 and Koivisto as Black rated 3 5 5 1 finished level. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 13... Kh8 14. Qd3 c6 15. a4 g6 16. b4 Ba7 17. Ne3
+{ Once again, Integral as White rated 3 5 6 8 and Stormphrax as Black rated 3 5 5 8 played a balanced game which ended in a draw. The position remained tense for most of the game.1/2-1/2 }
+) 5... Nxc4 6. dxc4 d6 7. O-O { played by 3 6 2 0 rated Stockfish } 7... Be7 8.
+b3 { played by 3 6 2 0 rated Stockfish } ( 8. Qd3
+{ played by 3 0 7 3 rated Wasp } 8... c6 9. h3
+{ played by 3 5 7 7 rated Stockfish } 9... O-O 10. f4
+{ played by 3 5 7 7 rated Stockfish } 10... exf4 11. Bxf4 Be6 12. b3 Qa5 13.
+Bd2 { played by 3 5 7 7 rated Stockfish } ( 13. Rad1
+{ played by 3 4 6 9 rated Revenge } 13... Rad8 14. Nd4 Rfe8 15. Kh1 Bf8 16. Qf3
+Bc8 17. Nde2
+{ Here we see that Revenge from the White side with rating 3 4 6 9 and Arasan as Black rated 3 3 4 5 played a balanced game which ended in a draw.1/2-1/2 }
+) 13... Qe5 14. Rae1 Nd7 15. Rd1 Qc5+ 16. Nd4 Rfe8 17. Bf4
+{ Once again, Neither Stockfish on White with Elo 3 5 7 7 nor SugaR as Black rated 3 5 8 1 could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+) 8... O-O 9. a4 { played by 3 6 2 0 rated Stockfish } ( 9. h3
+{ played by 3 6 0 8 rated Torch } 9... b6 10. a4
+{ played by 3 5 6 8 rated RubiChess } 10... a5 11. Ng3 Nd7 12. Nd5 Nf6 13. Nc3
+{ we will see this position later on1/2-1/2 } ( 13. Nxe7+
+{ played by 3 5 6 8 rated RubiChess } 13... Qxe7 14. Qd3 Kh8 15. f4
+{ In this game, Neither RubiChess as White rated 3 5 6 8 nor Stockfish playing Black, rated 3 6 2 0 could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+) ) 9... Be6 10. a5 { played by 3 3 7 5 rated Komodo } 10... c6 11. a6 b6 12.
+Ba3 Qc7 13. Qd3 { played by 2 5 4 0 rated Gogobello } 13... Rad8 14. Qg3 Nh5
+15. Qe3 f5 16. exf5 Bxf5 17. Ne4
+{ In an interesting battle, pikoSzachy on White with Elo 2 4 5 6 overpressed, and Gogobello as Black rated 2 5 4 0 secured the win. Small inaccuracies made the difference.0-1 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Integral v7 64-bit 4CPU"]
+[Black "Stockfish 17 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C28"]
+[Opening "Vienna game"]
+[Variation ""]
+[WhiteElo "3617"]
+[BlackElo "3643"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Nc6 { entered in VIENNA Game } 4. d3
+{ played by 3 6 4 3 rated Stockfish } 4... Na5 5. a3
+{ played by 3 3 9 2 rated Komodo } ( 5. Nge2
+{ played by 3 6 4 3 rated Stockfish } 5... Nxc4 6. dxc4 d6 7. O-O
+{ played by 3 6 2 0 rated Stockfish } 7... Be7 8. b3
+{ played by 3 6 2 0 rated Stockfish } 8... O-O 9. a4
+{ played by 3 6 2 0 rated Stockfish } 9... Be6 10. a5
+{ played by 3 3 7 5 rated Komodo } 10... c6 11. a6 b6 12. Ba3 Qc7 13. Ng3
+{ played by 3 3 7 5 rated Komodo } 13... Rad8 14. Qf3
+{ played by 3 3 7 5 rated Komodo } ( 14. Nf5 { played by 2 8 1 1 rated Crafty }
+14... Bxf5 15. exf5 d5 16. Bxe7 Qxe7 17. cxd5
+{ Once again, DiscoCheck from the Black side with rating 2 9 1 2 defended accurately and defeated Crafty playing White, rated 2 8 1 1. Small inaccuracies made the difference.0-1 }
+) 14... g6 15. h3 h5 16. Rfd1 Nh7 17. Bc1
+{ Once again, Komodo from the Black side with rating 3 3 7 5 defended accurately and defeated Critter, rated 3 1 3 9, had the White pieces. The outcome was decided in the later stages.0-1 }
+) ( 5. Bb3 { played by 3 6 1 6 rated SugaR } 5... Nxb3 6. axb3 d5 7. Nf3
+{ played by 3 6 1 5 rated Dragon } ( 7. exd5 { played by 3 6 0 0 rated Dragon }
+7... Nxd5 8. Nf3 { played by 3 6 0 0 rated Dragon } 8... Bb4 9. Bd2 O-O 10. O-O
+Nxc3 11. Bxc3 Bxc3 12. bxc3 f6 13. Re1 { played by 3 4 2 9 rated ShashChess }
+13... Qd6 14. Qe2 { played by 3 4 2 9 rated ShashChess } ( 14. h3
+{ played by 3 2 9 9 rated Komodo } 14... Bd7 15. Nd2 Qc6 16. d4 Rad8 17. Re3
+{ The game between Komodo handling the White pieces rated 3 2 9 9 and Strelka playing Black, rated 3 1 4 2 finished level. The position remained tense for most of the game.1/2-1/2 }
+) 14... Qc5 15. d4 Qxc3 16. dxe5 Bg4 17. e6
+{ In this game, The game between ShashChess handling the White pieces rated 3 4 2 9 and Ethereal from the Black side with rating 3 3 1 9 finished level. The position remained tense for most of the game.1/2-1/2 }
+) 7... dxe4 8. Nxe5 { played by 3 6 0 0 rated Caissa } 8... exd3 9. O-O Be7 10.
+Nxd3 Bg4 11. Qe1 O-O 12. h3 Bd7 13. Bf4 Re8 14. Qe5
+{ played by 3 6 0 0 rated Caissa } ( 14. Qe3
+{ played by 3 5 5 1 rated Koivisto } 14... a5 15. Be5 Bc6 16. Rfe1 b5 17. Qf4
+{ The game between Koivisto handling the White pieces rated 3 5 5 1 and Stockfish from the Black side with rating 3 6 2 2 finished level. The position remained tense for most of the game.1/2-1/2 }
+) 14... c6 15. Nc5 b5
+{ Neither Caissa on White with Elo 3 6 0 0 nor Torch handling the Black pieces rated 3 6 3 2 could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
+) 5... Nxc4 6. dxc4 c6 7. Qd3 { played by 3 5 4 7 rated Viridithas } 7... d6 8.
+Nge2 Be7 9. Bg5 { played by 2 9 1 7 rated Komodo } 9... h6 10. Bh4 Be6 11. f4
+g5 12. fxg5 Ng4 13. h3 { played by 2 8 3 9 rated Grapefruit } 13... hxg5 14.
+Bg3 Qb6 15. b3 { we will see this position later on1-0 } 1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Integral v7 64-bit 4CPU"]
+[Black "Stockfish 17 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C28"]
+[Opening "Vienna game"]
+[Variation ""]
+[WhiteElo "3617"]
+[BlackElo "3643"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Nc6 { entered in VIENNA Game } 4. d3
+{ played by 3 6 4 3 rated Stockfish } 4... Na5 5. Bb5
+{ played by 3 5 4 0 rated Astra } ( 5. a3 { played by 3 3 9 2 rated Komodo }
+5... Nxc4 6. dxc4 c6 7. Qd3 { played by 3 5 4 7 rated Viridithas } 7... d6 8.
+Nge2 Be7 9. Bg5 { played by 2 9 1 7 rated Komodo } 9... h6 10. Bh4 Be6 11. f4
+g5 12. fxg5 Ng4 13. Bg3 { played by 2 9 1 7 rated Komodo } 13... hxg5 14. b3
+{ played by 2 8 7 1 rated Thinker } 14... Qb6 15. h3 O-O-O 16. O-O-O Nf2 17.
+Bxf2
+{ Thinker as White rated 2 8 7 1 remained in control, handing Komodo handling the Black pieces rated 2 9 1 7 a loss. Small inaccuracies made the difference.1-0 }
+) ( 5. Bb3 { played by 3 6 1 6 rated SugaR } 5... Nxb3 6. axb3 d5 7. exd5
+{ played by 3 6 0 0 rated Dragon } 7... Nxd5 8. Nf3
+{ played by 3 6 0 0 rated Dragon } ( 8. Qe2 { played by 3 4 5 6 rated Houdini }
+8... f6 9. d4 { played by 3 2 7 4 rated Arcanum } 9... Bb4 10. Bd2 O-O 11. dxe5
+Bxc3 12. Bxc3 Nxc3 13. bxc3 Qd5 14. Nf3 Bg4 15. Qd3
+{ played by 3 2 7 4 rated Arcanum } ( 15. Ra4 { played by 3 1 8 9 rated Pingu }
+15... Bxf3 16. Qxf3 Qxf3 17. gxf3
+{ Once again, After a long struggle, Pingu, rated 3 1 8 9, had the White pieces and Arcanum from the Black side with rating 3 2 7 4 shared the point. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 15... Bxf3 16. Qxf3 Qxf3 17. gxf3
+{ In an interesting battle, Arcanum as White rated 3 2 7 4 and Pingu, rated 3 1 8 9, had the Black pieces played a balanced game which ended in a draw. Both sides showed good positional understanding.1/2-1/2 }
+) 8... Bb4 9. Bd2 O-O 10. O-O Nxc3 11. Bxc3 Bxc3 12. bxc3 f6 13. Qe2
+{ played by 3 5 8 5 rated Alexandria } 13... Qd5 14. c4 Qd6 15. Nd2
+{ played by 3 5 6 5 rated Ethereal } ( 15. Qe4
+{ played by 3 5 6 4 rated Caissa } 15... Rd8 16. Rfd1 c5
+{ we will see this position later on1-0 } ) 15... Bd7 16. Ne4 Qe7 17. Qd2
+{ Here we see that Ethereal, rated 3 5 6 5, had the White pieces and Dragon from the Black side with rating 3 6 0 0 played a balanced game which ended in a draw. The outcome was decided in the later stages.1/2-1/2 }
+) 5... Bb4 6. Bd2 a6 7. Ba4 b5 8. a3 Bxc3 9. Bxc3 c5 10. b4 Nc6 11. Bb3 d6 12.
+Nf3 Qc7 13. O-O O-O 14. Re1 { played by 3 5 4 0 rated Astra } ( 14. Rc1
+{ played by 3 5 3 1 rated Clarity } 14... a5 15. bxc5 dxc5 16. h3 Rd8 17. a4
+{ In this game, After a long struggle, Clarity, rated 3 5 3 1, had the White pieces and Astra handling the Black pieces rated 3 5 4 0 shared the point. Both sides showed good positional understanding.1/2-1/2 }
+) 14... Re8 15. a4 Rb8 16. bxc5 dxc5 17. axb5
+{ After a long struggle, Astra, rated 3 5 4 0, had the White pieces and Clarity, rated 3 5 3 1, had the Black pieces shared the point. Small inaccuracies made the difference.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Integral v7 64-bit 4CPU"]
+[Black "Stockfish 17 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C28"]
+[Opening "Vienna game"]
+[Variation ""]
+[WhiteElo "3617"]
+[BlackElo "3643"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Nc6 { entered in VIENNA Game } 4. d3
+{ played by 3 6 4 3 rated Stockfish } 4... Na5 5. Bb3
+{ played by 3 6 1 6 rated SugaR } ( 5. a3 { played by 3 3 9 2 rated Komodo }
+5... Nxc4 6. dxc4 c6 7. Qd3 { played by 3 5 4 7 rated Viridithas } 7... d6 8.
+Nge2 Be7 9. Bg5 { played by 2 9 1 7 rated Komodo } 9... h6 10. Bh4 Be6 11. f4
+g5 12. fxg5 Ng4 13. Bg3 { played by 2 9 1 7 rated Komodo } 13... hxg5 14. O-O-O
+{ played by 2 9 1 7 rated Komodo } 14... Qa5 15. h3 Nh6 16. a4
+{ played by 2 9 1 7 rated Komodo } ( 16. Nb1
+{ played by 2 8 3 9 rated Grapefruit } 16... g4 17. Bf2
+{ Here we see that Grapefruit from the White side with rating 2 8 3 9 and Protector handling the Black pieces rated 2 8 1 0 played a balanced game which ended in a draw.1/2-1/2 }
+) 16... f5 17. exf5
+{ In this game, Komodo handling the White pieces rated 2 9 1 7 remained in control, handing Thinker playing Black, rated 2 8 7 1 a loss. The position remained tense for most of the game.1-0 }
+) 5... Nxb3 6. axb3 d5 7. exd5 { played by 3 6 0 0 rated Dragon } 7... Nxd5 8.
+Nf3 { played by 3 6 0 0 rated Dragon } 8... Bb4 9. Bd2 O-O 10. O-O Nxc3 11.
+Bxc3 Bxc3 12. bxc3 f6 13. Qe2 { played by 3 5 8 5 rated Alexandria } 13... Qd5
+14. c4 Qd6 15. Rfd1 { played by 3 5 8 5 rated Alexandria } 15... c5 16. c3
+{ played by 3 5 8 5 rated Alexandria } ( 16. Qe4
+{ played by 3 3 6 0 rated Stockfish } 16... Rd8 17. Rd2
+{ Here we see that Caissa handling the White pieces rated 3 5 6 4 remained in control, handing Rice, rated 3 4 3 2, had the Black pieces a loss.1-0 }
+( 17. Re1
+{ In this game, Stockfish handling the White pieces rated 3 3 6 0 and Ynode, rated 3 4 1 2, had the Black pieces played a balanced game which ended in a draw. Both sides showed good positional understanding.1/2-1/2 }
+) ) 16... Qb6 17. d4
+{ In this game, After a long struggle, Starzix on White with Elo 3 5 6 5 and PlentyChess handling the Black pieces rated 3 5 9 1 shared the point. The opening quickly led to complex middlegame play.1/2-1/2 }
+1/2-1/2
+
+
+

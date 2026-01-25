@@ -1,0 +1,67 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Velvet 7.1.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[Variation "reversed Alekhine"]
+[WhiteElo "3640"]
+[BlackElo "3544"]
+
+1. g3 e5 2. Nf3 { entered in BENKO S Opening Reversed Alekhine } 2... e4 3. Bg2
+{ played by 2 5 0 5 rated akimbo } ( 3. Nh4
+{ played by 3 6 4 0 rated Stockfish } 3... d5 4. d3 f5 5. c4
+{ played by 3 6 4 0 rated Stockfish } ( 5. Bh3
+{ played by 3 5 4 4 rated Velvet } 5... Qf6 6. dxe4 dxe4 7. Nc3 Bb4 8. Bd2 Ne7
+9. Nb5 { played by 3 5 4 4 rated Velvet } ( 9. O-O
+{ played by 3 5 1 2 rated PlentyChess } 9... Na6 10. a3 Bc5 11. Ng2 O-O 12. b4
+Bd6 13. Qc1 Nb8 14. Nb5 Be5 15. c3
+{ Here we see that Neither PlentyChess handling the White pieces rated 3 5 1 2 nor Alexandria from the Black side with rating 3 5 1 1 could convert, and the game was drawn.1/2-1/2 }
+) 9... Bxd2+ 10. Qxd2 Na6 11. O-O-O g5 12. Ng2 g4 13. Nf4 gxh3 14. Nh5
+{ In this game, Velvet as White rated 3 5 4 4 overpressed, and Stockfish as Black rated 3 6 4 0 secured the win. The outcome was decided in the later stages.0-1 }
+) 5... d4 6. e3 Bb4+ 7. Bd2 Nc6 8. Bxb4 Nxb4 9. dxe4 fxe4 10. exd4 Qxd4 11. Nc3
+Qxd1+ 12. Rxd1 Nf6 13. a3 Nc2+ 14. Kd2 Nd4 15. Re1
+{ Here we see that Neither Stockfish from the White side with rating 3 6 4 0 nor Velvet on Black with Elo 3 5 4 4 could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
+) ( 3. Nd4 { played by 3 4 1 5 rated Wasp } 3... c5 4. Nb3
+{ played by 3 4 1 5 rated Wasp } 4... c4 5. Nd4 Nc6 6. Nxc6 dxc6 7. Bg2
+{ played by 3 4 1 5 rated Wasp } ( 7. Nc3
+{ played by 2 8 3 7 rated NirvanaChess } 7... Nf6 8. Bg2
+{ we will see this position later on1/2-1/2 } ) 7... Nf6 8. Nc3 Bf5 9. O-O Bc5
+10. d3 exd3 11. exd3 cxd3 12. Re1+ Be6 13. Bh3 Qb6 14. Be3 Bxe3 15. Rxe3
+{ In this game, Wasp as White rated 3 4 1 5 and Lizard from the Black side with rating 3 4 9 5 played a balanced game which ended in a draw. Small inaccuracies made the difference.1/2-1/2 }
+) 3... exf3 4. Bxf3 Nf6 5. Bg2 Be7 6. O-O O-O 7. e4 d5 8. e5 Ne4 9. c4 c6 10.
+d4 Qb6 11. cxd5 cxd5 12. f3 Ng5 13. Nc3 Qd8 14. Bxg5 Bxg5 15. f4
+{ akimbo as White rated 2 5 0 5 outplayed Queen playing Black, rated 2 4 3 0 and won the game. The outcome was decided in the later stages.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Velvet 7.1.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[Variation "reversed Alekhine"]
+[WhiteElo "3640"]
+[BlackElo "3544"]
+
+1. g3 e5 2. Nf3 { entered in BENKO S Opening Reversed Alekhine } 2... e4 3. Nd4
+{ played by 3 4 1 5 rated Wasp } 3... c5 4. Nb5
+{ played by 2 8 3 9 rated Glaurung } 4... d5 5. c4 a6 6. N5c3 d4 7. Nd5 Ne7 8.
+Bg2 Nxd5 9. cxd5 Bf5 10. O-O { played by 2 8 3 9 rated Glaurung } ( 10. Qb3
+{ played by 2 5 6 3 rated Rodent } 10... b5 11. d3 exd3 12. exd3 Bd6 13. O-O
+O-O 14. Nd2 Nd7 15. Ne4
+{ In this game, Arasan, rated 2 5 4 4, had the Black pieces could not hold the position, allowing Rodent from the White side with rating 2 5 6 3 to win. Small inaccuracies made the difference.1-0 }
+) 10... Qxd5 11. d3 Qd8 12. Nd2 exd3 13. exd3 Nc6 14. Qh5 Bxd3 15. Re1+
+{ In this game, Glaurung on White with Elo 2 8 3 9 and Bright from the Black side with rating 2 8 1 5 played a balanced game which ended in a draw. The outcome was decided in the later stages.1/2-1/2 }
+1/2-1/2
+
+
+

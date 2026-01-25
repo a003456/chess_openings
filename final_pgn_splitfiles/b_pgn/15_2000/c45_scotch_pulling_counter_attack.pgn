@@ -1,0 +1,32 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "RubiChess 20240112 64-bit 4CPU"]
+[Black "Stockfish 16.1 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Pulling counter-attack"]
+[WhiteElo "3601"]
+[BlackElo "3638"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Qh4
+{ entered in SCOTCH Pulling Counter Attack } 5. Nxc6
+{ played by 3 6 0 1 rated RubiChess } ( 5. Qd3
+{ played by 2 6 6 3 rated Djinn } 5... Nf6 6. Nxc6 dxc6 7. Nd2 Ng4 8. g3 Qf6 9.
+f3 Ne5 10. Qc3 Be7 11. Bg2 O-O 12. O-O a5 13. f4 Ng4 14. e5 Qg6 15. a3 Rd8 16.
+h3 Nh6 17. g4 Nxg4 18. hxg4
+{ Here we see that Rodin on White with Elo 2 6 2 9 outplayed Djinn on Black with Elo 2 6 6 3 and won the game. The opening quickly led to complex middlegame play.1-0 }
+) ( 5. Be3 { played by 2 1 7 0 rated FireFly } 5... Qxe4 6. Nd2 Qg6 7. Qf3 Nxd4
+8. Bxd4 Qxc2 9. Bc4 Qg6 10. O-O Be7 11. Qc3 Kf8 12. Bd3 Qh6 13. Rfe1 c6 14. Be3
+Qh5 15. Be2 Qh4 16. Bd4 Nf6 17. g3 Qh6 18. Be3
+{ In an interesting battle, FireFly on White with Elo 2 1 7 0 converted the advantage and defeated Neurosis playing Black, rated 2 1 5 7. Both sides showed good positional understanding.1-0 }
+) 5... Qxe4+ 6. Be2 dxc6 7. O-O Be6 8. Nd2 Qd4 9. c3 Qd7 10. Re1 Nf6 11. Nf3
+Qxd1 12. Bxd1 O-O-O 13. Ng5 Bd5 14. Bb3 Bc5 15. Nxf7 Ng4 16. Bxd5 Bxf2+ 17. Kf1
+Rxd5 18. Nxh8
+{ In an interesting battle, RubiChess from the White side with rating 3 6 0 1 and Stockfish on Black with Elo 3 6 3 8 played a balanced game which ended in a draw.1/2-1/2 }
+1/2-1/2
+
+
+

@@ -1,0 +1,123 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Titan 1.1.0 64-bit 4CPU"]
+[Black "Stockfish 16.1 64-bit 4CPU"]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Inverted Hanham"]
+[Variation ""]
+[WhiteElo "3589"]
+[BlackElo "3638"]
+
+1. e4 e5 2. Nf3 Nc6 3. Be2 Nf6 4. d3 d5 5. Nbd2 { entered in INVERTED Hanham }
+5... Be7 6. O-O { played by 3 6 0 7 rated Torch } ( 6. c3
+{ played by 3 6 3 8 rated Stockfish } 6... a5 7. O-O
+{ played by 3 6 2 4 rated Dragon } ( 7. a4
+{ played by 3 6 3 8 rated Stockfish } 7... O-O 8. O-O b6 9. h3
+{ played by 3 6 3 8 rated Stockfish } ( 9. Re1
+{ The game between Rybka on White with Elo 3 0 4 7 and Thinker, rated 2 8 7 5, had the Black pieces finished level.1/2-1/2 }
+) ( 9. exd5 { played by 2 3 0 2 rated Rodin } 9... Qxd5 10. Ng5 Bf5 11. Bf3 Qd7
+12. Nc4 Nd5 13. Re1 Bxg5 14. Bxg5 f6 15. Ne3 Be6 16. Nxd5 Bxd5 17. Be3 Bxf3 18.
+Qxf3
+{ Once again, Waxman from the White side with rating 2 2 0 7 outplayed Rodin playing Black, rated 2 3 0 2 and won the game. Small inaccuracies made the difference.1-0 }
+) 9... Ba6 10. d4 Bxe2 11. Qxe2 exd4 12. e5 Nd7 13. cxd4 Re8 14. Nb1 Nf8 15.
+Nc3 Ne6 16. Be3
+{ Once again, Stockfish handling the Black pieces rated 3 6 3 8 outplayed Titan handling the White pieces rated 3 5 8 9 and won as Black. The outcome was decided in the later stages.0-1 }
+) 7... O-O 8. Qc2 { played by 3 1 4 6 rated Sting } ( 8. b3
+{ played by 3 0 7 3 rated Vajolet2 } 8... Qd6 9. a4 Rd8 10. Qc2 Bg4 11. h3 Bh5
+12. Bb2 Bg6 13. Rfe1 Qd7 14. Bf1 Qe6 15. Rad1 Bc5 16. exd5 Nxd5 17. g3 Re8 18.
+Nc4
+{ Here we see that Sting playing Black, rated 3 1 4 6 outplayed Vajolet2 as White rated 3 0 7 3 and won as Black. The position remained tense for most of the game.0-1 }
+) 8... a4 9. Re1 Be6 10. exd5 Qxd5 11. Nc4 Rfd8 12. Ne3 Qa5 13. Ng5 Nd4 14. Qd1
+Nxe2+ 15. Qxe2 Ra6 16. Nxe6 Rxe6 17. Nf5 Bf8 18. Bg5
+{ Here we see that Vajolet2, rated 3 0 7 3, had the Black pieces defended accurately and defeated Sting handling the White pieces rated 3 1 4 6. The outcome was decided in the later stages.0-1 }
+) 6... O-O 7. b3 { played by 3 6 0 7 rated Torch } ( 7. h3
+{ played by 3 1 7 4 rated ice4 } 7... Be6 8. exd5 Nxd5 9. Re1 Nf4 10. Bf1 Ng6
+11. c3 a5 12. Nc4 Bf6 13. Be3 b6 14. a3 Rc8 15. Rc1 Re8 16. Qc2 Qd7 17. Ncd2
+Bd5 18. Rcd1
+{ Once again, Neither ice4 on White with Elo 3 1 7 4 nor Potential playing Black, rated 3 0 8 2 could convert, and the game was drawn.1/2-1/2 }
+) ( 7. a3 { played by 3 0 8 9 rated Texel } 7... a5 8. exd5 Nxd5 9. Re1 Nf4 10.
+Bf1 f6 11. Nc4 Ne6 12. c3 Re8 13. Be3 b5 14. Ncd2 Kh8 15. d4 Ncxd4 16. cxd4
+exd4 17. Nxd4 Nxd4 18. Bxd4
+{ In an interesting battle, After a long struggle, Texel from the White side with rating 3 0 8 9 and Protector handling the Black pieces rated 3 1 0 8 shared the point. Small inaccuracies made the difference.1/2-1/2 }
+) 7... Re8 8. Bb2 Bc5 9. exd5 Nxd5 10. Ne4 Bf8 11. Re1 a5 12. a3 Bf5 13. Bf1
+Bg6 14. Ng3 f6 15. Qd2 Qd6 16. Rad1 Rad8 17. c3 Qd7 18. Qc1
+{ In this game, After a long struggle, Torch from the White side with rating 3 6 0 7 and RubiChess from the Black side with rating 3 5 6 3 shared the point. The outcome was decided in the later stages.1/2-1/2 }
+0-1
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Titan 1.1.0 64-bit 4CPU"]
+[Black "Stockfish 16.1 64-bit 4CPU"]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Inverted Hanham"]
+[Variation ""]
+[WhiteElo "3589"]
+[BlackElo "3638"]
+
+1. e4 e5 2. Nf3 Nc6 3. Be2 Nf6 4. d3 d5 5. Nbd2 { entered in INVERTED Hanham }
+5... Be7 6. c3 { played by 3 6 3 8 rated Stockfish } 6... a5 7. O-O
+{ played by 3 6 2 4 rated Dragon } 7... O-O 8. Re1
+{ played by 3 6 2 4 rated Dragon } 8... Re8 9. a4
+{ played by 3 6 2 4 rated Dragon } ( 9. Bf1 { played by 3 5 4 6 rated Caissa }
+9... d4 10. cxd4 exd4 11. Qa4 h6 12. a3 Ra6 13. Nb3 Bd7 14. Nbxd4 Bb4 15. Nxc6
+Bxc6 16. Qd1 Bxe1 17. Qxe1 Bb5 18. Be3
+{ Once again, After a long struggle, Caissa, rated 3 5 4 6, had the White pieces and Renegade handling the Black pieces rated 3 5 3 9 shared the point. Small inaccuracies made the difference.1/2-1/2 }
+) ( 9. exd5 { played by 3 5 7 9 rated Ethereal } 9... Nxd5 10. Bf1
+{ played by 3 2 4 8 rated Schooner } ( 10. Nc4
+{ played by 3 5 7 9 rated Ethereal } 10... f6 11. Ne3
+{ played by 3 5 4 5 rated SlowChess } ( 11. a4
+{ played by 3 5 3 9 rated Renegade } 11... Kh8 12. d4 e4 13. Nfd2 Bf8 14. Nf1
+Be6 15. Bd2 f5 16. Ng3 Qd7 17. Qc1 Bg8 18. Rf1
+{ In an interesting battle, The game between Renegade handling the White pieces rated 3 5 3 9 and Caissa from the Black side with rating 3 5 4 6 finished level. Small inaccuracies made the difference.1/2-1/2 }
+) ( 11. d4 { played by 3 5 2 5 rated Caissa } 11... e4 12. Nfd2 f5 13. Nf1 a4
+14. Nce3 Nf6 15. Bb5 a3 16. bxa3 Rf8 17. g3 Bd6 18. Nc4
+{ Once again, The game between Caissa playing White, rated 3 5 2 5 and Dragon playing Black, rated 3 6 2 4 finished level.1/2-1/2 }
+) 11... Be6 12. d4 exd4 13. Nxd4 Nxd4 14. Qxd4 Nxe3 15. Bxe3 Qxd4 16. Bxd4 Kf7
+17. a4 Rad8 18. Be3
+{ Once again, After a long struggle, SlowChess from the White side with rating 3 5 4 5 and Caissa from the Black side with rating 3 5 2 5 shared the point. Small inaccuracies made the difference.1/2-1/2 }
+) 10... Bc5 11. h3 Ba7 12. Nc4 f6 13. Na3 Be6 14. Nb5 Bc5 15. d4 exd4 16. Nbxd4
+Nxd4 17. Nxd4 Bf7 18. Rxe8+
+{ In this game, The game between Schooner handling the White pieces rated 3 2 4 8 and Combusken on Black with Elo 3 2 5 0 finished level. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 9... Bf8 10. exd5 Nxd5 11. Nc4 b6 12. Bf1 f6 13. Ne3 Kh8 14. d4 exd4 15. Nxd4
+Nxd4 16. Qxd4 Bc5 17. Qd1 Bb7 18. Nxd5
+{ Neither Uralochka playing White, rated 3 5 4 6 nor PlentyChess handling the Black pieces rated 3 5 5 4 could convert, and the game was drawn.1/2-1/2 }
+0-1
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Titan 1.1.0 64-bit 4CPU"]
+[Black "Stockfish 16.1 64-bit 4CPU"]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Inverted Hanham"]
+[Variation ""]
+[WhiteElo "3589"]
+[BlackElo "3638"]
+
+1. e4 e5 2. Nf3 Nc6 3. Be2 Nf6 4. d3 d5 5. Nbd2 { entered in INVERTED Hanham }
+5... Be7 6. c3 { played by 3 6 3 8 rated Stockfish } 6... a5 7. O-O
+{ played by 3 6 2 4 rated Dragon } 7... O-O 8. Re1
+{ played by 3 6 2 4 rated Dragon } 8... Re8 9. b3
+{ played by 3 3 0 6 rated HIARCS } 9... Bc5 10. h3 h6 11. Qc2 Be6 12. a3
+{ played by 3 3 6 1 rated Velvet } ( 12. Bb2 { played by 3 3 0 6 rated HIARCS }
+12... dxe4 13. Nxe4 Nxe4 14. dxe4 Qf6 15. a3 Qg6 16. b4 Bb6 17. Kf1 f6 18. b5
+{ In an interesting battle, Heimdall from the Black side with rating 3 4 1 9 outplayed HIARCS on White with Elo 3 3 0 6 and won as Black. Both sides showed good positional understanding.0-1 }
+) 12... Ba7 13. Rb1 d4 14. cxd4 Bxd4 15. Bb2 Bxb2 16. Qxb2 Qd6 17. Bf1 Nh7 18.
+Rbc1
+{ In this game, Neither Velvet playing White, rated 3 3 6 1 nor SlowChess from the Black side with rating 3 5 4 5 could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
+0-1
+
+
+

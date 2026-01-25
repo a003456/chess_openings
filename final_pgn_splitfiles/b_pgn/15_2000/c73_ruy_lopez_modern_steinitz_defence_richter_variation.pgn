@@ -1,0 +1,322 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17.1 64-bit 4CPU"]
+[Black "ShashChess Santiago 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C73"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, Richter variation"]
+[WhiteElo "3645"]
+[BlackElo "3643"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. Bxc6+ bxc6 6. d4
+{ entered in RUY Lopez Modern Steinitz Defence Richter Variation } 6... exd4 7.
+Qxd4 { played by 3 6 4 5 rated Stockfish } 7... Nf6 8. Bg5
+{ played by 2 7 8 7 rated Scorpio } ( 8. O-O
+{ played by 3 6 4 5 rated Stockfish } 8... Be6 9. Qa4
+{ played by 2 8 4 8 rated Minic } 9... Qd7 10. Nc3 c5 11. Qxd7+ Nxd7 12. Nd5
+Bxd5 13. exd5 Nb6 14. Bd2 f6 15. Ba5 Nxd5 16. Rad1 Nb6 17. Rfe1+ Kf7 18. g3 Re8
+19. b3
+{ Here we see that SlowChess from the Black side with rating 2 9 8 0 defended accurately and defeated Minic from the White side with rating 2 8 4 8. Small inaccuracies made the difference.0-1 }
+) ( 8. Nc3 { played by 3 6 1 5 rated Obsidian } 8... Be7 9. Bg5
+{ played by 3 6 0 0 rated Dragon } ( 9. h3
+{ played by 3 1 6 2 rated BlackMamba } 9... O-O 10. O-O d5 11. e5 Nd7 12. Na4
+Rb8 13. a3 Rb5 14. Re1 f6 15. exf6 Bxf6 16. Qd3 d4 17. b4 Ne5 18. Nxe5 Rxe5 19.
+Bf4
+{ BlackMamba on White with Elo 3 1 6 2 and Equinox on Black with Elo 3 2 0 4 played a balanced game which ended in a draw. The opening quickly led to complex middlegame play.1/2-1/2 }
+) ( 9. Qa4 { played by 3 1 3 4 rated Equinox } 9... Bd7 10. O-O O-O 11. Re1 Re8
+12. Qc4 h6 13. h3 Nh7 14. Be3 Qc8 15. Rad1 Nf8 16. b3 Qb7 17. Qd3 Rad8 18. Bd2
+Ne6 19. a3
+{ Once again, Houdini handling the Black pieces rated 3 2 1 3 outplayed Equinox, rated 3 1 3 4, had the White pieces and won as Black. Small inaccuracies made the difference.0-1 }
+) 9... O-O 10. O-O-O Nd7 11. Bxe7 Qxe7 12. Rhe1 Re8 13. Qc4 Bb7 14. Qd3 a5 15.
+a3 Nb6 16. Nd2 c5 17. Qf3 Qh4 18. g4 Re6 19. Qg2
+{ In an interesting battle, Neither Dragon on White with Elo 3 6 0 0 nor PlentyChess playing Black, rated 3 5 7 4 could convert, and the game was drawn.1/2-1/2 }
+) ( 8. b3 { played by 3 2 5 9 rated Zahak } 8... c5 9. Qc4
+{ played by 3 2 5 9 rated Zahak } ( 9. Qd3 { played by 3 2 0 4 rated Stash }
+9... Be7 10. O-O a5 11. Re1 O-O 12. Bb2 a4 13. e5 Nh5 14. Nc3 a3 15. Bc1 Bb7
+16. Nd5 Bxd5 17. Qxd5 dxe5 18. Qc4 Bd6 19. Bg5
+{ Stash playing White, rated 3 2 0 4 remained in control, handing Zahak playing Black, rated 3 2 5 9 a loss. The outcome was decided in the later stages.1-0 }
+) 9... Be6 10. Qe2 Be7 11. c4 O-O 12. Nc3 Nd7 13. O-O Bf6 14. Bb2 Bg4 15. h3
+Bh5 16. Qd3 Re8 17. Rae1 Rb8 18. Bc1 Bxf3 19. Qxf3
+{ Zahak playing White, rated 3 2 5 9 remained in control, handing Stash playing Black, rated 3 2 0 4 a loss. The position remained tense for most of the game.1-0 }
+) 8... Be7 9. Nc3 { we will see this position later on1/2-1/2 } 1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17.1 64-bit 4CPU"]
+[Black "ShashChess Santiago 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C73"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, Richter variation"]
+[WhiteElo "3645"]
+[BlackElo "3643"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. Bxc6+ bxc6 6. d4
+{ entered in RUY Lopez Modern Steinitz Defence Richter Variation } 6... exd4 7.
+Nxd4 { played by 3 5 6 1 rated Motor } ( 7. Qxd4
+{ played by 3 6 4 5 rated Stockfish } 7... Nf6 8. Nc3
+{ played by 3 6 1 5 rated Obsidian } 8... Be7 9. Bf4
+{ played by 3 0 7 0 rated RubiChess } 9... O-O 10. O-O-O
+{ played by 3 0 7 0 rated RubiChess } ( 10. O-O
+{ played by 2 0 0 6 rated Little } 10... d5 11. Qa4 Rb8 12. Qxc6 Rb6 13. Qxc7
+dxe4 14. Qxd8 Bxd8 15. Nd4 Rxb2 16. Rfb1 Rxb1+ 17. Rxb1 Ba5 18. Nce2 Nd5 19. c4
+{ In this game, The game between Horsie, rated 3 5 7 4, had the White pieces and Integral handling the Black pieces rated 3 5 8 1 finished level. The outcome was decided in the later stages.1/2-1/2 }
+) 10... Be6 11. Qa4 Qe8 12. Rhe1 c5 13. e5 dxe5 14. Nxe5 Bd6 15. Nd3 Rb8 16.
+Be5 Qxa4 17. Nxa4 Ng4 18. Bxd6 cxd6 19. f3
+{ Once again, After a long struggle, RubiChess on White with Elo 3 0 7 0 and Senpai as Black rated 3 0 7 3 shared the point. Small inaccuracies made the difference.1/2-1/2 }
+) 7... c5 8. Ne2 { played by 3 4 7 4 rated Booot } ( 8. Nf3
+{ played by 3 3 3 3 rated Komodo } 8... Nf6 9. Qe2
+{ played by 2 6 0 1 rated Betsabe } ( 9. Nc3 { played by 3 3 3 3 rated Komodo }
+9... Be7 10. e5 { played by 3 3 1 9 rated Ethereal } ( 10. O-O
+{ played by 2 5 1 8 rated Axolotl } 10... O-O 11. Re1 Be6 12. Qd3 Qd7 13. b3 c6
+14. Bd2 Qc7 15. Ne2 Rfd8 16. Nf4 Bc8 17. Bc3 a5 18. a4 Bg4 19. h3
+{ Zap!Chess handling the White pieces rated 2 8 6 7 outplayed Hiarcs playing Black, rated 2 8 8 1 and won the game. Small inaccuracies made the difference.1-0 }
+) 10... Nd7 11. Bf4 Nb6 12. a4 d5 13. a5 d4 14. axb6 dxc3 15. Qxd8+ Bxd8 16.
+bxc7 Bxc7 17. bxc3 Bg4 18. Ke2 O-O 19. Rhd1
+{ Ethereal playing White, rated 3 3 1 9 remained in control, handing Komodo, rated 3 3 3 3, had the Black pieces a loss.1-0 }
+) 9... Be7 10. O-O O-O 11. Rd1 Nd7 12. Nc3 Re8 13. Nd5 Bb7 14. Bf4 Bf6 15. c3
+Rb8 16. Qc2 Nb6 17. h3 h6 18. Rab1 Nxd5 19. exd5
+{ Axolotl from the Black side with rating 2 5 1 8 defended accurately and defeated Betsabe, rated 2 6 0 1, had the White pieces. The opening quickly led to complex middlegame play.0-1 }
+) 8... Nf6 9. O-O { played by 3 4 5 4 rated Velvet } 9... Bb7 10. Nbc3 g6 11.
+f3 Bg7 12. Bg5 O-O 13. Qd2 Re8 14. b3 Bc6 15. Rad1 Qc8 16. Qf4 Nd7 17. Bh6 Be5
+18. Qe3 Qb7 19. h4
+{ Velvet from the White side with rating 3 4 5 4 converted the advantage and defeated Booot, rated 3 4 7 4, had the Black pieces. The outcome was decided in the later stages.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17.1 64-bit 4CPU"]
+[Black "ShashChess Santiago 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C73"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, Richter variation"]
+[WhiteElo "3645"]
+[BlackElo "3643"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. Bxc6+ bxc6 6. d4
+{ entered in RUY Lopez Modern Steinitz Defence Richter Variation } 6... exd4 7.
+Nxd4 { played by 3 5 6 1 rated Motor } ( 7. O-O
+{ played by 3 3 4 4 rated Komodo } 7... c5 8. c3 dxc3 9. Nxc3 Ne7 10. Re1
+{ played by 3 3 4 4 rated Komodo } ( 10. Bd2 { played by 3 2 2 4 rated Gull }
+10... Nc6 11. Nd5 Be7 12. a3 O-O 13. b4 Be6 14. Rc1 Bxd5 15. exd5 Nb8 16. Re1
+Nd7 17. h3 Re8 18. Bc3 Nb6 19. Re4
+{ Here we see that After a long struggle, Gull as White rated 3 2 2 4 and Stockfish from the Black side with rating 3 3 2 6 shared the point. The position remained tense for most of the game.1/2-1/2 }
+) ( 10. Be3 { played by 3 2 0 4 rated Equinox } 10... Ng6 11. b4 cxb4 12. Nd5
+Rb8 13. Qa4+ Bd7 14. Qxa6 c5 15. Rfe1 f6 16. a3 b3 17. Rab1 Bb5 18. Qa7 Bc6 19.
+Qa6
+{ The game between Equinox, rated 3 2 0 4, had the White pieces and BlackMamba as Black rated 3 1 6 2 finished level. The position remained tense for most of the game.1/2-1/2 }
+) ( 10. e5 { played by 2 8 3 3 rated Murka } 10... dxe5 11. Qxd8+ Kxd8 12. Nxe5
+Be6 13. Rd1+ Ke8 14. Ne4 Ng6 15. Nd3 c4 16. Ndc5 Bc8 17. Re1 Be7 18. Nc3 f6 19.
+Ne6
+{ Once again, Murka, rated 2 8 3 3, had the White pieces overpressed, and SmarThink playing Black, rated 2 8 5 9 secured the win. The opening quickly led to complex middlegame play.0-1 }
+) 10... Ng6 11. Nd5 Be7 12. b4 cxb4 13. Bb2 O-O 14. Qd4 Bf6 15. Nxf6+ Qxf6 16.
+Qxb4 c5 17. Qd2 Qd8 18. Red1 Re8 19. e5
+{ Here we see that After a long struggle, Stockfish as White rated 3 2 4 0 and Fire, rated 3 1 8 9, had the Black pieces shared the point. Small inaccuracies made the difference.1/2-1/2 }
+) ( 7. Qxd4 { played by 3 6 4 5 rated Stockfish } 7... Nf6 8. O-O
+{ played by 3 6 4 5 rated Stockfish } 8... Be6 9. Nc3
+{ played by 3 5 8 3 rated Chess } 9... c5 10. Qd3 Be7 11. b3
+{ played by 3 5 8 3 rated Chess } ( 11. Bd2
+{ played by 2 6 7 3 rated Francesca } 11... O-O 12. Rae1 c4 13. Qe2 Rb8 14. b3
+cxb3 15. axb3 Qc8 16. Ra1 Rb6 17. Ra5 c5 18. Rfa1 c4 19. b4
+{ Here we see that Francesca from the White side with rating 2 6 7 3 remained in control, handing Asymptote as Black rated 2 5 7 6 a loss. Small inaccuracies made the difference.1-0 }
+) 11... a5 12. Bf4 O-O 13. Rad1 Nd7 14. Nd5 Bxd5 15. Qxd5 Nb6 16. Qc6 f6 17. a4
+Qd7 18. Qxd7 Nxd7 19. Rfe1
+{ After a long struggle, Chess, rated 3 5 8 3, had the White pieces and Koivisto playing Black, rated 3 5 6 1 shared the point. The outcome was decided in the later stages.1/2-1/2 }
+) 7... c5 8. Nf3 { played by 3 3 3 3 rated Komodo } 8... Nf6 9. O-O
+{ played by 2 9 7 0 rated Stockfish } 9... Bb7 10. e5
+{ played by 2 6 5 1 rated Glaurung } 10... dxe5 11. Qxd8+ Rxd8 12. Nxe5 Bd6 13.
+Nc4 Nd5 14. Nxd6+ cxd6 15. c4 Ne7 16. Nc3 Kd7 17. Rd1 Rhe8 18. Rb1 Kc8 19. Bf4
+{ In this game, Glaurung from the White side with rating 2 6 5 1 remained in control, handing Toga from the Black side with rating 2 7 6 6 a loss.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17.1 64-bit 4CPU"]
+[Black "ShashChess Santiago 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C73"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, Richter variation"]
+[WhiteElo "3645"]
+[BlackElo "3643"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. Bxc6+ bxc6 6. d4
+{ entered in RUY Lopez Modern Steinitz Defence Richter Variation } 6... exd4 7.
+Nxd4 { played by 3 5 6 1 rated Motor } ( 7. Qxd4
+{ played by 3 6 4 5 rated Stockfish } 7... Nf6 8. O-O
+{ played by 3 6 4 5 rated Stockfish } ( 8. Nc3
+{ played by 3 6 1 5 rated Obsidian } 8... Be7 9. e5
+{ played by 3 6 1 5 rated Obsidian } 9... dxe5 10. Qxd8+ Bxd8 11. Nxe5 Nd5 12.
+Bd2 { played by 3 6 1 5 rated Obsidian } ( 12. Nxc6
+{ played by 2 3 4 0 rated Philou } 12... Nxc3 13. Nxd8 Nb5 14. Nc6 Bb7 15. a4
+Bxc6 16. axb5 axb5 17. Rxa8+ Bxa8 18. O-O Kd7 19. Rd1+
+{ Neither Philou from the White side with rating 2 3 4 0 nor Muse as Black rated 2 3 9 2 could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+) 12... Bf6 13. O-O-O Bxe5 14. Rde1 f6 15. f4 Nxc3 16. Bxc3 Be6 17. fxe5 f5 18.
+Rd1 Rd8 19. Ba5
+{ Once again, Neither Obsidian as White rated 3 6 1 5 nor Stockfish playing Black, rated 3 6 3 8 could convert, and the game was drawn.1/2-1/2 }
+) 8... Be6 9. Nc3 { played by 3 5 8 3 rated Chess } 9... c5 10. Qd3 Be7 11. Ng5
+{ played by 2 6 9 9 rated DanaSah } 11... Bg4 12. f4
+{ played by 2 6 9 9 rated DanaSah } ( 12. h3
+{ played by 2 1 3 9 rated OBender } 12... Bd7 13. Re1 Bc6 14. f4 O-O 15. Bd2
+Bb5 16. Nxb5 axb5 17. Qxb5 Rb8 18. Qd3 Rxb2 19. Bc3
+{ In an interesting battle, OBender from the White side with rating 2 1 3 9 remained in control, handing DoubleCheck on Black with Elo 2 1 6 8 a loss.1-0 }
+) 12... h6 13. Nf3 O-O 14. Bd2 Re8 15. Rae1 Qc8 16. f5 Rb8 17. b3 Qb7 18. Rf2
+Nd7 19. Nd5
+{ Once again, Cheese playing Black, rated 2 8 4 6 could not hold the position, allowing DanaSah from the White side with rating 2 6 9 9 to win. The outcome was decided in the later stages.1-0 }
+) 7... c5 8. Ne2 { played by 3 4 7 4 rated Booot } 8... Nf6 9. Nbc3
+{ played by 3 4 7 4 rated Booot } 9... c6 10. O-O Be7 11. Ng3
+{ played by 3 4 7 4 rated Booot } ( 11. Qd3
+{ played by 2 8 0 5 rated DiscoCheck } 11... O-O 12. Rd1 Qc7 13. Bf4 Rd8 14. h3
+Nh5 15. Bh2 Be6 16. b3 Qa5 17. a3 g6 18. b4 cxb4 19. axb4
+{ Once again, Neither Strelka handling the White pieces rated 3 1 4 2 nor Rodent as Black rated 3 0 1 4 could convert, and the game was drawn. Small inaccuracies made the difference.1/2-1/2 }
+) 11... O-O 12. b3 d5 13. Ba3 Re8 14. Na4 h5 15. e5 h4 16. exf6 Bxf6 17. Nh1
+Bxa1 18. Qxa1 c4 19. f3
+{ Velvet handling the Black pieces rated 3 4 5 4 outplayed Booot as White rated 3 4 7 4 and won as Black. Small inaccuracies made the difference.0-1 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17.1 64-bit 4CPU"]
+[Black "ShashChess Santiago 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C73"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, Richter variation"]
+[WhiteElo "3645"]
+[BlackElo "3643"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. Bxc6+ bxc6 6. d4
+{ entered in RUY Lopez Modern Steinitz Defence Richter Variation } 6... exd4 7.
+Nxd4 { played by 3 5 6 1 rated Motor } 7... c5 8. Ne2
+{ played by 3 4 7 4 rated Booot } ( 8. Nf3 { played by 3 3 3 3 rated Komodo }
+8... Nf6 9. O-O { played by 2 9 7 0 rated Stockfish } 9... Bb7 10. Re1
+{ played by 2 9 7 0 rated Stockfish } 10... Be7 11. Nc3 O-O 12. b3
+{ played by 3 3 3 3 rated Komodo } ( 12. Bf4 { played by 3 2 1 2 rated Arasan }
+12... Re8 13. Qd3 Nd7 14. Nd5 Bf6 15. Rab1 a5 16. Bd2 h6 17. c4 Nb6 18. h3 Nxd5
+19. exd5
+{ Here we see that Arasan on Black with Elo 3 2 1 2 defended accurately and defeated Vajolet2, rated 3 1 7 6, had the White pieces. The position remained tense for most of the game.0-1 }
+) ( 12. Rb1 { played by 2 9 3 6 rated Deep } 12... Re8 13. Qd3
+{ we will see this position later on1-0 } ) ( 12. h3
+{ played by 2 5 8 2 rated The } 12... Nd7 13. Nd5 Bf6 14. Rb1 Re8 15. b3 Nb6
+16. Nxf6+ Qxf6 17. Bb2 Qh6 18. Qd3 f6 19. a4
+{ Once again, Chronos handling the White pieces rated 2 5 7 1 outplayed The, rated 2 5 8 2, had the Black pieces and won the game. The outcome was decided in the later stages.1-0 }
+) 12... Re8 13. Qd3 Bf8 14. Bf4 h6 15. Rad1 a5 16. h3 Ba6 17. Qe3 Nd7 18. e5 c4
+19. Qc1
+{ After a long struggle, Komodo as White rated 3 3 3 3 and Ethereal as Black rated 3 3 1 9 shared the point. The outcome was decided in the later stages.1/2-1/2 }
+) 8... Nf6 9. c4 { played by 2 8 8 1 rated Hiarcs } 9... g6 10. Nbc3 Bg7 11.
+O-O O-O 12. f3 { played by 3 1 8 8 rated Xiphos } ( 12. Bg5
+{ played by 2 8 8 1 rated Hiarcs } 12... h6 13. Bd2 Ng4 14. f3 Ne5 15. b3 Bd7
+16. Qe1 Re8 17. Rd1 Nd3 18. Qg3 Nb4 19. Be3
+{ Here we see that Zap!Chess, rated 2 8 6 7, had the Black pieces defended accurately and defeated Hiarcs playing White, rated 2 8 8 1. The position remained tense for most of the game.0-1 }
+) 12... Bb7 13. Be3 h6 14. Qc2 Nd7 15. b3 Re8 16. Rad1 Qb8 17. Bc1 a5 18. Bb2
+Kh7 19. Na4
+{ Vajolet2, rated 3 1 4 3, had the Black pieces could not hold the position, allowing Xiphos, rated 3 1 8 8, had the White pieces to win. The outcome was decided in the later stages.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17.1 64-bit 4CPU"]
+[Black "ShashChess Santiago 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C73"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, Richter variation"]
+[WhiteElo "3645"]
+[BlackElo "3643"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. Bxc6+ bxc6 6. d4
+{ entered in RUY Lopez Modern Steinitz Defence Richter Variation } 6... exd4 7.
+Nxd4 { played by 3 5 6 1 rated Motor } 7... c5 8. Nf3
+{ played by 3 3 3 3 rated Komodo } ( 8. Nc6 { played by 3 5 6 1 rated Motor }
+8... Qd7 9. Na5 Qa4 10. Qd5 Rb8 11. Qc6+ Qxc6 12. Nxc6 Rb6 13. Na5 f5 14. Nc3
+{ played by 3 5 6 1 rated Motor } ( 14. f3 { played by 3 5 3 8 rated Ginkgo }
+14... Be7 15. Nd2 fxe4 16. fxe4 Be6 17. O-O Rb5 18. Ndc4 Bf6 19. Re1
+{ In an interesting battle, Neither Ginkgo as White rated 3 5 3 8 nor Motor from the Black side with rating 3 5 6 1 could convert, and the game was drawn. Small inaccuracies made the difference.1/2-1/2 }
+) 14... Ne7 15. b3 fxe4 16. O-O Bf5 17. Re1 g6 18. Nc4 Bg7 19. Bb2
+{ Motor as White rated 3 5 6 1 and Ginkgo handling the Black pieces rated 3 5 3 8 played a balanced game which ended in a draw. The outcome was decided in the later stages.1/2-1/2 }
+) 8... Nf6 9. O-O { played by 2 9 7 0 rated Stockfish } 9... Bb7 10. Re1
+{ played by 2 9 7 0 rated Stockfish } 10... Be7 11. Nc3 O-O 12. Qd3
+{ played by 3 1 4 8 rated Stockfish } ( 12. Bg5
+{ played by 2 9 7 0 rated Stockfish } 12... Re8 13. e5
+{ In this game, The game between Stockfish as White rated 2 9 7 0 and Deep playing Black, rated 2 9 3 6 finished level. The position remained tense for most of the game.1/2-1/2 }
+( 13. Qd3 { we will see this position later on1/2-1/2 } ) ) 12... Re8 13. Bf4
+{ we will see this position later on0-1 } ( 13. Bg5
+{ played by 2 0 9 6 rated KnockOut } 13... h6 14. Bf4 Nh5 15. Bd2 Bf6 16. Nd5
+Bxb2 17. Rab1 Bxd5 18. exd5 Rxe1+ 19. Bxe1
+{ Fruit as White rated 2 7 4 9 and WildCat playing Black, rated 2 6 1 9 played a balanced game which ended in a draw. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17.1 64-bit 4CPU"]
+[Black "ShashChess Santiago 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C73"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, Richter variation"]
+[WhiteElo "3645"]
+[BlackElo "3643"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. Bxc6+ bxc6 6. d4
+{ entered in RUY Lopez Modern Steinitz Defence Richter Variation } 6... exd4 7.
+Nxd4 { played by 3 5 6 1 rated Motor } ( 7. Qxd4
+{ played by 3 6 4 5 rated Stockfish } 7... Nf6 8. O-O
+{ played by 3 6 4 5 rated Stockfish } 8... Be6 9. Ng5
+{ played by 3 6 4 5 rated Stockfish } 9... Be7 10. Nxe6 fxe6 11. e5 dxe5 12.
+Qxe5 Qd5 13. Qe2 O-O 14. Nd2 e5 15. Nc4 Bd6 16. Bd2
+{ played by 3 6 4 5 rated Stockfish } ( 16. Be3
+{ played by 3 6 4 3 rated ShashChess } 16... e4 17. b3 Qe6 18. Rae1 Ng4 19.
+Nxd6
+{ Here we see that After a long struggle, ShashChess on White with Elo 3 6 4 3 and Stockfish playing Black, rated 3 6 4 5 shared the point. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 16... e4 17. Rae1 Qf5 18. a4 Kh8 19. b3
+{ In this game, Stockfish as White rated 3 6 4 5 and ShashChess as Black rated 3 6 4 3 played a balanced game which ended in a draw. Both sides showed good positional understanding.1/2-1/2 }
+) 7... c5 8. Nf3 { played by 3 3 3 3 rated Komodo } 8... Nf6 9. O-O
+{ played by 2 9 7 0 rated Stockfish } 9... Bb7 10. Re1
+{ played by 2 9 7 0 rated Stockfish } 10... Be7 11. Nc3 O-O 12. Qd3
+{ played by 3 1 4 8 rated Stockfish } 12... Re8 13. Rb1
+{ played by 3 1 4 8 rated Stockfish } ( 13. Bd2
+{ played by 3 0 5 3 rated DeepSaros } 13... Qd7 14. Rad1 a5 15. Bf4
+{ played by 3 0 5 3 rated DeepSaros } ( 15. Nh4
+{ played by 2 9 1 0 rated Hiarcs } 15... g6 16. Nf3 Ba6 17. Qe3 Bf8 18. Qg5 Bg7
+19. e5
+{ Once again, Hiarcs, rated 2 9 1 0, had the White pieces outplayed Deep as Black rated 2 9 3 6 and won the game. The opening quickly led to complex middlegame play.1-0 }
+) 15... Nh5 16. Bc1 h6 17. e5
+{ Once again, DeepSaros, rated 3 0 5 3, had the White pieces and Stockfish playing Black, rated 3 0 8 8 played a balanced game which ended in a draw. The position remained tense for most of the game.1/2-1/2 }
+) 13... a5 14. Bg5 { played by 3 1 4 8 rated Stockfish } ( 14. b3
+{ played by 2 9 3 6 rated Deep } 14... a4 15. bxa4 Bc6 16. e5 Nd7 17. Bf4 Nf8
+18. exd6 cxd6 19. Rbd1
+{ In this game, After a long struggle, Deep, rated 2 9 3 6, had the White pieces and Hiarcs on Black with Elo 2 9 1 0 shared the point. Small inaccuracies made the difference.1/2-1/2 }
+) 14... h6 15. Bh4 Ba6 16. Qd1 Bb7 17. e5 Ng4 18. exd6 cxd6 19. Bxe7
+{ Here we see that Stockfish playing White, rated 3 1 4 8 remained in control, handing Thinker as Black rated 2 9 4 3 a loss. The position remained tense for most of the game.1-0 }
+1/2-1/2
+
+
+

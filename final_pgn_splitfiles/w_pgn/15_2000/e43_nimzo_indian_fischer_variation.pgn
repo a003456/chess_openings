@@ -1,0 +1,308 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17 64-bit 4CPU"]
+[Black "Alexandria 7.1.0 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "E43"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation"]
+[WhiteElo "3643"]
+[BlackElo "3609"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6
+{ entered in NIMZO Indian Fischer Variation } 5. f3 O-O
+{ played by 3 6 4 3 rated Stockfish } ( 5... c5
+{ played by 3 6 3 5 rated Torch } 6. d5 O-O { played by 3 6 3 5 rated Torch } (
+6... Bb7 { played by 2 4 3 0 rated Queen } 7. d6 Bxc3+ 8. bxc3 O-O 9. Nh3 Ne8
+10. e4 Nc6 11. Bf4 e5 12. Bg5 f6 13. Be3 Qb8 14. Qd5+ Rf7 15. Qd3 Qxd6 16. Qxd6
+Nxd6 17. O-O-O Ne8 18. Nf2
+{ In this game, SoFCheck, rated 2 4 0 4, had the White pieces overpressed, and Queen on Black with Elo 2 4 3 0 secured the win.0-1 }
+) ( 6... d6 { played by 2 4 0 4 rated SoFCheck } 7. Bd2 O-O 8. Bd3 Nbd7 9. dxe6
+fxe6 10. Nb5 d5 11. Bxb4 cxb4 12. cxd5 Nxd5 13. Qd2 Ba6 14. Nd4 Bxd3 15. Qxd3
+Nc5 16. Qe2 Qg5 17. f4 Qg6 18. Rd1
+{ Once again, SoFCheck playing Black, rated 2 4 0 4 defended accurately and defeated Queen playing White, rated 2 4 3 0. The position remained tense for most of the game.0-1 }
+) 7. e4 { we will see this position later on1/2-1/2 } ) ( 5... Nc6
+{ played by 2 8 6 5 rated Thinker } 6. Bd3 Bd6
+{ played by 2 8 6 5 rated Thinker } ( 6... O-O
+{ played by 2 6 5 0 rated Scorpio } 7. Ne2 d5 8. O-O Bxc3 9. bxc3 Ba6 10. cxd5
+Bxd3 11. Qxd3 Nxd5 12. e4 Nde7 13. Kh1 Qd7 14. Rb1 Na5 15. Bf4 Rad8 16. Qa6 Ng6
+17. Bg3 Ra8 18. Nc1
+{ Once again, Cyrano, rated 2 6 3 9, had the White pieces outplayed Scorpio as Black rated 2 6 5 0 and won the game. The position remained tense for most of the game.1-0 }
+) ( 6... Nh5 { played by 2 5 3 6 rated Tornado } 7. Nh3 Qh4+ 8. Nf2 Nf6 9. Bd2
+Bb7 10. g3 Qh6 11. e4 Qh5 12. a3 Bd6 13. Nb5 O-O-O 14. Be2 Be7 15. d5 Kb8 16.
+dxc6 dxc6 17. Nc3 Bc5
+{ In this game, Tornado, rated 2 5 3 6, had the Black pieces could not hold the position, allowing AnMon playing White, rated 2 5 2 4 to win. Both sides showed good positional understanding.1-0 }
+) 7. Nh3 O-O 8. a3 Ba6 9. b4 Bb7 10. c5 Be7 11. O-O a6 12. Qb3 d6 13. cxb6 cxb6
+14. Nf4 d5 15. Bd2 Bd6 16. g3 h5 17. Rac1 h4 18. Be1
+{ Thinker as Black rated 2 8 6 5 seized the initiative and handed Alaric on White with Elo 2 6 5 5 a loss. Both sides showed good positional understanding.0-1 }
+) 6. e4 d6 { played by 2 7 7 4 rated Glaurung } 7. Bd3 c5 8. d5 Bxc3+ 9. bxc3
+{ we will see this position later on0-1 } 1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17 64-bit 4CPU"]
+[Black "Alexandria 7.1.0 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "E43"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation"]
+[WhiteElo "3643"]
+[BlackElo "3609"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6
+{ entered in NIMZO Indian Fischer Variation } 5. f3 O-O
+{ played by 3 6 4 3 rated Stockfish } 6. e4 Ba6
+{ played by 3 6 4 3 rated Stockfish } ( 6... c5
+{ played by 2 9 2 1 rated Naum } 7. d5 b5 { played by 2 9 2 1 rated Naum } (
+7... Bxc3+ { played by 2 5 8 4 rated Glass } 8. bxc3 d6 9. Bd3 Nbd7 10. Bf4 Qe7
+11. Ne2 Nh5 12. O-O Nxf4 13. Nxf4 Qf6 14. Ne2 Qh6 15. Ng3 Qf4 16. Rf2 Ne5 17.
+Qd2 Qxd2 18. Rxd2
+{ Glaurung from the Black side with rating 2 7 7 4 defended accurately and defeated Deep, rated 2 8 4 4, had the White pieces. The outcome was decided in the later stages.0-1 }
+) ( 7... Re8 { played by 3 6 3 5 rated Torch } 8. Ne2 d6
+{ played by 3 2 0 3 rated Cadie } 9. Kf2 Ba5 10. g4 exd5 11. cxd5 a6 12. g5 Nh5
+13. Ng3 Nxg3 14. hxg3 b5 15. a4 b4 16. Nb1 Nd7 17. Nd2 Ne5 18. Nc4
+{ In an interesting battle, Cadie on Black with Elo 3 2 0 3 could not hold the position, allowing Arcanum from the White side with rating 3 2 7 4 to win. The opening quickly led to complex middlegame play.1-0 }
+) ( 7... d6 { played by 3 3 4 9 rated Houdini } 8. Ne2 b5
+{ played by 3 2 7 4 rated Arcanum } ( 8... Re8
+{ we will see this position later on1-0 } ) 9. Ng3 Re8 10. Be2 bxc4 11. Bxc4
+exd5 12. Bxd5 Nxd5 13. Qxd5 Be6 14. Qxa8 Qd7 15. O-O Nc6 16. Qxe8+ Qxe8 17. Rd1
+Qd8 18. Be3
+{ In this game, Cadie handling the White pieces rated 3 2 0 3 and Arcanum handling the Black pieces rated 3 2 7 4 played a balanced game which ended in a draw. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 8. e5 Ne8 9. cxb5 exd5 10. Qxd5 Nc7 11. Qd6 a6 12. b6 Ne8 13. Qd5 Nc6 14. a3
+Bxc3+ 15. bxc3 Qxb6 16. Be3 Nc7 17. Qxc5 Qb2 18. Rc1
+{ Here we see that Deep from the White side with rating 2 9 3 6 remained in control, handing Naum handling the Black pieces rated 2 9 2 1 a loss.1-0 }
+) 7. Bg5 h6 { played by 3 6 4 3 rated Stockfish } ( 7... d6
+{ played by 3 1 8 4 rated Rybka } 8. Qa4 c5 9. d5 h6 10. Bd2 exd5 11. cxd5 Bxf1
+12. Kxf1 a6 13. Nge2 Nbd7 14. g3 b5 15. Qc2 Re8 16. Kg2 Ba5 17. h3 Qe7 18. a3
+{ Here we see that Stockfish playing White, rated 3 1 8 9 remained in control, handing Rybka on Black with Elo 3 1 8 4 a loss. Both sides showed good positional understanding.1-0 }
+) 8. Bh4 d6 9. Bd3 c5 10. a3 Bxc3+ 11. bxc3 Nc6 12. Ne2 e5 13. d5 Na5 14. Ra2
+Rb8 15. g4 b5 16. cxb5 Bxb5 17. Bxb5 Rxb5 18. O-O
+{ Stockfish playing White, rated 3 6 4 3 remained in control, handing Alexandria on Black with Elo 3 6 0 9 a loss.1-0 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17 64-bit 4CPU"]
+[Black "Alexandria 7.1.0 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "E43"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation"]
+[WhiteElo "3643"]
+[BlackElo "3609"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6
+{ entered in NIMZO Indian Fischer Variation } 5. f3 c5
+{ played by 3 6 3 5 rated Torch } ( 5... O-O
+{ played by 3 6 4 3 rated Stockfish } 6. e4 c5 { played by 2 9 2 1 rated Naum }
+7. d5 Re8 { played by 3 6 3 5 rated Torch } ( 7... d6
+{ played by 3 3 4 9 rated Houdini } 8. Ne2 exd5
+{ played by 3 3 4 9 rated Houdini } 9. cxd5 Qe7
+{ played by 3 0 4 5 rated Deep } 10. Ng3 Qe5 11. Bd2 Nh5 12. Nxh5 Qxh5 13. Be2
+Qh4+ 14. g3 Qe7 15. O-O Ba6 16. a3 Bxc3 17. Bxc3 f6 18. a4
+{ In this game, Houdini, rated 3 2 4 0, had the White pieces converted the advantage and defeated Deep, rated 3 0 4 5, had the Black pieces. The outcome was decided in the later stages.1-0 }
+) 8. Ne2 exd5 { played by 3 6 3 5 rated Torch } 9. cxd5 Ba6
+{ played by 3 1 3 9 rated Critter } ( 9... Bb7 { played by 2 4 7 3 rated Loki }
+10. a3 Ba5 11. Rb1 c4 12. g3 a6 13. b4 cxb3 14. Qxb3 b5 15. Bh3 d6 16. O-O Bb6+
+17. Kg2 Nbd7 18. a4
+{ In an interesting battle, Loki playing Black, rated 2 4 7 3 defended accurately and defeated Raven as White rated 2 4 5 0. The outcome was decided in the later stages.0-1 }
+) ( 9... b5 { played by 2 4 5 0 rated Raven } 10. a3 Ba5 11. Ng3 a6 12. Be2 d6
+13. O-O Nbd7 14. Be3 Bb7 15. Nf5 Ne5 16. Qe1 Ng6 17. Qf2 Nh5 18. Bd1
+{ In this game, Raven handling the Black pieces rated 2 4 5 0 seized the initiative and handed Loki from the White side with rating 2 4 7 3 a loss. The outcome was decided in the later stages.0-1 }
+) 10. Ng3 Bxf1 11. Kxf1 Bxc3 12. bxc3 g6 13. Bh6 d6 14. h4 Nbd7 15. h5 b5 16.
+Rh3 Rb8 17. Qc1 Ne5 18. Bg5
+{ In this game, Houdini, rated 3 3 9 0, had the White pieces remained in control, handing Critter playing Black, rated 3 1 3 9 a loss. Both sides showed good positional understanding.1-0 }
+) ( 5... Ba6 { played by 3 6 3 5 rated Torch } 6. Bd2 O-O 7. e4 Nh5 8. g3 f5 9.
+exf5 Nc6 { played by 3 6 3 5 rated Torch } 10. Qa4 Rxf5 11. d5 exd5 12. Qxa6 d4
+13. Nd5 Bxd2+ 14. Kxd2 Qg5+ 15. Kd1 Qh6 16. Nh3 Re8 17. Qa3 Nf6 18. Nhf4
+{ In an interesting battle, The game between Viridithas handling the White pieces rated 3 5 9 0 and Torch handling the Black pieces rated 3 6 3 5 finished level.1/2-1/2 }
+) 6. d5 Ba6 { played by 3 6 0 8 rated Berserk } 7. e4 O-O 8. Nh3 Qe7
+{ played by 2 1 6 2 rated Weini } 9. d6 Qd8 10. e5 Ne8 11. Qc2 Nc6 12. Ng5 f5
+13. f4 Nd4 14. Qd1 b5 15. cxb5 Bxb5 16. a3 Bxf1 17. axb4 Bxg2 18. Rg1
+{ Here we see that Googleplex, rated 2 2 7 9, had the White pieces overpressed, and Weini on Black with Elo 2 1 6 2 secured the win.0-1 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17 64-bit 4CPU"]
+[Black "Alexandria 7.1.0 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "E43"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation"]
+[WhiteElo "3643"]
+[BlackElo "3609"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6
+{ entered in NIMZO Indian Fischer Variation } 5. f3 c5
+{ played by 3 6 3 5 rated Torch } ( 5... Nh5
+{ played by 3 5 4 8 rated RubiChess } 6. Nh3 f5 7. e4 O-O 8. Bg5 Qe8 9. e5 c5
+{ played by 3 5 4 8 rated RubiChess } ( 9... Nc6
+{ played by 3 4 7 3 rated Stormphrax } 10. f4 h6 11. Be2 hxg5 12. Bxh5 g6 13.
+Bf3 g4 14. Bxc6 dxc6 15. Ng5 Be7 16. h3 Bxg5 17. fxg5 g3 18. Qf3
+{ In an interesting battle, Stormphrax playing Black, rated 3 4 7 3 could not hold the position, allowing RubiChess as White rated 3 5 4 8 to win. Small inaccuracies made the difference.1-0 }
+) ( 9... Bb7 { played by 2 5 8 4 rated Gogobello } 10. f4 h6 11. Be2 Nxf4 12.
+Bxf4 Bxg2 13. Rg1 Bxh3 14. Bxh6 Rf7 15. Qd3 Bg4 16. Bxg4 Bxc3+ 17. Qxc3 fxg4
+18. Rxg4
+{ chess22k on White with Elo 2 6 7 2 remained in control, handing Gogobello from the Black side with rating 2 5 8 4 a loss.1-0 }
+) 10. Bd2 Nc6 11. a3 Ba5 12. f4 cxd4 13. Nb5 Bxd2+ 14. Qxd2 Qe7 15. g3 Bb7 16.
+Bg2 a6 17. Nd6 Rab8 18. Rg1
+{ In this game, Neither Revenge from the White side with rating 3 5 1 5 nor Clover on Black with Elo 3 5 1 1 could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+) ( 5... O-O { played by 3 6 4 3 rated Stockfish } 6. e4 c5
+{ played by 2 9 2 1 rated Naum } 7. d5 d6 { played by 3 3 4 9 rated Houdini }
+8. Ne2 exd5 { played by 3 3 4 9 rated Houdini } 9. cxd5 Nbd7
+{ played by 3 3 4 9 rated Houdini } 10. Ng3 Ne5
+{ played by 3 3 4 9 rated Houdini } ( 10... a6
+{ played by 3 1 4 2 rated Strelka } 11. Be2 Ba5 12. O-O Re8 13. Qc2 Ne5 14. Nd1
+b5 15. b3 Bd7 16. Ne3 h5 17. Kh1 c4 18. bxc4
+{ Once again, Houdini as White rated 3 3 4 9 remained in control, handing Strelka on Black with Elo 3 1 4 2 a loss. The opening quickly led to complex middlegame play.1-0 }
+) 11. a3 Ba5 12. Rb1 b5 13. b4 Bb6 14. Nxb5 a6 15. Nc3 Bd7 16. Bf4 cxb4 17.
+axb4 Qc7 18. Na4
+{ Houdini handling the Black pieces rated 3 3 4 9 defended accurately and defeated Strelka as White rated 3 1 4 2. The position remained tense for most of the game.0-1 }
+) 6. d5 Ba6 { played by 3 6 0 8 rated Berserk } 7. e4 O-O 8. Nh3 d6
+{ played by 3 6 0 8 rated Berserk } 9. Be2 Bxc3+
+{ played by 3 6 0 8 rated Berserk } 10. bxc3 Qe7 11. O-O exd5 12. exd5 Nbd7 13.
+Re1 Rae8 14. Bd2 Ne5 15. Nf2 h6 16. f4 Ng6 17. Bd3 Qc7 18. Rf1
+{ Once again, After a long struggle, RubiChess as White rated 3 6 0 1 and Berserk from the Black side with rating 3 6 0 8 shared the point. The opening quickly led to complex middlegame play.1/2-1/2 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17 64-bit 4CPU"]
+[Black "Alexandria 7.1.0 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "E43"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation"]
+[WhiteElo "3643"]
+[BlackElo "3609"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6
+{ entered in NIMZO Indian Fischer Variation } 5. f3 Ba6
+{ played by 3 6 3 5 rated Torch } ( 5... O-O
+{ played by 3 6 4 3 rated Stockfish } 6. e4 c5 { played by 2 9 2 1 rated Naum }
+7. d5 d6 { played by 3 3 4 9 rated Houdini } ( 7... Re8
+{ played by 3 6 3 5 rated Torch } 8. Ne2 exd5 { played by 3 6 3 5 rated Torch }
+9. cxd5 d6 { played by 3 6 3 5 rated Torch } 10. Ng3 a6 11. Be2 Nbd7 12. O-O
+Nf8 { played by 3 6 3 5 rated Torch } ( 12... Ne5
+{ played by 3 3 9 0 rated Houdini } 13. Be3 Bd7 14. a4 Ng6 15. Rb1 Ba5 16. Rf2
+Qe7 17. Qf1 Bxc3 18. bxc3
+{ In an interesting battle, Critter playing White, rated 3 1 3 9 overpressed, and Houdini from the Black side with rating 3 3 9 0 secured the win. Both sides showed good positional understanding.0-1 }
+) ( 12... Qc7 { played by 2 8 0 4 rated Rhetoric } 13. Bf4 c4 14. Kh1 b5 15. a4
+Rb8 16. Nf5 Ne5 17. Nd4 Bd7 18. axb5
+{ In this game, The game between tomitankChess as White rated 2 6 5 7 and Rhetoric on Black with Elo 2 8 0 4 finished level. The position remained tense for most of the game.1/2-1/2 }
+) 13. a3 Ba5 14. Kh1 Bd7 15. Bd3 b5 16. Bc2 Ng6 17. Nce2 Bb6 18. b3
+{ In this game, Torch on White with Elo 3 6 3 5 converted the advantage and defeated Stormphrax, rated 3 6 1 3, had the Black pieces. The position remained tense for most of the game.1-0 }
+) 8. Ne2 exd5 { played by 3 3 4 9 rated Houdini } 9. cxd5 Nh5
+{ played by 3 0 0 9 rated ChessBrainVB } 10. g4 Qh4+ 11. Kd2 f5
+{ played by 2 9 4 7 rated Wasp } ( 11... Bxc3+
+{ played by 2 6 3 6 rated Ethereal } 12. bxc3 f5 13. exf5 Qf2 14. Kc2 Qxf3 15.
+Ng3 Qxd1+ 16. Kxd1 Nxg3 17. hxg3 Nd7 18. Bf4
+{ In this game, The game between Floyd, rated 2 4 9 0, had the White pieces and Ethereal as Black rated 2 6 3 6 finished level.1/2-1/2 }
+) 12. gxh5 fxe4 13. f4 Bxc3+ 14. Nxc3 Qxf4+ 15. Kc2 e3 16. b3 Qe5 17. Be2 Rf2
+18. Rf1
+{ Here we see that After a long struggle, ChessBrainVB as White rated 3 0 0 9 and Wasp as Black rated 2 9 4 7 shared the point. Small inaccuracies made the difference.1/2-1/2 }
+) 6. Bd2 O-O 7. e4 Nh5 8. g3 f5 9. exf5 exf5
+{ played by 3 5 9 0 rated Viridithas } 10. Qb3 Re8+
+{ played by 3 5 9 0 rated Viridithas } ( 10... Bxc3
+{ played by 2 9 0 8 rated Tornado } 11. Qxc3 Re8+ 12. Kf2 d5 13. Nh3 Nf6 14.
+Nf4 c6 15. Re1 Rxe1 16. Bxe1 dxc4 17. Bxc4+ Bxc4 18. Qxc4+
+{ In this game, Strelka on White with Elo 3 1 4 2 outplayed Tornado playing Black, rated 2 9 0 8 and won the game. The position remained tense for most of the game.1-0 }
+) 11. Kf2 c5 12. d5 d6 13. a3 Bxc3 14. Qxc3 Nd7 15. Nh3 Ne5 16. b3 Rb8 17. a4
+Bc8 18. Re1
+{ Once again, Torch playing White, rated 3 6 3 5 outplayed Viridithas from the Black side with rating 3 5 9 0 and won the game. The opening quickly led to complex middlegame play.1-0 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17 64-bit 4CPU"]
+[Black "Alexandria 7.1.0 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "E43"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation"]
+[WhiteElo "3643"]
+[BlackElo "3609"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6
+{ entered in NIMZO Indian Fischer Variation } 5. f3 O-O
+{ played by 3 6 4 3 rated Stockfish } ( 5... c5
+{ played by 3 6 3 5 rated Torch } 6. d5 Ba6 { played by 3 6 0 8 rated Berserk }
+7. e4 O-O 8. Nh3 d6 { played by 3 6 0 8 rated Berserk } 9. Be2 exd5
+{ played by 3 6 0 1 rated RubiChess } ( 9... Re8
+{ played by 3 3 8 2 rated Komodo } 10. Nf4 exd5 11. cxd5 Bxe2 12. Qxe2 Nbd7
+{ played by 3 3 8 2 rated Komodo } ( 12... g5
+{ played by 2 8 4 6 rated Cheese } 13. Nd3 Bxc3+ 14. bxc3 Nxd5 15. O-O Nxc3 16.
+Qb2 Na4 17. Qb3 b5 18. Qxb5
+{ Here we see that Naraku, rated 2 7 8 0, had the White pieces outplayed Cheese on Black with Elo 2 8 4 6 and won the game.1-0 }
+) 13. O-O a6 14. a3 Bxc3 15. bxc3 b5 16. a4 Rb8 17. axb5 axb5 18. Ra6
+{ Once again, Critter handling the White pieces rated 3 1 3 9 overpressed, and Komodo playing Black, rated 3 3 8 2 secured the win. The opening quickly led to complex middlegame play.0-1 }
+) 10. cxd5 Bxe2 11. Qxe2 Re8 12. Be3 b5 { played by 3 6 0 1 rated RubiChess } (
+12... Qe7 { played by 3 3 0 4 rated Counter } 13. Kf2 Nbd7 14. Rhc1 a6 15. a3
+Bxc3 16. Rxc3 b5 17. Kg1 Ne5 18. b3
+{ In this game, Caissa from the White side with rating 3 3 5 3 and Counter on Black with Elo 3 3 0 4 played a balanced game which ended in a draw.1/2-1/2 }
+) 13. O-O a6 14. a4 bxa4 15. Nxa4 Nbd7 16. Nf2 a5 17. Nd1 Ne5 18. Kh1
+{ In this game, Berserk, rated 3 6 0 8, had the White pieces remained in control, handing RubiChess handling the Black pieces rated 3 6 0 1 a loss. Small inaccuracies made the difference.1-0 }
+) 6. e4 c5 { played by 2 9 2 1 rated Naum } 7. d5 d6
+{ played by 3 3 4 9 rated Houdini } 8. Ne2 exd5
+{ played by 3 3 4 9 rated Houdini } 9. cxd5 Ba6
+{ played by 2 5 9 5 rated Galjoen } 10. a3 Bxc3+ 11. Nxc3 Bxf1 12. Rxf1 Nbd7
+{ played by 2 5 9 5 rated Galjoen } ( 12... Re8
+{ played by 2 5 1 8 rated Axolotl } 13. Kf2 Nbd7 14. Kg1 Ne5 15. Bg5 h6 16.
+Bxf6 Qxf6 17. f4 Nd7 18. Kh1
+{ Galjoen as White rated 2 5 9 5 outplayed Axolotl handling the Black pieces rated 2 5 1 8 and won the game. The position remained tense for most of the game.1-0 }
+) 13. Qc2 Re8 14. Bf4 Nh5 15. Bxd6 Ndf6 16. g4 Qxd6 17. gxh5 Nxh5 18. O-O-O
+{ In an interesting battle, Axolotl handling the White pieces rated 2 5 1 8 and Galjoen on Black with Elo 2 5 9 5 played a balanced game which ended in a draw. The position remained tense for most of the game.1/2-1/2 }
+1-0
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17 64-bit 4CPU"]
+[Black "Alexandria 7.1.0 64-bit 4CPU"]
+[Result "1-0"]
+[ECO "E43"]
+[Opening "Nimzo-Indian"]
+[Variation "Fischer variation"]
+[WhiteElo "3643"]
+[BlackElo "3609"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6
+{ entered in NIMZO Indian Fischer Variation } 5. f3 Nh5
+{ played by 3 5 4 8 rated RubiChess } 6. Nh3 f5 7. e4 O-O 8. Bg5 Qe8 9. e5 h6
+{ played by 3 4 6 1 rated RubiChess } 10. Bd2 Nc6 11. Nb5 Qe7 12. f4 Bb7
+{ played by 3 4 6 1 rated RubiChess } ( 12... a6
+{ played by 2 6 7 2 rated chess22k } 13. Nc3 g6 14. a3 Bxc3 15. Bxc3 d5 16. Qf3
+Rd8 17. cxd5 exd5 18. O-O-O
+{ In this game, chess22k, rated 2 6 7 2, had the Black pieces seized the initiative and handed Gogobello, rated 2 5 8 4, had the White pieces a loss.0-1 }
+) 13. Qxh5 Bxd2+ 14. Kxd2 a6
+{ Once again, Ethereal, rated 3 5 0 0, had the White pieces converted the advantage and defeated RubiChess, rated 3 4 6 1, had the Black pieces.1-0 }
+1-0
+
+
+

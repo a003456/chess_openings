@@ -1,0 +1,33 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Motor 0.6.0 64-bit"]
+[Black "Obsidian 13.0 64-bit"]
+[Result "1/2-1/2"]
+[ECO "E20"]
+[Opening "Nimzo-Indian"]
+[Variation "Mikenas attack"]
+[WhiteElo "3518"]
+[BlackElo "3583"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qd3 { entered in NIMZO Indian Mikenas Attack }
+4... d5 5. a3 Be7 6. Nf3 Nbd7 7. g4 dxc4 8. Qxc4 c5 9. dxc5
+{ played by 3 5 1 4 rated Uralochka } ( 9. g5
+{ played by 3 6 1 2 rated Stockfish } 9... Nb6 10. Qd3 Nfd7 11. Be3 O-O 12. Rc1
+{ played by 3 5 1 8 rated Motor } ( 12. Rd1 { played by 3 4 6 7 rated Igel }
+12... Nd5 13. Nxd5 exd5 14. dxc5 Bxc5 15. Bxc5 Nxc5 16. Qxd5 Qxd5 17. Rxd5
+{ Here we see that Neither Igel on White with Elo 3 4 6 7 nor Stockfish as Black rated 3 6 1 2 could convert, and the game was drawn. Small inaccuracies made the difference.1/2-1/2 }
+) 12... cxd4 13. Qxd4 Nc5 14. b4 Qxd4 15. Nxd4 Na6 16. h4 Nc4 17. Nc2
+{ Here we see that After a long struggle, Motor from the White side with rating 3 5 1 8 and Obsidian on Black with Elo 3 5 8 3 shared the point.1/2-1/2 }
+) 9... Nd5 10. Ne4 { played by 3 5 1 4 rated Uralochka } ( 10. Nxd5
+{ played by 3 1 7 0 rated Drofa } 10... exd5 11. Qxd5 Nxc5 12. Qxd8+ Bxd8 13.
+Nd4 Bxg4 14. Be3 Bf6 15. Rg1 Bd7 16. Rc1 Rc8 17. b4
+{ In an interesting battle, Little as Black rated 3 2 1 0 outplayed Drofa playing White, rated 3 1 7 0 and won as Black. The opening quickly led to complex middlegame play.0-1 }
+) 10... O-O 11. Bd2 Qc7 12. Rc1 a5 13. Qc2 Ne5 14. Nxe5 Qxe5 15. h4 Bd7 16. Ng5
+g6 17. Nf3
+{ In an interesting battle, Neither Uralochka, rated 3 5 1 4, had the White pieces nor Viridithas playing Black, rated 3 5 0 0 could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
+1/2-1/2
+
+
+

@@ -1,0 +1,25 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 2.1.1 32-bit"]
+[Black "Shredder 12 32-bit"]
+[Result "1/2-1/2"]
+[ECO "C50"]
+[Opening "Rousseau gambit"]
+[Variation ""]
+[WhiteElo "3058"]
+[BlackElo "2953"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 f5 { entered in ROUSSEAU Gambit } 4. d3 d6 5. Nc3
+{ played by 3 0 5 8 rated Stockfish } ( 5. a4 { played by 2 7 7 0 rated Loop }
+5... fxe4 6. dxe4 Bg4 7. h3 Bh5 8. a5 a6 9. Qd3 Nf6 10. Qb3 Qc8 11. Nbd2 Be7
+12. O-O Rf8 13. Be6 Nd7 14. Bd5 Nc5 15. Qc4 Nd8 16. Re1 Nce6 17. Qa4+
+{ Here we see that Loop playing White, rated 2 7 7 0 overpressed, and Crafty on Black with Elo 2 8 2 1 secured the win. The opening quickly led to complex middlegame play.0-1 }
+) 5... f4 6. h3 Be7 7. d4 Nh6 8. O-O Nf7 9. dxe5 dxe5 10. b3 a6 11. Qxd8+ Ncxd8
+12. a4 c6 13. Bb2 Be6 14. Be2 g5 15. Nh2 h5 16. Rfd1 Nd6 17. Nb5
+{ Once again, Stockfish as White rated 3 0 5 8 and Shredder handling the Black pieces rated 2 9 5 3 played a balanced game which ended in a draw.1/2-1/2 }
+1/2-1/2
+
+
+

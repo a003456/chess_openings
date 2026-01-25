@@ -1,0 +1,34 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "RubiChess 20221120 64-bit"]
+[Black "Stockfish 15 64-bit"]
+[Result "1/2-1/2"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights, Korchnoi variation"]
+[WhiteElo "3507"]
+[BlackElo "3599"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. d5
+{ entered in NIMZO Indian Three Knights Korchnoi Variation } 5... d6 6. Bd2
+{ played by 3 5 9 9 rated Stockfish } ( 6. e3
+{ played by 3 5 4 6 rated ShashChess } 6... Bxc3+ 7. bxc3 e5 8. Qc2 e4 9. Nd2
+Qe7 10. a4 { played by 3 5 4 6 rated ShashChess } ( 10. h3
+{ played by 3 3 8 5 rated Fire } 10... h5 11. Be2 Bf5 12. Qa4+ Nbd7 13. Rb1 Rb8
+14. Qxa7 O-O 15. Rxb7 Ra8 16. Qb6 Rxa2 17. Qb3 Rfa8 18. O-O
+{ Here we see that Fire, rated 3 3 8 5, had the White pieces overpressed, and ShashChess on Black with Elo 3 5 4 6 secured the win. Small inaccuracies made the difference.0-1 }
+) ( 10. Be2 { played by 2 1 9 7 rated Eggnog } 10... O-O 11. O-O Bf5 12. Rb1 b6
+13. a4 Nbd7 14. a5 bxa5 15. Nb3 a4 16. Na5 Nb6 17. Ra1 Qc7 18. Bd2
+{ Here we see that Little as Black rated 2 1 1 3 seized the initiative and handed Eggnog, rated 2 1 9 7, had the White pieces a loss. Small inaccuracies made the difference.0-1 }
+) 10... Bg4 11. f4 exf3 12. gxf3 Bh5 13. e4 Nfd7 14. Kf2 Qh4+ 15. Kg2 O-O 16.
+Rg1 Ne5 17. Be2 Nbd7 18. Kh1
+{ Here we see that The game between ShashChess on White with Elo 3 5 4 6 and Fire playing Black, rated 3 3 8 5 finished level. The outcome was decided in the later stages.1/2-1/2 }
+) 6... O-O 7. e3 exd5 8. Nxd5 Nxd5 9. cxd5 Bxd2+ 10. Nxd2 Qg5 11. Ne4 Qe5 12.
+Nc3 Nd7 13. Qd2 f5 14. f4 Qe7 15. Bd3 Nf6 16. O-O Qd8 17. a4 Bd7 18. a5
+{ Once again, Neither RubiChess as White rated 3 5 0 7 nor Stockfish on Black with Elo 3 5 9 9 could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
+1/2-1/2
+
+
+

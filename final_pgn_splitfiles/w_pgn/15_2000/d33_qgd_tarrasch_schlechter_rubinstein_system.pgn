@@ -1,0 +1,41 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 17.1 64-bit 4CPU"]
+[Black "Integral v7 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "D33"]
+[Opening "QGD"]
+[Variation "Tarrasch, Schlechter-Rubinstein system"]
+[WhiteElo "3645"]
+[BlackElo "3617"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3
+{ entered in Queens Gambit Declined Tarrasch Schlechter Rubinstein System }
+6... Be7 { played by 3 0 7 3 rated Vajolet2 } ( 6... cxd4
+{ played by 3 6 4 5 rated Stockfish } 7. Nxd4 Bc5
+{ played by 3 6 4 5 rated Stockfish } ( 7... Qb6
+{ played by 3 3 9 2 rated Komodo } 8. Nxc6 Bc5
+{ Here we see that Fritz from the Black side with rating 3 2 4 6 could not hold the position, allowing Komodo playing White, rated 3 3 9 2 to win. Both sides showed good positional understanding.1-0 }
+) ( 7... Nf6 { played by 2 2 0 8 rated Esc } 8. Bg2 Qb6 9. Nxc6 bxc6 10. O-O
+Bf5 11. e4 dxe4 12. Qc2 Qc5 13. Qa4 Be7 14. Be3 Qd6 15. Nxe4 Nxe4 16. Bxe4 Bxe4
+17. Qxe4 O-O 18. Rac1 Qd7 19. Qxc6
+{ In this game, The game between Esc on White with Elo 2 2 0 8 and Terra playing Black, rated 2 1 2 9 finished level. Small inaccuracies made the difference.1/2-1/2 }
+) 8. Be3 Bb6 9. Bg2 Nf6 10. Qd2 O-O 11. O-O Re8 12. Rad1 h6 13. a3 Ne5 14. Qc1
+a6 15. Bf4 Nc6 16. Be3 Bg4 17. Nc2 Be6 18. Rfe1 Bc7 19. Nd4
+{ Here we see that Neither Stockfish, rated 3 6 4 5, had the White pieces nor Integral from the Black side with rating 3 6 1 7 could convert, and the game was drawn.1/2-1/2 }
+) ( 6... Be6 { played by 3 5 0 7 rated RubiChess } 7. Bg2 Nf6
+{ played by 3 5 0 7 rated RubiChess } ( 7... Be7
+{ played by 2 9 0 7 rated Fritz } 8. O-O Nf6 9. dxc5 Bxc5 10. Bg5 O-O 11. Rc1
+Be7 12. Nb5 Rc8 13. Qd3 Ng4 14. Bxe7 Qxe7 15. Rfd1 Nf6 16. Qa3 Qxa3 17. Nxa3
+Nb4 18. Nb5 a6 19. Nd6
+{ In an interesting battle, Vajolet2, rated 3 0 7 3, had the Black pieces could not hold the position, allowing Rodent playing White, rated 3 1 0 3 to win.1-0 }
+) 8. Bg5 h6 9. Bxf6 Qxf6 10. O-O O-O-O 11. Qa4 Kb8 12. Rad1 Be7 13. dxc5 Bxc5
+14. Ne1 Bd4 15. Nd3 Rhe8 16. Qb5 a6 17. Qb3 Na5 18. Qa4 Nc4 19. Nb4
+{ Rebel on Black with Elo 3 4 8 7 could not hold the position, allowing RubiChess on White with Elo 3 5 0 7 to win.1-0 }
+) 7. dxc5 Bxc5 8. Bg2 Nf6 9. O-O O-O 10. Bg5 Be6
+{ we will see this position later on1-0 } 1/2-1/2
+
+
+

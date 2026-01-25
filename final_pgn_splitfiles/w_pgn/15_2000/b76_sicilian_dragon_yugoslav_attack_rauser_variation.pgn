@@ -1,0 +1,2175 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Alexandria 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[WhiteElo "3640"]
+[BlackElo "3574"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O { entered in SICILIAN Dragon Yugoslav Attack Rauser Variation }
+9... Nh5 { played by 3 1 2 3 rated Komodo } ( 9... Kh8
+{ played by 2 7 6 1 rated Devel } 10. h4 h5 11. Be2 Bd7 12. g4 Kg8 13. gxh5
+Nxh5 14. Rhg1 Kh7 15. Nb3 a5 16. Na4 Nd4 17. Nxd4 Bxa4 18. f4 e5 19. Bxh5 exd4
+20. Bxd4 Bh6 21. Bg4 Qc7 22. b3
+{ Devel playing Black, rated 2 7 6 1 could not hold the position, allowing Crafty on White with Elo 2 9 3 1 to win. The opening quickly led to complex middlegame play.1-0 }
+) ( 9... Na5 { played by 2 5 8 6 rated Myrddin } 10. Bg5 Bd7 11. Bxf6 Bxf6 12.
+Nd5 Be5 13. Nxe7+ Qxe7 14. Qxa5 b6 15. Qd2 Qf6 16. Kb1 Rac8 17. c3 Rfe8 18. Ba6
+Rc5 19. g3 Ba4 20. Rc1
+{ Here we see that Raven handling the White pieces rated 2 5 8 7 converted the advantage and defeated Prophet on Black with Elo 2 4 5 8. Both sides showed good positional understanding.1-0 }
+) ( 9... d5 { played by 3 6 4 5 rated Stockfish } 10. exd5 Nb4
+{ played by 2 6 6 3 rated Glaurung } 11. Nb3 Bf5 12. Na1 e6 13. Bd4 Rc8 14. g4
+Bxg4 15. fxg4 Nxa2+ 16. Nxa2 Qxd5 17. Bc4 Qxc4 18. b3 Qc6 19. Bb2 Qc5 20. Qg2
+Nd5 21. Bxg7 Kxg7 22. Qg1
+{ Naum playing White, rated 2 6 9 8 outplayed Glaurung playing Black, rated 2 6 6 3 and won the game. The position remained tense for most of the game.1-0 }
+) ( 9... h5 { played by 3 5 6 1 rated Alexandria } 10. Kb1 d5
+{ played by 3 4 9 1 rated Deep } ( 10... Qc7 { played by 3 1 4 4 rated Winter }
+11. h3 a6 12. g4 Re8 13. gxh5 Nxd4 14. Bxd4 Nxh5 15. Bxg7 Kxg7 16. f4 Ng3 17.
+Rg1 Nxf1 18. Rdxf1 Bxh3 19. Rf3 Qb6 20. Rfg3 Bd7 21. f5 Rh8 22. Nd5
+{ Here we see that Laser, rated 3 2 6 4, had the White pieces remained in control, handing Winter on Black with Elo 3 1 4 4 a loss. Small inaccuracies made the difference.1-0 }
+) 11. Bh6 Bxh6 12. Qxh6 Qb6 13. Nxc6 bxc6 14. e5 Nd7 15. e6 Nf6 16. exf7+ Kxf7
+17. Bd3 Bf5 18. Bxf5 gxf5 19. Ne2 Rfb8 20. b3 Rh8 21. Qf4 e6 22. Nc1
+{ Here we see that Deep playing Black, rated 3 4 9 1 could not hold the position, allowing Stockfish as White rated 3 6 2 0 to win. The outcome was decided in the later stages.1-0 }
+) 10. g4 Nxd4 11. Bxd4 Bxd4 12. Qxd4 Nf4 13. e5 Ne6 14. Qe3 Bd7 15. exd6 Bc6
+16. dxe7 Qxe7 17. Bb5 Bxb5 18. Nxb5 Rad8 19. Qe5 Qg5+ 20. Qxg5 Nxg5 21. Nd4 Nh3
+22. Nb3
+{ In an interesting battle, Drofa from the White side with rating 3 1 7 0 outplayed Komodo as Black rated 3 1 2 3 and won the game. Small inaccuracies made the difference.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Alexandria 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[WhiteElo "3640"]
+[BlackElo "3574"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O { entered in SICILIAN Dragon Yugoslav Attack Rauser Variation }
+9... Nxd4 { played by 3 4 9 7 rated RubiChess } ( 9... Bd7
+{ played by 3 4 7 8 rated Ethereal } 10. g4 Rb8
+{ played by 3 3 7 7 rated BlackCore } ( 10... Nxd4
+{ played by 3 3 7 7 rated BlackCore } 11. Bxd4
+{ we will see this position later on1-0 } ) ( 10... Qc8
+{ played by 2 3 5 4 rated Dorky } 11. Nxc6 bxc6 12. g5 Nh5 13. Bd4 Qb7 14. Bc4
+Rab8 15. b3 Bxd4 16. Qxd4 Bh3 17. Bf1 Bxf1 18. Rhxf1 Rfd8 19. h4 e5 20. Qe3 c5
+21. Nd5 c4 22. Nf6+
+{ In an interesting battle, Hussar as White rated 2 4 1 9 converted the advantage and defeated Dorky playing Black, rated 2 3 5 4. The position remained tense for most of the game.1-0 }
+) ( 10... Ne8 { played by 2 2 7 6 rated Capivara } 11. Be2 Qa5 12. h4 Nc7 13.
+h5 Be5 14. hxg6 fxg6 15. Nb3 Qb4 16. Kb1 Bxc3 17. bxc3 Qa4 18. Nc5 dxc5 19.
+Qxd7 Rac8 20. g5 Nb5 21. Ka1 h5 22. Rxh5
+{ In this game, Alex playing White, rated 2 3 3 0 converted the advantage and defeated Chaturanga from the Black side with rating 2 2 4 6. The position remained tense for most of the game.1-0 }
+) ( 10... a5 { played by 2 2 3 8 rated Butcher } 11. g5 Nh5 12. Ndb5 Nb4 13.
+Qf2 Bxb5 14. Bxb5 a4 15. Nxa4 Qa5 16. c4 Nxa2+ 17. Kb1 Qb4 18. Qc2 Rfc8 19. Bd2
+Rxa4 20. Bxa4 Nc3+ 21. Bxc3 Bxc3 22. Rd5
+{ In an interesting battle, Alex from the White side with rating 2 3 6 0 converted the advantage and defeated Butcher on Black with Elo 2 2 3 8. The position remained tense for most of the game.1-0 }
+) 11. h4 h5 12. Nd5 hxg4 13. h5 Nxh5 14. Nf5 Bxf5 15. exf5 e6 16. Bg5 f6 17.
+Be3 exf5 18. Bc4 Rf7 19. Nf4 Nxf4 20. Bxf4 Ne5 21. Bxe5 fxe5 22. fxg4
+{ In an interesting battle, BlackCore on Black with Elo 3 3 7 7 could not hold the position, allowing Alexandria as White rated 3 5 1 1 to win. The opening quickly led to complex middlegame play.1-0 }
+) 10. Bxd4 a5 { played by 2 9 1 6 rated Hiarcs } 11. Na4 Nd7 12. h4 Bxd4 13.
+Qxd4 Ne5 14. Nc3 Be6 15. Qd2 a4 16. h5 a3 17. b3 Qa5 18. Qh6 g5 19. Qxg5+ Kh8
+20. Qd2 Rfc8 21. Nd5 Bxd5 22. Qxa5
+{ Here we see that Hiarcs handling the Black pieces rated 2 9 1 6 could not hold the position, allowing Deep, rated 2 9 6 4, had the White pieces to win.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Alexandria 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[WhiteElo "3640"]
+[BlackElo "3574"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O { entered in SICILIAN Dragon Yugoslav Attack Rauser Variation }
+9... Qa5 { played by 3 4 6 7 rated Igel } ( 9... Ne5
+{ played by 3 4 2 1 rated Komodo } 10. h3 Qc7
+{ played by 3 4 2 1 rated Komodo } ( 10... Nc6
+{ played by 3 0 4 2 rated Combusken } 11. g4 Bd7 12. Kb1 Rc8 13. h4 h5 14. g5
+Ne8 15. f4 Qa5 16. Nd5 Qd8 17. Be2 Nc7 18. Nc3 Ne6 19. Nxe6 Bxe6 20. Nd5 Qd7
+21. Rhg1 Kh8 22. Rdf1
+{ In an interesting battle, Andscacs, rated 3 1 6 3, had the White pieces outplayed Combusken as Black rated 3 0 4 2 and won the game. Small inaccuracies made the difference.1-0 }
+) ( 10... a6 { played by 3 0 1 7 rated Weiss } 11. g4 Qc7 12. Bh6 Bxh6 13. Qxh6
+Nc6 14. h4 Nxd4 15. Rxd4 Qc5 16. Rd2 Qe5 17. Be2 Nd7 18. Nd5 Kh8 19. g5 Rg8 20.
+h5 Nf8 21. hxg6 fxg6 22. Nc7
+{ Here we see that Rice as White rated 3 1 8 1 outplayed Weiss as Black rated 3 0 1 7 and won the game.1-0 }
+) 11. g4 Bd7 12. Bg5 Nc4 13. Bxc4 Qxc4 14. Kb1 Rfe8 15. h4 h5 16. Bxf6 Bxf6 17.
+gxh5 Qxd4 18. Qxd4 Bxd4 19. Rxd4 gxh5 20. Rg1+ Kh8 21. Rd5 f5 22. exf5
+{ After a long struggle, Booot handling the White pieces rated 3 3 5 3 and Komodo playing Black, rated 3 4 2 1 shared the point. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 10. Nb3 Qc7 { played by 3 4 6 7 rated Igel } ( 10... Qd8
+{ played by 2 6 3 9 rated Cyrano } 11. g4 a5 12. Bb5 Be6 13. h4 h5 14. g5 Nd7
+15. Nd4 Nxd4 16. Bxd4 Bxd4 17. Qxd4 Qc7 18. Rhf1 Rfd8 19. f4 Rac8 20. f5 Bc4
+21. Bxc4 Qxc4 22. Qf2
+{ Neither Daydreamer handling the White pieces rated 2 6 8 0 nor Cyrano, rated 2 6 3 9, had the Black pieces could convert, and the game was drawn. Small inaccuracies made the difference.1/2-1/2 }
+) ( 10... Qh5 { played by 2 4 2 6 rated SoFCheck } 11. Kb1 Be6 12. g4 Nxg4 13.
+fxg4 Bxg4 14. Re1 Ne5 15. Nd4 Nf3 16. Nxf3 Bxf3 17. Rg1 Bxc3 18. bxc3 e6 19.
+Rg5 Qh4 20. Rg3 Qxe4 21. Qf2 Bh5 22. Bh6
+{ Here we see that SoFCheck on Black with Elo 2 4 2 6 seized the initiative and handed Tantabus as White rated 2 3 4 0 a loss. Both sides showed good positional understanding.0-1 }
+) 11. Bh6 Bxh6 12. Qxh6 a5 13. a4 Nb4 14. h4 d5 15. h5 dxe4 16. hxg6 fxg6 17.
+Rd4 e6 18. Rc4 Qg7 19. Qxg7+ Kxg7 20. Nxe4 Nbd5 21. Bd3 b6 22. Rc6
+{ In this game, After a long struggle, Revenge handling the White pieces rated 3 5 1 5 and Igel as Black rated 3 4 6 7 shared the point. The opening quickly led to complex middlegame play.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Alexandria 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[WhiteElo "3640"]
+[BlackElo "3574"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O { entered in SICILIAN Dragon Yugoslav Attack Rauser Variation }
+9... a6 { played by 3 3 5 5 rated Clover } ( 9... Qc7
+{ played by 3 2 6 4 rated Weiss } 10. g4 h5 { played by 3 2 6 4 rated Weiss } (
+10... Bd7 { played by 2 6 1 0 rated Phalanx } 11. h4 Nxd4 12. Bxd4 Rac8 13. h5
+a6 14. Bxf6 Bxf6 15. Nd5 Qc5 16. Rh2 Rfe8 17. Nxf6+ exf6 18. Qxd6 Be6 19. Qxc5
+Rxc5 20. Kb1 Rec8 21. h6 Kf8 22. c3
+{ In an interesting battle, Phalanx on Black with Elo 2 6 1 0 could not hold the position, allowing Rodin on White with Elo 2 6 2 9 to win. Both sides showed good positional understanding.1-0 }
+) ( 10... Nd7 { played by 2 5 2 7 rated nanoSzachy } 11. Nd5 Qd8 12. Nb5 Nb6
+13. Nxb6 axb6 14. a3 Qd7 15. Nc3 Qe6 16. Nd5 Bd7 17. Kb1 Ne5 18. Be2 Bc6 19.
+Qb4 Ra4 20. Qb3 Nxg4 21. Bxb6 Ne5 22. Be3
+{ Here we see that After a long struggle, DanaSah playing White, rated 2 5 5 6 and nanoSzachy as Black rated 2 5 2 7 shared the point. The position remained tense for most of the game.1/2-1/2 }
+) 11. gxh5 Nxh5 12. Nd5 Qd8 13. Rg1 Nxd4 14. Bxd4 e5 15. Be3 Nf4 16. Bc4 Be6
+17. Kb1 Qh4 18. Bb3 Nh3 19. Rg3 Rad8 20. Bxa7 Bh6 21. Qb4 Bf4 22. Nxf4
+{ Clover on White with Elo 3 2 4 3 converted the advantage and defeated Weiss handling the Black pieces rated 3 2 6 4. Small inaccuracies made the difference.1-0 }
+) 10. g4 Nxd4 { played by 3 3 5 5 rated Clover } ( 10... Bd7
+{ we will see this position later on1/2-1/2 } ) ( 10... Rb8
+{ played by 3 0 4 1 rated Spike } 11. h4 h5 12. gxh5 Nxh5 13. Rg1 Nxd4 14. Bxd4
+Bxd4 15. Qxd4 b5 16. Qd5 Kh7 17. Rg5 Ng7 18. Qd2 Bb7 19. Bh3 b4 20. Ne2 Bc8 21.
+h5 Bxh3 22. hxg6+
+{ In an interesting battle, The game between Expositor handling the White pieces rated 3 2 7 1 and Bit-Genie, rated 3 0 9 9, had the Black pieces finished level. The opening quickly led to complex middlegame play.1/2-1/2 }
+) ( 10... h5 { played by 3 0 0 7 rated Truncator } 11. Nxc6 bxc6 12. e5 Nd7 13.
+exd6 hxg4 14. fxg4 Re8 15. dxe7 Qxe7 16. Bh6 Bh8 17. h3 Nb6 18. Qg5 Bxc3 19.
+Qxe7 Bxb2+ 20. Kxb2 Rxe7 21. Bg5 Rb7 22. Ka1
+{ Truncator as Black rated 3 0 0 7 could not hold the position, allowing Meltdown as White rated 3 0 6 2 to win. Both sides showed good positional understanding.1-0 }
+) ( 10... Ne5 { played by 2 8 8 9 rated Potential } 11. g5 Nh5 12. Be2 b5 13.
+f4 Nc4 14. Bxc4 bxc4 15. f5 Qc7 16. Nd5 Qb7 17. Qb4 Qxb4 18. Nxb4 Bb7 19. Nd5
+Bxd5 20. exd5 Rfb8 21. c3 Bxd4 22. Rxd4
+{ In an interesting battle, Neither Sentinel, rated 2 9 6 2, had the White pieces nor Potential playing Black, rated 2 8 8 9 could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 11. Bxd4 { we will see this position later on1/2-1/2 } 1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Alexandria 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[WhiteElo "3640"]
+[BlackElo "3574"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O { entered in SICILIAN Dragon Yugoslav Attack Rauser Variation }
+9... Rb8 { played by 3 2 3 3 rated Alexandria } ( 9... a5
+{ played by 3 0 7 6 rated Texel } 10. Kb1 Ne5 { played by 2 9 6 1 rated Deep }
+11. g4 a4 12. h4 a3 13. b3 Bd7 14. Be2 Re8 15. Rhg1 Rc8 16. h5 Qa5 17. Ncb5
+Qxd2 18. Bxd2 Nc6 19. h6 Nxd4 20. Nxd4 Bh8 21. Nb5 Rc6 22. Nxa3
+{ Here we see that Stockfish on White with Elo 3 0 3 9 outplayed Deep playing Black, rated 2 9 6 1 and won the game. The position remained tense for most of the game.1-0 }
+) ( 9... Re8 { played by 3 0 4 1 rated Spike } 10. h4 h5
+{ played by 3 0 4 1 rated Spike } ( 10... Ne5 { played by 2 9 1 1 rated Svart }
+11. g4 h5 12. gxh5 Nxh5 13. Rg1 a6 14. Be2 Nf6 15. h5 e6 16. f4 Nxh5 17. fxe5
+dxe5 18. Nb3 Qxd2+ 19. Rxd2 Nf4 20. Bf3 b5 21. Na5 Bh6 22. Rh1
+{ In this game, Svart as Black rated 2 9 1 1 could not hold the position, allowing Counter handling the White pieces rated 2 7 4 7 to win. Small inaccuracies made the difference.1-0 }
+) 11. Nde2 a6 12. Kb1 b5 13. Nf4 Rb8 14. Be2 Bb7 15. Nfd5 Nd7 16. Bh6 Bh8 17.
+g4 e6 18. gxh5 exd5 19. hxg6 Bxc3 20. bxc3 Ne7 21. gxf7+ Kxf7 22. Bg5
+{ Here we see that Stockfish on White with Elo 3 1 4 7 remained in control, handing Spike playing Black, rated 3 0 4 1 a loss. Both sides showed good positional understanding.1-0 }
+) ( 9... Nd7 { played by 3 0 1 9 rated BlackCore } 10. Be2 Qa5
+{ played by 3 0 1 9 rated BlackCore } ( 10... Nb6
+{ played by 2 3 0 7 rated FoxSEE } 11. Kb1 Ne5 12. Bh6 a6 13. Bxg7 Kxg7 14. f4
+Ng4 15. Rhf1 Bd7 16. h3 Nf6 17. e5 Ne8 18. Qe1 e6 19. Qg3 Qc7 20. Rf3 f5 21.
+Re3 d5 22. h4
+{ Here we see that Ayito from the White side with rating 2 2 2 6 outplayed FoxSEE playing Black, rated 2 3 0 7 and won the game. The opening quickly led to complex middlegame play.1-0 }
+) 11. Nb3 Bxc3 12. Nxa5 Bxd2+ 13. Bxd2 Nxa5 14. Bxa5 b6 15. Bd2 Bb7 16. b3 Rfc8
+17. a4 a5 18. Be3 Ba6 19. Bxa6 Rxa6 20. Rd5 f6 21. Rhd1 Ra7 22. c4
+{ Once again, After a long struggle, Rice from the White side with rating 3 1 8 1 and BlackCore handling the Black pieces rated 3 0 1 9 shared the point.1/2-1/2 }
+) 10. g4 Bd7 { we will see this position later on1-0 } ( 10... a6
+{ we will see this position later on1/2-1/2 } ) 1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Alexandria 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[WhiteElo "3640"]
+[BlackElo "3574"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O { entered in SICILIAN Dragon Yugoslav Attack Rauser Variation }
+9... h5 { played by 3 5 6 1 rated Alexandria } ( 9... Nxd4
+{ played by 3 4 9 7 rated RubiChess } 10. Bxd4 Be6
+{ played by 3 4 9 7 rated RubiChess } 11. Kb1 Qa5
+{ played by 3 2 5 9 rated Zahak } ( 11... Re8 { played by 3 2 2 6 rated Black }
+12. Bb5 Rf8 13. Be2 h5 14. h3 Qc7 15. g4 Rfc8 16. a3 Qa5 17. f4 hxg4 18. hxg4
+Bxg4 19. Bxg4 Nxg4 20. f5 Bxd4 21. Qxd4 Qe5 22. Qd2
+{ Here we see that Clover handling the White pieces rated 3 3 5 5 remained in control, handing Black, rated 3 1 7 3, had the Black pieces a loss. The outcome was decided in the later stages.1-0 }
+) ( 11... h5 { we will see this position later on1/2-1/2 } ) ( 11... Qd7
+{ played by 3 0 3 3 rated Rodent } 12. g4 Rfc8 13. Be2 Qc7 14. g5 Nh5 15. Bxg7
+Nxg7 16. f4 Qa5 17. h4 Rc7 18. a3 b6 19. Rhg1 Rac8 20. Rg3 Bc4 21. Rf3 Rc6 22.
+Qe1
+{ In an interesting battle, Monolith playing White, rated 3 0 3 9 remained in control, handing Rodent playing Black, rated 3 0 3 3 a loss.1-0 }
+) ( 11... Rb8 { played by 2 9 4 8 rated Protej } 12. Bxa7 Ra8 13. Bd4 Qa5 14.
+a4 Rfc8 15. b3 Nd7 16. Bxg7 Kxg7 17. Nd5 Nf6 18. Qxa5 Rxa5 19. Bb5 Bxd5 20.
+exd5 h5 21. Rhe1 Rc7 22. h4
+{ In this game, Cadie handling the White pieces rated 2 9 5 9 outplayed Protej playing Black, rated 2 9 4 8 and won the game. Small inaccuracies made the difference.1-0 }
+) ( 11... Nh5 { played by 2 9 1 2 rated Booot } 12. Bxg7 Nxg7 13. Be2 Qa5 14.
+Nd5 Qd8 15. g4 Bxd5 16. exd5 e5 17. dxe6 Nxe6 18. f4 Qh4 19. Bf3 Rad8 20. f5
+Nc5 21. Rhe1 b6 22. Qd4
+{ In an interesting battle, Strelka on White with Elo 3 1 4 2 remained in control, handing Booot playing Black, rated 2 9 1 2 a loss. Small inaccuracies made the difference.1-0 }
+) ( 11... Bh8 { played by 2 8 1 8 rated Onno } 12. g4 Nd7 13. Bxh8 Kxh8 14. Be2
+Qa5 15. f4
+{ Hiarcs from the White side with rating 2 8 2 9 outplayed Onno from the Black side with rating 2 8 1 8 and won the game. The outcome was decided in the later stages.1-0 }
+) ( 11... Kh8 { played by 2 8 0 6 rated Onno } 12. Nd5 Bxd5 13. exd5 Qc7 14.
+Re1 Rfc8 15. c3 a5 16. Bb5 a4 17. c4 a3 18. b3 Qd8 19. Re2 Ng8 20. h3 Qf8 21.
+Bb6 e5 22. Bd7
+{ Once again, Onno handling the Black pieces rated 2 8 0 6 outplayed Bobcat as White rated 2 6 5 4 and won as Black. Both sides showed good positional understanding.0-1 }
+) ( 11... Ne8 { played by 2 6 9 3 rated Booot } 12. g4 Bxd4 13. Qxd4 Qa5 14. h4
+Rc8 15. h5 Nf6 16. a3 g5 17. h6 Qc5 18. Qd2 Qe5 19. Nd5 Bxd5 20. exd5 Rc7 21.
+c4 Re8 22. Re1
+{ In this game, Booot playing Black, rated 2 6 9 3 defended accurately and defeated Avalanche on White with Elo 2 6 2 2. The opening quickly led to complex middlegame play.0-1 }
+) 12. Nd5 Qd8 13. g4 Rc8 { we will see this position later on1-0 } ) 10. Kb1
+Rb8 { played by 3 5 6 1 rated Alexandria } ( 10... Bd7
+{ played by 3 3 5 8 rated Booot } 11. h3 a6
+{ we will see this position later on1-0 } ) ( 10... Nxd4
+{ played by 3 1 0 1 rated Wasp } 11. Bxd4 Kh7 { played by 2 8 2 3 rated 4ku }
+12. a3 b6 13. Bc4 Bb7 14. h3 Rc8 15. Bb3 Nd7 16. g4 Bh6 17. Be3 Bxe3 18. Qxe3
+h4 19. Qe1 g5 20. f4 f6 21. Be6 Rb8 22. Bf5+
+{ In this game, 4ku playing Black, rated 2 8 2 3 could not hold the position, allowing GreKo from the White side with rating 2 7 6 8 to win. Small inaccuracies made the difference.1-0 }
+) 11. Be2 Bd7 { played by 3 5 6 1 rated Alexandria } ( 11... d5
+{ played by 3 3 7 3 rated Illumina } 12. Ndb5 a6 13. Na7 e6 14. f4 Ne7 15. e5
+Nd7 16. g4 h4 17. Qe1 b5 18. Nxc8 Rxc8 19. Qxh4 f6 20. f5 b4 21. fxe6 bxc3 22.
+exd7
+{ PZChessBot, rated 3 3 9 7, had the White pieces remained in control, handing Illumina as Black rated 3 3 7 3 a loss. The position remained tense for most of the game.1-0 }
+) ( 11... Re8 { played by 3 3 3 2 rated Schneckbert } 12. h3 d5 13. Nb3 dxe4
+14. Qc1 Qc7 15. fxe4 Bd7 16. g4 hxg4 17. hxg4 Nxg4 18. Nd5 Qc8 19. Bxg4 Bxg4
+20. Bh6 Bh8 21. Rdf1 Qe6 22. Nc5
+{ In an interesting battle, Zangdar playing White, rated 3 4 7 3 outplayed Schneckbert from the Black side with rating 3 3 3 2 and won the game. Small inaccuracies made the difference.1-0 }
+) 12. Nb3 a6 13. Bh6 Be6 14. h3 b5 15. g4 h4 16. Bxg7 Kxg7 17. f4 b4 18. g5
+bxc3 19. Qxc3 Rb6 20. Bg4 Bxb3 21. cxb3 a5 22. Be2
+{ Caissa playing White, rated 3 5 6 4 remained in control, handing Alexandria playing Black, rated 3 5 6 1 a loss. Both sides showed good positional understanding.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Alexandria 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[WhiteElo "3640"]
+[BlackElo "3574"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O { entered in SICILIAN Dragon Yugoslav Attack Rauser Variation }
+9... Nxd4 { played by 3 4 9 7 rated RubiChess } 10. Bxd4 a6
+{ played by 2 9 6 5 rated Komodo } ( 10... Bd7
+{ played by 2 8 6 8 rated Ceibo } 11. g4 Be6 { played by 2 8 6 8 rated Ceibo }
+( 11... Ne8 { played by 2 6 0 2 rated Naum } 12. Bxg7 Nxg7 13. h4 Ne6 14. Qh6
+Kh8 15. h5 g5 16. e5 f6 17. Bd3 Rf7 18. Bg6 Qf8 19. Qxf8+ Rfxf8 20. exd6 exd6
+21. Rxd6 Bc8 22. Nd5
+{ In an interesting battle, Scorpio handling the White pieces rated 2 6 3 5 outplayed Naum, rated 2 6 0 2, had the Black pieces and won the game. The opening quickly led to complex middlegame play.1-0 }
+) ( 11... a6 { played by 2 4 8 7 rated Hermann } 12. h4 Ne8 13. Bxg7 Nxg7 14.
+Qh6 f6 15. h5 gxh5 16. e5 Rf7 17. Bc4 e6 18. Bd3 Ne8 19. Qxh5 Qe7 20. exd6 Nxd6
+21. Bxh7+ Rxh7 22. Qxh7+
+{ Once again, Arasan as White rated 2 5 4 5 remained in control, handing Hermann on Black with Elo 2 4 8 7 a loss. Small inaccuracies made the difference.1-0 }
+) ( 11... a5 { played by 2 2 7 5 rated Pedone } 12. h4 a4 13. a3 Bc6 14. h5 Qa5
+15. hxg6 hxg6 16. Bc4 Rfe8 17. Qe2 e6 18. Qe3 Qd8 19. Qf2 Qe7 20. Qd2 Red8 21.
+Kb1 Rd7 22. g5
+{ In an interesting battle, Alfil, rated 2 3 2 3, had the White pieces remained in control, handing Pedone playing Black, rated 2 2 7 5 a loss. Both sides showed good positional understanding.1-0 }
+) 12. h4 h5 13. gxh5 Nxh5 14. Bxg7 Kxg7 15. f4 Bg4 16. Be2 Bxe2 17. Nxe2 Qb6
+18. f5 Qc5 19. Nd4 Qe5 20. Rhg1 e6 21. Rg5 Qf4 22. Rxg6+
+{ In an interesting battle, Ceibo, rated 2 8 6 8, had the Black pieces could not hold the position, allowing Deep on White with Elo 2 9 2 9 to win. Both sides showed good positional understanding.1-0 }
+) 11. g4 Be6 { played by 3 3 5 5 rated Clover } ( 11... b5
+{ played by 2 6 0 9 rated List } 12. h4 b4 13. Nd5 Nxd5 14. Bxg7 Kxg7 15. exd5
+Kg8 16. h5 e5 17. dxe6 Bxe6 18. Qxb4 Qf6 19. Qa3 d5 20. Qe3 Rfe8 21. g5 Qd8 22.
+Qf4
+{ Here we see that Neither Ruffian on White with Elo 2 5 9 9 nor List as Black rated 2 6 0 9 could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+) 12. Kb1 { we will see this position later on1/2-1/2 } 1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Alexandria 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[WhiteElo "3640"]
+[BlackElo "3574"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O { entered in SICILIAN Dragon Yugoslav Attack Rauser Variation }
+9... Bd7 { played by 3 4 7 8 rated Ethereal } 10. g4 Ne5
+{ played by 3 4 7 8 rated Ethereal } ( 10... Rc8
+{ played by 3 4 1 9 rated RubiChess } 11. Kb1 b5
+{ played by 3 4 1 9 rated RubiChess } ( 11... Ne5
+{ we will see this position later on1-0 } ) ( 11... Re8
+{ played by 3 2 7 4 rated Clover } 12. h4 h5 13. g5 Nh7 14. f4 Bg4 15. Be2 Na5
+16. Bxg4 Nc4
+{ Here we see that RubiChess handling the White pieces rated 3 4 1 9 converted the advantage and defeated Clover on Black with Elo 3 2 7 4. The opening quickly led to complex middlegame play.1-0 }
+) ( 11... h5 { played by 3 2 5 2 rated Rebel } 12. h3
+{ we will see this position later on1-0 } ) 12. Ncxb5 Rb8 13. c4 Rb7 14. Be2 a6
+15. Nc3 Qa5 16. Nb3 Qb4 17. Nd5 Qa4 18. Nb6 Rxb6 19. Bxb6 Rb8
+{ In this game, Berserk on White with Elo 3 4 6 2 remained in control, handing RubiChess playing Black, rated 3 4 1 9 a loss. The outcome was decided in the later stages.1-0 }
+) 11. Kb1 b5 { played by 3 2 8 2 rated Smallbrain } ( 11... Qc8
+{ played by 2 6 5 6 rated Vajolet } 12. h4 Nc4 13. Bxc4 Qxc4 14. h5 Rfc8 15.
+Bh6 Bh8 16. Nf5 Qe6 17. Qg5 Rxc3 18. bxc3 a6 19. Qh4 Rc8 20. Rd3 Qe5 21. hxg6
+fxg6 22. Nd4
+{ In this game, Neither Octochess, rated 2 7 3 6, had the White pieces nor Vajolet, rated 2 6 5 6, had the Black pieces could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
+) ( 11... Re8 { played by 2 4 3 5 rated Gogobello } 12. h4 Qa5 13. Be2 Qc7 14.
+h5 Nc4 15. Bxc4 Qxc4 16. Nde2 b5 17. hxg6 hxg6 18. Bh6 Bh8 19. Bf8 Nh5 20. Bxe7
+Rxe7 21. gxh5 Be8 22. Nd5
+{ Gogobello handling the Black pieces rated 2 4 3 5 could not hold the position, allowing Bagatur handling the White pieces rated 2 4 3 3 to win.1-0 }
+) ( 11... h5 { played by 2 3 4 5 rated Waxman } 12. h3 Rc8 13. f4 Nc6 14. g5
+Ne8 15. Rh2 a6 16. e5 b5 17. Be2 Nxd4 18. Bxd4 Bc6 19. Qe3 Qd7 20. Bf3 Qe6 21.
+Bxc6 Rxc6 22. Re2
+{ Here we see that After a long struggle, TJchess as White rated 2 4 0 6 and Waxman, rated 2 3 4 5, had the Black pieces shared the point. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 12. Ncxb5 Qb8 13. g5 Nh5 14. Nc3 Qb7 15. b3 Rab8 16. f4 Nc6 17. Nd5 e6 18.
+Nc3 a6 19. Be2 Rfc8 20. f5 Ne5 21. f6 Bf8 22. Rhf1
+{ Seer, rated 3 3 9 6, had the White pieces remained in control, handing Smallbrain from the Black side with rating 3 2 8 2 a loss. The outcome was decided in the later stages.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Alexandria 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[WhiteElo "3640"]
+[BlackElo "3574"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O { entered in SICILIAN Dragon Yugoslav Attack Rauser Variation }
+9... Bd7 { played by 3 4 7 8 rated Ethereal } 10. g4 h5
+{ played by 3 3 8 5 rated Fire } ( 10... Qa5 { played by 3 3 7 1 rated Stash }
+11. Nb3 Qc7 { played by 3 3 7 1 rated Stash } ( 11... Qd8
+{ played by 3 1 6 2 rated Little } 12. Be2 a5 13. a4 Nb4 14. Nd4 Rc8 15. Kb1 d5
+16. e5 Ne8 17. f4 e6 18. g5 Nc7 19. h4 Nca6 20. h5 Nc5 21. Bb5 Bxb5 22. hxg6
+{ Little from the Black side with rating 3 1 6 2 could not hold the position, allowing Marvin from the White side with rating 3 2 3 9 to win.1-0 }
+) 12. Kb1 Be6 13. h4 h5 14. gxh5 Nxh5 15. Rg1 a5 16. Nb5 Qd7 17. N3d4 a4 18. a3
+d5 19. Nxe6 Qxe6 20. exd5 Qf6 21. c3 Rad8 22. Be2
+{ Once again, Bagatur as White rated 3 4 1 4 converted the advantage and defeated Stash on Black with Elo 3 3 7 1. Both sides showed good positional understanding.1-0 }
+) ( 10... a6 { played by 3 3 6 6 rated rofChade } 11. h4 h5
+{ played by 3 2 9 2 rated Mantissa } 12. Bd3 Rc8 13. Nxc6 Bxc6 14. Bh6 Qa5 15.
+Kb1 Kh7 16. Bg5 Rc7 17. Qe2 Rcc8 18. Rhg1 hxg4 19. fxg4 Kg8 20. Bc1 b5 21. g5
+Nh5 22. Nd5
+{ Neither Igel as White rated 3 3 9 1 nor Clover playing Black, rated 3 2 7 4 could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
+) ( 10... Qb8 { played by 2 1 5 9 rated ChessKISS } 11. h4 Rd8
+{ played by 2 1 5 9 rated ChessKISS } ( 11... Rc8
+{ played by 2 1 0 2 rated Ifrit } 12. a3 Ne8 13. Nxc6 Bxc6 14. Nd5 Bxd5 15.
+exd5 Rc7 16. h5 Nf6 17. h6 Bh8 18. g5 Nd7 19. Rh3 Qe8 20. Qe1 e6 21. dxe6 Rac8
+22. Rd2
+{ Here we see that Ifrit, rated 2 1 0 2, had the Black pieces seized the initiative and handed Chesley, rated 2 0 9 9, had the White pieces a loss.0-1 }
+) 12. h5 Nxd4 13. Bxd4 e5 14. Be3 Be6 15. hxg6 fxg6 16. Bg5 a6 17. Nd5 Bxd5 18.
+exd5 b6 19. Qh2 Qb7 20. Qh4 Rf8 21. c3 b5 22. Be2
+{ In an interesting battle, After a long struggle, Mango on White with Elo 2 1 7 9 and ChessKISS as Black rated 2 1 5 9 shared the point. Both sides showed good positional understanding.1/2-1/2 }
+) 11. h3 a6 { played by 3 3 8 5 rated Fire } ( 11... Rc8
+{ played by 3 0 8 9 rated Texel } 12. Kb1
+{ we will see this position later on1-0 } ) 12. Nd5 h4 13. Kb1 e6 14. Nxc6 bxc6
+15. Nc3 Rb8 16. b3 Qa5 17. Nd5 Qd8 18. Nc3
+{ we will see this position later on1/2-1/2 } 1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Alexandria 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[WhiteElo "3640"]
+[BlackElo "3574"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O { entered in SICILIAN Dragon Yugoslav Attack Rauser Variation }
+9... Ne5 { played by 3 4 2 1 rated Komodo } ( 9... a6
+{ played by 3 3 5 5 rated Clover } 10. g4 Nd7
+{ played by 3 1 3 5 rated Arasan } 11. h4 Nxd4
+{ played by 3 1 2 4 rated Houdini } 12. Bxd4 Bxd4 13. Qxd4
+{ we will see this position later on1-0 } ) ( 9... a5
+{ played by 3 0 7 6 rated Texel } 10. Kb1 Nxd4
+{ played by 3 0 7 6 rated Texel } 11. Bxd4 Be6
+{ played by 3 0 7 6 rated Texel } ( 11... a4 { played by 2 4 7 3 rated Loki }
+12. a3 Bd7 13. g4 Bc6 14. h4 h5 15. gxh5 Nxh5 16. Bc4 Bxd4 17. Qxd4 Kh7 18.
+Rhg1 Qd7 19. e5 Bxf3 20. Rdf1 Qh3 21. exd6 exd6 22. Qxd6
+{ In an interesting battle, Nalwald handling the White pieces rated 2 5 9 6 remained in control, handing Loki from the Black side with rating 2 4 7 3 a loss. Small inaccuracies made the difference.1-0 }
+) 12. Be2 Qc7 13. g4 Rfc8 14. a3 Qc6 15. Rhe1 Nd7 16. Bxg7 Kxg7 17. f4 Nb6 18.
+f5 Bc4 19. Qd4+ f6 20. g5 Qc5 21. gxf6+ exf6 22. Qxd6
+{ Once again, Topple as White rated 3 0 9 9 outplayed Naum playing Black, rated 2 9 7 9 and won the game. Small inaccuracies made the difference.1-0 }
+) 10. h3 Bd7 { played by 3 1 9 6 rated Protej } 11. Kb1 Qc8
+{ played by 2 8 2 8 rated Tornado } ( 11... Rc8
+{ played by 2 7 1 3 rated MadChess } 12. f4 Nc6 13. Be2 a6 14. Bf3 Na5 15. b3
+Qc7 16. Nd5 Nxd5 17. exd5 e5 18. dxe6 fxe6 19. c4 Rf7 20. Rhe1 Kh8 21. Bg4 Re8
+22. Nf3
+{ Here we see that Mess from the White side with rating 2 7 7 3 remained in control, handing MadChess, rated 2 7 1 3, had the Black pieces a loss. The position remained tense for most of the game.1-0 }
+) ( 11... a6 { played by 2 3 8 3 rated Ifrit } 12. f4 Nc6 13. g4 b5 14. Bg2 b4
+15. Nce2 Qc7 16. g5 Nh5 17. Bf3 Nxd4 18. Bxd4 e5 19. Be3 Bc6 20. f5 gxf5 21.
+Bxh5 Bxe4 22. Rh2
+{ Once again, The game between Stash handling the White pieces rated 3 3 4 0 and Black from the Black side with rating 3 2 9 8 finished level. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 12. f4 Nc4 13. Bxc4 Qxc4 14. e5 Ne8 15. Nf3 Nc7 16. exd6 Bxc3 17. Qxc3 Qxc3
+18. bxc3 exd6 19. Rxd6 Bc6 20. c4 Rfe8 21. Ne5 Bxg2 22. Rh2
+{ In this game, Tornado, rated 2 8 2 8, had the Black pieces outplayed Quazar playing White, rated 2 9 2 4 and won as Black. Both sides showed good positional understanding.0-1 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Alexandria 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[WhiteElo "3640"]
+[BlackElo "3574"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O { entered in SICILIAN Dragon Yugoslav Attack Rauser Variation }
+9... a5 { played by 3 0 7 6 rated Texel } ( 9... Be6
+{ played by 2 9 5 4 rated Francesca } 10. Nxe6 fxe6 11. Kb1 Qe8
+{ played by 2 8 7 9 rated KnightX } 12. g3 Kh8 13. Bh3 Qf7 14. Rhf1 a6 15. f4
+b5 16. Qe2 e5 17. fxe5 Nxe5 18. Nd5 Rab8 19. Ba7 Rb7 20. Bd4 Rfb8 21. Qe1 Nc6
+22. Bxf6
+{ KnightX on Black with Elo 2 8 7 9 could not hold the position, allowing Cheng4, rated 2 9 0 7, had the White pieces to win.1-0 }
+) ( 9... h5 { played by 3 5 6 1 rated Alexandria } 10. Kb1 a6
+{ played by 3 4 5 4 rated Carp } 11. h3 Nxd4 { played by 3 4 5 4 rated Carp } (
+11... Bd7 { played by 3 3 8 4 rated Alexandria } 12. g4 Rb8
+{ played by 3 2 7 1 rated Stash } ( 12... b5
+{ played by 3 1 9 7 rated Houdini } 13. Nd5 h4 14. Nxc6 Bxc6 15. Bg5 Bxd5 16.
+exd5 Nd7 17. Re1 Ne5 18. Re3 Rb8 19. Rb3 a5 20. f4 a4 21. Ra3 Nc4 22. Bxc4
+{ Here we see that Houdini handling the Black pieces rated 3 1 9 7 defended accurately and defeated Chiron as White rated 2 9 9 9. The outcome was decided in the later stages.0-1 }
+) 13. Nd5 h4 14. Nb3 Qe8 15. Be2 Be6 16. Qe1 a5 17. a3 a4 18. Nc1 b5 19. Na2
+Qd7 20. g5 Nh5 21. Qxh4 b4 22. axb4
+{ In an interesting battle, Stash playing Black, rated 3 2 7 1 defended accurately and defeated Arasan as White rated 3 1 8 7. Small inaccuracies made the difference.0-1 }
+) 12. Bxd4 b5 { played by 3 4 5 4 rated Carp } 13. g4 e6 14. Rg1 Bb7 15. Bd3 e5
+16. Be3 Rb8 17. Bg5 h4 18. Qe1 b4 19. Ne2 d5 20. Qxh4 Qb6 21. Ng3 Nh7 22. Nf5
+{ In an interesting battle, Fire playing White, rated 3 4 6 4 remained in control, handing Carp, rated 3 4 5 4, had the Black pieces a loss. Small inaccuracies made the difference.1-0 }
+) 10. Kb1 a4 { played by 2 9 3 6 rated Deep } 11. a3 Qa5
+{ played by 2 9 3 6 rated Deep } ( 11... Re8
+{ played by 2 8 3 6 rated Cyclone } 12. Qf2 Nxd4 13. Bxd4 Bd7 14. g4 Bc6 15. h4
+Nd7 16. Bxg7 Kxg7 17. g5 Qa5 18. Qd2 f5 19. h5 fxe4 20. fxe4 Rf8 21. Bc4 Ne5
+22. hxg6
+{ Once again, Chessmaster as White rated 2 6 9 9 converted the advantage and defeated Cyclone as Black rated 2 8 3 6. Both sides showed good positional understanding.1-0 }
+) 12. Ndb5 Be6 13. Qf2 Nd7 14. h4 h5 15. Nd5 Bxd5 16. Rxd5 Qd8 17. g4 Nf6 18.
+gxh5 Nxd5 19. exd5 Ne5 20. Qg3 Rc8 21. h6 Bf6 22. h5
+{ Glaurung handling the White pieces rated 2 9 1 2 outplayed Deep on Black with Elo 2 9 3 6 and won the game. The outcome was decided in the later stages.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Alexandria 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[WhiteElo "3640"]
+[BlackElo "3574"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O { entered in SICILIAN Dragon Yugoslav Attack Rauser Variation }
+9... h5 { played by 3 5 6 1 rated Alexandria } ( 9... Nxd4
+{ played by 3 4 9 7 rated RubiChess } 10. Bxd4 Be6
+{ played by 3 4 9 7 rated RubiChess } 11. Kb1 Rc8
+{ played by 3 4 9 7 rated RubiChess } 12. g4 h5
+{ played by 3 1 8 1 rated Rice } ( 12... Kh8 { played by 2 8 2 1 rated Crafty }
+13. h4 Qa5 14. a3 Nd7 15. Bxg7+ Kxg7 16. h5 g5 17. Bb5 h6 18. Bxd7 Bxd7 19.
+Qd4+ f6 20. Nd5 Rf7 21. e5 Qc5 22. exf6+
+{ In this game, NirvanaChess on White with Elo 2 8 2 3 remained in control, handing Crafty playing Black, rated 2 8 2 1 a loss. The opening quickly led to complex middlegame play.1-0 }
+) ( 12... Ne8 { played by 2 7 8 1 rated Fruit } 13. Bxg7 Nxg7 14. h3 Rc5 15. f4
+f6 16. f5 Bf7 17. Qd4 a6 18. h4 Qc8 19. Be2 Re5 20. Qb6 Kh8 21. h5 gxh5 22.
+gxh5
+{ In an interesting battle, Vajolet2 as White rated 2 8 8 3 outplayed Rodent playing Black, rated 2 7 6 0 and won the game. Both sides showed good positional understanding.1-0 }
+) ( 12... Qa5 { played by 2 7 4 5 rated Aurora } 13. Nd5 Qd8 14. h4 h6 15.
+Nxf6+ exf6 16. Be3 Kh7 17. Bd3 Re8 18. Bb5 Rf8 19. Ba4 Qc7 20. Bb3 Rfd8 21. Qd3
+Qc6 22. h5
+{ In an interesting battle, Clover as White rated 3 2 7 4 remained in control, handing Zahak from the Black side with rating 3 2 5 9 a loss. The position remained tense for most of the game.1-0 }
+) 13. gxh5 Nxh5 14. Bxg7 Kxg7 15. f4 Bg4 16. Re1 Nf6 17. Rg1 e5 18. f5 Rh8 19.
+h3 Bh5 20. Bd3 a6 21. Ref1 Qe7 22. Qf2
+{ In an interesting battle, After a long struggle, Frozenight, rated 3 2 7 7, had the White pieces and Rice handling the Black pieces rated 3 1 8 1 shared the point.1/2-1/2 }
+) 10. Kb1 Bd7 { played by 3 3 5 8 rated Booot } ( 10... Nxd4
+{ played by 3 1 0 1 rated Wasp } 11. Bxd4 Be6 { played by 3 1 0 1 rated Wasp }
+12. h3 a6 { we will see this position later on1-0 } ( 12... Rb8
+{ played by 2 8 2 9 rated Princhess } 13. Bxa7 Ra8 14. Be3 b5 15. Bxb5 Qa5
+{ In an interesting battle, Francesca handling the White pieces rated 2 7 6 6 remained in control, handing Princhess, rated 2 8 2 9, had the Black pieces a loss.1-0 }
+) ( 12... Kh7 { played by 2 7 6 5 rated Crafty } 13. g4 Qa5 14. a3 Kg8 15. Nd5
+Qxd2 16. Nxe7+ Kh8 17. Rxd2 Rae8 18. Nd5 Nxd5 19. exd5 Bxd4 20. dxe6 Bc5 21. b4
+Bb6 22. exf7
+{ In an interesting battle, Loop as White rated 2 8 6 1 converted the advantage and defeated Crafty, rated 2 7 6 5, had the Black pieces. The position remained tense for most of the game.1-0 }
+) ) 11. h3 Rc8 { played by 3 3 5 8 rated Booot } 12. g4 a6
+{ we will see this position later on1-0 } ( 12... Re8
+{ played by 3 3 0 6 rated Eleanor } 13. Nxc6 Bxc6 14. Nb5 a6 15. Na7 Rb8 16.
+Bc4 Qc7 17. Bb3 h4 18. Nxc6 bxc6 19. Bh6 c5 20. Bxg7 Kxg7 21. Qc3 Kg8 22. Bc4
+{ In an interesting battle, Arasan handling the White pieces rated 3 2 9 4 outplayed Eleanor on Black with Elo 3 3 0 6 and won the game. The position remained tense for most of the game.1-0 }
+) 1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Alexandria 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[WhiteElo "3640"]
+[BlackElo "3574"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O { entered in SICILIAN Dragon Yugoslav Attack Rauser Variation }
+9... Nxd4 { played by 3 4 9 7 rated RubiChess } 10. Bxd4 Be6
+{ played by 3 4 9 7 rated RubiChess } ( 10... Qa5
+{ played by 3 4 3 1 rated Komodo } 11. Kb1 Rd8
+{ played by 3 2 9 2 rated Mantissa } 12. Bc4 Bd7
+{ played by 3 2 9 2 rated Mantissa } ( 12... Be6
+{ played by 3 2 7 8 rated pawn } 13. Bxe6 fxe6 14. Qe2 Nh5 15. Qc4 Kf7 16. Qb3
+Bxd4 17. Rxd4 Nf6 18. f4 Qb6 19. Qxb6 axb6 20. Rhd1 Ke8 21. Nb5 Rdc8 22. e5
+{ Here we see that Winter as Black rated 3 2 0 1 could not hold the position, allowing rofChade from the White side with rating 3 2 5 3 to win. The outcome was decided in the later stages.1-0 }
+) 13. Bb3 Be6 14. h4 Rac8 15. h5 Bxb3 16. cxb3 e5 17. Be3 Nxh5 18. Qf2 Nf4 19.
+g3 d5 20. Bd2 dxe4 21. gxf4 exf3 22. fxe5
+{ Once again, Mantissa as Black rated 3 2 9 2 could not hold the position, allowing Fire, rated 3 3 8 6, had the White pieces to win. Both sides showed good positional understanding.1-0 }
+) 11. Kb1 Qc7 { played by 3 3 5 3 rated Komodo } ( 11... a6
+{ played by 3 1 5 9 rated iCE } 12. g4 Rc8
+{ we will see this position later on1-0 } ( 12... b5
+{ played by 3 0 5 3 rated DeepSaros } 13. h4 b4 14. Nd5 Bxd5 15. exd5 Qa5 16.
+Be3 Rfc8 17. h5 Rab8 18. hxg6 hxg6 19. Qh2 Nxd5 20. Qh7+ Kf8 21. Bh6 Ke8 22.
+Qxg7
+{ In this game, Komodo as White rated 3 1 4 2 remained in control, handing Chiron playing Black, rated 2 9 8 6 a loss. The position remained tense for most of the game.1-0 }
+) ( 12... Qa5 { played by 2 9 8 6 rated Chiron } 13. g5 Nh5 14. Nd5 Qxd2 15.
+Nxe7+ Kh8 16. Rxd2 Rfe8 17. Bxg7+ Kxg7 18. Nd5 Bxd5 19. Rxd5 Rad8 20. Bc4 Nf4
+21. Rd2 Nh3 22. Rg2
+{ In this game, Neither Stockfish as White rated 3 1 3 2 nor Chiron, rated 2 9 8 6, had the Black pieces could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+) ( 12... h5 { played by 2 8 5 9 rated OliThink } 13. h3
+{ we will see this position later on1-0 } ) ) 12. h4 b6
+{ played by 2 5 8 1 rated WildCat } 13. g4 Qb7 14. h5 Rac8 15. Qh2 Rfd8 16.
+hxg6 hxg6 17. Be2 b5 18. f4 b4 19. Nd5 Bxd5 20. exd5 Qc7 21. Ba6 Rb8 22. Rd3
+{ In an interesting battle, Delfi, rated 2 5 8 5, had the White pieces converted the advantage and defeated WildCat playing Black, rated 2 5 8 1. Both sides showed good positional understanding.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Alexandria 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[WhiteElo "3640"]
+[BlackElo "3574"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O { entered in SICILIAN Dragon Yugoslav Attack Rauser Variation }
+9... Nxd4 { played by 3 4 9 7 rated RubiChess } ( 9... Bd7
+{ played by 3 4 7 8 rated Ethereal } 10. g4 Ne5
+{ played by 3 4 7 8 rated Ethereal } ( 10... Rc8
+{ played by 3 4 1 9 rated RubiChess } 11. Kb1 a6
+{ played by 3 3 8 3 rated Ethereal } 12. Nxc6 Rxc6
+{ played by 3 3 8 3 rated Ethereal } 13. Be2 Rxc3 14. Qxc3 Nd5 15. Qb3 Nxe3 16.
+Qxe3 b5 17. f4 Qc7 18. h4 b4 19. h5 Rc8 20. Qd2 Qa5 21. hxg6 hxg6 22. f5
+{ In this game, Stash on White with Elo 3 3 9 6 and Ethereal, rated 3 3 8 3, had the Black pieces played a balanced game which ended in a draw. The position remained tense for most of the game.1/2-1/2 }
+) ( 10... a6 { played by 3 3 6 6 rated rofChade } 11. h4 Ne5
+{ played by 3 3 0 2 rated Xiphos } 12. h5 Rc8
+{ played by 3 3 0 2 rated Xiphos } ( 12... Nxf3
+{ played by 2 5 5 7 rated Atlas } 13. Nxf3 Bxg4 14. Be2 Bxh5 15. Rdg1 Rc8 16.
+Rh4 b5 17. Nd5 Nxd5 18. exd5 Bxf3 19. Bxf3 Rc4 20. Rhh1 Qc7 21. Be2 Ra4 22. Kb1
+{ In this game, Pupsi2 as White rated 2 4 7 7 converted the advantage and defeated Atlas on Black with Elo 2 5 5 7. The position remained tense for most of the game.1-0 }
+) 13. Be2 b5 14. a3 Re8 15. Kb1 Qa5 16. hxg6 fxg6 17. Nb3 Qd8 18. Bd4 Nc4 19.
+Bxc4+ bxc4 20. Nc1 Rb8 21. N1a2 e5 22. Be3
+{ Once again, Xiphos, rated 3 3 0 2, had the Black pieces could not hold the position, allowing Rebel as White rated 3 2 9 8 to win. The position remained tense for most of the game.1-0 }
+) 11. Kb1 Rc8 { played by 3 4 7 8 rated Ethereal } 12. Be2 b5
+{ played by 3 4 7 8 rated Ethereal } 13. Ncxb5 Bxb5 14. Bxb5 Rc5 15. Qe2 Qc7
+16. Ba6 Nc4 17. Bxc4 Rxc4 18. Nb5 Qc6 19. Rd4 Rxd4 20. Bxd4 a6 21. Nc3 Rb8 22.
+Qd3
+{ Here we see that Dragon from the White side with rating 3 5 8 0 converted the advantage and defeated Ethereal, rated 3 4 7 8, had the Black pieces. Both sides showed good positional understanding.1-0 }
+) 10. Bxd4 Bd7 { played by 2 8 6 8 rated Ceibo } 11. g4 Qa5
+{ played by 3 3 7 7 rated BlackCore } 12. h4 Be6
+{ played by 3 3 7 7 rated BlackCore } ( 12... Rac8
+{ played by 2 5 7 7 rated Nawito } 13. a3 Rfd8 14. h5 Be6 15. Qe3 Rc6 16. hxg6
+hxg6 17. Rd2 a6 18. Rdh2 Re8 19. Be2 Rcc8 20. f4 Bxg4 21. Bxg4 e5
+{ Dirty from the Black side with rating 2 6 6 1 could not hold the position, allowing Chessmaster playing White, rated 2 6 8 7 to win. Small inaccuracies made the difference.1-0 }
+) 13. a3 Rab8 14. h5 b5 15. h6 Bh8 16. g5 Nd7 17. Bxh8 Kxh8 18. Bh3 b4 19. Nd5
+Bxd5 20. Bxd7 Bb7 21. Rhe1 Qd8 22. Ba4
+{ In this game, Uralochka handling the White pieces rated 3 4 6 3 converted the advantage and defeated BlackCore from the Black side with rating 3 3 7 7. The outcome was decided in the later stages.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Alexandria 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[WhiteElo "3640"]
+[BlackElo "3574"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O { entered in SICILIAN Dragon Yugoslav Attack Rauser Variation }
+9... Bd7 { played by 3 4 7 8 rated Ethereal } ( 9... Ne5
+{ played by 3 4 2 1 rated Komodo } 10. h3 Bd7
+{ played by 3 1 9 6 rated Protej } 11. Kb1 Nh5
+{ played by 3 3 6 6 rated rofChade } 12. Qf2 Rc8
+{ played by 3 3 6 6 rated rofChade } ( 12... a6
+{ played by 3 1 9 6 rated Protej } 13. g4 Nf6 14. f4 Nc6 15. Bg2 Nxd4 16. Bxd4
+Bc6 17. Rhe1 Nd7 18. Bxg7 Kxg7 19. e5 dxe5 20. Bxc6 bxc6 21. fxe5 Qe8 22. e6
+{ In this game, Perseus playing White, rated 3 1 1 6 remained in control, handing Protej playing Black, rated 3 1 9 6 a loss.1-0 }
+) ( 12... Nc6 { played by 3 0 2 2 rated Bagatur } 13. Nd5 Nxd4 14. Bxd4 Bxd4
+15. Rxd4 Bc6 16. a3 Bxd5 17. exd5 Nf6 18. Bc4 Qd7 19. Qe2 a6 20. Bb3 b5 21. Re1
+a5 22. a4
+{ Once again, Bagatur from the Black side with rating 3 0 2 2 could not hold the position, allowing chess22k on White with Elo 3 1 0 2 to win. The position remained tense for most of the game.1-0 }
+) 13. g4 Nf6 14. Nb3 Be6 15. Be2 Qc7 16. Bxa7 b5 17. a3 Nc4 18. Bd4 Qb7 19. Qe1
+Ra8 20. Na2 Rfc8 21. Nb4 Ra4 22. g5
+{ Here we see that After a long struggle, Clover playing White, rated 3 3 4 3 and rofChade from the Black side with rating 3 3 6 6 shared the point. Both sides showed good positional understanding.1/2-1/2 }
+) ( 9... Qc7 { played by 3 2 6 4 rated Weiss } 10. g4 Nxd4
+{ played by 2 9 6 1 rated Nu-chess } 11. Bxd4 Be6 12. h4 Qa5
+{ we will see this position later on1-0 } ( 12... h5
+{ played by 2 8 3 2 rated Rybka } 13. gxh5 Nxh5 14. Bxg7 Kxg7 15. Rg1 Rad8 16.
+Nb5 Qc8 17. Rg5 f6 18. Nxa7 Qd7 19. Ra5 Ra8 20. Nb5 Bf7 21. Rxa8 Rxa8 22. a3
+{ Here we see that Neither Spike from the White side with rating 2 7 5 0 nor Rybka on Black with Elo 2 8 3 2 could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+) ) 10. g4 a6 { played by 3 3 6 6 rated rofChade } 11. h4 b5
+{ played by 2 6 1 5 rated FabChess } 12. h5 Qa5
+{ played by 2 6 1 5 rated FabChess } ( 12... Ne5
+{ played by 2 4 8 2 rated Tao } 13. Qh2 e6 14. Kb1 Qe7 15. hxg6 fxg6 16. a3
+Rac8 17. Bg5 Rf7 18. Bf4 Nexg4 19. fxg4 e5 20. g5 exf4 21. gxf6 Bxf6 22. Nd5
+{ Tao from the Black side with rating 2 4 8 2 seized the initiative and handed CuckooChess, rated 2 5 5 2, had the White pieces a loss. The opening quickly led to complex middlegame play.0-1 }
+) 13. Nb3 Qd8 14. Bh6 Ne5 15. Be2 Bxh6 16. Qxh6 Be6 17. hxg6 fxg6 18. g5 Nf7
+19. Qh4 Nxg5 20. Qxg5 Qe8
+{ In this game, chess22k as White rated 2 5 2 1 outplayed FabChess, rated 2 6 1 5, had the Black pieces and won the game. The position remained tense for most of the game.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Alexandria 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[WhiteElo "3640"]
+[BlackElo "3574"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O { entered in SICILIAN Dragon Yugoslav Attack Rauser Variation }
+9... Be6 { played by 2 9 5 4 rated Francesca } ( 9... d5
+{ played by 3 6 4 5 rated Stockfish } 10. exd5 Nxd5
+{ played by 3 6 4 5 rated Stockfish } 11. Nxc6 bxc6 12. Bd4 Nxc3
+{ played by 3 6 4 5 rated Stockfish } ( 12... Bxd4
+{ played by 3 6 4 5 rated Stockfish } 13. Qxd4 Qa5
+{ played by 3 6 1 2 rated Dragon } ( 13... Bb7
+{ played by 2 2 9 0 rated Amundsen } 14. Bc4 Nxc3 15. Qxc3 Qc7 16. Rhe1 Rfd8
+17. Rxd8+ Rxd8 18. Qe5 Qxe5 19. Rxe5 Rd7 20. Ra5 Ba8 21. Bd3 e6 22. h4
+{ After a long struggle, OliThink handling the White pieces rated 2 3 2 4 and Amundsen from the Black side with rating 2 2 9 0 shared the point. Both sides showed good positional understanding.1/2-1/2 }
+) 14. Nxd5 cxd5 15. Qxd5 Qc7 16. Qxa8 Bf5
+{ Here we see that Stockfish as White rated 3 6 4 0 outplayed Arasan handling the Black pieces rated 3 4 8 8 and won the game. Both sides showed good positional understanding.1-0 }
+) ( 12... e5 { played by 3 6 3 6 rated ShashChess } 13. Bc5 Be6
+{ played by 3 6 2 0 rated Stockfish } 14. Ne4 Re8
+{ we will see this position later on1/2-1/2 } ) 13. Qxc3 Bxd4
+{ played by 2 8 9 8 rated Critter } 14. Rxd4 Qc7 15. Bc4 Rb8 16. Rd2 Rd8 17.
+Rxd8+ Qxd8 18. h4 Qc7 19. Qe3 Qb6 20. Qe5 Rb7 21. h5 Qc7 22. Qe3
+{ Here we see that Gull handling the Black pieces rated 2 8 6 2 could not hold the position, allowing Critter on White with Elo 2 8 9 8 to win. The opening quickly led to complex middlegame play.1-0 }
+) 10. Nxe6 fxe6 11. Kb1 Qc8 { played by 2 9 5 4 rated Francesca } 12. g3 Kh8
+{ played by 2 9 5 4 rated Francesca } ( 12... Na5
+{ played by 2 5 3 1 rated WyldChess } 13. Bh3 Rf7 14. Qe2 b6 15. f4 Ne8 16. e5
+dxe5 17. fxe5 Qc4 18. Qg2 Rc8 19. Rd4 Qc6 20. Qxc6 Rxc6 21. Rd8 Rf8 22. Nb5
+{ Muse as White rated 2 5 8 4 outplayed WyldChess handling the Black pieces rated 2 5 3 1 and won the game. The opening quickly led to complex middlegame play.1-0 }
+) 13. Bh3 Nh5 14. Rhf1 Ne5 15. Qe2 Nc4 16. Rd3 b5 17. Bc1 Rb8 18. Nd5 Re8 19.
+b3 a5 20. f4 Nf6 21. Nc3 a4 22. e5
+{ In this game, Topple handling the White pieces rated 3 0 3 2 converted the advantage and defeated Francesca handling the Black pieces rated 2 9 5 4. Both sides showed good positional understanding.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Alexandria 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[WhiteElo "3640"]
+[BlackElo "3574"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O { entered in SICILIAN Dragon Yugoslav Attack Rauser Variation }
+9... h5 { played by 3 5 6 1 rated Alexandria } 10. Kb1 a6
+{ played by 3 4 5 4 rated Carp } ( 10... Nxd4 { played by 3 1 0 1 rated Wasp }
+11. Bxd4 Be6 { played by 3 1 0 1 rated Wasp } 12. h3 Rc8
+{ played by 3 2 2 4 rated Svart } 13. g4 a6
+{ we will see this position later on1/2-1/2 } ( 13... Qd7
+{ played by 3 1 8 1 rated Rice } 14. Rg1 b5 15. Bxb5 Qb7 16. Qd3 Rc7 17. e5
+dxe5 18. Bxe5 Rc5 19. Ba6 Qc6 20. Rge1 Ra5 21. Bb5 Bxa2+ 22. Kc1
+{ The game between Sting as White rated 3 0 5 9 and Rice playing Black, rated 3 1 8 1 finished level. The outcome was decided in the later stages.1/2-1/2 }
+) ) 11. h3 Nxd4 { played by 3 4 5 4 rated Carp } ( 11... Bd7
+{ played by 3 3 8 4 rated Alexandria } 12. g4 Rc8
+{ played by 3 3 8 4 rated Alexandria } 13. Rg1 b5
+{ played by 3 3 5 8 rated Booot } ( 13... h4
+{ played by 3 3 0 8 rated StockDory } 14. a3 b5 15. Qe1 Nxd4 16. Bxd4 Re8 17.
+Bd3 Rb8 18. Na2 a5 19. f4 e5 20. fxe5 dxe5 21. Bc3 b4 22. axb4
+{ Here we see that Neither Svart playing White, rated 3 2 2 4 nor StockDory, rated 3 3 0 8, had the Black pieces could convert, and the game was drawn. Small inaccuracies made the difference.1/2-1/2 }
+) 14. Nd5 Nxd4 15. Bxd4 Nxd5 16. exd5 Bxd4 17. Qxd4 h4 18. f4 Rc5 19. Bd3 Re8
+20. b4 Rc8 21. Rde1 Rb8 22. f5
+{ Here we see that Booot playing Black, rated 3 3 5 8 could not hold the position, allowing RubiChess from the White side with rating 3 4 7 2 to win. Both sides showed good positional understanding.1-0 }
+) 12. Bxd4 Be6 { played by 3 2 3 2 rated BlackCore } 13. g4 b5
+{ played by 3 2 3 2 rated BlackCore } ( 13... Qd7
+{ played by 2 8 5 9 rated OliThink } 14. Nd5 Bxd5 15. exd5 Rab8 16. Bxf6 Bxf6
+17. gxh5 Qf5 18. hxg6 Qxg6 19. Bd3 Qh5 20. Rdg1+ Kh8 21. Be4 Rg8 22. Qf2
+{ Here we see that Cadie playing White, rated 2 8 6 3 and OliThink handling the Black pieces rated 2 8 5 9 played a balanced game which ended in a draw. The position remained tense for most of the game.1/2-1/2 }
+) 14. Nd5 Bxd5 15. exd5 h4 16. Qe1 Nd7 17. g5 Bxd4 18. Rxd4 Qb6 19. Qxh4 Rfc8
+20. Qf4 Qc5 21. Qe4 Ne5 22. Be2
+{ In an interesting battle, Black, rated 3 3 8 2, had the White pieces outplayed BlackCore as Black rated 3 2 3 2 and won the game.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Alexandria 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[WhiteElo "3640"]
+[BlackElo "3574"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O { entered in SICILIAN Dragon Yugoslav Attack Rauser Variation }
+9... h5 { played by 3 5 6 1 rated Alexandria } ( 9... Nxd4
+{ played by 3 4 9 7 rated RubiChess } 10. Bxd4 Be6
+{ played by 3 4 9 7 rated RubiChess } ( 10... Qa5
+{ played by 3 4 3 1 rated Komodo } 11. Kb1 e5 { played by 3 2 4 3 rated Fizbo }
+12. Be3 Be6 13. a3 Rfc8 { played by 2 3 2 6 rated Myrddin } ( 13... Rad8
+{ played by 2 1 0 7 rated ProChess } 14. Nd5 Qxd2 15. Ne7+ Kh8 16. Rxd2 d5 17.
+exd5 Bxd5 18. Bb5 a6 19. Bxa6 bxa6 20. Rhd1
+{ In an interesting battle, EveAnn as White rated 2 2 8 0 overpressed, and ProChess handling the Black pieces rated 2 1 0 7 secured the win. Small inaccuracies made the difference.0-1 }
+) 14. Qxd6 Rd8 15. Qe7 Rxd1+ 16. Nxd1 Re8 17. Qb4 Qxb4 18. axb4 Bf8 19. c3 Rd8
+20. Kc2 a6 21. Nf2 Nd7 22. Be2
+{ EveAnn on White with Elo 2 2 8 0 converted the advantage and defeated Myrddin handling the Black pieces rated 2 3 2 6. Small inaccuracies made the difference.1-0 }
+) 11. Kb1 Qc7 { played by 3 3 5 3 rated Komodo } ( 11... a6
+{ played by 3 1 5 9 rated iCE } 12. g4 Qc7 { played by 3 1 0 3 rated Counter }
+13. h4 Rfc8 { played by 3 1 0 3 rated Counter } 14. h5 b5 15. hxg6 hxg6 16. Nd5
+Bxd5 17. exd5 Qb7 18. g5 Nh5 19. Bxg7 Kxg7 20. f4 Qb6 21. Rh3 Rc7 22. f5
+{ Once again, Roc from the White side with rating 3 1 5 8 converted the advantage and defeated Counter, rated 3 1 0 3, had the Black pieces. The position remained tense for most of the game.1-0 }
+) 12. h4 Rfc8 { played by 3 6 1 9 rated Stockfish } 13. h5 Qa5
+{ played by 3 6 1 9 rated Stockfish } ( 13... gxh5
+{ played by 3 1 4 3 rated Sting } 14. Nb5 Qd8 15. Bf2 a6 16. Nd4 Bd7 17. Bd3 a5
+18. Nb5 a4 19. Na7 Rcb8 20. Qb4 b6 21. Nb5 Ra5 22. a3
+{ In an interesting battle, Sting, rated 3 1 4 3, had the Black pieces could not hold the position, allowing Stockfish handling the White pieces rated 3 2 0 7 to win. The position remained tense for most of the game.1-0 }
+) 14. h6 Bh8 15. a3 Nd7 16. Bxh8 Kxh8 17. Qe3 Qc5 18. Rd4 Rc7 19. Be2 Rac8 20.
+Rc1 Ne5 21. Qd2
+{ In an interesting battle, Stockfish from the White side with rating 3 6 1 9 outplayed Lizard from the Black side with rating 3 5 5 0 and won the game. Small inaccuracies made the difference.1-0 }
+) 10. Kb1 Nxd4 { played by 3 1 0 1 rated Wasp } 11. Bxd4 Be6
+{ played by 3 1 0 1 rated Wasp } 12. h3 Qc7 { played by 3 1 0 1 rated Wasp }
+13. Bd3 d5 { played by 3 0 6 8 rated Rybka } ( 13... Rac8
+{ played by 3 0 3 9 rated Monolith } 14. g4 Qa5 15. a3 Nd7 16. Bxg7 Kxg7 17.
+gxh5 Qxh5 18. f4 Bc4 19. h4 b6 20. Rdg1 Rh8 21. Bxc4 Rxc4 22. f5
+{ In this game, Rebel playing White, rated 3 2 5 2 outplayed Monolith as Black rated 3 0 3 9 and won the game. The outcome was decided in the later stages.1-0 }
+) 14. e5 Nd7 15. f4 Nc5 16. g4 Nxd3 17. cxd3 Qd7 18. gxh5 Bf5 19. hxg6 fxg6 20.
+Ne2 a5 21. Rdg1 Qe6 22. h4
+{ Rice playing White, rated 3 1 8 1 converted the advantage and defeated Rybka, rated 3 0 6 8, had the Black pieces. The outcome was decided in the later stages.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Alexandria 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[WhiteElo "3640"]
+[BlackElo "3574"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O { entered in SICILIAN Dragon Yugoslav Attack Rauser Variation }
+9... Nxd4 { played by 3 4 9 7 rated RubiChess } ( 9... Bd7
+{ played by 3 4 7 8 rated Ethereal } 10. g4 Ne5
+{ played by 3 4 7 8 rated Ethereal } 11. Kb1 Rc8
+{ played by 3 4 7 8 rated Ethereal } 12. Be2 a6
+{ played by 3 2 8 2 rated Smallbrain } ( 12... h5
+{ played by 2 7 3 1 rated KnightX } 13. h3 a6
+{ played by 2 7 3 1 rated KnightX } ( 13... Re8
+{ played by 2 4 6 7 rated Fornax } 14. f4 Nc4 15. Bxc4 Rxc4 16. e5 dxe5 17.
+fxe5 Nxg4 18. hxg4 Bxg4 19. e6 Bxd1 20. Rxd1 Rf8 21. Qe2 Rxc3 22. bxc3
+{ In this game, Neither FoxSEE as White rated 2 3 0 7 nor Fornax playing Black, rated 2 4 6 7 could convert, and the game was drawn. Small inaccuracies made the difference.1/2-1/2 }
+) 14. Bh6 Bxh6 15. Qxh6 Nc4 16. Bxc4 Rxc4 17. Nf5 Bxf5 18. gxf5 Rxc3 19. fxg6
+Rc5 20. Rhg1 Re8 21. f4 Qc7 22. e5
+{ In this game, RuyDos as White rated 2 7 9 7 converted the advantage and defeated KnightX as Black rated 2 7 3 1. The position remained tense for most of the game.1-0 }
+) 13. h4 h5 { played by 3 1 5 5 rated Senpai } 14. gxh5 Nxh5 15. f4 Nc4 16.
+Bxc4 Rxc4 17. f5 Qa5 18. Rhg1 Rxc3 19. bxc3 Nf6
+{ Once again, Clover handling the White pieces rated 3 3 4 3 remained in control, handing Senpai playing Black, rated 3 1 5 5 a loss. The opening quickly led to complex middlegame play.1-0 }
+) 10. Bxd4 Qa5 { played by 3 4 3 1 rated Komodo } ( 10... b6
+{ played by 2 3 3 0 rated Alex } 11. Nd5 Nxd5 12. Bxg7 Kxg7 13. exd5 e5
+{ played by 2 3 3 0 rated Alex } ( 13... Bf5 { played by 2 2 8 7 rated Alex }
+14. Ba6 Rb8 15. Rhe1 b5 16. a4 bxa4 17. Qd4+ Kg8 18. Qxa4 e5 19. dxe6 Bxe6 20.
+g3 Qc7 21. Re3 Rfd8 22. Rd2
+{ Chaturanga on White with Elo 2 2 4 6 outplayed Alex from the Black side with rating 2 2 8 7 and won the game. The position remained tense for most of the game.1-0 }
+) 14. dxe6 Bxe6 15. Ba6 Qf6 16. Qd4 d5 17. Qxf6+ Kxf6 18. Rhe1 Rab8 19. a4 Rfe8
+20. Bb5 Rec8 21. Re2 Rc5 22. Rd4
+{ In an interesting battle, Alex on Black with Elo 2 3 3 0 defended accurately and defeated Chaturanga handling the White pieces rated 2 2 4 6. The position remained tense for most of the game.0-1 }
+) 11. Kb1 Kh8 { played by 2 9 1 2 rated Spark } 12. Be2 Be6 13. g4 b5
+{ played by 2 9 1 2 rated Spark } ( 13... Rac8
+{ played by 2 1 7 9 rated Mango } 14. g5 Nh5 15. f4 Rxc3 16. Qxc3 Qxc3 17. Bxc3
+Nxf4 18. Bxg7+ Kxg7 19. Bf1 f6 20. gxf6+ Kxf6 21. Rg1 h6 22. Rg3
+{ Once again, Mango as Black rated 2 1 7 9 outplayed ChessKISS on White with Elo 2 1 5 9 and won as Black. The position remained tense for most of the game.0-1 }
+) 14. g5 Nh5 15. f4 Bxd4 16. Qxd4+ Ng7 17. Nd5 Bxd5 18. Qxd5 Ne6 19. Rhf1 Qb4
+20. c3 Qc5 21. Bxb5 Rab8 22. Bc4
+{ In this game, Vajolet2 as White rated 2 8 8 2 remained in control, handing Spark playing Black, rated 2 9 1 2 a loss. The position remained tense for most of the game.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Alexandria 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[WhiteElo "3640"]
+[BlackElo "3574"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O { entered in SICILIAN Dragon Yugoslav Attack Rauser Variation }
+9... d5 { played by 3 6 4 5 rated Stockfish } ( 9... h5
+{ played by 3 5 6 1 rated Alexandria } 10. Kb1 a6
+{ played by 3 4 5 4 rated Carp } 11. h3 Nxd4 { played by 3 4 5 4 rated Carp }
+12. Bxd4 Be6 { played by 3 2 3 2 rated BlackCore } 13. g4 Rc8
+{ played by 3 1 8 1 rated Rice } 14. Nd5 h4 { played by 3 1 8 1 rated Rice }
+15. Nxf6+ Bxf6 16. Bxf6 exf6 17. f4 Kg7 18. b3 Bd7 19. Qd4 Qe7 20. g5 Bc6 21.
+Bd3 Rce8 22. Rhg1
+{ Stockfish from the White side with rating 3 0 5 7 outplayed Rice from the Black side with rating 3 1 8 1 and won the game. Small inaccuracies made the difference.1-0 }
+) 10. exd5 Nxd5 { played by 3 6 4 5 rated Stockfish } 11. Nxc6 bxc6 12. Bd4
+Bxd4 { played by 3 6 4 5 rated Stockfish } ( 12... e5
+{ played by 3 6 3 6 rated ShashChess } 13. Bc5 Re8
+{ played by 3 6 3 6 rated ShashChess } 14. Ne4 h5
+{ played by 3 5 7 2 rated Velvet } ( 14... Qc7 { played by 3 5 5 8 rated Igel }
+15. h4 h6 16. h5 g5 17. Bd6 Qb6 18. Bc5 Qc7
+{ we will see this position later on1-0 } ) ( 14... f5
+{ played by 3 3 3 3 rated Lc0 } 15. Nd6 Bf8 16. Bb5 Bxd6 17. Bxc6 Bxc5 18.
+Bxd5+ Be6 19. Bxe6+ Kg7 20. Qd5 Qxd5 21. Bxd5 Rac8 22. c3
+{ In this game, DanaSah playing White, rated 3 2 2 7 and Lc0 from the Black side with rating 3 3 3 3 played a balanced game which ended in a draw. The position remained tense for most of the game.1/2-1/2 }
+) 15. Bc4 Be6 16. Rhe1 Qc7 17. Bb3 Red8 18. Kb1 Rd7 19. g3 a5 20. a4 Nb4 21.
+Qe3 Bxb3 22. Qxb3
+{ Here we see that Torch handling the White pieces rated 3 6 3 5 outplayed Velvet as Black rated 3 5 7 2 and won the game. Both sides showed good positional understanding.1-0 }
+) 13. Qxd4 Be6 { played by 3 5 1 6 rated RubiChess } 14. Bc4 Qc7
+{ we will see this position later on1-0 } ( 14... Qa5
+{ played by 2 6 8 4 rated Atlas } 15. Qe5 Rfd8 16. Rhe1 Rab8 17. Bb3 Qb4 18.
+Rd4 Qa5 19. h4 h5 20. g4 Rb4 21. gxh5 Rxd4 22. h6
+{ Dirty handling the White pieces rated 2 6 5 0 remained in control, handing Atlas, rated 2 6 8 4, had the Black pieces a loss.1-0 }
+) 1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Alexandria 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[WhiteElo "3640"]
+[BlackElo "3574"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O { entered in SICILIAN Dragon Yugoslav Attack Rauser Variation }
+9... Nxd4 { played by 3 4 9 7 rated RubiChess } 10. Bxd4 Be6
+{ played by 3 4 9 7 rated RubiChess } 11. Kb1 Rc8
+{ played by 3 4 9 7 rated RubiChess } ( 11... Nd7
+{ played by 3 4 2 4 rated Komodo } 12. Bxg7 Kxg7 13. Nb5 Qb6 14. h4 h6
+{ played by 3 3 2 2 rated Fritz } ( 14... Nf6 { played by 2 7 5 0 rated Spike }
+15. g4 Rac8 16. h5 Kg8 17. hxg6 fxg6 18. Qh6 Rf7 19. g5 Nd7 20. Nd4 Nc5 21. Bh3
+Bxh3 22. Qxh3
+{ Once again, Spike from the Black side with rating 2 7 5 0 defended accurately and defeated Glaurung playing White, rated 2 6 6 3. The outcome was decided in the later stages.0-1 }
+) 15. Nd4 Rac8 16. g3 Nc5 17. h5 g5 18. Ka1 Kg8 19. Bg2 Kh8 20. Rhe1 Kh7 21.
+Nxe6 fxe6 22. f4
+{ Once again, Komodo as White rated 3 4 3 1 remained in control, handing Fritz handling the Black pieces rated 3 3 2 2 a loss.1-0 }
+) 12. g4 Nd7 { played by 3 4 9 7 rated RubiChess } ( 12... Re8
+{ played by 3 0 2 3 rated Polaris } 13. Bb5 Rf8 14. Be2 a6
+{ played by 3 0 2 3 rated Polaris } ( 14... Nd7
+{ played by 2 9 3 5 rated Hannibal } 15. Bxg7 Kxg7 16. Qd4+ Kg8 17. Qxa7 Nc5
+18. Qa3 Qb6 19. Nd5 Bxd5 20. exd5 f5 21. h3 Nd7 22. Qb3
+{ In an interesting battle, Quazar as White rated 2 9 2 4 and Hannibal from the Black side with rating 2 9 3 5 played a balanced game which ended in a draw.1/2-1/2 }
+) ( 14... Qc7 { played by 2 8 1 2 rated Deep } 15. Nb5 Qd8 16. Nxa7 Ra8 17. a3
+Nd7 18. Bxg7 Kxg7 19. Nb5 Qa5 20. Qg5 Rfe8 21. h4 Qb6 22. h5
+{ In an interesting battle, Naum handling the White pieces rated 2 9 9 3 outplayed Deep on Black with Elo 2 8 1 2 and won the game. The position remained tense for most of the game.1-0 }
+) 15. h4 h6 16. g5 hxg5 17. hxg5 Nd7 18. f4 f6 19. f5 gxf5 20. gxf6 Rxf6 21.
+Rdg1 Qf8 22. Bxf6
+{ Once again, Polaris from the Black side with rating 3 0 2 3 could not hold the position, allowing Tarnished as White rated 3 1 5 9 to win. The opening quickly led to complex middlegame play.1-0 }
+) 13. Bxg7 Kxg7 14. Nd5 Rc5 { played by 3 3 1 3 rated Fire } ( 14... h6
+{ played by 3 0 4 5 rated Deep } 15. h4 Ne5 16. Be2 Bxd5 17. exd5 Qb6 18. Rhe1
+Rc7 19. f4 Nc4 20. Qc3+ Ne5 21. Qg3 Nc4 22. Bxc4
+{ In an interesting battle, Deep handling the Black pieces rated 3 0 4 5 could not hold the position, allowing Texel on White with Elo 3 0 3 2 to win. The position remained tense for most of the game.1-0 }
+) 15. h4 f6 { we will see this position later on1-0 } 1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Alexandria 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[WhiteElo "3640"]
+[BlackElo "3574"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O { entered in SICILIAN Dragon Yugoslav Attack Rauser Variation }
+9... Nxd4 { played by 3 4 9 7 rated RubiChess } 10. Bxd4 Be6
+{ played by 3 4 9 7 rated RubiChess } ( 10... Qa5
+{ played by 3 4 3 1 rated Komodo } 11. Kb1 Rd8
+{ played by 3 2 9 2 rated Mantissa } 12. Bc4 Rb8
+{ played by 3 2 2 6 rated Black } ( 12... e5 { played by 2 5 2 8 rated Cheese }
+13. Be3 Be6 14. Qd3 Bd7 { played by 2 5 2 8 rated Cheese } ( 14... a6
+{ played by 2 3 7 6 rated Eeyore } 15. Bb3 b5 16. Qd2 b4 17. Nd5 Nxd5 18. Bxd5
+Rac8 19. Qe2 Rd7 20. h4 h5 21. g4 hxg4 22. fxg4
+{ Gaviota as White rated 2 4 4 4 outplayed Eeyore from the Black side with rating 2 3 7 6 and won the game. Both sides showed good positional understanding.1-0 }
+) 15. Bg5 Bc6 16. Nd5 Bxd5 17. Bxd5 Rd7 18. Bb3 b5 19. Qd2 Qb6 20. Be3 Qc7 21.
+g4 a5 22. a3
+{ Here we see that GreKo on White with Elo 2 5 2 5 remained in control, handing Cheese on Black with Elo 2 5 2 8 a loss.1-0 }
+) 13. h4 b5 14. Bb3 e6 { played by 3 1 7 0 rated Winter } ( 14... Bb7
+{ played by 2 6 9 8 rated Naum } 15. a3 b4 16. Na2 e5 17. axb4 Qa6 18. Bf2 Bc6
+19. g4 Rd7 20. g5 Nh5 21. c4 Ba8 22. b5
+{ Here we see that Naum from the Black side with rating 2 6 9 8 could not hold the position, allowing Spike, rated 2 7 5 0, had the White pieces to win. The outcome was decided in the later stages.1-0 }
+) 15. h5 Nxh5 16. Bxg7 Nxg7 17. Qh6 Nh5 18. g4 Nf6 19. Qh4 Kg7 20. e5
+{ In an interesting battle, rofChade, rated 3 2 9 1, had the White pieces outplayed Winter from the Black side with rating 3 1 7 0 and won the game. Small inaccuracies made the difference.1-0 }
+) 11. Kb1 Qc7 { played by 3 3 5 3 rated Komodo } ( 11... a6
+{ played by 3 1 5 9 rated iCE } 12. g4 Nd7 { played by 3 3 5 5 rated Clover }
+13. Bxg7 Kxg7 14. Nd5 Ne5 { played by 3 3 5 5 rated Clover } ( 14... Bxd5
+{ played by 2 7 5 5 rated Fridolin } 15. exd5 Qb6 16. h4 Ne5 17. h5 Rh8 18. Be2
+f6 19. f4 Nf7 20. g5 Rac8 21. c4 Rhg8 22. Bd3
+{ Once again, Cyclone from the White side with rating 2 8 3 7 outplayed Fridolin from the Black side with rating 2 7 5 5 and won the game. Small inaccuracies made the difference.1-0 }
+) 15. Be2 Rc8 16. h4 f6 17. Rdg1 Nc4 18. Bxc4 Rxc4 19. b3 Rc5 20. f4 Qa5 21.
+Qe3 Qa3 22. h5
+{ In an interesting battle, Fire from the White side with rating 3 3 8 5 converted the advantage and defeated Clover as Black rated 3 3 5 5. The position remained tense for most of the game.1-0 }
+) 12. h4 h5 { played by 3 5 4 4 rated Seer } 13. Nd5 Bxd5 14. exd5 Rfc8
+{ played by 3 0 0 9 rated Deep } 15. g4 Nxd5 16. Bxg7 Kxg7 17. gxh5 Ne3 18. Rc1
+Nxf1 19. Rcxf1 gxh5 20. Rhg1+ Kf8 21. Re1 e6 22. c3
+{ Once again, Rybka on White with Elo 3 1 1 2 remained in control, handing Deep on Black with Elo 2 9 3 5 a loss. The opening quickly led to complex middlegame play.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Alexandria 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[WhiteElo "3640"]
+[BlackElo "3574"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O { entered in SICILIAN Dragon Yugoslav Attack Rauser Variation }
+9... Bd7 { played by 3 4 7 8 rated Ethereal } ( 9... a6
+{ played by 3 3 5 5 rated Clover } 10. g4 Nd7
+{ played by 3 1 3 5 rated Arasan } 11. h4 Bxd4
+{ played by 3 1 3 5 rated Arasan } 12. Bxd4 Nxd4 13. Qxd4 Ne5 14. Be2 b5
+{ played by 3 1 2 4 rated Houdini } 15. f4 Nc6 16. Qe3 Rb8 17. h5 g5 18. fxg5
+Ne5 19. g6 fxg6 20. hxg6 Nxg6 21. e5 Bb7 22. Bd3
+{ Here we see that Black as White rated 3 2 2 6 converted the advantage and defeated Houdini from the Black side with rating 3 1 2 4. Small inaccuracies made the difference.1-0 }
+) ( 9... d5 { played by 3 6 4 5 rated Stockfish } 10. exd5 Nxd5
+{ played by 3 6 4 5 rated Stockfish } 11. Nxc6 bxc6 12. Bd4 Bxd4
+{ played by 3 6 4 5 rated Stockfish } 13. Qxd4 Qb6
+{ played by 3 6 4 5 rated Stockfish } 14. Na4 Qc7
+{ played by 3 6 4 5 rated Stockfish } 15. Nc5 Nf4
+{ played by 3 6 1 7 rated Berserk } 16. h4 h5 17. Nd3 Nxd3+ 18. Bxd3 c5 19. Qc3
+Rd8 20. Be4 Rxd1+ 21. Rxd1 Rb8 22. Rd5
+{ Once again, Neither Stockfish handling the White pieces rated 3 6 4 0 nor RubiChess from the Black side with rating 3 5 8 8 could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 10. g4 Ne5 { played by 3 4 7 8 rated Ethereal } ( 10... Rc8
+{ played by 3 4 1 9 rated RubiChess } 11. Kb1 a6
+{ played by 3 3 8 3 rated Ethereal } 12. Nxc6 Bxc6
+{ played by 3 2 4 8 rated Schooner } 13. h4 h5 14. Bh6 Qb6
+{ played by 3 3 1 7 rated RubiChess } ( 14... b5 { played by 3 1 1 0 rated Mr }
+15. gxh5 Nxh5 16. Bh3 e6 17. Bg4 b4 18. Ne2 Qa5 19. Rdg1 Ba4 20. b3 Be8 21.
+Bxg7 Kxg7 22. Bxh5
+{ Once again, Expositor on White with Elo 3 2 7 1 outplayed Mr playing Black, rated 3 1 1 0 and won the game. Small inaccuracies made the difference.1-0 }
+) 15. Bh3 hxg4 16. Bxg4 Nxg4 17. Bxg7 Kxg7 18. fxg4 Qa5 19. h5 f6 20. Qe2 g5
+21. Nd5 Rf7 22. Rd4
+{ Once again, The game between SlowChess on White with Elo 3 3 5 7 and RubiChess handling the Black pieces rated 3 3 1 7 finished level. Small inaccuracies made the difference.1/2-1/2 }
+) 11. Kb1 Rc8 { played by 3 4 7 8 rated Ethereal } 12. Be2 a6
+{ played by 3 2 8 2 rated Smallbrain } 13. h4 b5
+{ played by 3 2 8 2 rated Smallbrain } 14. a3 Rb8
+{ played by 3 2 8 2 rated Smallbrain } ( 14... h5
+{ played by 2 4 4 0 rated akimbo } 15. gxh5 Nxh5 16. Nd5 Ng3 17. Rhg1 Nxe2 18.
+Qxe2 e6 19. Nc3 Nc4 20. h5 Qe8 21. Rd3 a5 22. h6
+{ In an interesting battle, Counter as White rated 2 4 4 4 overpressed, and akimbo, rated 2 4 4 0, had the Black pieces secured the win. The position remained tense for most of the game.0-1 }
+) 15. h5 Nc4 16. Bxc4 bxc4 17. Ka2 Qa5 18. h6 Bh8 19. g5 Nh5 20. Rxh5 gxh5 21.
+Nd5
+{ Smallbrain playing Black, rated 3 2 8 2 defended accurately and defeated Winter, rated 3 1 1 8, had the White pieces. The opening quickly led to complex middlegame play.0-1 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Alexandria 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[WhiteElo "3640"]
+[BlackElo "3574"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O { entered in SICILIAN Dragon Yugoslav Attack Rauser Variation }
+9... d5 { played by 3 6 4 5 rated Stockfish } ( 9... h5
+{ played by 3 5 6 1 rated Alexandria } 10. Kb1 a6
+{ played by 3 4 5 4 rated Carp } 11. h3 Nxd4 { played by 3 4 5 4 rated Carp }
+12. Bxd4 Be6 { played by 3 2 3 2 rated BlackCore } 13. g4 Rc8
+{ played by 3 1 8 1 rated Rice } 14. Nd5 Bxd5 { played by 3 2 2 4 rated Svart }
+15. exd5 h4 { played by 3 2 2 4 rated Svart } ( 15... Re8
+{ played by 2 8 3 7 rated NirvanaChess } 16. Rh2 h4 17. Re2 Qd7 18. Qe1 Qd8 19.
+f4 Nd7 20. Bxg7 Kxg7 21. Bg2 Nb6 22. b3
+{ Here we see that Neither iCE from the White side with rating 2 7 0 3 nor NirvanaChess as Black rated 2 8 3 7 could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+) 16. f4 Nd7 17. Bxg7 Kxg7 18. Rh2 Re8 19. Re2 Qb6 20. f5 Ne5 21. fxg6 fxg6 22.
+Qg5
+{ After a long struggle, StockDory playing White, rated 3 3 0 8 and Svart as Black rated 3 2 2 4 shared the point. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 10. exd5 Nxd5 { played by 3 6 4 5 rated Stockfish } 11. Nxc6 bxc6 12. Bd4
+Bxd4 { played by 3 6 4 5 rated Stockfish } ( 12... e5
+{ played by 3 6 3 6 rated ShashChess } 13. Bc5 Re8
+{ played by 3 6 3 6 rated ShashChess } 14. Ne4 Be6
+{ played by 3 6 3 6 rated ShashChess } 15. h4 Nf6
+{ played by 2 7 5 8 rated Ktulu } ( 15... f5
+{ played by 2 6 2 8 rated Gandalf } 16. Ng5 e4 17. fxe4 fxe4 18. Nxe6 Rxe6 19.
+Bc4 Kh8 20. Bxd5 cxd5 21. h5 Rb8 22. c3
+{ In an interesting battle, Chess playing White, rated 2 6 3 3 remained in control, handing Gandalf, rated 2 6 2 8, had the Black pieces a loss. The position remained tense for most of the game.1-0 }
+) 16. Qxd8 Raxd8 17. Rxd8 Rxd8 18. Ng5 Bf8 19. Nxe6 fxe6 20. Be3 Nd5 21. Bg5
+Be7 22. Bxe7
+{ Once again, Stockfish as White rated 2 8 6 7 remained in control, handing Ktulu playing Black, rated 2 7 5 8 a loss. Small inaccuracies made the difference.1-0 }
+) 13. Qxd4 Qc7 { played by 3 5 8 8 rated RubiChess } 14. Bc4 e5
+{ played by 3 5 7 2 rated Velvet } 15. Qd2 Be6
+{ played by 3 5 7 2 rated Velvet } ( 15... Rd8
+{ played by 2 8 7 1 rated Dirty } 16. Qh6 Be6 17. Ne4 Qe7 18. h4 Qf8 19. Qg5 f5
+20. Bxd5 Bxd5 21. Nf6+ Kg7 22. Nxh7
+{ After a long struggle, Rhetoric as White rated 2 8 0 4 and Dirty playing Black, rated 2 8 7 1 shared the point. Small inaccuracies made the difference.1/2-1/2 }
+) 16. Ne4 Rad8 17. Qh6 f6 18. Rhe1 Kh8 19. Bb3 Qe7 20. h4 a5 21. a4 Rb8 22. Qd2
+{ Here we see that Alexandria handling the White pieces rated 3 6 1 7 remained in control, handing Cinder from the Black side with rating 3 5 6 1 a loss. Both sides showed good positional understanding.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Alexandria 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[WhiteElo "3640"]
+[BlackElo "3574"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O { entered in SICILIAN Dragon Yugoslav Attack Rauser Variation }
+9... Nxd4 { played by 3 4 9 7 rated RubiChess } 10. Bxd4 Be6
+{ played by 3 4 9 7 rated RubiChess } 11. Kb1 Rc8
+{ played by 3 4 9 7 rated RubiChess } 12. g4 Nd7
+{ played by 3 4 9 7 rated RubiChess } 13. Bxg7 Kxg7 14. Nd5 f6
+{ played by 3 4 9 7 rated RubiChess } ( 14... Ne5
+{ played by 3 3 1 3 rated Fire } 15. Be2 f6 { played by 3 3 1 3 rated Fire } (
+15... Bxd5 { played by 2 9 5 2 rated Hannibal } 16. exd5 Qc7 17. Rhe1 Rfe8 18.
+h4 f6 19. f4 Nc4 20. Bxc4 Qxc4 21. h5 gxh5 22. gxh5
+{ Here we see that Rybka, rated 3 0 6 3, had the White pieces outplayed Hannibal, rated 2 9 5 2, had the Black pieces and won the game.1-0 }
+) 16. h4 { we will see this position later on1-0 } ) ( 14... Bxd5
+{ played by 3 1 9 3 rated Arasan } 15. exd5 Rh8
+{ played by 3 1 8 1 rated Rice } ( 15... Ne5 { played by 2 9 7 7 rated Naum }
+16. Be2 { we will see this position later on1-0 } ) 16. Qd4+ Kg8 17. Qxa7 Qc7
+18. Qf2 Qa5 19. Qd4 h5 20. g5 b5 21. a3 Rb8 22. c3
+{ Here we see that Lc0 as White rated 3 1 0 8 outplayed Rice as Black rated 3 1 8 1 and won the game. The opening quickly led to complex middlegame play.1-0 }
+) 15. h4 Rc5 { played by 3 4 9 7 rated RubiChess } ( 15... Ne5
+{ played by 3 3 6 4 rated Stash } 16. Be2 Qd7 17. Rde1 b6 18. b3 Rc5 19. f4
+Bxd5 20. exd5 Nxg4 21. h5 Nf2 22. Rh4
+{ In an interesting battle, Komodo, rated 3 4 2 4, had the White pieces outplayed Fire from the Black side with rating 3 3 1 3 and won the game. The position remained tense for most of the game.1-0 }
+) 16. Qe3 Ne5 17. Be2 Qd7 18. b3 Rfc8 19. c4 b5 20. cxb5 Bxd5 21. exd5 Rc3 22.
+Qe4
+{ In this game, Dragon playing White, rated 3 6 1 2 outplayed RubiChess, rated 3 4 9 7, had the Black pieces and won the game. The opening quickly led to complex middlegame play.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Alexandria 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[WhiteElo "3640"]
+[BlackElo "3574"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O { entered in SICILIAN Dragon Yugoslav Attack Rauser Variation }
+9... Nxd4 { played by 3 4 9 7 rated RubiChess } 10. Bxd4 Be6
+{ played by 3 4 9 7 rated RubiChess } 11. Kb1 Rc8
+{ played by 3 4 9 7 rated RubiChess } ( 11... a6
+{ played by 3 1 5 9 rated iCE } 12. g4 Qc7 { played by 3 1 0 3 rated Counter }
+13. h4 h5 { played by 2 9 9 7 rated Komodo } 14. Nd5 Bxd5 15. exd5 e5
+{ played by 2 9 9 7 rated Komodo } ( 15... hxg4
+{ played by 2 9 2 4 rated Quazar } 16. h5 gxh5 17. fxg4 hxg4 18. Bd3 e5 19.
+dxe6 fxe6 20. Qg5 e5 21. Bc3 Rf7 22. Bg6
+{ Once again, Stockfish, rated 3 1 5 7, had the White pieces converted the advantage and defeated Quazar as Black rated 2 9 2 4. The outcome was decided in the later stages.1-0 }
+) 16. dxe6 fxe6 17. Bd3 hxg4 18. fxg4 e5 19. Be3 Nxg4 20. Rhg1 Nxe3 21. Qxe3
+Rf6 22. h5
+{ Once again, Houdini, rated 3 2 1 3, had the White pieces converted the advantage and defeated Komodo from the Black side with rating 2 9 9 7. The position remained tense for most of the game.1-0 }
+) 12. g4 a6 { played by 3 2 0 1 rated Winter } 13. h4 h5 14. Nd5 hxg4
+{ played by 3 1 8 1 rated Roc } ( 14... Bxd5 { played by 3 1 6 5 rated Komodo }
+15. exd5 a5 { played by 3 1 6 5 rated Komodo } 16. c4 hxg4 17. Bd3 e5 18. dxe6
+fxe6 19. fxg4 Nxg4 20. Bxg6 e5 21. Rhg1 Rxc4 22. Bc3
+{ In an interesting battle, Komodo on Black with Elo 3 1 6 5 could not hold the position, allowing Houdini playing White, rated 3 1 9 7 to win. The opening quickly led to complex middlegame play.1-0 }
+) 15. h5 Nxd5 { played by 3 1 0 7 rated Igel } ( 15... gxh5
+{ played by 3 0 8 5 rated Gull } 16. Nxf6+ exf6 17. Rxh5 Re8 18. Be2 Qd7 19. b3
+b6 20. Rdh1 Qc6 21. Rh8+ Bxh8 22. Rxh8+
+{ Once again, Fire from the White side with rating 3 2 5 3 outplayed Gull on Black with Elo 3 0 8 5 and won the game. Small inaccuracies made the difference.1-0 }
+) ( 15... Bxd5 { played by 3 0 4 9 rated Sting } 16. h6 Nxe4 17. fxe4 Bxa2+ 18.
+Kxa2 Bxd4 19. Qxd4 e5 20. Qd3 Kh8 21. Be2 f5 22. Kb1
+{ Once again, RubiChess as White rated 3 2 4 0 outplayed Sting as Black rated 3 0 4 9 and won the game. Both sides showed good positional understanding.1-0 }
+) 16. Bxg7 Nb4 17. hxg6 Bxa2+ 18. Ka1 fxg6 19. Bc3 Rxc3 20. bxc3 Nc6 21. Kxa2
+Ne5
+{ Here we see that Houdini from the White side with rating 3 1 2 4 converted the advantage and defeated Igel, rated 3 1 0 7, had the Black pieces. Both sides showed good positional understanding.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Alexandria 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[WhiteElo "3640"]
+[BlackElo "3574"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O { entered in SICILIAN Dragon Yugoslav Attack Rauser Variation }
+9... Nxd4 { played by 3 4 9 7 rated RubiChess } ( 9... d5
+{ played by 3 6 4 5 rated Stockfish } 10. exd5 Nxd5
+{ played by 3 6 4 5 rated Stockfish } 11. Nxc6 bxc6 12. Bd4 Bxd4
+{ played by 3 6 4 5 rated Stockfish } 13. Qxd4 Qb6
+{ played by 3 6 4 5 rated Stockfish } 14. Na4 Qc7
+{ played by 3 6 4 5 rated Stockfish } ( 14... Qa5
+{ played by 3 6 4 3 rated Stockfish } 15. b3 Qc7
+{ played by 3 6 4 3 rated Stockfish } ( 15... Bf5
+{ played by 3 6 3 4 rated Obsidian } 16. g4 Rad8
+{ played by 3 6 3 4 rated Obsidian } 17. Qc5 Qxc5 18. Nxc5 Bc8 19. Re1 Rfe8 20.
+h4 h6 21. h5 g5 22. Ba6
+{ In an interesting battle, Stockfish handling the White pieces rated 3 6 4 5 and Obsidian as Black rated 3 6 3 4 played a balanced game which ended in a draw. The position remained tense for most of the game.1/2-1/2 }
+) 16. Bc4 h5 { played by 3 4 0 2 rated Minic } 17. Rhe1 Nb6 18. Nb2 Nxc4 19.
+Nxc4 Be6 20. Ne5 Rad8 21. Qe3 Kg7 22. h3
+{ In an interesting battle, Minic on Black with Elo 3 4 0 2 could not hold the position, allowing Fat as White rated 3 5 5 9 to win. The outcome was decided in the later stages.1-0 }
+) 15. Nc5 Rd8 { played by 3 6 4 3 rated Stockfish } 16. Bc4 Rb8
+{ played by 3 1 1 9 rated Critter } 17. g4 a5 18. Bb3 Re8 19. Qf2 Qb6 20. Rd2
+Ba6 21. Nd7 Qxf2 22. Rxf2
+{ Strelka handling the Black pieces rated 3 1 1 6 could not hold the position, allowing Caissa playing White, rated 3 3 0 0 to win. Small inaccuracies made the difference.1-0 }
+) 10. Bxd4 Qa5 { played by 3 4 3 1 rated Komodo } 11. Kb1 Rd8
+{ played by 3 2 9 2 rated Mantissa } 12. Bc4 Rb8
+{ played by 3 2 2 6 rated Black } 13. h4 b5 14. Bb3 Be6
+{ played by 3 2 2 6 rated Black } 15. h5 Rbc8 { played by 3 2 2 6 rated Black }
+( 15... b4 { played by 3 1 9 1 rated Fire } 16. hxg6 bxc3 17. Bxc3 Qb5 18.
+gxh7+ Kh8 19. g4 Rdc8 20. Bd4 Bxb3 21. axb3 Ne8 22. Qf4
+{ In an interesting battle, Fire from the Black side with rating 3 1 9 1 seized the initiative and handed Sting from the White side with rating 3 1 2 5 a loss. Small inaccuracies made the difference.0-1 }
+) ( 15... Bxb3 { played by 3 0 0 9 rated Deep } 16. cxb3 e5 17. Be3 b4 18. Nd5
+Rd7 19. Qe2 Qb5 20. Qxb5 Rxb5 21. Rc1 Rb8 22. Nxb4
+{ Once again, Stockfish handling the White pieces rated 3 1 3 8 outplayed Deep handling the Black pieces rated 3 0 0 9 and won the game. Small inaccuracies made the difference.1-0 }
+) 16. h6 Bh8 17. Qg5 Bxb3 18. cxb3 a6 19. Rd2 Re8 20. Rhd1 Qc7 21. a3 Qc6 22.
+Qe3
+{ Once again, Dark from the White side with rating 3 2 1 0 remained in control, handing Black playing Black, rated 3 2 2 6 a loss. Small inaccuracies made the difference.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Alexandria 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[WhiteElo "3640"]
+[BlackElo "3574"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O { entered in SICILIAN Dragon Yugoslav Attack Rauser Variation }
+9... d5 { played by 3 6 4 5 rated Stockfish } ( 9... Nxd4
+{ played by 3 4 9 7 rated RubiChess } 10. Bxd4 Be6
+{ played by 3 4 9 7 rated RubiChess } 11. Kb1 Rc8
+{ played by 3 4 9 7 rated RubiChess } 12. g4 Nd7
+{ played by 3 4 9 7 rated RubiChess } ( 12... a6
+{ played by 3 2 0 1 rated Winter } 13. h4 h5 14. Nd5 hxg4
+{ played by 3 1 8 1 rated Roc } 15. h5 gxf3 { played by 3 1 8 1 rated Roc } 16.
+Bd3 Re8 { played by 3 1 8 1 rated Roc } ( 16... Nxd5
+{ played by 2 8 9 8 rated Protector } 17. Bxg7 Nf4 18. Qxf4 Kxg7 19. e5 f5 20.
+hxg6 Rh8 21. Bxf5 Qd7 22. exd6
+{ In an interesting battle, Protector playing Black, rated 2 8 9 8 could not hold the position, allowing Critter as White rated 3 1 0 5 to win. Both sides showed good positional understanding.1-0 }
+) 17. Rdg1 Nxh5 18. Bxg7 Kxg7 19. Rxh5 Rh8 20. Rxh8 Qxh8 21. Nxe7 Rc7 22. Nf5+
+{ Roc as Black rated 3 1 8 1 could not hold the position, allowing Clover as White rated 3 3 5 5 to win.1-0 }
+) 13. Bxg7 Kxg7 14. Nd5 Bxd5 { played by 3 1 9 3 rated Arasan } 15. exd5 Rc5
+{ played by 3 1 9 3 rated Arasan } 16. h4 Nf6
+{ played by 3 1 9 3 rated Arasan } ( 16... Qa5 { played by 3 0 7 8 rated Lc0 }
+17. c3 Nf6 18. b4 Qb6 19. c4 Kg8 20. Ka1 Rc7 21. h5 a5 22. bxa5
+{ Once again, Andscacs handling the White pieces rated 3 2 3 0 outplayed Lc0 as Black rated 3 0 7 8 and won the game. The outcome was decided in the later stages.1-0 }
+) 17. c4 b5 18. Qd4 Kg8 19. b4 Rc8 20. cxb5 Qc7 21. Rh2 Qc3 22. g5
+{ Rybka, rated 3 1 8 6, had the White pieces remained in control, handing Rybka from the Black side with rating 3 1 5 2 a loss. Small inaccuracies made the difference.1-0 }
+) 10. exd5 Nxd5 { played by 3 6 4 5 rated Stockfish } 11. Nxc6 bxc6 12. Bd4
+Bxd4 { played by 3 6 4 5 rated Stockfish } 13. Qxd4 Qc7
+{ played by 3 5 8 8 rated RubiChess } ( 13... e6
+{ played by 2 7 9 0 rated Texel } 14. Ne4 Qb6 15. c4 Qxd4 16. Rxd4 Ne3
+{ played by 2 7 9 0 rated Texel } ( 16... e5 { played by 2 5 6 8 rated Petir }
+17. Rd3 Nb4 18. Rb3 f5 19. Nc5 Na6 20. Nxa6 Bxa6 21. Ra3 Bb7 22. c5
+{ E.T. handling the White pieces rated 2 6 4 4 outplayed Petir, rated 2 5 6 8, had the Black pieces and won the game. Both sides showed good positional understanding.1-0 }
+) 17. Nc5 Rb8 18. Rd6 h5 19. Rd2 Nxf1 20. Rxf1 Rb6 21. Re1 Kg7 22. Rd6
+{ Gaviota from the White side with rating 2 8 7 1 outplayed Texel from the Black side with rating 2 7 9 0 and won the game. Both sides showed good positional understanding.1-0 }
+) 14. Bc4 Nb6 { played by 3 5 8 8 rated RubiChess } 15. Bd3 Rd8
+{ played by 3 5 5 0 rated Heimdall } 16. Qe3 Be6
+{ we will see this position later on1-0 } 1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Alexandria 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[WhiteElo "3640"]
+[BlackElo "3574"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O { entered in SICILIAN Dragon Yugoslav Attack Rauser Variation }
+9... Nxd4 { played by 3 4 9 7 rated RubiChess } 10. Bxd4 Be6
+{ played by 3 4 9 7 rated RubiChess } 11. Kb1 Rc8
+{ played by 3 4 9 7 rated RubiChess } ( 11... Qc7
+{ played by 3 3 5 3 rated Komodo } 12. h4 h5 { played by 3 5 4 4 rated Seer }
+13. Nd5 Bxd5 14. exd5 Rac8 { played by 3 5 4 4 rated Seer } 15. c3 Qa5 16. Bxf6
+Bxf6 { played by 3 5 4 4 rated Seer } ( 16... exf6
+{ played by 3 3 1 0 rated Booot } 17. g4 Qb6 18. gxh5 f5 19. Rc1 Rfe8 20. hxg6
+fxg6 21. Bd3 Qe3 22. Qc2
+{ Once again, Ethereal, rated 3 3 8 3, had the White pieces outplayed Booot as Black rated 3 3 1 0 and won the game. Both sides showed good positional understanding.1-0 }
+) 17. g4 hxg4 18. fxg4 Kg7 19. h5 g5 20. Be2 Rc5 21. Rhf1 Qa4 22. Rxf6
+{ Torch handling the White pieces rated 3 6 1 1 remained in control, handing Seer on Black with Elo 3 5 4 4 a loss. The position remained tense for most of the game.1-0 }
+) ( 11... a6 { played by 3 1 5 9 rated iCE } 12. g4 Nd7
+{ played by 3 3 5 5 rated Clover } 13. Bxg7 Kxg7 14. Nd5 f6
+{ played by 3 0 9 0 rated RobboLito } 15. Be2 Rc8 16. h4 Ne5
+{ we will see this position later on1-0 } ( 16... Rc5
+{ played by 2 9 4 4 rated Deep } 17. Qe3 Bf7 18. f4 Nb6
+{ Komodo playing White, rated 2 9 6 5 remained in control, handing Deep on Black with Elo 2 9 4 4 a loss. The outcome was decided in the later stages.1-0 }
+) ) 12. g4 a6 { played by 3 2 0 1 rated Winter } 13. h4 h5 14. Nd5 Bxd5
+{ played by 3 1 6 5 rated Komodo } 15. exd5 Re8
+{ played by 3 0 8 8 rated Stockfish } 16. Bxf6 exf6
+{ played by 3 0 8 8 rated Stockfish } ( 16... Bxf6
+{ played by 2 9 8 9 rated Hannibal } 17. gxh5 Qb6 18. Qc1 Rf8 19. hxg6 fxg6 20.
+Bd3 Kf7 21. Rdg1 Ke8 22. Rxg6
+{ Here we see that Komodo playing White, rated 3 1 4 2 converted the advantage and defeated Hannibal on Black with Elo 2 9 8 9. Small inaccuracies made the difference.1-0 }
+) 17. gxh5 f5 18. hxg6 fxg6 19. h5 Qb6 20. Qc1 Re3 21. hxg6 Rxf3 22. Re1
+{ Here we see that After a long struggle, DeepSaros as White rated 3 0 5 3 and Stockfish as Black rated 3 0 8 8 shared the point. The outcome was decided in the later stages.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Alexandria 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[WhiteElo "3640"]
+[BlackElo "3574"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O { entered in SICILIAN Dragon Yugoslav Attack Rauser Variation }
+9... Nxd4 { played by 3 4 9 7 rated RubiChess } ( 9... Bd7
+{ played by 3 4 7 8 rated Ethereal } 10. g4 Ne5
+{ played by 3 4 7 8 rated Ethereal } 11. Kb1 Rc8
+{ played by 3 4 7 8 rated Ethereal } 12. Be2 Nc4
+{ played by 3 2 9 8 rated Xiphos } 13. Bxc4 Rxc4 14. h4 h5 15. gxh5 Nxh5 16.
+Nde2 Kh7 { played by 3 2 9 8 rated Xiphos } ( 16... Be6
+{ played by 3 2 9 5 rated Ethereal } 17. b3 Rc6 18. Bd4 Qd7 19. Bxg7 Kxg7 20.
+Qd4+ Kg8 21. Qxa7 Rfc8 22. Qe3
+{ Here we see that Lambergar from the White side with rating 3 3 0 6 outplayed Ethereal handling the Black pieces rated 3 2 9 5 and won the game.1-0 }
+) 17. b3 Rc8 18. Nd5 e6 19. Ndf4 Qf6 20. Nd4 e5 21. Nxh5 gxh5 22. Bg5
+{ Here we see that Neither Arasan from the White side with rating 3 2 1 2 nor Xiphos handling the Black pieces rated 3 2 9 8 could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+) 10. Bxd4 Be6 { played by 3 4 9 7 rated RubiChess } ( 10... Qa5
+{ played by 3 4 3 1 rated Komodo } 11. Kb1 e5 { played by 3 2 4 3 rated Fizbo }
+12. Be3 Be6 13. a3 Rfd8 { played by 3 2 4 3 rated Fizbo } 14. Nb5 Qxd2 15. Rxd2
+d5 16. Nc7 Rac8 { played by 3 2 4 3 rated Fizbo } ( 16... dxe4
+{ played by 2 5 2 1 rated chess22k } 17. Nxa8 Rxa8 18. Bg5 exf3 19. gxf3 h6 20.
+Bh4 Rc8 21. Bf2 b6 22. Bb5
+{ In an interesting battle, chess22k as Black rated 2 5 2 1 could not hold the position, allowing FabChess from the White side with rating 2 6 1 5 to win. The position remained tense for most of the game.1-0 }
+) 17. Nxe6 fxe6 18. Bxa7 Bh6 19. Rd3 dxe4 20. fxe4 Nxe4 21. Rxd8+ Rxd8 22. Bb5
+{ In this game, Rice on White with Elo 3 1 8 1 remained in control, handing Fizbo on Black with Elo 3 2 4 3 a loss. The outcome was decided in the later stages.1-0 }
+) 11. Kb1 a6 { played by 3 1 5 9 rated iCE } 12. g4 Nd7
+{ played by 3 3 5 5 rated Clover } 13. Bxg7 Kxg7 14. Nd5 Rc8
+{ played by 3 0 0 9 rated Minic } 15. h4 h6 16. Be2 f6
+{ played by 3 0 0 9 rated Minic } ( 16... Bxd5
+{ played by 2 9 2 3 rated Protector } 17. exd5 Qc7 18. c3 Rg8 19. f4 Kf8 20. g5
+h5 21. Rhe1 Kg7 22. Qd4+
+{ Here we see that Protector as Black rated 2 9 2 3 could not hold the position, allowing Komodo, rated 3 1 2 3, had the White pieces to win.1-0 }
+) 17. f4 Rc5 18. g5 h5 19. Qd4 Qe8 20. Rhg1 Kh8 21. Ne3 Ra5 22. b3
+{ Lc0 from the White side with rating 3 0 9 6 outplayed Minic, rated 3 0 0 9, had the Black pieces and won the game. The opening quickly led to complex middlegame play.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Alexandria 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[WhiteElo "3640"]
+[BlackElo "3574"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O { entered in SICILIAN Dragon Yugoslav Attack Rauser Variation }
+9... d5 { played by 3 6 4 5 rated Stockfish } 10. exd5 Nxd5
+{ played by 3 6 4 5 rated Stockfish } 11. Nxc6 bxc6 12. Bd4 Bxd4
+{ played by 3 6 4 5 rated Stockfish } 13. Qxd4 Qb6
+{ played by 3 6 4 5 rated Stockfish } ( 13... Qc7
+{ played by 3 5 8 8 rated RubiChess } 14. Bc4 Nb6
+{ played by 3 5 8 8 rated RubiChess } 15. Bd3 Be6
+{ played by 3 5 8 8 rated RubiChess } ( 15... Rd8
+{ played by 3 5 5 0 rated Heimdall } 16. Qe3 Nd5
+{ played by 3 5 5 0 rated Heimdall } 17. Nxd5 cxd5
+{ played by 3 5 5 0 rated Heimdall } ( 17... Rxd5
+{ played by 3 4 0 1 rated Rice } 18. Bc4 Rxd1+ 19. Rxd1 a5 20. h4 Ba6 21. Bxa6
+Rxa6 22. h5
+{ In an interesting battle, Berserk handling the White pieces rated 3 5 8 4 converted the advantage and defeated Rice as Black rated 3 4 0 1. The outcome was decided in the later stages.1-0 }
+) 18. h4 Rb8 19. h5 Qb6 20. Qe5 f6 21. Qxe7 Qxb2+ 22. Kd2
+{ In an interesting battle, Heimdall handling the Black pieces rated 3 5 5 0 could not hold the position, allowing Uralochka playing White, rated 3 6 0 4 to win. The outcome was decided in the later stages.1-0 }
+) 16. Qe3 Rfd8 17. h4 Nd5 { played by 3 5 8 8 rated RubiChess } ( 17... Bc4
+{ played by 3 5 3 4 rated Clover } 18. h5 Bxd3 19. cxd3 Nd5 20. Nxd5 cxd5+ 21.
+Kb1 Rab8 22. Rd2
+{ Clover handling the Black pieces rated 3 5 3 4 could not hold the position, allowing Igel from the White side with rating 3 5 5 8 to win. The position remained tense for most of the game.1-0 }
+) 18. Nxd5 Rxd5 19. h5 Qe5 20. Qxe5 Rxe5 21. h6 Kf8 22. b3
+{ Once again, Stockfish handling the White pieces rated 3 6 2 9 remained in control, handing RubiChess handling the Black pieces rated 3 5 5 9 a loss. The outcome was decided in the later stages.1-0 }
+) 14. Na4 Qc7 { played by 3 6 4 5 rated Stockfish } ( 14... Qa5
+{ played by 3 6 4 3 rated Stockfish } 15. b3 Qc7
+{ played by 3 6 4 3 rated Stockfish } 16. Bc4 Nb6
+{ played by 3 6 2 1 rated Clover } 17. Nc5 h5
+{ played by 3 6 2 1 rated Clover } 18. Rhe1 Bf5 19. Qh4 Nxc4 20. Qxc4 Rad8 21.
+g4 Rxd1+ 22. Rxd1
+{ Here we see that After a long struggle, Alexandria from the White side with rating 3 6 3 1 and Clover, rated 3 6 2 1, had the Black pieces shared the point. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 15. Nc5 a5 { played by 3 6 4 3 rated ShashChess } 16. a4 Rd8
+{ played by 3 6 4 3 rated ShashChess } 17. g4 Rb8
+{ played by 3 6 1 2 rated Astra } ( 17... Qd6
+{ played by 3 5 9 7 rated Caissa } 18. Bc4 Nb6 19. Qe3 Nd5 20. Bxd5 cxd5 21.
+Rhe1 e6 22. Ne4
+{ Here we see that Caissa as Black rated 3 5 2 5 could not hold the position, allowing Stockfish as White rated 3 6 4 0 to win. Both sides showed good positional understanding.1-0 }
+) 18. Bc4 { we will see this position later on1/2-1/2 } 1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Alexandria 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[WhiteElo "3640"]
+[BlackElo "3574"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O { entered in SICILIAN Dragon Yugoslav Attack Rauser Variation }
+9... d5 { played by 3 6 4 5 rated Stockfish } 10. exd5 Nxd5
+{ played by 3 6 4 5 rated Stockfish } 11. Nxc6 bxc6 12. Bd4 Bxd4
+{ played by 3 6 4 5 rated Stockfish } ( 12... e5
+{ played by 3 6 3 6 rated ShashChess } 13. Bc5 Re8
+{ played by 3 6 3 6 rated ShashChess } 14. Ne4 Be6
+{ played by 3 6 3 6 rated ShashChess } 15. h4 h5
+{ played by 3 6 1 7 rated Alexandria } ( 15... h6
+{ played by 3 5 8 3 rated Chess } 16. h5 g5 17. g4 Nf4
+{ played by 3 4 8 8 rated SlowChess } 18. Qb4 Qc7 19. Bc4 Bd5 20. Rd2 Red8 21.
+Rhd1 Rd7 22. Qa4
+{ Dragon from the White side with rating 3 5 8 0 remained in control, handing SlowChess playing Black, rated 3 4 8 8 a loss. The position remained tense for most of the game.1-0 }
+) ( 15... Nf4 { played by 3 5 8 2 rated Clover } 16. g3 Qxd2+
+{ played by 3 5 8 2 rated Clover } ( 16... Nh5
+{ played by 3 5 6 5 rated Clarity } 17. Qc3 Bh6+
+{ played by 3 4 5 7 rated Black } 18. Be3 Bxe3+ 19. Qxe3 Qe7 20. g4 Nf6 21.
+Nxf6+ Qxf6 22. g5
+{ Once again, Black playing Black, rated 3 4 5 7 could not hold the position, allowing Caissa as White rated 3 5 5 8 to win. Both sides showed good positional understanding.1-0 }
+) 17. Rxd2 Nd5 { played by 3 5 6 5 rated Clarity } 18. g4 Nf4
+{ we will see this position later on1-0 } ) 16. Bc4 a5
+{ played by 3 1 5 2 rated Rybka } 17. a4 Rb8 { played by 3 1 5 2 rated Rybka }
+( 17... Qc7 { played by 2 8 1 4 rated Toga } 18. Bd6 Qd7 19. Ba3 Red8 20. Qg5
+Kh7 21. Qg3 Bf5 22. Bc5
+{ In an interesting battle, Toga playing White, rated 2 7 9 9 and Toga handling the Black pieces rated 2 8 1 4 played a balanced game which ended in a draw. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 18. b3 Nf4 19. Qe3 Bd5 20. g3 Ne6 21. Bd6 Bxc4 22. Bxb8
+{ Once again, Rybka playing Black, rated 3 1 5 2 outplayed Stockfish on White with Elo 2 9 7 0 and won as Black. The position remained tense for most of the game.0-1 }
+) 13. Qxd4 Qc7 { played by 3 5 8 8 rated RubiChess } 14. Bc4 Be6
+{ played by 3 4 6 3 rated Uralochka } 15. Bxd5 cxd5 16. Nxd5 Bxd5 17. Qxd5 Rad8
+{ played by 3 3 0 8 rated Avalanche } 18. Qe4 Rxd1+ 19. Rxd1 Qxh2 20. f4 h5 21.
+b3 Rc8 22. Rd2
+{ Once again, Alexandria, rated 3 3 8 4, had the White pieces remained in control, handing Avalanche playing Black, rated 3 3 0 8 a loss. Both sides showed good positional understanding.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Alexandria 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[WhiteElo "3640"]
+[BlackElo "3574"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O { entered in SICILIAN Dragon Yugoslav Attack Rauser Variation }
+9... Nxd4 { played by 3 4 9 7 rated RubiChess } ( 9... Bd7
+{ played by 3 4 7 8 rated Ethereal } 10. g4 Ne5
+{ played by 3 4 7 8 rated Ethereal } 11. Kb1 Rc8
+{ played by 3 4 7 8 rated Ethereal } 12. Be2 Nc4
+{ played by 3 2 9 8 rated Xiphos } 13. Bxc4 Rxc4 14. h4 h5 15. gxh5 Nxh5 16.
+Nde2 a6 { played by 3 1 5 8 rated Roc } 17. Rhg1 Kh7
+{ played by 3 2 8 8 rated Arasan } ( 17... Qe8 { played by 3 1 5 8 rated Roc }
+18. b3 Rc6 19. Nd5 e6 20. Nb4 Rc8 21. Qxd6 Bb5 22. c4
+{ Neither Francesca as White rated 2 9 8 5 nor Roc as Black rated 3 1 5 8 could convert, and the game was drawn.1/2-1/2 }
+) ( 17... b5 { played by 3 1 1 8 rated Atlas } 18. Bh6 Kh7 19. Bxg7 Kxg7 20. b3
+Rc6 21. Nd5 e6 22. Qd4+
+{ In this game, Atlas playing Black, rated 3 1 1 8 could not hold the position, allowing DanaSah playing White, rated 3 1 8 1 to win.1-0 }
+) 18. Nd5 e6 19. Bb6 Qe8 20. Ne3 Rc6 21. Qb4 Rh8 22. Nd4
+{ Stockfish handling the White pieces rated 3 1 4 8 outplayed Arasan handling the Black pieces rated 3 2 8 8 and won the game. The outcome was decided in the later stages.1-0 }
+) ( 9... a6 { played by 3 3 5 5 rated Clover } 10. g4 Nd7
+{ played by 3 1 3 5 rated Arasan } 11. h4 Bxd4
+{ played by 3 1 3 5 rated Arasan } 12. Bxd4 Nxd4 13. Qxd4 Ne5 14. Be2 Nc6
+{ played by 3 1 3 5 rated Arasan } 15. Qe3 e5 16. Nd5 Be6 17. h5 g5
+{ played by 3 1 3 5 rated Arasan } ( 17... Bxd5
+{ played by 3 0 3 2 rated Texel } 18. exd5 Nd4 19. Bd3 g5 20. c3 Rc8 21. Kd2
+Nb5 22. Qe4
+{ In an interesting battle, Deep as White rated 3 0 4 5 remained in control, handing Texel as Black rated 3 0 3 2 a loss. Small inaccuracies made the difference.1-0 }
+) 18. Nc7 Rb8 19. Rxd6 Qe7 20. h6 Rfc8 21. Rxc6 bxc6 22. Nxe6
+{ In this game, Arasan from the Black side with rating 3 1 3 5 could not hold the position, allowing Andscacs from the White side with rating 3 2 8 5 to win. The position remained tense for most of the game.1-0 }
+) 10. Bxd4 Qa5 { played by 3 4 3 1 rated Komodo } 11. Kb1 b6
+{ played by 3 4 3 1 rated Komodo } 12. Nd5 Nxd5 13. Qxa5 bxa5 14. Bxg7 Kxg7 15.
+Rxd5 a4 16. Ra5 Bd7 17. Bc4 Rac8 { played by 3 4 3 1 rated Komodo } ( 17...
+Rfd8 { played by 3 2 1 3 rated Houdini } 18. Rd1 Rac8 19. Bb5 Rc5 20. Rd5 Bxb5
+21. Rxb5 Rdc8 22. Rdxc5
+{ Here we see that After a long struggle, Spark handling the White pieces rated 2 9 9 1 and Houdini playing Black, rated 3 2 1 3 shared the point. The position remained tense for most of the game.1/2-1/2 }
+) 18. Rxa7 Rxc4 19. Rxd7 Rfc8 20. c3 a3 21. Rxe7 axb2 22. Rb7
+{ In this game, Neither Fritz on White with Elo 3 3 2 2 nor Komodo on Black with Elo 3 4 3 1 could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Alexandria 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[WhiteElo "3640"]
+[BlackElo "3574"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O { entered in SICILIAN Dragon Yugoslav Attack Rauser Variation }
+9... d5 { played by 3 6 4 5 rated Stockfish } 10. exd5 Nxd5
+{ played by 3 6 4 5 rated Stockfish } 11. Nxc6 bxc6 12. Bd4 Nxc3
+{ played by 3 6 4 5 rated Stockfish } 13. Qxc3 Bh6+
+{ played by 3 6 4 5 rated Stockfish } 14. Be3 Bxe3+ 15. Qxe3 Qb6 16. Qxe7 Be6
+17. Qa3 Rfd8 { played by 3 6 1 9 rated ShashChess } ( 17... Rad8
+{ played by 3 5 8 8 rated ShashChess } 18. Bd3 Qf2
+{ played by 3 5 8 8 rated ShashChess } ( 18... Qd4
+{ played by 3 5 1 2 rated Caissa } 19. h4 h5 20. Be4 Qf2 21. Qa5 Rxd1+ 22. Rxd1
+{ ShashChess handling the White pieces rated 3 6 3 6 outplayed Caissa handling the Black pieces rated 3 5 1 2 and won the game.1-0 }
+) ( 18... c5 { played by 3 3 9 1 rated Igel } 19. Rhe1 c4 20. Bf1 h5 21. h3 h4
+22. Qc3
+{ Here we see that After a long struggle, SlowChess playing White, rated 3 4 4 5 and Igel as Black rated 3 3 9 1 shared the point. The position remained tense for most of the game.1/2-1/2 }
+) 19. Rd2 Qe3 20. Qc3 Rd5 21. b3 Rc5 22. Qf6
+{ In an interesting battle, Neither Dragon on White with Elo 3 6 0 0 nor Fritz as Black rated 3 5 5 8 could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
+) ( 17... a5 { played by 3 5 7 8 rated Igel } 18. Bd3 Rfb8
+{ played by 3 5 7 8 rated Igel } ( 18... Rab8
+{ played by 3 4 0 4 rated Revenge } 19. Be4 c5 20. Rhe1 a4 21. Bd5 Bxd5 22.
+Rxd5
+{ Once again, Neither Clover as White rated 3 2 7 4 nor Revenge on Black with Elo 3 4 0 4 could convert, and the game was drawn.1/2-1/2 }
+) 19. Rhe1 a4 20. h4 Ra5 21. Re2 Qc7 22. Re4
+{ In this game, Alexandria from the White side with rating 3 5 7 4 and Igel as Black rated 3 5 7 8 played a balanced game which ended in a draw. The outcome was decided in the later stages.1/2-1/2 }
+) 18. Bd3 Rd5 { played by 3 5 7 4 rated Alexandria } 19. Qc3 Rc5 20. Qf6 Bxa2
+21. Rhe1 Qa5 22. Re7
+{ Once again, ShashChess playing White, rated 3 6 0 2 converted the advantage and defeated Ginkgo as Black rated 3 4 2 1. Both sides showed good positional understanding.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Alexandria 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[WhiteElo "3640"]
+[BlackElo "3574"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O { entered in SICILIAN Dragon Yugoslav Attack Rauser Variation }
+9... d5 { played by 3 6 4 5 rated Stockfish } 10. exd5 Nxd5
+{ played by 3 6 4 5 rated Stockfish } 11. Nxc6 bxc6 12. Bd4 Bxd4
+{ played by 3 6 4 5 rated Stockfish } ( 12... e5
+{ played by 3 6 3 6 rated ShashChess } 13. Bc5 Re8
+{ played by 3 6 3 6 rated ShashChess } 14. Ne4 Be6
+{ played by 3 6 3 6 rated ShashChess } 15. h4 h5
+{ played by 3 6 1 7 rated Alexandria } 16. Bc4 Nf4
+{ played by 3 6 1 7 rated Alexandria } 17. Bxe6 Nxe6
+{ played by 3 6 1 7 rated Alexandria } 18. Qc3 Qc7
+{ played by 3 5 2 3 rated Koivisto } 19. Bd6 Qc8 20. Qc4 Nf4 21. g3 Qe6 22. Qa6
+{ Once again, Neither Ethereal on White with Elo 3 5 0 0 nor Koivisto on Black with Elo 3 5 2 3 could convert, and the game was drawn.1/2-1/2 }
+) 13. Qxd4 Qb6 { played by 3 6 4 5 rated Stockfish } ( 13... Qc7
+{ played by 3 5 8 8 rated RubiChess } 14. Bc4 Be6
+{ played by 3 4 6 3 rated Uralochka } 15. Bxd5 cxd5 16. Nxd5 Bxd5 17. Qxd5 Rfc8
+{ played by 3 5 1 6 rated RubiChess } 18. Qd2 a5
+{ played by 3 5 1 6 rated RubiChess } ( 18... Rd8
+{ played by 3 4 5 8 rated Halogen } 19. Qg5 Rxd1+ 20. Rxd1 Qxh2 21. b3 h6 22.
+Qd5
+{ In an interesting battle, Clover playing White, rated 3 5 2 5 converted the advantage and defeated Halogen from the Black side with rating 3 4 5 8. Small inaccuracies made the difference.1-0 }
+) 19. h3 a4 20. Rhe1 Rab8 21. Re4 Qb6 22. Qd4
+{ In this game, Berserk handling the White pieces rated 3 5 4 2 outplayed RubiChess playing Black, rated 3 5 1 6 and won the game.1-0 }
+) 14. Na4 Qc7 { played by 3 6 4 5 rated Stockfish } ( 14... Qa5
+{ played by 3 6 4 3 rated Stockfish } 15. b3 Bf5
+{ played by 3 6 3 4 rated Obsidian } 16. g4 Be6
+{ played by 3 6 1 7 rated Berserk } 17. Qe5 Qb4 18. c4 Qa3+
+{ played by 3 6 1 7 rated Berserk } 19. Kb1 Rab8 20. cxd5 Bxd5 21. Nb2 Bxf3 22.
+Bc4
+{ Here we see that Neither Clover playing White, rated 3 5 9 3 nor Berserk on Black with Elo 3 6 1 7 could convert, and the game was drawn. Small inaccuracies made the difference.1/2-1/2 }
+) 15. Nc5 a5 { played by 3 6 4 3 rated ShashChess } ( 15... Rd8
+{ played by 3 6 4 3 rated Stockfish } 16. Bc4 Bf5
+{ played by 3 6 4 3 rated Stockfish } 17. Bb3 Nf4
+{ played by 3 6 0 9 rated Obsidian } 18. Qf2 Qb6
+{ played by 3 2 9 4 rated Arasan } 19. g3 Ne6 20. Bxe6 Bxe6 21. Rhe1 Rd5 22.
+Rxd5
+{ In an interesting battle, Ethereal as White rated 3 4 7 8 remained in control, handing Arasan playing Black, rated 3 2 9 4 a loss.1-0 }
+) 16. a4 Rd8 { played by 3 6 4 3 rated ShashChess } 17. g4 Rd6
+{ played by 3 6 4 3 rated ShashChess } 18. Bc4 Nb6
+{ played by 3 6 4 3 rated ShashChess } 19. Qe4 Nxc4 20. Qxc4 Be6 21. Nxe6 Rxe6
+22. b3
+{ Once again, Neither ShashChess, rated 3 6 4 3, had the White pieces nor Viridithas playing Black, rated 3 6 0 4 could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Alexandria 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[WhiteElo "3640"]
+[BlackElo "3574"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O { entered in SICILIAN Dragon Yugoslav Attack Rauser Variation }
+9... d5 { played by 3 6 4 5 rated Stockfish } 10. exd5 Nxd5
+{ played by 3 6 4 5 rated Stockfish } 11. Nxc6 bxc6 12. Bd4 e5
+{ played by 3 6 3 6 rated ShashChess } ( 12... Nxc3
+{ played by 3 6 4 5 rated Stockfish } 13. Qxc3 Bh6+
+{ played by 3 6 4 5 rated Stockfish } 14. Be3 Bxe3+ 15. Qxe3 Qb6 16. Qxe7 Be6
+17. Qa3 Rad8 { played by 3 5 8 8 rated ShashChess } 18. Bd3 Rd5
+{ played by 3 5 6 6 rated Alexandria } 19. b3 Rd7
+{ played by 3 5 4 5 rated SlowChess } 20. Rhe1 Rfd8 21. Qb2 a5 22. a4
+{ Once again, Caissa on White with Elo 3 5 9 2 and SlowChess handling the Black pieces rated 3 5 4 5 played a balanced game which ended in a draw. Small inaccuracies made the difference.1/2-1/2 }
+) ( 12... Bxd4 { played by 3 6 4 5 rated Stockfish } 13. Qxd4 Qb6
+{ played by 3 6 4 5 rated Stockfish } 14. Na4 Qc7
+{ played by 3 6 4 5 rated Stockfish } 15. Nc5 a5
+{ played by 3 6 4 3 rated ShashChess } 16. a4 Rd8
+{ played by 3 6 4 3 rated ShashChess } 17. g4 Rd6
+{ played by 3 6 4 3 rated ShashChess } ( 17... Bb7
+{ played by 3 5 7 1 rated Viridithas } 18. Re1 Bc8 19. h4 Rb8
+{ played by 3 5 7 1 rated Viridithas } ( 19... Qg3
+{ played by 3 5 4 5 rated SlowChess } 20. Be2 Rb8 21. h5 Rb4 22. c4
+{ Here we see that Stockfish from the White side with rating 3 6 4 0 and SlowChess from the Black side with rating 3 5 4 5 played a balanced game which ended in a draw. Both sides showed good positional understanding.1/2-1/2 }
+) 20. h5 Rb4 21. Qe5 Qxe5 22. Rxe5
+{ Stockfish on White with Elo 3 6 3 8 and Viridithas playing Black, rated 3 5 7 1 played a balanced game which ended in a draw. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 18. Bc4 Rb8 { played by 3 6 3 2 rated Reckless } 19. Rde1 Rd8
+{ played by 3 6 3 2 rated Reckless } ( 19... Rb4
+{ played by 3 5 2 1 rated Igel } 20. b3 Nb6 21. Bxf7+ Kxf7 22. Qh8
+{ Here we see that Dragon from the White side with rating 3 5 9 2 and Igel on Black with Elo 3 5 2 1 played a balanced game which ended in a draw. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 20. Rd1 Rd6 { we will see this position later on1/2-1/2 } ) 13. Bc5 Re8
+{ played by 3 6 3 6 rated ShashChess } 14. Ne4 Be6
+{ played by 3 6 3 6 rated ShashChess } 15. h4 Nf4
+{ played by 3 5 8 2 rated Clover } 16. g3 Nh5
+{ played by 3 5 6 5 rated Clarity } 17. Qc3 Qc7
+{ played by 3 5 6 5 rated Clarity } 18. g4 Nf6
+{ played by 3 5 6 5 rated Clarity } ( 18... Ng3
+{ played by 3 5 6 1 rated Koivisto } 19. Nxg3 e4
+{ In this game, Alexandria from the White side with rating 3 5 8 4 remained in control, handing Koivisto, rated 3 5 6 1, had the Black pieces a loss. Small inaccuracies made the difference.1-0 }
+) 19. Nxf6+ Bxf6 20. Bd3 Rad8 21. h5 Rd7 22. b3
+{ Alexandria from the White side with rating 3 6 1 7 converted the advantage and defeated Clarity, rated 3 5 6 5, had the Black pieces. Both sides showed good positional understanding.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Alexandria 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[WhiteElo "3640"]
+[BlackElo "3574"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O { entered in SICILIAN Dragon Yugoslav Attack Rauser Variation }
+9... d5 { played by 3 6 4 5 rated Stockfish } 10. exd5 Nxd5
+{ played by 3 6 4 5 rated Stockfish } 11. Nxc6 bxc6 12. Bd4 Bxd4
+{ played by 3 6 4 5 rated Stockfish } 13. Qxd4 Qb6
+{ played by 3 6 4 5 rated Stockfish } 14. Na4 Qc7
+{ played by 3 6 4 5 rated Stockfish } 15. Nc5 a5
+{ played by 3 6 4 3 rated ShashChess } ( 15... Rd8
+{ played by 3 6 4 3 rated Stockfish } 16. Bc4 Bf5
+{ played by 3 6 4 3 rated Stockfish } 17. Bb3 Nb6
+{ played by 3 6 4 3 rated Stockfish } ( 17... Nf4
+{ played by 3 6 0 9 rated Obsidian } 18. Qf2 Rxd1+
+{ played by 3 6 0 9 rated Obsidian } 19. Rxd1 Rd8
+{ played by 3 6 0 9 rated Obsidian } ( 19... h5
+{ played by 3 5 3 4 rated Clover } 20. g3 Nd5 21. Rd2 Re8 22. Qg1
+{ Here we see that After a long struggle, Arasan playing White, rated 3 4 9 9 and Clover as Black rated 3 5 3 4 shared the point. Both sides showed good positional understanding.1/2-1/2 }
+) 20. Re1 h5 21. a3 e6 22. g3
+{ In this game, After a long struggle, PlentyChess playing White, rated 3 6 2 1 and Igel from the Black side with rating 3 5 7 8 shared the point. Both sides showed good positional understanding.1/2-1/2 }
+) 18. Qc3 h5 19. g3 Rac8 { played by 3 5 4 5 rated Rebel } ( 19... Rd6
+{ played by 3 3 6 8 rated Komodo } 20. Rhe1 Rxd1+ 21. Kxd1 Rd8+ 22. Kc1
+{ Neither Alexandria from the White side with rating 3 3 8 4 nor Komodo from the Black side with rating 3 3 6 8 could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+) 20. a3 e6 21. Rhe1 Qe7 22. Qe3
+{ In this game, Neither Chess as White rated 3 5 8 3 nor Rebel on Black with Elo 3 5 4 5 could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+) 16. a4 h5 { played by 3 6 4 3 rated ShashChess } 17. g3 Rd8 18. Bc4 Bf5 19.
+Qf2 Qa7 { played by 3 6 3 5 rated Torch } ( 19... Rd6
+{ played by 3 6 3 2 rated Reckless } 20. Rhe1 Rad8 21. Ne4 R6d7 22. Bb3
+{ Once again, Uralochka handling the Black pieces rated 3 6 0 4 could not hold the position, allowing Alexandria on White with Elo 3 6 3 1 to win. Small inaccuracies made the difference.1-0 }
+) 20. Rhf1 e6 21. Rg1 Nf6 22. Rgf1
+{ After a long struggle, ShashChess handling the White pieces rated 3 6 4 3 and Torch handling the Black pieces rated 3 6 3 5 shared the point. The outcome was decided in the later stages.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Alexandria 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[WhiteElo "3640"]
+[BlackElo "3574"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O { entered in SICILIAN Dragon Yugoslav Attack Rauser Variation }
+9... d5 { played by 3 6 4 5 rated Stockfish } 10. exd5 Nxd5
+{ played by 3 6 4 5 rated Stockfish } 11. Nxc6 bxc6 12. Bd4 Bxd4
+{ played by 3 6 4 5 rated Stockfish } ( 12... e5
+{ played by 3 6 3 6 rated ShashChess } 13. Bc5 Re8
+{ played by 3 6 3 6 rated ShashChess } 14. Ne4 Be6
+{ played by 3 6 3 6 rated ShashChess } 15. h4 h6
+{ played by 3 5 8 3 rated Chess } 16. h5 g5 17. g4 Qc7
+{ played by 3 5 8 3 rated Chess } 18. Bc4 Red8 19. Qf2 Rd7
+{ played by 3 5 8 3 rated Chess } ( 19... f5 { played by 3 5 6 9 rated Rebel }
+20. gxf5 Bxf5 21. Rd2 Kh8 22. Rhd1
+{ Here we see that Caissa playing White, rated 3 5 9 2 remained in control, handing Rebel, rated 3 5 6 9, had the Black pieces a loss. The outcome was decided in the later stages.1-0 }
+) ( 19... Nf4 { played by 3 5 4 3 rated Chess } 20. Bxe6 Nxe6
+{ In this game, Deep as White rated 3 4 9 1 outplayed Chess playing Black, rated 3 5 4 3 and won the game.1-0 }
+) ( 19... Kh8 { played by 3 4 9 6 rated Fire } 20. Rd2 a5 21. a4 f5 22. gxf5
+{ Dragon playing White, rated 3 6 2 4 converted the advantage and defeated Fire on Black with Elo 3 4 9 6. The position remained tense for most of the game.1-0 }
+) 20. Ba3 Rdd8 21. Rd2 f5 22. gxf5
+{ Once again, Chess handling the Black pieces rated 3 5 8 3 could not hold the position, allowing Alexandria from the White side with rating 3 5 8 4 to win.1-0 }
+) 13. Qxd4 Qb6 { played by 3 6 4 5 rated Stockfish } 14. Na4 Qa5
+{ played by 3 6 4 3 rated Stockfish } 15. b3 Qc7
+{ played by 3 6 4 3 rated Stockfish } ( 15... Bf5
+{ played by 3 6 3 4 rated Obsidian } 16. g4 Be6
+{ played by 3 6 1 7 rated Berserk } 17. Qe5 Qb4 18. c4 Nf6
+{ played by 3 6 1 7 rated Berserk } 19. h4 Rfd8
+{ played by 3 6 0 0 rated Caissa } ( 19... Rad8
+{ played by 3 5 7 9 rated Ethereal } 20. Bd3 Nd7 21. Qe3 Rb8 22. Rd2
+{ Once again, pawnocchio from the White side with rating 3 5 9 9 outplayed Ethereal, rated 3 5 7 9, had the Black pieces and won the game. The opening quickly led to complex middlegame play.1-0 }
+) 20. Bd3 Nd7 21. Qg5 f6 22. Qe3
+{ Stockfish from the White side with rating 3 6 3 8 outplayed Caissa from the Black side with rating 3 6 0 0 and won the game.1-0 }
+) 16. Bc4 Nb6 { played by 3 6 2 1 rated Clover } 17. Nc5 Bf5
+{ played by 3 4 9 3 rated Arasan } 18. Na6 Qb7 19. g4 Rfd8
+{ played by 3 4 9 3 rated Arasan } ( 19... Rad8
+{ played by 3 4 6 6 rated Black } 20. Qxd8 Rxd8
+{ we will see this position later on1-0 } ) 20. Qxd8+ Rxd8 21. Rxd8+ Kg7 22.
+Rb8
+{ Here we see that Black playing Black, rated 3 4 6 6 could not hold the position, allowing Uralochka as White rated 3 5 6 3 to win. The position remained tense for most of the game.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Alexandria 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[WhiteElo "3640"]
+[BlackElo "3574"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O { entered in SICILIAN Dragon Yugoslav Attack Rauser Variation }
+9... d5 { played by 3 6 4 5 rated Stockfish } 10. exd5 Nxd5
+{ played by 3 6 4 5 rated Stockfish } 11. Nxc6 bxc6 12. Bd4 e5
+{ played by 3 6 3 6 rated ShashChess } ( 12... Nxc3
+{ played by 3 6 4 5 rated Stockfish } 13. Qxc3 Bh6+
+{ played by 3 6 4 5 rated Stockfish } 14. Be3 Bxe3+ 15. Qxe3 Qb6 16. Qxe7 Be6
+17. Qa3 Rfd8 { played by 3 6 1 9 rated ShashChess } ( 17... Rad8
+{ played by 3 5 8 8 rated ShashChess } 18. Bd3 Rd5
+{ played by 3 5 6 6 rated Alexandria } 19. b3 Rfd8
+{ played by 3 5 6 6 rated Alexandria } 20. Rde1 Rd4
+{ played by 3 5 6 6 rated Alexandria } ( 20... R5d6
+{ played by 3 4 8 7 rated Rebel } 21. Re2 Qd4 22. Rhe1
+{ Dragon from the White side with rating 3 5 9 2 outplayed Rebel playing Black, rated 3 4 8 7 and won the game. The position remained tense for most of the game.1-0 }
+) ( 20... c5 { played by 3 0 5 8 rated Rybka } 21. Qa6 Qb4 22. Rxe6
+{ Here we see that Neither Critter playing White, rated 3 0 2 2 nor Rybka playing Black, rated 3 0 5 8 could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
+) 21. h4 c5 22. Qa6
+{ In an interesting battle, Caissa from the White side with rating 3 5 9 2 converted the advantage and defeated Alexandria as Black rated 3 5 6 6. The opening quickly led to complex middlegame play.1-0 }
+) 18. Bd3 Qf2 { played by 3 6 1 9 rated ShashChess } 19. Rd2 Qe3 20. Qc3 Rd5
+{ played by 3 6 0 7 rated ShashChess } ( 20... c5
+{ played by 3 6 0 0 rated Dragon } 21. Rd1 Rd7 22. Be2
+{ Neither ShashChess handling the White pieces rated 3 6 0 7 nor Dragon playing Black, rated 3 6 0 0 could convert, and the game was drawn. Small inaccuracies made the difference.1/2-1/2 }
+) 21. Rd1 Rad8 22. Kb1
+{ In an interesting battle, Neither Stockfish handling the White pieces rated 3 6 4 0 nor Alexandria on Black with Elo 3 5 7 4 could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+) 13. Bc5 Re8 { played by 3 6 3 6 rated ShashChess } 14. Ne4 Be6
+{ played by 3 6 3 6 rated ShashChess } 15. h4 Nf4
+{ played by 3 5 8 2 rated Clover } 16. g3 Qxd2+
+{ played by 3 5 8 2 rated Clover } 17. Rxd2 Nh5
+{ played by 3 5 8 2 rated Clover } 18. g4 Nf4 19. g5 a5
+{ played by 3 5 6 1 rated Koivisto } 20. a4 Bd5
+{ we will see this position later on1-0 } 1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Alexandria 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[WhiteElo "3640"]
+[BlackElo "3574"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O { entered in SICILIAN Dragon Yugoslav Attack Rauser Variation }
+9... d5 { played by 3 6 4 5 rated Stockfish } 10. exd5 Nxd5
+{ played by 3 6 4 5 rated Stockfish } 11. Nxc6 bxc6 12. Bd4 Bxd4
+{ played by 3 6 4 5 rated Stockfish } 13. Qxd4 Qb6
+{ played by 3 6 4 5 rated Stockfish } 14. Na4 Qa5
+{ played by 3 6 4 3 rated Stockfish } 15. b3 Qc7
+{ played by 3 6 4 3 rated Stockfish } ( 15... Bf5
+{ played by 3 6 3 4 rated Obsidian } 16. g4 Be6
+{ played by 3 6 1 7 rated Berserk } 17. Qe5 Qb4 18. c4 Nf6
+{ played by 3 6 1 7 rated Berserk } 19. h4 Rab8
+{ played by 3 6 1 7 rated Berserk } ( 19... Nd7
+{ played by 3 6 1 7 rated Berserk } 20. Qe3 Qa5
+{ played by 3 4 8 8 rated SlowChess } 21. Bd3 Qe5 22. Rhe1
+{ Here we see that Stockfish as White rated 3 5 9 9 remained in control, handing SlowChess playing Black, rated 3 4 8 8 a loss. Both sides showed good positional understanding.1-0 }
+) 20. h5 Qa3+ { played by 3 6 1 7 rated Berserk } 21. Qb2 Qxb2+ 22. Kxb2
+{ Clover handling the White pieces rated 3 6 2 1 outplayed Berserk, rated 3 6 1 7, had the Black pieces and won the game. Both sides showed good positional understanding.1-0 }
+) ( 15... Be6 { played by 3 6 1 6 rated Dragon } 16. Qe5 Qb4 17. Kb2 Qd6
+{ played by 3 6 1 6 rated Dragon } 18. Qxd6 exd6 19. c4 Ne3 20. Rd3 Nf5
+{ played by 3 6 1 6 rated Dragon } ( 20... Nxf1
+{ played by 3 4 6 4 rated Fire } 21. Rxf1 d5 22. cxd5
+{ Once again, Neither Carp handling the White pieces rated 3 4 5 4 nor Fire, rated 3 4 6 4, had the Black pieces could convert, and the game was drawn.1/2-1/2 }
+) 21. g4 Nh4 22. Rxd6
+{ Once again, After a long struggle, Stockfish from the White side with rating 3 6 2 2 and Dragon, rated 3 6 1 6, had the Black pieces shared the point. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 16. Bc4 Rd8 { played by 3 6 4 3 rated Stockfish } 17. g4 Be6 18. Nc5 Nf4 19.
+Nxe6 Nxe6 20. Qe4 Ng5 { played by 3 6 4 3 rated ShashChess } ( 20... Nf4
+{ played by 3 3 8 4 rated Devre } 21. h4 e6 22. h5
+{ In this game, Uralochka handling the White pieces rated 3 4 6 3 remained in control, handing Devre as Black rated 3 3 8 4 a loss. The outcome was decided in the later stages.1-0 }
+) ( 20... Qf4+ { played by 3 2 1 0 rated Little } 21. Qxf4 Nxf4 22. Rhe1
+{ In this game, The game between Expositor playing White, rated 3 2 7 1 and Little playing Black, rated 3 2 1 0 finished level. Small inaccuracies made the difference.1/2-1/2 }
+) 21. Qe3 Nh3 22. g5
+{ Once again, The game between ShashChess, rated 3 6 4 3, had the White pieces and pawnocchio from the Black side with rating 3 5 9 9 finished level. The position remained tense for most of the game.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Alexandria 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[WhiteElo "3640"]
+[BlackElo "3574"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O { entered in SICILIAN Dragon Yugoslav Attack Rauser Variation }
+9... d5 { played by 3 6 4 5 rated Stockfish } 10. exd5 Nxd5
+{ played by 3 6 4 5 rated Stockfish } 11. Nxc6 bxc6 12. Bd4 Bxd4
+{ played by 3 6 4 5 rated Stockfish } ( 12... e5
+{ played by 3 6 3 6 rated ShashChess } 13. Bc5 Re8
+{ played by 3 6 3 6 rated ShashChess } 14. Ne4 Be6
+{ played by 3 6 3 6 rated ShashChess } 15. h4 h5
+{ played by 3 6 1 7 rated Alexandria } ( 15... Nf4
+{ played by 3 5 8 2 rated Clover } 16. g3 Qxd2+
+{ played by 3 5 8 2 rated Clover } 17. Rxd2 Nh5
+{ played by 3 5 8 2 rated Clover } 18. g4 Nf4 19. g5 Bd5
+{ played by 3 5 8 2 rated Clover } 20. a4 h5 { played by 3 5 8 2 rated Clover }
+21. c3 a5 22. Bd3
+{ Once again, Stockfish playing White, rated 3 6 3 8 outplayed Clover, rated 3 5 8 2, had the Black pieces and won the game. Both sides showed good positional understanding.1-0 }
+) 16. Bc4 Nf4 { played by 3 6 1 7 rated Alexandria } 17. Bxe6 Nxe6
+{ played by 3 6 1 7 rated Alexandria } 18. Qc3 Qb8
+{ played by 3 6 1 7 rated Alexandria } 19. b3 Qb5
+{ played by 3 5 3 0 rated Booot } 20. a4 Qe2 { played by 3 5 3 0 rated Booot }
+( 20... Qa6 { played by 3 4 5 6 rated Nemorino } 21. g4 Nf4 22. Kb1
+{ Here we see that Dragon handling the White pieces rated 3 6 1 2 converted the advantage and defeated Nemorino on Black with Elo 3 4 5 6. The outcome was decided in the later stages.1-0 }
+) 21. Bf2 Nf4 22. Kb1
+{ In this game, Alexandria playing White, rated 3 6 0 3 converted the advantage and defeated Booot handling the Black pieces rated 3 5 3 0. The outcome was decided in the later stages.1-0 }
+) 13. Qxd4 Qb6 { played by 3 6 4 5 rated Stockfish } 14. Na4 Qa5
+{ played by 3 6 4 3 rated Stockfish } 15. b3 Be6
+{ played by 3 6 1 6 rated Dragon } 16. Qe5 Qb4 17. Kb2 Rfd8
+{ played by 3 5 4 8 rated RubiChess } 18. Bc4 Rab8 19. Bxd5 cxd5 20. Rd4 Qa5
+{ played by 3 5 4 8 rated RubiChess } ( 20... Qd6
+{ played by 3 4 4 8 rated Arasan } 21. Re1 Qxe5 22. Rxe5
+{ In an interesting battle, Seer on White with Elo 3 4 7 2 outplayed Arasan from the Black side with rating 3 4 4 8 and won the game. The outcome was decided in the later stages.1-0 }
+) ( 20... Qb5 { played by 3 4 1 5 rated Uralochka } 21. Rhd1 Qc6 22. g4
+{ ShashChess handling the White pieces rated 3 6 0 2 converted the advantage and defeated Uralochka, rated 3 4 1 5, had the Black pieces. Both sides showed good positional understanding.1-0 }
+) 21. Rhd1 Rd6 22. c4
+{ Here we see that After a long struggle, Clarity from the White side with rating 3 5 6 5 and SugaR playing Black, rated 3 5 3 3 shared the point. The opening quickly led to complex middlegame play.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Alexandria 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[WhiteElo "3640"]
+[BlackElo "3574"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O { entered in SICILIAN Dragon Yugoslav Attack Rauser Variation }
+9... d5 { played by 3 6 4 5 rated Stockfish } 10. exd5 Nxd5
+{ played by 3 6 4 5 rated Stockfish } 11. Nxc6 bxc6 12. Bd4 Bxd4
+{ played by 3 6 4 5 rated Stockfish } 13. Qxd4 Qb6
+{ played by 3 6 4 5 rated Stockfish } 14. Na4 Qc7
+{ played by 3 6 4 5 rated Stockfish } 15. Nc5 a5
+{ played by 3 6 4 3 rated ShashChess } ( 15... Rd8
+{ played by 3 6 4 3 rated Stockfish } 16. Bc4 Bf5
+{ played by 3 6 4 3 rated Stockfish } 17. Bb3 Nb6
+{ played by 3 6 4 3 rated Stockfish } 18. Qc3 h5 19. g3 e6
+{ played by 3 6 3 4 rated Obsidian } 20. a3 Nd5 21. Qd4 Nb6
+{ played by 3 6 3 4 rated Obsidian } ( 21... Qe7
+{ played by 3 6 2 1 rated Obsidian } 22. h4
+{ Neither ShashChess handling the White pieces rated 3 6 4 3 nor Obsidian from the Black side with rating 3 6 2 1 could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 22. Qf2
+{ In an interesting battle, After a long struggle, Clarity handling the White pieces rated 3 5 6 5 and Obsidian, rated 3 6 3 4, had the Black pieces shared the point. The position remained tense for most of the game.1/2-1/2 }
+) 16. a4 h5 { played by 3 6 4 3 rated ShashChess } 17. g3 Rd8 18. Bc4 Bf5 19.
+Qf2 Qb6 { played by 3 6 3 7 rated Torch } ( 19... Nb4
+{ played by 3 6 0 4 rated Integral } 20. Rxd8+ Rxd8 21. c3 Nd5
+{ played by 3 6 0 4 rated Integral } ( 21... Qb6
+{ played by 3 5 6 1 rated pawnocchio } 22. Re1
+{ The game between ShashChess handling the White pieces rated 3 6 4 3 and pawnocchio as Black rated 3 5 6 1 finished level. Both sides showed good positional understanding.1/2-1/2 }
+) 22. Re1
+{ Here we see that After a long struggle, ShashChess from the White side with rating 3 6 4 3 and Integral on Black with Elo 3 6 0 4 shared the point. Both sides showed good positional understanding.1/2-1/2 }
+) 20. Rhe1 e6 21. Rf1 Rab8 { played by 3 6 3 7 rated Torch } ( 21... Qc7
+{ played by 3 6 1 9 rated ShashChess } 22. Rd2
+{ In an interesting battle, The game between Obsidian playing White, rated 3 6 0 3 and ShashChess from the Black side with rating 3 6 1 9 finished level. The position remained tense for most of the game.1/2-1/2 }
+) 22. Bb3
+{ Here we see that After a long struggle, Stockfish, rated 3 6 4 5, had the White pieces and Torch handling the Black pieces rated 3 6 3 7 shared the point. The outcome was decided in the later stages.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Alexandria 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[WhiteElo "3640"]
+[BlackElo "3574"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O { entered in SICILIAN Dragon Yugoslav Attack Rauser Variation }
+9... d5 { played by 3 6 4 5 rated Stockfish } 10. exd5 Nxd5
+{ played by 3 6 4 5 rated Stockfish } 11. Nxc6 bxc6 12. Bd4 Bxd4
+{ played by 3 6 4 5 rated Stockfish } 13. Qxd4 Qb6
+{ played by 3 6 4 5 rated Stockfish } ( 13... Qc7
+{ played by 3 5 8 8 rated RubiChess } 14. Bc4 Be6
+{ played by 3 4 6 3 rated Uralochka } 15. Bxd5 cxd5 16. Nxd5 Bxd5 17. Qxd5 Rab8
+{ played by 3 4 7 4 rated Velvet } 18. Qd7 Qe5 19. Qd4 Qg5+ 20. Qd2 Qe5 21. c3
+Qc7 { played by 3 4 6 3 rated Uralochka } ( 21... Rb7
+{ played by 3 4 3 1 rated Velvet } 22. b3
+{ In this game, Velvet playing Black, rated 3 4 3 1 could not hold the position, allowing Uralochka, rated 3 4 6 3, had the White pieces to win. Small inaccuracies made the difference.1-0 }
+) ( 21... e6 { played by 3 3 9 6 rated Stormphrax } 22. Kb1
+{ Once again, Stockfish playing White, rated 3 6 2 0 remained in control, handing Stormphrax as Black rated 3 3 9 6 a loss. The outcome was decided in the later stages.1-0 }
+) ( 21... Rfe8 { played by 3 3 8 2 rated Black } 22. Kb1
+{ In this game, Minic handling the White pieces rated 3 4 5 4 outplayed Black as Black rated 3 3 8 2 and won the game. The outcome was decided in the later stages.1-0 }
+) 22. h3
+{ In this game, Koivisto from the White side with rating 3 5 2 3 outplayed Uralochka, rated 3 4 6 3, had the Black pieces and won the game. Both sides showed good positional understanding.1-0 }
+) 14. Na4 Qa5 { played by 3 6 4 3 rated Stockfish } 15. b3 Bf5
+{ played by 3 6 3 4 rated Obsidian } 16. g4 Be6
+{ played by 3 6 1 7 rated Berserk } 17. Qe5 Qb4 18. c4 Nf6
+{ played by 3 6 1 7 rated Berserk } 19. h4 Rab8
+{ played by 3 6 1 7 rated Berserk } ( 19... Nd7
+{ played by 3 6 1 7 rated Berserk } 20. Qe3 Qa3+
+{ played by 3 6 1 7 rated Berserk } 21. Kb1 Rab8
+{ played by 3 6 1 7 rated Berserk } ( 21... Rfb8
+{ played by 3 6 0 6 rated Viridithas } 22. h5
+{ Here we see that ShashChess playing White, rated 3 6 3 6 remained in control, handing Seer, rated 3 5 3 4, had the Black pieces a loss. The outcome was decided in the later stages.1-0 }
+) 22. h5
+{ In an interesting battle, ShashChess playing White, rated 3 6 3 6 converted the advantage and defeated Minic playing Black, rated 3 5 2 1.1-0 }
+) 20. h5 Nd7 { played by 3 6 1 7 rated Berserk } 21. Qe2 Nb6
+{ played by 3 6 1 7 rated Berserk } ( 21... Qa3+
+{ played by 3 6 1 7 rated Berserk } 22. Qb2
+{ Here we see that Neither Obsidian, rated 3 6 2 5, had the White pieces nor Berserk from the Black side with rating 3 6 1 7 could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
+) 22. Nb2
+{ Here we see that Neither Torch from the White side with rating 3 6 3 7 nor Berserk, rated 3 6 1 7, had the Black pieces could convert, and the game was drawn. Small inaccuracies made the difference.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Alexandria 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[WhiteElo "3640"]
+[BlackElo "3574"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O { entered in SICILIAN Dragon Yugoslav Attack Rauser Variation }
+9... d5 { played by 3 6 4 5 rated Stockfish } 10. exd5 Nxd5
+{ played by 3 6 4 5 rated Stockfish } 11. Nxc6 bxc6 12. Bd4 e5
+{ played by 3 6 3 6 rated ShashChess } 13. Bc5 Re8
+{ played by 3 6 3 6 rated ShashChess } 14. Ne4 Be6
+{ played by 3 6 3 6 rated ShashChess } 15. h4 h5
+{ played by 3 6 1 7 rated Alexandria } 16. Bc4 Nf4
+{ played by 3 6 1 7 rated Alexandria } 17. Bxe6 Nxe6
+{ played by 3 6 1 7 rated Alexandria } ( 17... Qxd2+
+{ played by 3 6 1 7 rated Integral } 18. Rxd2 Nxe6 19. Be3 f5 20. Nd6 Red8 21.
+c3 Bf6 { played by 3 6 1 7 rated Integral } ( 21... a6
+{ played by 3 6 0 6 rated Starzix } 22. Rhd1
+{ Here we see that The game between Lizard, rated 3 6 0 4, had the White pieces and Starzix on Black with Elo 3 6 0 6 finished level.1/2-1/2 }
+) 22. a4
+{ Wasp on Black with Elo 3 4 8 3 could not hold the position, allowing Stockfish from the White side with rating 3 6 4 0 to win.1-0 }
+) 18. Qc3 Qb8 { played by 3 6 1 7 rated Alexandria } 19. b3 Nxc5
+{ played by 3 6 1 7 rated Alexandria } 20. Qxc5 Qb6
+{ played by 3 6 1 7 rated Alexandria } ( 20... Qb5
+{ played by 3 6 1 1 rated PlentyChess } 21. Qc3 Rad8
+{ played by 3 5 6 5 rated Clarity } ( 21... Qa6
+{ played by 3 5 4 0 rated Chess } 22. Kb2
+{ Once again, ShashChess from the White side with rating 3 6 0 7 remained in control, handing Chess from the Black side with rating 3 5 4 0 a loss. The position remained tense for most of the game.1-0 }
+) 22. Nd6
+{ In this game, Obsidian as White rated 3 6 3 4 remained in control, handing Clarity playing Black, rated 3 5 6 5 a loss. The outcome was decided in the later stages.1-0 }
+) 21. Rd6 Qxc5 { played by 3 6 1 7 rated Alexandria } ( 21... Bh6+
+{ played by 3 6 0 9 rated Alexandria } 22. Kb1
+{ In an interesting battle, The game between ShashChess as White rated 3 6 4 3 and Velvet playing Black, rated 3 5 7 7 finished level. The position remained tense for most of the game.1/2-1/2 }
+) 22. Nxc5
+{ In this game, The game between ShashChess from the White side with rating 3 6 4 3 and Alexandria handling the Black pieces rated 3 6 0 9 finished level. Small inaccuracies made the difference.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "Alexandria 6.0.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[WhiteElo "3640"]
+[BlackElo "3574"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O { entered in SICILIAN Dragon Yugoslav Attack Rauser Variation }
+9... d5 { played by 3 6 4 5 rated Stockfish } 10. exd5 Nxd5
+{ played by 3 6 4 5 rated Stockfish } 11. Nxc6 bxc6 12. Bd4 e5
+{ played by 3 6 3 6 rated ShashChess } 13. Bc5 Re8
+{ played by 3 6 3 6 rated ShashChess } 14. Ne4 Be6
+{ played by 3 6 3 6 rated ShashChess } 15. h4 Nf4
+{ played by 3 5 8 2 rated Clover } 16. g3 Qxd2+
+{ played by 3 5 8 2 rated Clover } 17. Rxd2 Nh5
+{ played by 3 5 8 2 rated Clover } 18. g4 Nf4 19. g5 Bd5
+{ played by 3 5 8 2 rated Clover } 20. a4 a5
+{ played by 3 5 6 5 rated Clarity } 21. Bd3 Rab8
+{ played by 3 5 6 5 rated Clarity } ( 21... h5
+{ played by 3 5 6 1 rated Koivisto } 22. Re1
+{ Caissa as White rated 3 5 9 2 converted the advantage and defeated Koivisto from the Black side with rating 3 5 6 1. Small inaccuracies made the difference.1-0 }
+) 22. b3
+{ Here we see that ShashChess playing White, rated 3 6 4 3 converted the advantage and defeated Clarity on Black with Elo 3 5 6 5. Both sides showed good positional understanding.1-0 }
+1/2-1/2
+
+
+

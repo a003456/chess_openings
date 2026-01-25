@@ -1,0 +1,171 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16.1 64-bit 4CPU"]
+[Black "PlentyChess 2.1.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "D07"]
+[Opening "QGD"]
+[Variation "Chigorin defence, Janowski variation"]
+[WhiteElo "3638"]
+[BlackElo "3611"]
+
+1. d4 d5 2. c4 Nc6 3. Nc3 dxc4 4. Nf3
+{ entered in Queens Gambit Declined Chigorin Defence Janowski Variation } 4...
+e5 { played by 2 8 3 6 rated Zurichess } ( 4... g6
+{ played by 2 8 0 5 rated Zevra } 5. Bf4 Nf6 6. d5 Nb8 7. e4 Bg7 8. Bxc4 O-O 9.
+O-O c6 10. Rc1 cxd5 11. exd5 Ne8 12. Re1 Bg4 13. Bg5 Bf6 14. Bh6 Bg7 15. Bxg7
+Nxg7 16. Be2 Nd7 17. h3
+{ Once again, Zevra as Black rated 2 8 0 5 could not hold the position, allowing Colossus, rated 2 7 8 4, had the White pieces to win. Small inaccuracies made the difference.1-0 }
+) ( 4... e6 { played by 2 7 8 4 rated Colossus } 5. e4 Nf6 6. Bxc4 Bb4 7. Qd3
+Na5 8. Bb5+ Bd7 9. O-O Bxc3 10. Bxd7+ Qxd7 11. Qxc3 Nc6 12. Re1 h6 13. Bf4
+O-O-O 14. h3 Nh5 15. Bh2 Nf6 16. b4 Kb8 17. Rac1
+{ In an interesting battle, Colossus playing Black, rated 2 7 8 4 could not hold the position, allowing Zevra playing White, rated 2 8 0 5 to win.1-0 }
+) ( 4... Nf6 { played by 3 6 2 0 rated Stockfish } 5. Bg5 a6
+{ played by 3 6 1 1 rated PlentyChess } ( 5... h6
+{ played by 3 5 2 7 rated rofChade } 6. Bxf6 exf6 7. e3 Na5
+{ played by 3 0 6 3 rated Rybka } 8. Qa4+ c6 9. b4 cxb3 10. axb3 Qb6 11. Qxa5
+Qxa5 12. Rxa5 Bb4
+{ In this game, Rybka playing Black, rated 3 0 6 3 could not hold the position, allowing HIARCS, rated 2 9 8 5, had the White pieces to win. Small inaccuracies made the difference.1-0 }
+) 6. d5 Na7 7. e4 Nb5 8. Bxc4 Nxc3 9. bxc3 Nxe4 10. O-O g6 11. Qd4 Nxg5 12.
+Nxg5 Rg8 13. Rad1 h6 14. Ne4 Bg7 15. Qe3 Kf8 16. Qf4 Bf5 17. f3
+{ Here we see that The game between Stockfish as White rated 3 6 3 8 and PlentyChess playing Black, rated 3 6 1 1 finished level.1/2-1/2 }
+) ( 4... a6 { played by 3 6 1 7 rated Berserk } 5. d5 Na7
+{ played by 2 1 7 2 rated Robocide } 6. a4 e6 7. e4 Nf6 8. Bxc4 exd5 9. exd5
+Bd6 10. Qe2+ Be7 11. O-O O-O 12. Bf4 Bg4 13. Rfe1 Nc8 14. h3 Bd6 15. Bg5 Bd7
+16. Ne4 Be7 17. Nxf6+
+{ Dorpsgek on White with Elo 2 1 5 2 and Robocide handling the Black pieces rated 2 1 7 2 played a balanced game which ended in a draw. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 5. d5 e4 6. dxc6 Qxd1+ 7. Nxd1 exf3 8. cxb7 Bxb7 9. exf3 Bb4+ 10. Bd2 Bxd2+
+11. Kxd2 O-O-O+ 12. Kc2 Ne7 13. Bxc4 Bd5 14. Ne3 Bxc4 15. Nxc4 Rd4 16. Ne3 Nd5
+17. Rhd1
+{ In this game, Halogen, rated 2 8 9 6, had the White pieces remained in control, handing Zurichess handling the Black pieces rated 2 8 3 6 a loss. Small inaccuracies made the difference.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16.1 64-bit 4CPU"]
+[Black "PlentyChess 2.1.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "D07"]
+[Opening "QGD"]
+[Variation "Chigorin defence, Janowski variation"]
+[WhiteElo "3638"]
+[BlackElo "3611"]
+
+1. d4 d5 2. c4 Nc6 3. Nc3 dxc4 4. Nf3
+{ entered in Queens Gambit Declined Chigorin Defence Janowski Variation } 4...
+Nf6 { played by 3 6 2 0 rated Stockfish } ( 4... a6
+{ played by 3 6 1 7 rated Berserk } 5. d5 Nb8
+{ played by 3 6 1 7 rated Berserk } 6. e4 b5 7. a4 b4 8. Ne2 c3
+{ played by 3 6 1 7 rated Berserk } ( 8... Nf6 { played by 3 0 2 2 rated 4ku }
+9. Ng3 c6 10. Bxc4 cxd5 11. exd5 Bb7 12. Bg5 Bxd5 13. Qe2 Bxc4 14. Qxc4 Nbd7
+15. O-O Qc8 16. Qe2 Qb7 17. Rac1
+{ Once again, Neither EveAnn as White rated 3 1 5 1 nor 4ku, rated 3 0 2 2, had the Black pieces could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+) 9. bxc3 Nf6 10. Qc2 c6 11. Nf4 cxd5 12. e5 Ne4 13. e6
+{ Here we see that Torch from the White side with rating 3 6 3 0 converted the advantage and defeated Berserk as Black rated 3 6 1 7. The outcome was decided in the later stages.1-0 }
+) 5. Bg5 Nd5 { played by 3 3 7 1 rated SugaR } ( 5... h6
+{ played by 3 5 2 7 rated rofChade } 6. Bxf6 exf6 7. e3 Bd6
+{ played by 3 5 2 7 rated rofChade } 8. Bxc4 Bg4
+{ played by 2 9 8 5 rated HIARCS } ( 8... O-O
+{ played by 3 5 2 7 rated rofChade } 9. O-O a6
+{ played by 3 3 1 0 rated Booot } ( 9... b6
+{ played by 2 6 1 6 rated NoraGrace } 10. a3 Bb7 11. Nb5 a6 12. Nxd6 Qxd6 13.
+Rc1 Ne7 14. Bd3 Rad8 15. b4 b5 16. Rc5 Rfe8 17. Qc2
+{ Once again, Amoeba handling the White pieces rated 2 7 6 5 remained in control, handing NoraGrace on Black with Elo 2 6 1 6 a loss. The outcome was decided in the later stages.1-0 }
+) ( 9... Na5 { played by 2 6 0 8 rated Frozenight } 10. Bd3 c6 11. Ne4 Be7 12.
+Qc2 b5 13. Nc5 Nb7 14. Rac1 Nxc5 15. dxc5 a5 16. Bh7+ Kh8 17. Be4
+{ Once again, Neither Inanis playing White, rated 2 6 8 0 nor Frozenight on Black with Elo 2 6 0 8 could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 10. a3 Ne7 11. Ne4 f5 12. Nxd6 cxd6 13. Rc1 Bd7 14. d5 Rc8 15. Qd4 Qa5 16.
+Ba2 Bb5 17. Rfe1
+{ In an interesting battle, Neither Berserk from the White side with rating 3 1 7 6 nor Booot, rated 3 3 1 0, had the Black pieces could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 9. h3 Bf5 10. O-O O-O { we will see this position later on1-0 } ) 6. e4 Nxc3
+7. bxc3 Na5 { played by 3 3 7 1 rated SugaR } 8. Be2 f6 9. Bf4 e6 10. e5 f5 11.
+Nd2 b5 12. a4 b4 13. Nxc4 Nxc4 14. Bxc4 bxc3 15. O-O Rb8 16. Be3 c6 17. Rc1
+{ Once again, SugaR handling the White pieces rated 3 3 7 1 and Fire, rated 3 2 5 3, had the Black pieces played a balanced game which ended in a draw. The opening quickly led to complex middlegame play.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16.1 64-bit 4CPU"]
+[Black "PlentyChess 2.1.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "D07"]
+[Opening "QGD"]
+[Variation "Chigorin defence, Janowski variation"]
+[WhiteElo "3638"]
+[BlackElo "3611"]
+
+1. d4 d5 2. c4 Nc6 3. Nc3 dxc4 4. Nf3
+{ entered in Queens Gambit Declined Chigorin Defence Janowski Variation } 4...
+Nf6 { played by 3 6 2 0 rated Stockfish } 5. Bg5 h6
+{ played by 3 5 2 7 rated rofChade } ( 5... Nd5
+{ played by 3 3 7 1 rated SugaR } 6. e4 Nxc3 7. bxc3 f6
+{ played by 3 2 8 0 rated Xiphos } 8. Be3 Na5 9. Nd2 c6 10. Nxc4 e5
+{ played by 3 2 3 1 rated Chiron } ( 10... b5
+{ played by 2 6 5 3 rated Scorpio } 11. Nxa5 Qxa5 12. Bd2 e6 13. Bd3 Ba3 14.
+Qh5+ g6 15. Qh6 Bb2 16. Rd1 Bb7 17. O-O
+{ Once again, Scorpio from the Black side with rating 2 6 5 3 defended accurately and defeated Inanis handling the White pieces rated 2 6 8 0. The opening quickly led to complex middlegame play.0-1 }
+) 11. dxe5 Nxc4 12. Bxc4 Qxd1+ 13. Kxd1 fxe5 14. a4 Bd6 15. Kc2 Rf8 16. Rhd1
+Rf6 17. h4
+{ Once again, Rebel handling the White pieces rated 3 2 5 2 and Chiron handling the Black pieces rated 3 2 3 1 played a balanced game which ended in a draw. The outcome was decided in the later stages.1/2-1/2 }
+) 6. Bxf6 exf6 7. e3 Bd6 { played by 3 5 2 7 rated rofChade } 8. Bxc4 O-O
+{ played by 3 5 2 7 rated rofChade } 9. O-O Bg4
+{ played by 2 9 8 9 rated Hannibal } ( 9... Ne7
+{ played by 3 5 2 7 rated rofChade } 10. h3 c6 11. a3 Rb8
+{ played by 3 5 2 7 rated rofChade } ( 11... f5
+{ played by 3 5 1 5 rated Caissa } 12. Re1 Ng6 13. g3 Qf6 14. h4 Bc7 15. h5 Ne7
+16. Rc1 Rb8 17. Ne2
+{ In this game, Caissa, rated 3 5 1 5, had the Black pieces could not hold the position, allowing rofChade as White rated 3 5 2 7 to win.1-0 }
+) 12. Rc1 Bf5 13. Qe2 Qd7 14. Rfd1 Be6 15. Ne5 Qc8 16. Nf3 Rd8 17. Re1
+{ Neither Caissa, rated 3 5 1 5, had the White pieces nor rofChade handling the Black pieces rated 3 5 2 7 could convert, and the game was drawn.1/2-1/2 }
+) 10. h3 Bh5 { played by 2 9 8 9 rated Hannibal } ( 10... Bf5
+{ played by 2 5 9 6 rated Ethereal } 11. Re1 Qc8 12. e4 Bd7 13. a3 a5 14. Bd5
+Ne7 15. e5 fxe5 16. dxe5 Bc5 17. Ne4
+{ HIARCS on Black with Elo 2 9 8 5 could not hold the position, allowing Rybka, rated 3 0 6 3, had the White pieces to win. Both sides showed good positional understanding.1-0 }
+) 11. Rc1 Qd7 12. Be2 Rfe8 13. Qb3 a6 14. Ne4 Rab8 15. Nc5 Qe7 16. Bd1 g5 17.
+a3
+{ In an interesting battle, Neither Komodo handling the White pieces rated 3 1 4 7 nor Hannibal playing Black, rated 2 9 8 9 could convert, and the game was drawn. Small inaccuracies made the difference.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16.1 64-bit 4CPU"]
+[Black "PlentyChess 2.1.0 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "D07"]
+[Opening "QGD"]
+[Variation "Chigorin defence, Janowski variation"]
+[WhiteElo "3638"]
+[BlackElo "3611"]
+
+1. d4 d5 2. c4 Nc6 3. Nc3 dxc4 4. Nf3
+{ entered in Queens Gambit Declined Chigorin Defence Janowski Variation } 4...
+Nf6 { played by 3 6 2 0 rated Stockfish } 5. Bg5 Nd5
+{ played by 3 3 7 1 rated SugaR } 6. e4 Nxc3 7. bxc3 f6
+{ played by 3 2 8 0 rated Xiphos } 8. Be3 Na5 9. Nd2 c6 10. Nxc4 g6
+{ played by 3 2 8 0 rated Xiphos } 11. Qc2 Be6 12. Nd2 Bg7 13. h4 h6
+{ played by 3 2 8 0 rated Xiphos } ( 13... h5 { played by 3 2 5 5 rated Laser }
+14. Bd3 O-O 15. O-O Bf7 16. e5 f5 17. Rfd1
+{ Booot on White with Elo 3 2 4 9 converted the advantage and defeated Laser handling the Black pieces rated 3 2 5 5. The position remained tense for most of the game.1-0 }
+) ( 13... O-O { played by 3 2 4 9 rated Booot } 14. h5 f5 15. Rh4 Bf6 16. Rh2
+c5 17. d5
+{ In this game, Laser on White with Elo 3 2 5 5 remained in control, handing Booot as Black rated 3 2 4 9 a loss.1-0 }
+) 14. Bd3 O-O 15. O-O Qd7 16. Nb3 Nxb3 17. axb3
+{ Neither Ethereal from the White side with rating 3 3 0 0 nor Xiphos handling the Black pieces rated 3 2 8 0 could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
+1/2-1/2
+
+
+

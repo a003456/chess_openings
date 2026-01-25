@@ -1,0 +1,31 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 14.1 64-bit 4CPU"]
+[Black "RubiChess 20220223 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C55"]
+[Opening "two knights"]
+[Variation "Max Lange attack, Krause variation"]
+[WhiteElo "3609"]
+[BlackElo "3516"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Bc5 6. e5 Ng4 7. c3
+{ entered in TWO Knights Max Lange Attack Krause Variation } 7... d5 8. exd6
+O-O 9. cxd4 { played by 2 4 2 0 rated Barbarossa } ( 9. h3
+{ played by 3 6 0 9 rated Stockfish } 9... Nf6 10. cxd4 Bxd6 11. Bg5 h6 12. Bh4
+g5 13. Bg3 g4 14. hxg4 Bxg3 15. fxg3 Bxg4 16. Na3
+{ played by 3 6 0 9 rated Stockfish } ( 16. Nc3
+{ played by 3 5 1 6 rated RubiChess } 16... Kg7 17. d5 Bxf3 18. Qxf3 Ne5 19.
+Qf4 Qd6 20. Nb5
+{ Neither RubiChess on White with Elo 3 5 1 6 nor Stockfish from the Black side with rating 3 6 0 9 could convert, and the game was drawn.1/2-1/2 }
+) 16... Qd6 17. Nb5 Qxg3 18. Qd2 Bh3 19. Qf2 Qxf2+ 20. Rxf2
+{ Once again, Neither Stockfish handling the White pieces rated 3 6 0 9 nor RubiChess on Black with Elo 3 5 1 6 could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 9... Bxd6 10. Nc3 Bf5 11. a3 Re8 12. h3 Nf6 13. Bg5 h6 14. Be3 Qd7 15. Re1 a6
+16. Rc1 Na5 17. Be2 Rad8 18. b4 Nc6 19. Bc4 b5 20. Bd3
+{ Once again, Pupsi2 handling the Black pieces rated 2 4 5 6 outplayed Barbarossa from the White side with rating 2 4 2 0 and won as Black. The outcome was decided in the later stages.0-1 }
+1/2-1/2
+
+
+

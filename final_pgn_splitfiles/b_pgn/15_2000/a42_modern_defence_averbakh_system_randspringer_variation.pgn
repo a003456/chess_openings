@@ -1,0 +1,32 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 2.3.1 64-bit 4CPU"]
+[Black "Houdini 3 64-bit"]
+[Result "1-0"]
+[ECO "A42"]
+[Opening "Modern defence"]
+[Variation "Averbakh system, Randspringer variation"]
+[WhiteElo "3182"]
+[BlackElo "3197"]
+
+1. d4 d6 2. c4 g6 3. Nc3 Bg7 4. e4 f5
+{ entered in MODERN Defence Averbakh System Randspringer Variation } 5. Nf3
+{ played by 3 1 8 2 rated Stockfish } ( 5. exf5
+{ played by 3 1 2 0 rated Komodo } 5... Bxf5 6. Nf3
+{ played by 3 5 7 4 rated PlentyChess } ( 6. Be2
+{ played by 2 9 3 5 rated Spike } 6... Nf6 7. Nf3 O-O 8. O-O Kh8 9. Nh4 Be6 10.
+Qb3 Nc6 11. Nf3 Na5 12. Qa4 b6 13. Ng5 Bg8 14. Be3 c6 15. b3 a6 16. Qa3 b5 17.
+Bf3 h6 18. Nge4
+{ In this game, Nemo handling the Black pieces rated 2 8 6 0 defended accurately and defeated Spike on White with Elo 2 9 3 5. Small inaccuracies made the difference.0-1 }
+) 6... Nf6 7. Bd3 Bxd3 8. Qxd3 O-O 9. Ng5 Qd7 10. Qe2 e5 11. d5 c6 12. O-O cxd5
+13. cxd5 Na6 14. Ne6 Rf7 15. Rd1 Nc7 16. Ng5 Re7 17. a4 Qg4 18. f3
+{ Here we see that Starzix, rated 3 5 1 3, had the Black pieces could not hold the position, allowing PlentyChess from the White side with rating 3 5 7 4 to win. The opening quickly led to complex middlegame play.1-0 }
+) 5... fxe4 6. Nxe4 Nf6 7. Bd3 O-O 8. O-O Nc6 9. Neg5 e5 10. dxe5 dxe5 11. c5
+Kh8 12. Qb3 Nd5 13. Be4 Nce7 14. Nd2 Nf4
+{ Once again, Stockfish handling the White pieces rated 3 1 8 2 remained in control, handing Houdini as Black rated 3 1 9 7 a loss. The outcome was decided in the later stages.1-0 }
+1-0
+
+
+

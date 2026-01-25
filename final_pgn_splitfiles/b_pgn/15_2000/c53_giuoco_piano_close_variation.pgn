@@ -1,0 +1,920 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Lizard 11.1 64-bit 4CPU"]
+[Black "Stockfish 17 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[Variation "close variation"]
+[WhiteElo "3603"]
+[BlackElo "3643"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Qe7
+{ entered in GIUOCO Piano Close Variation } 5. b4
+{ played by 3 6 1 5 rated Dragon } ( 5. O-O
+{ played by 3 6 4 3 rated Stockfish } 5... d6 6. h3
+{ played by 3 6 3 5 rated Torch } ( 6. d4 { played by 3 6 4 3 rated Stockfish }
+6... Bb6 7. h3 { played by 3 6 4 3 rated Stockfish } 7... Nf6 8. Re1
+{ played by 2 9 1 6 rated Hiarcs } ( 8. a4 { played by 2 4 8 6 rated Jumbo }
+8... a5 9. d5 Nb8 10. Bd3 O-O 11. Na3 c6 12. Nc4
+{ we will see this position later on0-1 } ) 8... h6 9. a4 a5 10. Na3 O-O 11.
+Nc2 exd4 12. cxd4 Nxe4 13. Bd5 Bf5 14. Ra3 Nxf2 15. Kxf2 Bxc2 16. Qxc2 Nxd4 17.
+Nxd4 Qh4+ 18. Kf1
+{ Hiarcs from the White side with rating 2 9 1 6 converted the advantage and defeated Spark handling the Black pieces rated 2 9 1 2. The outcome was decided in the later stages.1-0 }
+) 6... Nf6 7. b4 { played by 3 1 7 8 rated Pedone } ( 7. d4
+{ played by 3 0 8 7 rated Amoeba } 7... Bb6
+{ we will see this position later on1-0 } ) 7... Bb6 8. a4 Nxe4 9. d4 a6 10.
+Re1 Nf6 11. Ba2 e4 12. Bg5 h6 13. Bxf6 gxf6 14. Nbd2 f5 15. Nc4 Qf6 16. d5 Ne7
+17. Nxb6 cxb6 18. Qd4
+{ In an interesting battle, Neither Pedone handling the White pieces rated 3 1 7 8 nor Amoeba on Black with Elo 3 0 8 7 could convert, and the game was drawn. Both sides showed good positional understanding.1/2-1/2 }
+) ( 5. d3 { played by 3 6 4 3 rated ShashChess } 5... d6 6. Nbd2
+{ played by 3 6 1 5 rated Obsidian } 6... Nf6 7. Bb3
+{ we will see this position later on1/2-1/2 } ) ( 5. Bb3
+{ played by 3 5 9 9 rated Clover } 5... Nf6 6. d3 O-O 7. O-O
+{ played by 3 0 8 7 rated Amoeba } 7... d6
+{ we will see this position later on1-0 } ) 5... Bb6 6. d3
+{ played by 3 0 2 2 rated Critter } 6... d6 7. Bb3 Nf6 8. O-O Bg4 9. Nbd2 h6
+10. Re1 g5 11. a4 a5 12. b5 Nd8 13. d4 Nd7 14. Nc4 Qf6 15. Nxb6 Nxb6 16. Re3
+Ne6 17. Qc2 O-O 18. Bb2
+{ In this game, Deep playing Black, rated 2 9 6 4 could not hold the position, allowing Critter playing White, rated 3 0 2 2 to win. The position remained tense for most of the game.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Lizard 11.1 64-bit 4CPU"]
+[Black "Stockfish 17 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[Variation "close variation"]
+[WhiteElo "3603"]
+[BlackElo "3643"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Qe7
+{ entered in GIUOCO Piano Close Variation } 5. d3
+{ played by 3 6 4 3 rated ShashChess } ( 5. b4
+{ played by 3 6 1 5 rated Dragon } 5... Bb6 6. a4
+{ played by 3 6 1 5 rated Dragon } 6... a6 7. O-O
+{ played by 3 4 9 1 rated Stockfish } 7... d6 8. a5
+{ played by 3 2 3 9 rated Fritz } ( 8. d4 { played by 3 0 8 7 rated Amoeba }
+8... exd4 9. cxd4 Bg4 10. Nc3 Nf6 11. Be3 Bxf3 12. gxf3 a5 13. b5 Nb4 14. Bb3
+c5 15. bxc6 bxc6 16. Kh1 O-O 17. Rg1 Rab8 18. Qd2
+{ Here we see that After a long struggle, Amoeba handling the White pieces rated 3 0 8 7 and Fritz on Black with Elo 3 2 3 9 shared the point. Small inaccuracies made the difference.1/2-1/2 }
+) 8... Ba7 9. Re1 g5 10. d3 g4 11. Nfd2 Qf6 12. Qe2 Nge7 13. Nf1 h5 14. Na3 Rg8
+15. Be3 Bd7 16. Bxa7 Nxa7 17. Qb2 Nac6 18. Ne3
+{ In this game, Fritz handling the White pieces rated 3 2 3 9 remained in control, handing Amoeba as Black rated 3 0 8 7 a loss. Small inaccuracies made the difference.1-0 }
+) 5... d6 6. Bb3 { played by 3 6 4 3 rated ShashChess } 6... Nf6 7. O-O
+{ played by 3 2 1 7 rated rofChade } 7... O-O 8. Bc2
+{ played by 3 1 8 9 rated Nemorino } ( 8. h3
+{ played by 3 0 6 3 rated Pirarucu } 8... Bb6 9. Bc2 Be6 10. b4 a6 11. a4 Ba7
+12. Bb2 Rfe8 13. Nbd2 h6 14. Re1 Nh5 15. b5 Na5 16. Nd4 Bxd4 17. cxd4 Nf4 18.
+Re3
+{ The game between Pirarucu on White with Elo 3 0 6 3 and Amoeba as Black rated 3 0 8 7 finished level. The outcome was decided in the later stages.1/2-1/2 }
+) ( 8. Na3 { played by 2 2 5 2 rated Dumb } 8... Bxa3 9. bxa3 Be6 10. Qe2 h6
+11. Rb1 Bxb3 12. Rxb3 b6 13. Nh4 Qe6 14. Nf5 d5 15. f3 Rad8 16. g4 Rfe8 17. h4
+Ne7 18. Be3
+{ Here we see that Barbarossa from the Black side with rating 2 2 3 5 seized the initiative and handed Dumb as White rated 2 2 5 2 a loss. Small inaccuracies made the difference.0-1 }
+) ( 8. Bg5 { played by 2 2 3 5 rated Barbarossa } 8... h6 9. Bh4 g5 10. Bg3 Bg4
+11. Nbd2 b5 12. Bd5 Bd7 13. a4 bxa4 14. Rxa4 Nxd5 15. exd5 Nd8 16. Ra1 f5 17.
+h3 Qf7 18. b4
+{ Once again, Barbarossa, rated 2 2 3 5, had the White pieces outplayed Dumb from the Black side with rating 2 2 5 2 and won the game. Both sides showed good positional understanding.1-0 }
+) 8... Bg4 9. h3 Bxf3 10. Qxf3 a5 11. a4 Nd8 12. Nd2 Ne6 13. Nb3 Bb6 14. Rd1
+Rad8 15. d4 exd4 16. Nxd4 Nxd4 17. cxd4 Rfe8 18. Bg5
+{ Once again, The game between Nemorino handling the White pieces rated 3 1 8 9 and rofChade handling the Black pieces rated 3 2 1 7 finished level. The position remained tense for most of the game.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Lizard 11.1 64-bit 4CPU"]
+[Black "Stockfish 17 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[Variation "close variation"]
+[WhiteElo "3603"]
+[BlackElo "3643"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Qe7
+{ entered in GIUOCO Piano Close Variation } 5. O-O
+{ played by 3 6 4 3 rated Stockfish } 5... d6 6. d4
+{ played by 3 6 4 3 rated Stockfish } 6... Bb6 7. h3
+{ played by 3 6 4 3 rated Stockfish } ( 7. Bb5
+{ played by 3 6 3 7 rated Torch } 7... Bd7 8. Re1 Nf6 9. a4
+{ played by 3 3 7 9 rated Wasp } ( 9. Na3 { played by 3 3 4 8 rated Velvet }
+9... O-O 10. Nc4 Nxd4 11. Nxd4 exd4 12. Bxd7 Nxd7 13. cxd4 Rfe8 14. a4 d5 15.
+Nxb6 axb6 16. e5 Nf8 17. f4 f5 18. Qc2
+{ Neither Velvet as White rated 3 3 4 8 nor Wasp, rated 3 3 7 9, had the Black pieces could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
+) 9... a6 10. Bf1 O-O 11. d5 Ng4 12. Re2 f5 13. Bg5 Qf7 14. dxc6 Bxc6 15. exf5
+Qxf5 16. Bh4 g5 17. Bg3 h5 18. h3
+{ Wasp from the White side with rating 3 3 7 9 overpressed, and Velvet on Black with Elo 3 3 4 8 secured the win.0-1 }
+) ( 7. Be3 { played by 3 6 3 1 rated Alexandria } 7... Nf6 8. Bb5 O-O 9. a4
+{ played by 3 3 5 3 rated Ethereal } ( 9. d5 { played by 2 4 7 3 rated Loki }
+9... Bxe3 10. fxe3 Nd8 11. Bd3 Nxd5 12. exd5 e4 13. Bc2 exf3 14. Qxf3 Re8 15.
+e4 Bd7 16. Nd2 Bb5 17. Rf2 f6 18. Qh5
+{ In this game, CT800, rated 2 4 4 1, had the Black pieces seized the initiative and handed Loki as White rated 2 4 7 3 a loss. The outcome was decided in the later stages.0-1 }
+) 9... exd4 10. cxd4 a6 11. Bxc6 bxc6 12. Bg5 Bg4 13. a5 Ba7 14. Nbd2 Bxd4 15.
+Qc2 Bxf3 16. Nxf3 Qxe4 17. Qxe4 Nxe4 18. Nxd4
+{ In this game, Ethereal from the White side with rating 3 3 5 3 and Booot as Black rated 3 3 1 0 played a balanced game which ended in a draw. Small inaccuracies made the difference.1/2-1/2 }
+) 7... Nf6 8. d5 { played by 3 6 4 3 rated Stockfish } 8... Nb8 9. a4
+{ played by 3 5 0 3 rated Winter } ( 9. Qc2 { played by 3 0 8 7 rated Amoeba }
+9... O-O 10. a4 a5 11. Nbd2 c6 12. b3 Bc5 13. Re1 h6 14. Nf1 Qc7 15. Ng3 Nbd7
+16. Nh4 cxd5 17. Bxd5 Nb6 18. c4
+{ Once again, Pedone on Black with Elo 3 1 7 8 outplayed Amoeba on White with Elo 3 0 8 7 and won as Black. Both sides showed good positional understanding.0-1 }
+) 9... Nxe4 10. Qe1 Bxf2+ 11. Rxf2 Nxf2 12. Qxf2 O-O 13. Bg5 f6 14. Bd2 f5 15.
+Na3 a6 16. Re1 Nd7 17. b4 Qe8 18. Ng5
+{ After a long struggle, Winter on White with Elo 3 5 0 3 and Heimdall, rated 3 5 6 6, had the Black pieces shared the point.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Lizard 11.1 64-bit 4CPU"]
+[Black "Stockfish 17 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[Variation "close variation"]
+[WhiteElo "3603"]
+[BlackElo "3643"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Qe7
+{ entered in GIUOCO Piano Close Variation } 5. O-O
+{ played by 3 6 4 3 rated Stockfish } 5... d6 6. d4
+{ played by 3 6 4 3 rated Stockfish } ( 6. h3 { played by 3 6 3 5 rated Torch }
+6... Nf6 7. d3 { played by 3 6 3 5 rated Torch } 7... a6 8. Re1
+{ played by 3 6 2 1 rated Obsidian } 8... O-O 9. Bb3
+{ played by 3 6 0 3 rated Lizard } ( 9. Bd5 { played by 2 7 4 2 rated Chronos }
+9... Bd7 10. Nbd2 Ba7 11. Nf1 Qd8 12. Be3 Qc8 13. Bxa7 Rxa7 14. d4 exd4 15.
+cxd4 Re8 16. Bxc6 bxc6 17. Qc2 Rb7 18. Rac1
+{ Once again, After a long struggle, Chronos as White rated 2 7 4 2 and Cheese from the Black side with rating 2 8 4 6 shared the point. Both sides showed good positional understanding.1/2-1/2 }
+) ( 9. a4 { played by 2 4 0 9 rated Eggnog } 9... h6 10. Ba2 Bd7 11. b4 Ba7 12.
+Nbd2 Rfe8 13. Nf1 Be6 14. Bxe6 Qxe6 15. Be3 Bxe3 16. Nxe3 Ne7 17. c4 Nh5 18.
+Nd5
+{ Once again, Caligula handling the Black pieces rated 2 7 0 8 could not hold the position, allowing Eggnog on White with Elo 2 4 0 9 to win. The outcome was decided in the later stages.1-0 }
+) 9... Ba7 10. d4 { we will see this position later on1/2-1/2 } ) 6... Bb6 7.
+dxe5 { played by 3 6 1 3 rated Stormphrax } ( 7. Qd3
+{ played by 3 3 0 3 rated Stash } 7... Nf6 8. Re1 O-O 9. h3
+{ played by 3 3 0 3 rated Stash } ( 9. Nbd2
+{ played by 3 1 4 1 rated FabChess } 9... a5 10. d5 Nb8 11. Nf1 Ng4 12. Be3
+Nxe3 13. Nxe3 Nd7 14. Qe2 Bxe3 15. Qxe3 f5 16. exf5 Nb6 17. Bd3 Bxf5 18. Rad1
+{ Once again, Stash handling the Black pieces rated 3 3 0 3 seized the initiative and handed FabChess on White with Elo 3 1 4 1 a loss.0-1 }
+) 9... Bd7 10. Bb3 a5 11. Bd2 Rae8 12. d5 Nb8 13. Na3 Na6 14. Nc4 a4 15. Nxb6
+Nc5 16. Qb1 axb3 17. Nxd7 Qxd7 18. axb3
+{ Stash as White rated 3 3 0 3 and FabChess on Black with Elo 3 1 4 1 played a balanced game which ended in a draw. The outcome was decided in the later stages.1/2-1/2 }
+) ( 7. a4 { played by 3 0 4 1 rated Spike } 7... a6 8. Be3
+{ played by 2 7 9 5 rated Onno } 8... Ba7 9. Bd5
+{ played by 2 7 9 5 rated Onno } ( 9. a5 { played by 2 7 4 1 rated MinkoChess }
+9... Nf6 10. Nbd2 O-O 11. Re1 Bd7 12. h3 h6 13. Bd3 Rfd8 14. Qb3 Re8 15. Bc2
+Nd8 16. Nf1 Qf8 17. Ng3 Nc6 18. Qa3
+{ In this game, Neither MinkoChess, rated 2 7 4 1, had the White pieces nor Onno from the Black side with rating 2 7 9 5 could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 9... Nf6 10. Bxc6+ bxc6 11. dxe5 dxe5 12. Bxa7 Rxa7 13. Na3 Bg4 14. Nc4 Bxf3
+15. Qxf3 Rb7 16. Rfd1 O-O 17. Rd2 Rbb8 18. Na5
+{ Onno from the White side with rating 2 7 9 5 outplayed MinkoChess on Black with Elo 2 7 4 1 and won the game. Both sides showed good positional understanding.1-0 }
+) 7... dxe5 8. b3 Bg4 9. Ba3 { played by 2 3 5 0 rated FrankWalter } 9... Qf6
+10. Nbd2 Nge7 11. Qc2 Ng6 12. h3 Bd7 13. Bd5 Nf4 14. Kh2 Qg6 15. Nh4 Qh5 16.
+Ndf3 O-O-O 17. Bxc6 bxc6 18. Bc1
+{ In this game, Loki as Black rated 2 4 7 3 defended accurately and defeated FrankWalter handling the White pieces rated 2 3 5 0. Small inaccuracies made the difference.0-1 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Lizard 11.1 64-bit 4CPU"]
+[Black "Stockfish 17 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[Variation "close variation"]
+[WhiteElo "3603"]
+[BlackElo "3643"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Qe7
+{ entered in GIUOCO Piano Close Variation } 5. O-O
+{ played by 3 6 4 3 rated Stockfish } 5... d6 6. d3
+{ played by 3 6 0 0 rated Caissa } ( 6. Re1 { played by 3 5 7 8 rated Igel }
+6... Nf6 7. d3 { played by 3 5 7 8 rated Igel } 7... a6 8. Nbd2
+{ played by 3 5 7 8 rated Igel } ( 8. Bb3 { played by 3 5 7 7 rated Velvet }
+8... h6 9. Nbd2 { played by 3 5 7 7 rated Velvet } ( 9. h3
+{ played by 3 2 6 0 rated Arasan } 9... g5 10. d4 Ba7 11. Na3 g4 12. hxg4 Bxg4
+13. d5 Nb8 14. Be3 Bxe3 15. Rxe3 Nbd7 16. Qe1 Nh5 17. Nh2 f5 18. Bc2
+{ In this game, Fritz from the Black side with rating 3 3 2 2 defended accurately and defeated Arasan handling the White pieces rated 3 2 6 0. The outcome was decided in the later stages.0-1 }
+) 9... Nh7 10. Ba4 O-O 11. Nf1 Qf6 12. d4 Ba7 13. h3 Ng5 14. Nxg5 hxg5 15. Ne3
+exd4 16. Nd5 Qe5 17. Bd2 Ne7 18. Nxc7
+{ Once again, Neither Revenge as White rated 3 5 7 6 nor Velvet from the Black side with rating 3 5 7 7 could convert, and the game was drawn. Small inaccuracies made the difference.1/2-1/2 }
+) 8... O-O 9. Nf1 { played by 3 2 9 3 rated Marvin } ( 9. b4
+{ played by 3 1 7 0 rated Drofa } 9... Ba7 10. a4 h6 11. h3
+{ we will see this position later on1/2-1/2 } ) 9... Ba7 10. Bb3 Na5 11. Bc2 c5
+12. Bg5 h6 13. Bh4 Be6 14. Ne3 Qd8 15. Nd5 Bxd5 16. exd5 Rc8 17. b4 cxb4 18.
+cxb4
+{ In an interesting battle, Marvin playing White, rated 3 2 9 3 remained in control, handing Drofa on Black with Elo 3 1 7 0 a loss. Both sides showed good positional understanding.1-0 }
+) 6... h6 7. Nbd2 Nf6 8. b4 Bb6 9. Bb3 { played by 3 6 0 0 rated Caissa } ( 9.
+Re1 { played by 3 5 4 6 rated Caissa } 9... a6 10. Bb3 Be6 11. a4 Bxb3 12. Qxb3
+O-O 13. a5 Ba7 14. h3 Nh5 15. Nc4 Qe6 16. b5 axb5 17. Qxb5 Rfb8 18. Be3
+{ Once again, Neither Caissa from the White side with rating 3 5 4 6 nor Chess handling the Black pieces rated 3 5 8 3 could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+) ( 9. h3 { played by 3 3 4 4 rated Fritz } 9... O-O 10. Re1 Be6 11. Bb2 Bxc4
+12. Nxc4 Qe6 13. a4 a6 14. Bc1 Ba7 15. Be3 b5 16. Ncd2 Bxe3 17. Rxe3 Qd7 18.
+Nb3
+{ Here we see that Neither Fritz as White rated 3 3 4 4 nor Igel as Black rated 3 4 7 5 could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 9... O-O 10. Nc4 Be6 11. Re1 Qd7 12. a4 a6 13. Nxb6 cxb6 14. Bc2 Bg4 15. h3
+Bh5 16. Qe2 Rfd8 17. Bb2 b5 18. axb5
+{ In an interesting battle, Neither Caissa from the White side with rating 3 6 0 0 nor Cinder handling the Black pieces rated 3 5 6 1 could convert, and the game was drawn.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Lizard 11.1 64-bit 4CPU"]
+[Black "Stockfish 17 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[Variation "close variation"]
+[WhiteElo "3603"]
+[BlackElo "3643"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Qe7
+{ entered in GIUOCO Piano Close Variation } 5. O-O
+{ played by 3 6 4 3 rated Stockfish } ( 5. d3
+{ played by 3 6 4 3 rated ShashChess } 5... d6 6. Bb3
+{ played by 3 6 4 3 rated ShashChess } 6... Nf6 7. Nbd2
+{ played by 3 6 4 3 rated ShashChess } 7... h6 8. h3
+{ played by 3 6 4 3 rated ShashChess } ( 8. Qe2
+{ played by 3 6 1 5 rated Obsidian } 8... g5 9. Ba4
+{ played by 3 6 1 5 rated Obsidian } 9... Bb6 10. Nc4 Be6 11. O-O Bxc4 12. dxc4
+a5 13. b4 axb4 14. Bxc6+ bxc6 15. cxb4 Bd4 16. Nxd4 exd4 17. a4 O-O 18. Re1
+{ Once again, The game between Titan as White rated 3 5 8 9 and Obsidian, rated 3 6 1 5, had the Black pieces finished level. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 8... Be6 9. O-O { played by 3 6 4 3 rated ShashChess } ( 9. Bxe6
+{ played by 2 9 4 2 rated Marvin } 9... Qxe6 10. b4 Bb6 11. Qb3 Qxb3 12. axb3
+O-O 13. b5 Nd8 14. Ke2 Ne6 15. g3 Rfe8 16. b4 d5 17. Bb2 dxe4 18. dxe4
+{ After a long struggle, DisasterArea from the White side with rating 2 9 3 2 and Marvin from the Black side with rating 2 9 4 2 shared the point. The opening quickly led to complex middlegame play.1/2-1/2 }
+) ( 9. Ba4 { played by 2 5 2 7 rated nanoSzachy } 9... O-O 10. b4 Bb6 11. O-O
+a6 12. d4 exd4 13. Bxc6 bxc6 14. cxd4 a5 15. bxa5 Rxa5 16. a4 Rfa8 17. Bb2 c5
+18. Bc3
+{ nanoSzachy handling the Black pieces rated 2 5 2 7 seized the initiative and handed Jazz as White rated 2 3 0 4 a loss. The outcome was decided in the later stages.0-1 }
+) 9... a6 10. Ba4 Ba7 11. Bxc6+ bxc6 12. d4 exd4 13. cxd4 O-O 14. Re1 Rfe8 15.
+b3 a5 16. a4 Qd8 17. Ba3 Qd7 18. Bb2
+{ The game between Alexandria on White with Elo 3 6 3 1 and ShashChess playing Black, rated 3 6 4 3 finished level. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 5... d6 6. Re1 { played by 3 5 7 8 rated Igel } 6... Nf6 7. d4
+{ played by 2 9 5 0 rated Winter } 7... Bb6 8. d5 Nb8 9. h3
+{ we will see this position later on1/2-1/2 } ( 9. Nbd2
+{ played by 3 2 2 5 rated Komodo } 9... O-O 10. Bd3 c6 11. Nc4 h6 12. Bc2 cxd5
+13. exd5 Qc7 14. Nxb6 axb6 15. Be3 Ng4 16. Bd2 Qc5 17. Qe2 Qxd5 18. h3
+{ In an interesting battle, After a long struggle, Rebel handling the White pieces rated 3 3 6 2 and Igel as Black rated 3 4 0 9 shared the point. The outcome was decided in the later stages.1/2-1/2 }
+) 1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Lizard 11.1 64-bit 4CPU"]
+[Black "Stockfish 17 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[Variation "close variation"]
+[WhiteElo "3603"]
+[BlackElo "3643"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Qe7
+{ entered in GIUOCO Piano Close Variation } 5. d3
+{ played by 3 6 4 3 rated ShashChess } ( 5. b4
+{ played by 3 6 1 5 rated Dragon } 5... Bb6 6. a4
+{ played by 3 6 1 5 rated Dragon } 6... a6 7. d3
+{ played by 3 6 1 5 rated Dragon } ( 7. O-O
+{ played by 3 4 9 1 rated Stockfish } 7... d6 8. Re1
+{ played by 3 4 9 1 rated Stockfish } 8... Nf6 9. d4
+{ played by 3 4 9 1 rated Stockfish } ( 9. a5 { played by 3 4 3 7 rated SugaR }
+9... Ba7 10. d4 Qd8 11. Be3 O-O 12. Qb3 Ng4 13. Nbd2 Qf6 14. dxe5 Ngxe5 15.
+Nxe5 Nxe5 16. Bxa7 Rxa7 17. Be2 Ra8 18. Qc2
+{ In an interesting battle, After a long struggle, SugaR as White rated 3 4 3 7 and Stockfish playing Black, rated 3 4 9 1 shared the point. The outcome was decided in the later stages.1/2-1/2 }
+) 9... Qd8 10. h3 O-O 11. Ba3 h6 12. b5 axb5 13. axb5 Na5 14. Bb4 Bxh3 15. Rxa5
+Bxa5 16. gxh3 exd4 17. Bxa5 Rxa5 18. cxd4
+{ Here we see that SugaR on Black with Elo 3 4 3 7 could not hold the position, allowing Stockfish from the White side with rating 3 4 9 1 to win. The opening quickly led to complex middlegame play.1-0 }
+) 7... Nf6 8. Na3 d6 9. Bb3 { played by 3 6 1 5 rated Dragon } 9... Be6 10. Nc4
+h6 11. O-O O-O { we will see this position later on1/2-1/2 } ) 5... d6 6. Bb3
+{ played by 3 6 4 3 rated ShashChess } ( 6. Nbd2
+{ played by 3 6 1 5 rated Obsidian } 6... Nf6 7. h3
+{ played by 3 6 3 1 rated Alexandria } 7... a6 8. b4 Ba7 9. a4
+{ played by 3 6 3 1 rated Alexandria } ( 9. O-O
+{ played by 3 2 4 8 rated Schooner } 9... O-O 10. a4
+{ we will see this position later on1/2-1/2 } ) 9... O-O 10. O-O h6
+{ we will see this position later on1/2-1/2 } ) 6... Nf6 7. O-O
+{ played by 3 2 1 7 rated rofChade } 7... O-O 8. Re1
+{ played by 3 2 1 7 rated rofChade } 8... Bb6 9. h3
+{ played by 3 2 1 7 rated rofChade } ( 9. Na3 { played by 3 0 7 5 rated iCE }
+9... h6 10. Nc4 Be6 11. h3 Rad8 12. Bd2 Rfe8 13. Nxb6 Bxb3 14. axb3 axb6 15. c4
+Ra8 16. b4 Qe6 17. b3 Ne7 18. d4
+{ Once again, Neither iCE from the White side with rating 3 0 7 5 nor Ethereal playing Black, rated 3 0 7 6 could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+) 9... Be6 10. Nbd2 Nd7 11. Nf1 Qf6 12. Bg5 Qg6 13. Ng3 a5 14. Bc2 f6 15. Be3
+Bxe3 16. Rxe3 Qf7 17. d4 exd4 18. cxd4
+{ Once again, Nemorino handling the Black pieces rated 3 1 8 9 could not hold the position, allowing rofChade from the White side with rating 3 2 1 7 to win.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Lizard 11.1 64-bit 4CPU"]
+[Black "Stockfish 17 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[Variation "close variation"]
+[WhiteElo "3603"]
+[BlackElo "3643"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Qe7
+{ entered in GIUOCO Piano Close Variation } 5. Bb3
+{ played by 3 5 9 9 rated Clover } ( 5. O-O
+{ played by 3 6 4 3 rated Stockfish } 5... d6 6. d4
+{ played by 3 6 4 3 rated Stockfish } 6... Bb6 7. h3
+{ played by 3 6 4 3 rated Stockfish } 7... Nf6 8. d5
+{ played by 3 6 4 3 rated Stockfish } 8... Nb8 9. Re1
+{ played by 3 6 4 3 rated Stockfish } 9... O-O 10. Bf1
+{ played by 3 5 1 3 rated ShashChess } ( 10. Bd3
+{ played by 3 3 4 4 rated Fritz } 10... Nbd7 11. a4 a5 12. Na3 c6 13. Nc4 cxd5
+14. exd5 Bc5 15. Bg5 h6 16. Bh4 g5 17. Nxg5 hxg5 18. Bxg5
+{ In this game, Critter from the Black side with rating 3 1 7 8 could not hold the position, allowing Fritz as White rated 3 3 4 4 to win. Small inaccuracies made the difference.1-0 }
+) ( 10. Bg5 { played by 3 0 7 5 rated iCE } 10... h6 11. Bh4 g5 12. Bg3 Nh5 13.
+Bh2 Nf4 14. Nbd2 Qf6 15. a4 a5 16. Bb5 Bc5 17. Bf1 h5 18. Nb3
+{ In an interesting battle, Amoeba, rated 2 9 5 0, had the Black pieces seized the initiative and handed iCE from the White side with rating 3 0 7 5 a loss. The outcome was decided in the later stages.0-1 }
+) 10... Rd8 11. b4 a5 12. Na3 Ba7 13. b5 Bc5 14. Nc2 Nbd7 15. Nd2 h6 16. Ne3 a4
+17. Nf5 Qf8 18. Ng3
+{ Here we see that After a long struggle, ShashChess as White rated 3 5 1 3 and Houdini handling the Black pieces rated 3 4 5 6 shared the point. Both sides showed good positional understanding.1/2-1/2 }
+) 5... Nf6 6. d3 O-O 7. Nbd2 { played by 3 5 9 9 rated Clover } 7... d6 8. O-O
+{ played by 3 5 9 9 rated Clover } 8... Kh8 9. h3
+{ played by 3 5 9 9 rated Clover } ( 9. Re1 { played by 3 3 0 0 rated Caissa }
+9... a5 10. Nf1 Bg4 11. h3 Bxf3 12. Qxf3 a4 13. Bc2 b5 14. Bg5 h6 15. Bxf6 Qxf6
+16. Qxf6 gxf6 17. a3 Rg8 18. Rad1
+{ Smallbrain handling the White pieces rated 3 2 8 2 outplayed Caissa playing Black, rated 3 3 0 0 and won the game. The opening quickly led to complex middlegame play.1-0 }
+) ( 9. Ba4 { played by 2 1 8 6 rated Buzz } 9... Bb6 10. Bxc6 bxc6 11. a4 a5
+12. b4 Be6 13. bxa5 Rxa5 14. Nb3 Ra6 15. Bg5 Rfa8 16. c4 Rxa4 17. Rxa4 Rxa4 18.
+Nbd4
+{ Here we see that Buzz handling the White pieces rated 2 1 8 6 remained in control, handing FoxSEE from the Black side with rating 2 2 5 6 a loss. Small inaccuracies made the difference.1-0 }
+) 9... Be6 10. Re1 Bxb3 11. axb3 a6 12. b4 Ba7 13. Nf1 Bb6 14. Ng3 Qe6 15. Be3
+Bxe3 16. Rxe3 d5 17. exd5 Qxd5 18. Qc2
+{ Here we see that The game between Igel handling the White pieces rated 3 5 8 0 and Clover playing Black, rated 3 5 9 9 finished level.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Lizard 11.1 64-bit 4CPU"]
+[Black "Stockfish 17 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[Variation "close variation"]
+[WhiteElo "3603"]
+[BlackElo "3643"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Qe7
+{ entered in GIUOCO Piano Close Variation } 5. O-O
+{ played by 3 6 4 3 rated Stockfish } 5... d6 6. d4
+{ played by 3 6 4 3 rated Stockfish } 6... Bb6 7. Bb5
+{ played by 3 6 3 7 rated Torch } ( 7. Be3
+{ played by 3 6 3 1 rated Alexandria } 7... Nf6 8. Bb5 O-O 9. Bxc6
+{ played by 3 6 3 1 rated Alexandria } 9... bxc6 10. dxe5
+{ played by 2 4 4 1 rated CT800 } 10... dxe5 11. Qe2 Bxe3 12. Qxe3 Ba6 13. Rc1
+Ng4 14. Qe1 Bd3 15. b3 Rad8 16. Nbd2 h6 17. b4 Nf6 18. Qe3
+{ In this game, CT800 on White with Elo 2 4 4 1 converted the advantage and defeated Loki playing Black, rated 2 4 7 3. Both sides showed good positional understanding.1-0 }
+) ( 7. dxe5 { played by 3 6 1 3 rated Stormphrax } 7... dxe5 8. b3 Bg4 9. h3
+{ played by 3 5 8 4 rated Renegade } 9... Bh5 10. a4
+{ played by 3 5 6 3 rated Uralochka } ( 10. Qe2
+{ played by 3 2 3 0 rated Arasan } 10... Nf6 11. Rd1 Rd8 12. Bd3 a5 13. Ba3 Bc5
+14. Bxc5 Qxc5 15. a3 Bxf3 16. Qxf3 Ne7 17. Nd2 O-O 18. Nc4
+{ In an interesting battle, Neither Arasan, rated 3 2 3 0, had the White pieces nor NirvanaChess handling the Black pieces rated 3 2 2 4 could convert, and the game was drawn.1/2-1/2 }
+) 10... Nf6 11. Ba3 Bc5 12. Bxc5 Qxc5 13. Nbd2 a5 14. Re1 O-O 15. Qc1 Bxf3 16.
+Nxf3 Rfd8 17. Rb1 Qe7 18. Ng5
+{ In this game, After a long struggle, Uralochka, rated 3 5 6 3, had the White pieces and Berserk as Black rated 3 6 0 8 shared the point. Small inaccuracies made the difference.1/2-1/2 }
+) 7... Bd7 8. Re1 Nf6 9. Bg5 { played by 3 3 9 8 rated HIARCS } ( 9. d5
+{ played by 3 3 7 8 rated Fire } 9... Nb8 10. Bd3
+{ played by 3 3 7 8 rated Fire } ( 10. a4 { played by 3 2 2 4 rated Gull }
+10... Ng4 11. Re2 O-O 12. Bg5 f6 13. Bh4 Bxb5 14. axb5 Nd7 15. h3 Nh6 16. b4 g5
+17. Qc1 Qg7 18. Bg3
+{ In an interesting battle, Fire playing Black, rated 3 3 7 8 seized the initiative and handed Gull playing White, rated 3 2 2 4 a loss. The opening quickly led to complex middlegame play.0-1 }
+) 10... c6 11. Bg5 h6 12. Bh4 O-O 13. a4 Bc7 14. a5 g5 15. Bg3 cxd5 16. exd5
+Qd8 17. Nbd2 Nxd5 18. Ne4
+{ In this game, After a long struggle, Fire as White rated 3 3 7 8 and Gull playing Black, rated 3 2 2 4 shared the point. The outcome was decided in the later stages.1/2-1/2 }
+) 9... h6 10. Bh4 { played by 3 3 9 8 rated HIARCS } ( 10. Bxf6
+{ played by 3 2 7 7 rated Houdini } 10... Qxf6 11. d5 Nb8 12. a4 a5 13. Na3 O-O
+14. Nc4 Bc5 15. Bxd7 Nxd7 16. Ne3 g6 17. Qc2 Qf4 18. Re2
+{ Here we see that HIARCS handling the Black pieces rated 3 3 9 8 seized the initiative and handed Houdini on White with Elo 3 2 7 7 a loss. Both sides showed good positional understanding.0-1 }
+) 10... g5 11. Bg3 O-O-O 12. a4 a6 13. Bxc6 Bxc6 14. Nbd2 h5 15. h4 g4 16. Ng5
+exd4 17. b4 dxc3 18. Nc4
+{ Here we see that HIARCS on White with Elo 3 3 9 8 remained in control, handing Houdini, rated 3 2 7 7, had the Black pieces a loss. The outcome was decided in the later stages.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Lizard 11.1 64-bit 4CPU"]
+[Black "Stockfish 17 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[Variation "close variation"]
+[WhiteElo "3603"]
+[BlackElo "3643"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Qe7
+{ entered in GIUOCO Piano Close Variation } 5. O-O
+{ played by 3 6 4 3 rated Stockfish } 5... d6 6. d4
+{ played by 3 6 4 3 rated Stockfish } ( 6. h3 { played by 3 6 3 5 rated Torch }
+6... Nf6 7. d3 { played by 3 6 3 5 rated Torch } 7... a6 8. Re1
+{ played by 3 6 2 1 rated Obsidian } 8... O-O 9. d4
+{ played by 3 6 2 1 rated Obsidian } 9... Ba7 10. a4
+{ played by 3 6 2 1 rated Obsidian } ( 10. Be3
+{ played by 2 7 0 8 rated Caligula } 10... exd4 11. cxd4 Qxe4 12. Nc3 Qf5 13.
+a3 Re8 14. Ne2 Qd7 15. Qc2 d5 16. Bd3 Qd6 17. Bf4 Qd8 18. Bxa6
+{ In an interesting battle, Eggnog playing Black, rated 2 4 0 9 outplayed Caligula from the White side with rating 2 7 0 8 and won as Black. Both sides showed good positional understanding.0-1 }
+) 10... h6 11. a5 Qd8 12. Be3 exd4 13. cxd4 d5 14. exd5 Nxd5 15. Bxd5 Qxd5 16.
+Nc3 Qd6 17. Qd2 Bf5 18. Bf4
+{ Here we see that Obsidian playing White, rated 3 6 2 1 remained in control, handing Lizard on Black with Elo 3 6 0 3 a loss. Small inaccuracies made the difference.1-0 }
+) ( 6. d3 { played by 3 6 0 0 rated Caissa } 6... h6 7. Nbd2 Nf6 8. b4 Bb6 9.
+a4 { played by 3 5 8 3 rated Chess } 9... a6 10. Bb2
+{ played by 2 6 1 6 rated Topple } 10... O-O 11. Qb3 Bd7 12. Rae1 Nh5 13. a5
+Ba7 14. d4 Qf6 15. Kh1 exd4 16. cxd4 Nxd4 17. Qd1 Nf4 18. Nb3
+{ In this game, After a long struggle, Topple playing White, rated 2 6 1 6 and Fridolin, rated 2 6 7 5, had the Black pieces shared the point. The outcome was decided in the later stages.1/2-1/2 }
+) ( 6. Re1 { played by 3 5 7 8 rated Igel } 6... Nf6 7. d3
+{ played by 3 5 7 8 rated Igel } 7... a6 8. Nbd2
+{ played by 3 5 7 8 rated Igel } 8... O-O 9. Bb3
+{ played by 3 5 7 8 rated Igel } 9... Be6 10. Nc4
+{ played by 3 5 7 8 rated Igel } ( 10. Nf1
+{ played by 3 5 6 3 rated Uralochka } 10... Bxb3 11. axb3 Bb6 12. Ng3 Qd7 13.
+Bg5 Ne8 14. b4 Rc8 15. Be3 Bxe3 16. Rxe3 Nf6 17. d4 exd4 18. Nxd4
+{ In an interesting battle, Neither Uralochka from the White side with rating 3 5 6 3 nor Igel playing Black, rated 3 5 7 8 could convert, and the game was drawn. Both sides showed good positional understanding.1/2-1/2 }
+) 10... Rae8 11. h3 Qd8 12. a4 a5 13. Bg5 h6 14. Bh4 g5 15. Bg3 Ba7 16. Ne3 Bc8
+17. Nf1 Kh8 18. Bc4
+{ Once again, Igel from the White side with rating 3 5 7 8 converted the advantage and defeated Uralochka playing Black, rated 3 5 6 3.1-0 }
+) 6... Bb6 7. a4 { played by 3 0 4 1 rated Spike } 7... a6 8. h3
+{ played by 3 0 4 1 rated Spike } 8... Nf6 9. d5 Nb8 10. Bd3
+{ played by 3 4 5 4 rated Velvet } ( 10. a5 { played by 3 0 4 1 rated Spike }
+10... Ba7 11. Qd3 Nbd7 12. b4 O-O 13. Bb3 Nh5 14. Ra2 f5 15. Re1 fxe4 16. Qxe4
+Qf7 17. c4 Nf4 18. Bxf4
+{ Spike handling the White pieces rated 3 0 4 1 and Deep as Black rated 3 0 4 5 played a balanced game which ended in a draw. Small inaccuracies made the difference.1/2-1/2 }
+) 10... Ba7 11. b4 h6 12. Nbd2 g5 13. Nh2 Rg8 14. Nc4 g4 15. Kh1 gxh3 16. g3
+Ng4 17. Nxg4 Bxg4 18. f3
+{ In an interesting battle, Velvet as White rated 3 4 5 4 and Minic playing Black, rated 3 5 1 6 played a balanced game which ended in a draw. Small inaccuracies made the difference.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Lizard 11.1 64-bit 4CPU"]
+[Black "Stockfish 17 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[Variation "close variation"]
+[WhiteElo "3603"]
+[BlackElo "3643"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Qe7
+{ entered in GIUOCO Piano Close Variation } 5. O-O
+{ played by 3 6 4 3 rated Stockfish } ( 5. d3
+{ played by 3 6 4 3 rated ShashChess } 5... d6 6. Bb3
+{ played by 3 6 4 3 rated ShashChess } 6... Nf6 7. Nbd2
+{ played by 3 6 4 3 rated ShashChess } 7... h6 8. Qe2
+{ played by 3 6 1 5 rated Obsidian } 8... g5 9. O-O
+{ played by 3 4 2 4 rated Arasan } 9... a6 10. Ba4
+{ played by 3 4 2 4 rated Arasan } 10... Bd7 11. Bxc6 Bxc6 12. Nc4 Bd7 13. b4
+Ba7 14. Be3 b5 15. Bxa7 bxc4 16. Be3 O-O 17. Rfe1 cxd3 18. Qxd3
+{ Once again, Arasan handling the White pieces rated 3 4 2 4 and Seer on Black with Elo 3 4 8 8 played a balanced game which ended in a draw. The outcome was decided in the later stages.1/2-1/2 }
+) 5... d6 6. Re1 { played by 3 5 7 8 rated Igel } 6... Nf6 7. d4
+{ played by 2 9 5 0 rated Winter } 7... Bb6 8. d5 Nb8 9. a4
+{ played by 3 6 2 6 rated Dragon } ( 9. Bg5 { played by 3 3 2 4 rated pawn }
+9... O-O 10. Nbd2 { played by 3 3 2 4 rated pawn } ( 10. a4
+{ played by 2 4 5 0 rated Anatoli } 10... a5 11. Nbd2 Na6 12. Bb5 h6 13. Bh4
+Nb8 14. b3 c6 15. Bf1 Nbd7 16. Nc4 Bc7 17. Qc2 cxd5 18. exd5
+{ In this game, Anatoli, rated 2 4 5 0, had the White pieces converted the advantage and defeated Myrddin on Black with Elo 2 5 4 5.1-0 }
+) 10... h6 11. Bh4 a5 12. h3 g5 13. Bg3 c6 14. Bd3 cxd5 15. exd5 Nxd5 16. h4
+Nf4 17. Bc2 f5 18. Nc4
+{ In this game, After a long struggle, pawn as White rated 3 3 2 4 and Deep on Black with Elo 3 3 2 8 shared the point. Both sides showed good positional understanding.1/2-1/2 }
+) 9... a5 10. Na3 { played by 3 6 2 6 rated Dragon } ( 10. h3
+{ played by 3 6 1 5 rated Caissa } 10... h6 11. Na3 g5 12. Bb5+ Kd8 13. Nc4 Bc5
+14. b4 axb4 15. cxb4 Bxb4 16. Ba3 Bxa3 17. Rxa3 Nbd7 18. Qc2
+{ Here we see that RubiChess on White with Elo 3 6 0 1 and Dragon on Black with Elo 3 6 2 6 played a balanced game which ended in a draw. Small inaccuracies made the difference.1/2-1/2 }
+) ( 10. Nbd2 { played by 2 9 5 0 rated Winter } 10... c6 11. Bd3 Nbd7 12. Nc4
+Bc7 13. b3 Nc5 14. Ba3 O-O 15. Bxc5 dxc5 16. dxc6 bxc6 17. Qc2 Nh5 18. Ne3
+{ Winter from the White side with rating 2 9 5 0 remained in control, handing Bobcat handling the Black pieces rated 2 9 4 7 a loss. The position remained tense for most of the game.1-0 }
+) 10... O-O 11. h3 { we will see this position later on1/2-1/2 } 1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Lizard 11.1 64-bit 4CPU"]
+[Black "Stockfish 17 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[Variation "close variation"]
+[WhiteElo "3603"]
+[BlackElo "3643"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Qe7
+{ entered in GIUOCO Piano Close Variation } 5. d3
+{ played by 3 6 4 3 rated ShashChess } ( 5. b4
+{ played by 3 6 1 5 rated Dragon } 5... Bb6 6. a4
+{ played by 3 6 1 5 rated Dragon } 6... a6 7. d3
+{ played by 3 6 1 5 rated Dragon } 7... Nf6 8. Na3 d6 9. O-O
+{ played by 3 6 1 3 rated Stockfish } 9... O-O 10. Re1
+{ played by 3 6 1 3 rated Stockfish } ( 10. Bg5
+{ played by 3 6 0 6 rated Viridithas } 10... h6 11. Bh4 Ba7 12. Re1 Kh8 13. Bb3
+g5 14. Bg3 Be6 15. Bxe6 fxe6 16. Nc4 g4 17. Nh4 Qg7 18. d4
+{ In this game, Viridithas as White rated 3 6 0 6 remained in control, handing Cinder from the Black side with rating 3 5 4 5 a loss. The position remained tense for most of the game.1-0 }
+) ( 10. Ba2 { played by 3 3 1 8 rated Fizbo } 10... Be6 11. Nc4 Ba7 12. Qc2
+Rfe8 13. Ng5 b5 14. Ne3 Bxa2 15. Rxa2 Qd7 16. Bd2 Bxe3 17. Bxe3 h6 18. Nf3
+{ Neither Fizbo playing White, rated 3 3 1 8 nor Fritz on Black with Elo 3 3 2 2 could convert, and the game was drawn. Small inaccuracies made the difference.1/2-1/2 }
+) ( 10. h3 { played by 3 0 6 2 rated Laser } 10... h6 11. Bb3 Be6 12. Nc4 Ba7
+13. Re1 { we will see this position later on1/2-1/2 } ) 10... Be6 11. Bg5 h6
+12. Bh4 Rae8 13. Rb1 Ba7 14. b5 axb5 15. Bxb5 g5 16. Bg3 Nh5 17. Nc2 Qf6 18. d4
+{ Here we see that The game between Stockfish, rated 3 6 1 3, had the White pieces and Dragon, rated 3 6 1 5, had the Black pieces finished level.1/2-1/2 }
+) 5... d6 6. Be3 { played by 3 1 1 6 rated Strelka } 6... Bb6 7. O-O Bxe3 8.
+fxe3 Nf6 9. Nbd2 O-O 10. d4 { played by 3 1 1 6 rated Strelka } ( 10. h3
+{ played by 3 0 6 2 rated Vitruvius } 10... Be6 11. Bxe6 Qxe6 12. Qb3 Qxb3 13.
+axb3 a5 14. g4 h6 15. Kf2 g6 16. Kg3 Kg7 17. Nc4 Rfd8 18. Nfd2
+{ Once again, After a long struggle, Vitruvius playing White, rated 3 0 6 2 and Strelka from the Black side with rating 3 1 1 6 shared the point. The outcome was decided in the later stages.1/2-1/2 }
+) 10... Re8 11. b4 Bg4 12. Qc2 Rad8 13. a4 Nb8 14. Ba2 Nbd7 15. h3 Bxf3 16.
+Nxf3 c6 17. Rae1 Rc8 18. a5
+{ In an interesting battle, After a long struggle, Strelka from the White side with rating 3 1 1 6 and Vitruvius as Black rated 3 0 6 2 shared the point. Small inaccuracies made the difference.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Lizard 11.1 64-bit 4CPU"]
+[Black "Stockfish 17 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[Variation "close variation"]
+[WhiteElo "3603"]
+[BlackElo "3643"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Qe7
+{ entered in GIUOCO Piano Close Variation } 5. Bb3
+{ played by 3 5 9 9 rated Clover } ( 5. O-O
+{ played by 3 6 4 3 rated Stockfish } 5... d6 6. d4
+{ played by 3 6 4 3 rated Stockfish } 6... Bb6 7. h3
+{ played by 3 6 4 3 rated Stockfish } 7... Nf6 8. d5
+{ played by 3 6 4 3 rated Stockfish } 8... Nb8 9. Re1
+{ played by 3 6 4 3 rated Stockfish } ( 9. Nbd2
+{ played by 3 2 3 5 rated Chiron } 9... O-O 10. a4 a5 11. Re1
+{ played by 3 2 3 5 rated Chiron } ( 11. Bd3
+{ played by 3 1 7 8 rated Critter } 11... c6 12. Nc4 Bc5 13. dxc6 Nxc6 14. Bg5
+h6 15. Bh4 g5 16. Bg3 Nh5 17. Bh2 g4 18. Nfd2
+{ In an interesting battle, Critter as White rated 3 1 7 8 overpressed, and Fritz as Black rated 3 3 4 4 secured the win. The position remained tense for most of the game.0-1 }
+) 11... c6 12. Nf1 Qc7 13. Qe2 h6 14. Ng3 cxd5 15. exd5 Qd8 16. b3 Na6 17. Ba3
+Bc5 18. Bb2
+{ After a long struggle, Chiron playing White, rated 3 2 3 5 and Xiphos on Black with Elo 3 2 2 1 shared the point.1/2-1/2 }
+) 9... O-O 10. a4 { played by 3 6 4 3 rated Stockfish } 10... a5 11. Na3
+{ played by 3 6 4 3 rated Stockfish } ( 11. Qc2
+{ played by 2 7 1 4 rated Bagatur } 11... c6 12. Bg5 h6 13. Bh4 Nbd7 14. Nbd2
+Bc7 15. Ba2 Nc5 16. b4 Ncd7 17. Nc4 cxd5 18. exd5
+{ In this game, Bagatur from the White side with rating 2 7 1 4 outplayed Jumbo, rated 2 5 4 6, had the Black pieces and won the game. The outcome was decided in the later stages.1-0 }
+) 11... c6 12. Bd3 h6 13. Bc2 Ba7 14. Nc4 cxd5 15. exd5 Qd8 16. Bd2 Re8 17. Be3
+Bxe3 18. Nxe3
+{ Neither Lizard playing White, rated 3 6 0 3 nor Stockfish as Black rated 3 6 4 3 could convert, and the game was drawn. Both sides showed good positional understanding.1/2-1/2 }
+) 5... Nf6 6. d3 O-O 7. Nbd2 { played by 3 5 9 9 rated Clover } 7... d6 8. Nc4
+{ played by 2 0 3 3 rated Detroid } 8... Be6 9. O-O a6 10. Bg5
+{ played by 3 3 9 2 rated Uralochka } ( 10. Be3
+{ played by 2 0 3 3 rated Detroid } 10... Bxc4 11. Bxc4 Bxe3 12. fxe3 Na5 13.
+Qa4 Nxc4 14. Qxc4 c5 15. a4 b5 16. Qb3 Rab8 17. a5 c4 18. Qc2
+{ In this game, Bodo on Black with Elo 2 0 3 3 outplayed Detroid from the White side with rating 2 0 3 3 and won as Black.0-1 }
+) 10... h6 11. Bh4 g5 12. Bg3 Rae8 13. Ne3 Bxe3 14. fxe3 Nb8 15. c4 Nbd7 16.
+Be1 Kh8 17. Bc2 Rg8 18. Qe2
+{ Here we see that Uralochka on White with Elo 3 3 9 2 and Wasp handling the Black pieces rated 3 4 8 3 played a balanced game which ended in a draw.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Lizard 11.1 64-bit 4CPU"]
+[Black "Stockfish 17 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[Variation "close variation"]
+[WhiteElo "3603"]
+[BlackElo "3643"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Qe7
+{ entered in GIUOCO Piano Close Variation } 5. O-O
+{ played by 3 6 4 3 rated Stockfish } 5... d6 6. d4
+{ played by 3 6 4 3 rated Stockfish } ( 6. h3 { played by 3 6 3 5 rated Torch }
+6... Nf6 7. d3 { played by 3 6 3 5 rated Torch } 7... a6 8. Re1
+{ played by 3 6 2 1 rated Obsidian } 8... O-O 9. d4
+{ played by 3 6 2 1 rated Obsidian } 9... Ba7 10. d5
+{ played by 2 8 5 0 rated Avalanche } 10... Nb8 11. Bd3
+{ played by 2 8 5 0 rated Avalanche } ( 11. a4
+{ played by 2 8 4 6 rated Cheese } 11... Nbd7 12. Nbd2 Nh5 13. Nf1 h6 14. Bd2
+Qf6 15. a5 Rd8 16. Be3 Nf8 17. N3d2 Nf4 18. Bxa7
+{ Chronos playing Black, rated 2 7 4 2 could not hold the position, allowing Cheese, rated 2 8 4 6, had the White pieces to win. Both sides showed good positional understanding.1-0 }
+) 11... Nbd7 12. Na3 c6 13. dxc6 bxc6 14. Nc4 Nc5 15. b4 Nxd3 16. Qxd3 Rd8 17.
+Bg5 h6 18. Bxf6
+{ In this game, Avalanche as Black rated 2 8 5 0 could not hold the position, allowing Octochess from the White side with rating 2 7 3 6 to win. The position remained tense for most of the game.1-0 }
+) 6... Bb6 7. Bb5 { played by 3 6 3 7 rated Torch } ( 7. dxe5
+{ played by 3 6 1 3 rated Stormphrax } 7... dxe5 8. b3 Bg4 9. h3
+{ played by 3 5 8 4 rated Renegade } 9... Bh5 10. Nbd2
+{ played by 3 5 8 4 rated Renegade } 10... Nf6 11. a4
+{ played by 3 5 8 4 rated Renegade } ( 11. Qc2
+{ played by 3 1 8 2 rated Alfil } 11... O-O 12. Nh4 Rfd8 13. Nf5 Qe8 14. Re1
+Rd7 15. g4 Bg6 16. Nf3 h6 17. a4 Bxf5 18. gxf5
+{ In an interesting battle, Alfil handling the White pieces rated 3 1 8 2 converted the advantage and defeated Amoeba on Black with Elo 3 1 5 5. Small inaccuracies made the difference.1-0 }
+) 11... O-O-O 12. Qe2 g5 13. b4 a5 14. Bb5 Rhg8 15. g4 Qe6 16. Bc4 Qe8 17. Bb5
+Qe6 { we will see this position later on1/2-1/2 } ) 7... Bd7 8. Re1 Nf6 9. h3
+{ played by 3 6 3 7 rated Torch } 9... O-O 10. d5 Nb8 11. a4
+{ played by 3 6 3 7 rated Torch } ( 11. Bd3
+{ played by 3 6 3 1 rated Alexandria } 11... c6 12. a4 a5
+{ we will see this position later on1/2-1/2 } ) 11... a5 12. Bd3 c6 13. Na3 Bc5
+14. Bg5 h6 15. Bh4 g5 16. Nxg5 hxg5 17. Bxg5 Kg7 18. Nc4
+{ Once again, Torch, rated 3 6 3 7, had the White pieces and Alexandria on Black with Elo 3 6 3 1 played a balanced game which ended in a draw. The position remained tense for most of the game.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Lizard 11.1 64-bit 4CPU"]
+[Black "Stockfish 17 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[Variation "close variation"]
+[WhiteElo "3603"]
+[BlackElo "3643"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Qe7
+{ entered in GIUOCO Piano Close Variation } 5. O-O
+{ played by 3 6 4 3 rated Stockfish } 5... d6 6. d3
+{ played by 3 6 0 0 rated Caissa } ( 6. Re1 { played by 3 5 7 8 rated Igel }
+6... Nf6 7. d3 { played by 3 5 7 8 rated Igel } 7... a6 8. Bb3
+{ played by 3 5 7 7 rated Velvet } 8... h6 9. d4
+{ played by 3 3 2 2 rated Fritz } 9... Ba7 10. d5
+{ played by 3 3 2 2 rated Fritz } ( 10. h3 { played by 3 1 4 5 rated Fritz }
+10... O-O 11. d5 { played by 3 1 4 5 rated Fritz } ( 11. Be3
+{ played by 2 9 9 5 rated Ethereal } 11... Na5 12. Bc2 c5 13. Nbd2 cxd4 14.
+cxd4 Nc6 15. d5 Nb4 16. Bxa7 Rxa7 17. Bb1 a5 18. Qb3
+{ In this game, Ethereal as White rated 2 9 9 5 and Fritz playing Black, rated 3 1 4 5 played a balanced game which ended in a draw. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 11... Nb8 12. c4 Nh5 13. Nc3 Qf6 14. Bc2
+{ we will see this position later on1/2-1/2 } ) 10... Nb8 11. Nbd2
+{ played by 3 3 2 2 rated Fritz } ( 11. c4 { played by 3 2 1 2 rated Arasan }
+11... O-O 12. Nc3 Nh5 13. Bc2 Qf6 14. h3 Nf4 15. Bxf4 Qxf4 16. Ne2 Qf6 17. Ng3
+a5 18. a3
+{ Once again, Neither Arasan handling the White pieces rated 3 2 1 2 nor Nemorino handling the Black pieces rated 3 1 8 9 could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+) 11... O-O 12. Bc2 c6 13. Nf1 cxd5 14. exd5 Nbd7 15. Ng3 Nb6 16. Bb3 a5 17. a4
+Qd8 18. c4
+{ Here we see that The game between Fritz handling the White pieces rated 3 3 2 2 and Arasan, rated 3 2 6 0, had the Black pieces finished level. The position remained tense for most of the game.1/2-1/2 }
+) 6... h6 7. Nbd2 Nf6 8. b4 Bb6 9. a4 { played by 3 5 8 3 rated Chess } 9... a6
+10. Re1 { played by 3 5 8 3 rated Chess } 10... O-O 11. Bb3
+{ played by 3 5 7 9 rated Ethereal } ( 11. Nf1
+{ played by 3 5 6 1 rated Cinder } 11... Be6 12. a5 Ba7 13. Be3 Bxe3 14. Nxe3
+Qd7 15. Bb3 Bxb3 16. Qxb3 Rfe8 17. h3 Ne7 18. c4
+{ Neither Cinder from the White side with rating 3 5 6 1 nor Caissa as Black rated 3 6 0 0 could convert, and the game was drawn. Small inaccuracies made the difference.1/2-1/2 }
+) 11... Be6 12. h3 { we will see this position later on1/2-1/2 } 1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Lizard 11.1 64-bit 4CPU"]
+[Black "Stockfish 17 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[Variation "close variation"]
+[WhiteElo "3603"]
+[BlackElo "3643"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Qe7
+{ entered in GIUOCO Piano Close Variation } 5. O-O
+{ played by 3 6 4 3 rated Stockfish } 5... d6 6. Re1
+{ played by 3 5 7 8 rated Igel } ( 6. d4 { played by 3 6 4 3 rated Stockfish }
+6... Bb6 7. h3 { played by 3 6 4 3 rated Stockfish } 7... Nf6 8. d5
+{ played by 3 6 4 3 rated Stockfish } 8... Nb8 9. Bd3
+{ played by 3 5 6 6 rated Heimdall } 9... c6 10. c4 O-O 11. Nc3 a5 12. Rb1
+{ played by 3 5 6 6 rated Heimdall } ( 12. a3
+{ played by 3 3 9 8 rated Ethereal } 12... Bd7 13. Qb3 Ba7 14. Qxb7 Na6 15. Qb3
+cxd5 16. Bg5 Nc5 17. Qc2 dxe4 18. Nxe4
+{ Once again, Neither Ethereal playing White, rated 3 3 9 8 nor Stockfish playing Black, rated 3 5 2 6 could convert, and the game was drawn. Both sides showed good positional understanding.1/2-1/2 }
+) 12... Nbd7 13. Re1 h6 14. a3 Rd8 15. b4 axb4 16. axb4 Re8 17. Na4 Ba7 18. Bd2
+{ Neither Heimdall as White rated 3 5 6 6 nor Winter playing Black, rated 3 5 0 3 could convert, and the game was drawn. Small inaccuracies made the difference.1/2-1/2 }
+) ( 6. h3 { played by 3 6 3 5 rated Torch } 6... Nf6 7. d3
+{ played by 3 6 3 5 rated Torch } 7... a6 8. b4
+{ played by 3 6 3 5 rated Torch } 8... Ba7 9. a4 h6 10. Nbd2 O-O 11. Re1 Be6
+12. Rb1 { played by 3 6 3 5 rated Torch } ( 12. Bb3
+{ played by 3 5 6 6 rated Heimdall } 12... Bxb3 13. Qxb3 Rfe8 14. Nf1 Qe6 15.
+Qxe6 Rxe6 16. Ra3 d5 17. exd5 Nxd5 18. b5
+{ Heimdall as White rated 3 5 6 6 and Alexandria on Black with Elo 3 6 3 1 played a balanced game which ended in a draw. Small inaccuracies made the difference.1/2-1/2 }
+) ( 12. Bxe6 { played by 3 2 4 8 rated Schooner } 12... Qxe6 13. Qb3 Qxb3 14.
+Nxb3 Kh7 15. Bd2 Rae8 16. b5 Nd8 17. c4 Ne6 18. a5
+{ In an interesting battle, Arasan as Black rated 3 1 9 3 defended accurately and defeated Schooner from the White side with rating 3 2 4 8. Both sides showed good positional understanding.0-1 }
+) 12... Qe8 13. Bxe6 fxe6 14. b5 axb5 15. axb5 Nb8 16. d4 Nbd7 17. Ra1 Qg6 18.
+Ra3
+{ Here we see that The game between Peacekeeper from the White side with rating 3 5 5 8 and Torch from the Black side with rating 3 6 3 5 finished level. The outcome was decided in the later stages.1/2-1/2 }
+) 6... Nf6 7. d4 { played by 2 9 5 0 rated Winter } 7... Bb6 8. d5 Nb8 9. Bd3
+{ played by 3 3 2 8 rated Deep } 9... O-O 10. a4 a5 11. Nbd2
+{ played by 3 3 2 8 rated Deep } ( 11. Na3 { played by 2 8 0 6 rated Monolith }
+11... Bc5 12. b3 Nbd7 13. h3 c6 14. Bc2 Rd8 15. Qd2 Nf8 16. Nc4 Qc7 17. Nh4
+cxd5 18. exd5
+{ In this game, Monolith handling the White pieces rated 2 8 0 6 remained in control, handing Crafty, rated 2 9 5 3, had the Black pieces a loss. The opening quickly led to complex middlegame play.1-0 }
+) 11... Bg4 12. Nc4 Nbd7 13. h3 Bh5 14. g4 Bg6 15. b4 Rfb8 16. Nxb6 Nxb6 17.
+Nh4 c6 18. Be3
+{ In this game, Deep playing White, rated 3 3 2 8 converted the advantage and defeated pawn handling the Black pieces rated 3 3 2 4. Both sides showed good positional understanding.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Lizard 11.1 64-bit 4CPU"]
+[Black "Stockfish 17 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[Variation "close variation"]
+[WhiteElo "3603"]
+[BlackElo "3643"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Qe7
+{ entered in GIUOCO Piano Close Variation } 5. O-O
+{ played by 3 6 4 3 rated Stockfish } 5... d6 6. h3
+{ played by 3 6 3 5 rated Torch } ( 6. d3 { played by 3 6 0 0 rated Caissa }
+6... h6 7. Nbd2 Nf6 8. b4 Bb6 9. a4 { played by 3 5 8 3 rated Chess } 9... a6
+10. Re1 { played by 3 5 8 3 rated Chess } ( 10. Bb3
+{ played by 3 4 7 5 rated Igel } 10... O-O 11. Nc4 Be6 12. Re1
+{ played by 3 6 1 5 rated Dragon } ( 12. Be3 { played by 3 4 7 5 rated Igel }
+12... Bxe3 13. Nxe3 Rfe8 14. a5 Bxb3 15. Qxb3 Qd7 16. Nd2 Rad8 17. b5 Ne7 18.
+Rab1
+{ Once again, Fritz as Black rated 3 3 4 4 could not hold the position, allowing Igel from the White side with rating 3 4 7 5 to win. The position remained tense for most of the game.1-0 }
+) ( 12. Ba3 { played by 3 2 8 3 rated Minic } 12... Ba7 13. b5 Bxc4 14. Bxc4
+Na5 15. Ba2 axb5 16. axb5 Nh7 17. d4 exd4 18. e5
+{ In this game, Neither Minic on White with Elo 3 2 8 3 nor Marvin handling the Black pieces rated 3 1 6 7 could convert, and the game was drawn. Both sides showed good positional understanding.1/2-1/2 }
+) 12... Ba7 13. h3 Rfe8 14. Ne3 Bxb3 15. Qxb3 Qd7 16. c4 Nd4 17. Nxd4 Bxd4 18.
+Ra2
+{ Here we see that Neither Dragon handling the White pieces rated 3 6 1 5 nor Stockfish from the Black side with rating 3 6 1 3 could convert, and the game was drawn. Small inaccuracies made the difference.1/2-1/2 }
+) 10... O-O 11. h3 { played by 3 5 8 3 rated Chess } 11... Be6 12. Rb1
+{ played by 3 5 8 3 rated Chess } ( 12. Bb3
+{ played by 3 5 7 3 rated rofChade } 12... Bxb3 13. Qxb3 Nd7 14. Qc4 Qe6 15.
+Qxe6 fxe6 16. Kf1 Ne7 17. Nc4
+{ In an interesting battle, After a long struggle, rofChade playing White, rated 3 5 7 3 and Ethereal from the Black side with rating 3 5 7 9 shared the point. The position remained tense for most of the game.1/2-1/2 }
+) 12... Nd7 13. a5 Ba7 14. Nf1 f5 15. Qb3 Bxc4 16. Qxc4+ Qf7 17. exf5 Qxc4 18.
+dxc4
+{ In an interesting battle, After a long struggle, Chess, rated 3 5 8 3, had the White pieces and Caissa from the Black side with rating 3 5 4 6 shared the point. Both sides showed good positional understanding.1/2-1/2 }
+) 6... Nf6 7. d3 { played by 3 6 3 5 rated Torch } 7... a6 8. Re1
+{ played by 3 6 2 1 rated Obsidian } 8... O-O 9. d4
+{ played by 3 6 2 1 rated Obsidian } 9... Ba7 10. Bb3
+{ played by 3 6 1 2 rated Dragon } 10... Kh8 11. Be3 Na5 12. Nbd2
+{ played by 3 6 0 3 rated Lizard } ( 12. Bc2 { played by 3 5 9 9 rated Clover }
+12... Nc4 13. Bc1 Rg8 14. Qe2 Na5 15. Bg5 Nc6 16. Nbd2 h6 17. Be3 g5 18. Nf1
+{ In this game, Clover on White with Elo 3 5 9 9 and Dragon, rated 3 6 1 2, had the Black pieces played a balanced game which ended in a draw. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 12... Nxb3 13. axb3 exd4 14. cxd4 h6 15. d5 Bxe3 16. Rxe3 Bd7 17. Nd4 Kg8 18.
+Nf1
+{ Once again, Lizard from the White side with rating 3 6 0 3 and Obsidian as Black rated 3 6 2 1 played a balanced game which ended in a draw. The outcome was decided in the later stages.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Lizard 11.1 64-bit 4CPU"]
+[Black "Stockfish 17 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[Variation "close variation"]
+[WhiteElo "3603"]
+[BlackElo "3643"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Qe7
+{ entered in GIUOCO Piano Close Variation } 5. Bb3
+{ played by 3 5 9 9 rated Clover } ( 5. O-O
+{ played by 3 6 4 3 rated Stockfish } 5... d6 6. d4
+{ played by 3 6 4 3 rated Stockfish } 6... Bb6 7. Be3
+{ played by 3 6 3 1 rated Alexandria } 7... Nf6 8. Bb5 O-O 9. Bxc6
+{ played by 3 6 3 1 rated Alexandria } ( 9. Re1
+{ played by 3 6 2 6 rated Dragon } 9... exd4 10. Nxd4 Ne5 11. Nd2 Nfg4 12. Nf1
+Qf6 13. a4 a5 14. Be2 { played by 3 6 2 6 rated Dragon } ( 14. Qd2
+{ played by 3 5 2 7 rated rofChade } 14... Nxe3 15. Nxe3 c6 16. Be2 Re8 17.
+Rad1 Ng6 18. Nc4
+{ In this game, rofChade handling the White pieces rated 3 5 2 7 and Stockfish from the Black side with rating 3 6 2 2 played a balanced game which ended in a draw. The position remained tense for most of the game.1/2-1/2 }
+) 14... Nxe3 15. Nxe3 Be6 16. Qd2 Nc6 17. Nf3 Ne5 18. Nd4
+{ we will see this position later on1/2-1/2 } ) 9... bxc6 10. Re1
+{ played by 3 6 3 1 rated Alexandria } 10... exd4 11. Bxd4 c5 12. Bxf6 Qxf6 13.
+Nbd2 { played by 3 6 3 1 rated Alexandria } ( 13. Na3
+{ played by 3 4 6 3 rated rofChade } 13... Be6 14. Qd3 Rad8 15. Nc4 d5 16. exd5
+Bxd5 17. a4 c6 18. Nxb6
+{ In this game, Neither rofChade on White with Elo 3 4 6 3 nor Berserk as Black rated 3 5 1 0 could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 13... Be6 14. Qe2 Qe7 15. Nc4 c6 16. Rad1 Rad8 17. h3 Rfe8 18. Qd3
+{ Once again, After a long struggle, Alexandria playing White, rated 3 6 3 1 and Dragon handling the Black pieces rated 3 6 2 6 shared the point. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 5... Nf6 6. d3 O-O 7. Nbd2 { played by 3 5 9 9 rated Clover } 7... d6 8. O-O
+{ played by 3 5 9 9 rated Clover } 8... Kh8 9. Nc4
+{ played by 2 2 5 6 rated FoxSEE } 9... b5 10. Ne3 Bxe3 11. Bxe3 Bg4 12. Re1
+{ played by 2 2 5 6 rated FoxSEE } ( 12. h3 { played by 2 2 5 6 rated FoxSEE }
+12... Bxf3 13. Qxf3 Qe8 14. Bg5 Nd7 15. Qe2 Na5 16. Bc2 f6 17. Be3 c5 18. f4
+{ Here we see that Buzz on Black with Elo 2 1 8 6 could not hold the position, allowing FoxSEE playing White, rated 2 2 5 6 to win. The opening quickly led to complex middlegame play.1-0 }
+) 12... h6 13. Bd5 Qd7 14. d4 Rfe8 15. a4 Bxf3 16. Qxf3 bxa4 17. Bxc6 Qxc6 18.
+d5
+{ Here we see that FoxSEE, rated 2 2 5 6, had the White pieces remained in control, handing Buzz from the Black side with rating 2 1 8 6 a loss. Small inaccuracies made the difference.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Lizard 11.1 64-bit 4CPU"]
+[Black "Stockfish 17 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[Variation "close variation"]
+[WhiteElo "3603"]
+[BlackElo "3643"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Qe7
+{ entered in GIUOCO Piano Close Variation } 5. O-O
+{ played by 3 6 4 3 rated Stockfish } ( 5. d3
+{ played by 3 6 4 3 rated ShashChess } 5... d6 6. Bb3
+{ played by 3 6 4 3 rated ShashChess } 6... Nf6 7. Nbd2
+{ played by 3 6 4 3 rated ShashChess } 7... h6 8. Qe2
+{ played by 3 6 1 5 rated Obsidian } 8... g5 9. O-O
+{ played by 3 4 2 4 rated Arasan } 9... a6 10. Nc4
+{ played by 3 2 1 6 rated Equinox } 10... Be6 11. Ne3 Bxe3 12. Bxe3 O-O-O 13.
+Ba4 Bd7 14. b4 { played by 3 2 1 6 rated Equinox } ( 14. c4
+{ played by 3 1 3 8 rated Xiphos } 14... Nh5 15. Qd2 g4 16. Ne1 f5 17. Bxc6
+Bxc6 18. exf5
+{ In this game, Xiphos on White with Elo 3 1 3 8 overpressed, and Equinox playing Black, rated 3 2 1 6 secured the win. Small inaccuracies made the difference.0-1 }
+) 14... d5 15. Bc5 Qe8 16. b5 axb5 17. Bxb5 Na5 18. c4
+{ After a long struggle, Equinox playing White, rated 3 2 1 6 and Xiphos playing Black, rated 3 1 3 8 shared the point.1/2-1/2 }
+) 5... d6 6. d4 { played by 3 6 4 3 rated Stockfish } 6... Bb6 7. dxe5
+{ played by 3 6 1 3 rated Stormphrax } 7... dxe5 8. b3 Bg4 9. a4
+{ played by 3 6 1 3 rated Stormphrax } ( 9. Nbd2
+{ played by 3 6 0 8 rated Berserk } 9... Nf6 10. a4 O-O 11. h3 Bh5 12. Ba3 Bc5
+13. Bxc5 Qxc5 14. a5 { played by 3 6 0 8 rated Berserk } ( 14. b4
+{ played by 3 5 6 3 rated Uralochka } 14... Qe7 15. a5 a6
+{ we will see this position later on1-0 } ) 14... a6 15. b4 Qe7 16. Qe2 Na7 17.
+Qe3 Bxf3 18. Nxf3
+{ In this game, Berserk handling the White pieces rated 3 6 0 8 converted the advantage and defeated Uralochka handling the Black pieces rated 3 5 6 3. The position remained tense for most of the game.1-0 }
+) 9... a5 10. h3 Bh5 11. Nbd2 Nf6 12. Qe2 h6 13. Re1 Nd7 14. Nf1
+{ played by 3 6 1 3 rated Stormphrax } ( 14. Bb5
+{ played by 3 5 8 3 rated Ginkgo } 14... O-O 15. Nc4 Qe6 16. Rd1 Bc5 17. Be3
+Bxe3 18. Nxe3
+{ Heimdall on Black with Elo 3 5 5 0 could not hold the position, allowing Ginkgo as White rated 3 5 8 3 to win. The outcome was decided in the later stages.1-0 }
+) 14... Qf6 15. g4 Bg6 16. Ng3 O-O-O 17. b4 Kb8 18. Rb1
+{ Stormphrax playing White, rated 3 6 1 3 remained in control, handing Renegade handling the Black pieces rated 3 5 8 4 a loss. Both sides showed good positional understanding.1-0 }
+1/2-1/2
+
+
+

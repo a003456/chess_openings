@@ -1,0 +1,136 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Reckless 0.8.0 64-bit 4CPU"]
+[Black "Alexandria 8.1.12 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "A93"]
+[Opening "Dutch"]
+[Variation "stonewall, Botwinnik variation"]
+[WhiteElo "3632"]
+[BlackElo "3631"]
+
+1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Be7 5. Nf3 O-O 6. O-O d5 7. b3
+{ entered in DUTCH Stonewall Botwinnik Variation } 7... Nc6 8. Bb2
+{ played by 2 8 3 0 rated Asymptote } ( 8. Ba3
+{ played by 3 6 3 4 rated Obsidian } 8... Nb4 9. Nc3
+{ played by 3 3 4 4 rated Fritz } ( 9. Bb2 { played by 3 6 3 4 rated Obsidian }
+9... Ne4 10. Nc3 { played by 3 6 3 2 rated Reckless } 10... Bf6 11. Qc1 c6 12.
+a3 Na6 13. Ne5 c5 14. e3 cxd4 15. exd4 Bxe5 16. dxe5 Nac5 17. Nxe4 dxe4 18. Qe3
+Nd3 19. Bd4 Rf7 20. f3
+{ In an interesting battle, Reckless handling the White pieces rated 3 6 3 2 and Alexandria from the Black side with rating 3 6 3 1 played a balanced game which ended in a draw. The position remained tense for most of the game.1/2-1/2 }
+) ( 9. Ne5 { played by 3 0 3 4 rated Sting } 9... Ne4 10. c5
+{ played by 3 0 3 4 rated Sting } 10... a5 11. Bb2 Bf6 12. f3 Bxe5 13. fxe4 Bf6
+14. exf5 exf5 15. Nc3 Be6 16. e3 Qd7 17. a3 Nc6 18. Qf3 Ne7 19. Qe2 Bf7 20. Bc1
+{ Sting, rated 3 0 3 4, had the White pieces and Chiron playing Black, rated 3 1 5 8 played a balanced game which ended in a draw. Small inaccuracies made the difference.1/2-1/2 }
+) 9... b6 10. Bb2 Bb7 11. a3 Na6 12. Qc2 Qc8 13. Rfd1 c5 14. cxd5 Nxd5 15. Rac1
+Nxc3 16. Qxc3 Bf6 17. Ba1 Bd5 18. Qe3 Qe8 19. Nd2 Rd8 20. Bxd5
+{ Here we see that Critter, rated 3 1 7 8, had the White pieces and Fritz playing Black, rated 3 3 4 4 played a balanced game which ended in a draw. Both sides showed good positional understanding.1/2-1/2 }
+) ( 8. Nc3 { played by 3 2 8 0 rated Stockfish } 8... Ne4 9. Bb2 b6 10. Rc1
+{ played by 3 2 8 0 rated Stockfish } ( 10. Ne1
+{ played by 3 0 0 5 rated Gull } 10... Bb7 11. Nd3 Nxd4 12. Nf4 Bf6 13. cxd5
+exd5 14. Ncxd5 Bxd5 15. Bxd4 Bf7 16. Bxf6 Qxf6 17. Qc2 g5 18. Bxe4 fxe4 19. Ng2
+Qe5 20. Rad1
+{ Here we see that The game between Gull, rated 3 0 0 5, had the White pieces and Houdini as Black rated 3 1 2 4 finished level.1/2-1/2 }
+) 10... Bb7 11. e3 Qd7 12. Qc2 Rac8 13. a3 Bf6 14. cxd5 exd5 15. Ne5 Bxe5 16.
+dxe5 Qe6 17. f4 Ne7 18. Rfd1 Ba6 19. b4 Nxc3 20. Qxc3
+{ Here we see that Houdini on Black with Elo 3 2 9 0 could not hold the position, allowing Stockfish as White rated 3 2 8 0 to win. Both sides showed good positional understanding.1-0 }
+) 8... Ne4 9. Nc3 { we will see this position later on1-0 } 1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Reckless 0.8.0 64-bit 4CPU"]
+[Black "Alexandria 8.1.12 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "A93"]
+[Opening "Dutch"]
+[Variation "stonewall, Botwinnik variation"]
+[WhiteElo "3632"]
+[BlackElo "3631"]
+
+1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Be7 5. Nf3 O-O 6. O-O d5 7. b3
+{ entered in DUTCH Stonewall Botwinnik Variation } 7... Nc6 8. Ba3
+{ played by 3 6 3 4 rated Obsidian } ( 8. Nc3
+{ played by 3 2 8 0 rated Stockfish } 8... Ne4 9. Bb2 b6 10. cxd5
+{ played by 2 8 3 0 rated Asymptote } 10... exd5 11. a3
+{ played by 3 0 4 5 rated Deep } ( 11. Ne5
+{ played by 2 8 3 0 rated Asymptote } 11... Nxe5 12. dxe5 Nxc3 13. Bxc3 c6 14.
+e3 a5 15. Qc2 Ba3 16. Bd4 Bb7 17. Rad1 b5 18. Bc5 Bxc5 19. Qxc5 Re8 20. f4
+{ Here we see that Asymptote handling the White pieces rated 2 8 3 0 remained in control, handing Monolith as Black rated 2 8 0 6 a loss. The outcome was decided in the later stages.1-0 }
+) 11... Bb7 { we will see this position later on1/2-1/2 } ) 8... Nb4 9. Bb2
+{ played by 3 6 3 4 rated Obsidian } ( 9. Ne5 { played by 3 0 3 4 rated Sting }
+9... Ne4 10. f3 { played by 2 6 0 8 rated DanaSah } 10... Nf6 11. Bxb4
+{ played by 3 4 4 7 rated Stockfish } ( 11. Nc3
+{ played by 3 1 4 2 rated Strelka } 11... c5 12. e3 b6 13. cxd5 cxd4 14. Qxd4
+Nfxd5 15. Nxd5 Nxd5 16. Nc6 Bf6 17. Qd2 Qd7 18. Bxf8 Bxa1 19. Rxa1 Kxf8 20. Nd4
+{ In an interesting battle, Stockfish handling the Black pieces rated 3 4 4 7 seized the initiative and handed Strelka from the White side with rating 3 1 4 2 a loss. The outcome was decided in the later stages.0-1 }
+) ( 11. Kh1 { played by 2 9 8 1 rated Toga } 11... c5 12. Bxb4 cxb4 13. Nd2 a5
+14. e3 Bd6 15. Rc1 Bc7 16. f4 b6 17. cxd5 Nxd5 18. Nc6 Qd7 19. Bxd5 exd5 20.
+Nf3
+{ Here we see that Toga on White with Elo 2 9 8 1 converted the advantage and defeated Defenchess handling the Black pieces rated 3 0 9 8. The opening quickly led to complex middlegame play.1-0 }
+) 11... Bxb4 12. c5 c6 13. f4 Ba5 14. a3 Bc7 15. Nc3 Nd7 16. Na4 Nxe5 17. fxe5
+b6 18. Qd3 Qe7 19. Rfc1 Bd7 20. b4
+{ In an interesting battle, Stockfish handling the White pieces rated 3 4 4 7 remained in control, handing Strelka, rated 3 1 4 2, had the Black pieces a loss. Both sides showed good positional understanding.1-0 }
+) 9... Ne4 10. a3 { played by 3 6 3 1 rated Alexandria } 10... Nc6 11. Nc3
+{ played by 3 6 3 1 rated Alexandria } ( 11. e3
+{ played by 3 6 0 0 rated Clover } 11... Bf6 12. Nc3 a5 13. Rc1 Ne7 14. a4 b6
+15. Ne2 Qd7 16. Nf4 Bb7 17. Nh5 Ng6 18. Nxf6+ Nxf6 19. Qe2 dxc4 20. Ne5
+{ Here we see that The game between Clover, rated 3 6 0 0, had the White pieces and Obsidian on Black with Elo 3 6 3 4 finished level. Small inaccuracies made the difference.1/2-1/2 }
+) 11... Bf6 12. Rc1 Ne7 13. e3 b6 14. cxd5 Nxc3 15. Rxc3 Nxd5 16. Rc2 Bb7 17.
+Nd2 Qd7 18. e4 fxe4 19. Nxe4 Be7 20. Re1
+{ Here we see that Neither Alexandria as White rated 3 6 3 1 nor Reckless from the Black side with rating 3 6 3 2 could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Reckless 0.8.0 64-bit 4CPU"]
+[Black "Alexandria 8.1.12 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "A93"]
+[Opening "Dutch"]
+[Variation "stonewall, Botwinnik variation"]
+[WhiteElo "3632"]
+[BlackElo "3631"]
+
+1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Be7 5. Nf3 O-O 6. O-O d5 7. b3
+{ entered in DUTCH Stonewall Botwinnik Variation } 7... Nc6 8. Ba3
+{ played by 3 6 3 4 rated Obsidian } ( 8. Nc3
+{ played by 3 2 8 0 rated Stockfish } 8... Ne4 9. Bb2 b6 10. a3
+{ played by 3 1 2 4 rated Houdini } 10... Bb7 11. cxd5 exd5 12. Qc2
+{ played by 3 1 2 4 rated Houdini } ( 12. Rc1 { played by 3 0 4 5 rated Deep }
+12... Bf6 13. e3 Re8 14. b4 Qd7 15. Qb3 Rad8
+{ In an interesting battle, Deep on White with Elo 3 0 4 5 converted the advantage and defeated Naum from the Black side with rating 3 0 8 5.1-0 }
+) 12... Qd7 13. b4 Bf6 14. e3 a5 15. Qb3 Nd8 16. Rfd1 a4 17. Qa2 Qe6 18. Rac1
+c6 19. Ne5 b5 20. Ne2
+{ Here we see that The game between Houdini from the White side with rating 3 1 2 4 and Gull handling the Black pieces rated 3 0 0 5 finished level. The outcome was decided in the later stages.1/2-1/2 }
+) 8... Nb4 9. Ne5 { played by 3 0 3 4 rated Sting } 9... Ne4 10. f3
+{ played by 2 6 0 8 rated DanaSah } 10... Nf6 11. c5
+{ played by 3 0 9 8 rated Defenchess } ( 11. f4
+{ played by 2 6 0 8 rated DanaSah } 11... c5 12. Bxb4 cxb4 13. e3
+{ played by 2 6 0 8 rated DanaSah } ( 13. Nd2
+{ played by 2 4 1 4 rated Nemeton } 13... Bd7 14. Ndf3 Be8 15. Ng5 Qb6 16. c5
+Qa6 17. a3 bxa3 18. Qc1 Bd7 19. Qxa3 Qxa3 20. Rxa3
+{ In an interesting battle, Nemeton on White with Elo 2 4 1 4 converted the advantage and defeated DanaSah handling the Black pieces rated 2 6 0 8.1-0 }
+) 13... Bd7 14. Nxd7 Qxd7 15. Nd2 Rac8 16. Nf3 Bd6 17. Ne5 Qe8 18. Qe2 Ne4 19.
+Bxe4 fxe4 20. Rac1
+{ Here we see that The game between DanaSah from the White side with rating 2 6 0 8 and Nemeton, rated 2 4 1 4, had the Black pieces finished level. Small inaccuracies made the difference.1/2-1/2 }
+) 11... a5 12. Bb2 { played by 3 0 9 8 rated Defenchess } ( 12. Bc1
+{ played by 2 2 6 1 rated Rival } 12... Nd7 13. a3 Nxe5 14. axb4 Nc6 15. b5 Nb4
+16. Bf4 Bf6 17. Qd2 Qe7 18. Nc3 g5 19. Be3 e5 20. Bf2
+{ In this game, Tytan on Black with Elo 2 3 3 2 seized the initiative and handed Rival, rated 2 2 6 1, had the White pieces a loss. Both sides showed good positional understanding.0-1 }
+) 12... Nd7 13. a3 Nxe5 14. axb4 Nc6 15. b5 Nb4 16. Na3 Bd7 17. e3 Qe8 18. Qe2
+Rf6 19. f4 Rh6 20. Bf3
+{ Once again, Defenchess on White with Elo 3 0 9 8 remained in control, handing Toga, rated 2 9 8 1, had the Black pieces a loss. The outcome was decided in the later stages.1-0 }
+1/2-1/2
+
+
+

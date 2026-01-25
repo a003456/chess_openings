@@ -1,0 +1,853 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "RubiChess 20240112 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, 7...Nd7"]
+[WhiteElo "3640"]
+[BlackElo "3601"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7
+{ entered in Caro Kann Defense Kann Classical 7 Nd7 } 8. a3
+{ played by 2 4 7 9 rated LittleThought } ( 8. c3
+{ played by 2 1 8 2 rated Dolphin } 8... e6 9. Qb3 Qc7 10. h5 Bh7 11. Be3 a5
+12. a4 Bd6 13. Nd2 Bxg3 14. fxg3 Qxg3+ 15. Bf2 Qc7 16. Rh3 Bf5 17. Re3 Ngf6 18.
+Bg3 Qb6 19. Qa3 c5 20. Nc4 Qc6 21. Nd6+
+{ In this game, Orion as Black rated 2 2 3 7 could not hold the position, allowing Dolphin from the White side with rating 2 1 8 2 to win. The outcome was decided in the later stages.1-0 }
+) ( 8. Bf4 { played by 3 6 4 0 rated Stockfish } 8... e6 9. h5
+{ played by 3 2 8 4 rated Komodo } 9... Bh7 10. Bd3 Bxd3 11. Qxd3 Bb4+ 12. c3
+Be7 13. Ne4 Ngf6 14. O-O-O Qa5 15. Kb1 Nxh5 16. Bd6 Nhf6 17. Nxf6+ Bxf6 18. g4
+O-O-O 19. Nd2 Qb5 20. Qxb5 cxb5 21. Ne4
+{ Neither Komodo, rated 3 2 8 4, had the White pieces nor Rybka, rated 3 1 8 4, had the Black pieces could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+) ( 8. c4 { played by 3 1 5 0 rated Schooner } 8... e6 9. Bd3
+{ played by 3 1 5 0 rated Schooner } ( 9. Qb3
+{ played by 2 9 1 0 rated Seawall } 9... Qc7 10. h5 Bh7 11. Rh4 Ngf6 12. Bf4
+Qa5+ 13. Bd2 Qb6 14. c5 Qxb3 15. axb3 Be7 16. Bc4 O-O 17. Kf1 b5 18. Be2 Nd5
+19. Rg4 f5 20. Rg6 Bxg6 21. hxg6
+{ In this game, Seawall handling the White pieces rated 2 9 1 0 and Cheese as Black rated 2 9 2 5 played a balanced game which ended in a draw. The position remained tense for most of the game.1/2-1/2 }
+) 9... Bb4+ 10. Bd2 Bxd2+ 11. Qxd2 Bxd3 12. Qxd3 Ngf6 13. O-O a5 14. Rfe1 O-O
+15. Rad1 Qc7 16. Ne4 Nxe4 17. Qxe4 Rfd8 18. g4 a4 19. g5 Ra5 20. g6 Rf8 21. c5
+{ Once again, Schooner on White with Elo 3 1 5 0 remained in control, handing Fizbo handling the Black pieces rated 3 2 4 3 a loss. Small inaccuracies made the difference.1-0 }
+) ( 8. Bc4 { played by 3 0 8 3 rated HIARCS } 8... e6 9. Bd3
+{ played by 3 3 2 7 rated Lynx } ( 9. Bf4 { played by 2 0 8 2 rated Waxman }
+9... Qa5+ 10. c3 Ngf6 11. O-O Nd5 12. Bxd5 cxd5 13. h5 Bh7 14. Ne5 Nxe5 15.
+Bxe5 Qb5 16. Qb3 Bd3 17. Qxb5+ Bxb5 18. Rfe1 O-O-O 19. Re3 Ba6 20. Rae1 Rh7 21.
+Rf3
+{ Once again, EXchess as Black rated 2 1 3 5 could not hold the position, allowing Waxman playing White, rated 2 0 8 2 to win. The opening quickly led to complex middlegame play.1-0 }
+) 9... Bxd3 10. Qxd3 Ngf6 11. Bf4 Qa5+ 12. c3 Be7 13. O-O O-O 14. Rfe1 Rfd8 15.
+Qe2 c5 16. dxc5 Bxc5 17. b4 Qa4 18. Ne5 Nxe5 19. Bxe5 Be7 20. a3 Rac8 21. Nh5
+{ In this game, Lynx handling the White pieces rated 3 3 2 7 and Avalanche on Black with Elo 3 3 5 1 played a balanced game which ended in a draw. Small inaccuracies made the difference.1/2-1/2 }
+) 8... e6 9. h5 Bh7 10. Bf4 Qb6 11. Bc4 Ne7 12. Bd2 O-O-O 13. a4 Nd5 14. a5 Qc7
+15. a6 b6 16. Rh4 Bd6 17. Kf1 N7f6 18. Qe1 Bxc2 19. Rc1 Bh7 20. Bb5 Ne7 21. Kg1
+{ Once again, After a long struggle, LittleThought as White rated 2 4 7 9 and Delphil as Black rated 2 4 7 6 shared the point. The outcome was decided in the later stages.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "RubiChess 20240112 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, 7...Nd7"]
+[WhiteElo "3640"]
+[BlackElo "3601"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7
+{ entered in Caro Kann Defense Kann Classical 7 Nd7 } 8. a4
+{ played by 2 7 1 5 rated Hakkapeliitta } ( 8. Bf4
+{ played by 3 6 4 0 rated Stockfish } 8... e6 9. Bd3
+{ played by 3 6 4 0 rated Stockfish } 9... Ne7 10. Bd6
+{ played by 3 6 0 6 rated Starzix } 10... Nd5 11. Bxf8 Nxf8 12. O-O Bxd3 13.
+Qxd3 Nd7 14. c4 N5f6 15. Qa3 Qe7 16. Qb3 Rb8 17. Rfe1 O-O 18. a4 a5 19. Rad1
+Qd6 20. Ne5 Rbd8 21. f4
+{ In an interesting battle, Starzix as White rated 3 6 0 6 and Stockfish handling the Black pieces rated 3 6 4 5 played a balanced game which ended in a draw. The outcome was decided in the later stages.1/2-1/2 }
+) ( 8. Bd3 { played by 3 6 4 0 rated Stockfish } 8... Bxd3 9. Qxd3
+{ played by 3 6 4 0 rated Stockfish } ( 9. cxd3
+{ played by 2 5 6 8 rated Quazar } 9... Ngf6 10. Qb3
+{ played by 2 5 6 8 rated Quazar } ( 10. Qe2
+{ played by 2 4 3 6 rated Juggernaut } 10... e6 11. Bd2 Qb6 12. O-O-O Be7 13.
+Rhe1 Nd5 14. Qe4 O-O 15. Nh5 N7f6 16. Nxf6+ Nxf6 17. Qe5 Qa6 18. Qg3 Kh8 19.
+Bf4 Qxa2 20. Bd6 Bxd6 21. Qxd6
+{ ChessGM as Black rated 2 5 0 0 seized the initiative and handed Juggernaut handling the White pieces rated 2 4 3 6 a loss. Both sides showed good positional understanding.0-1 }
+) 10... Qc7 11. Bd2 e6 12. O-O Nd5 13. Ne4 Be7 14. Rfe1 O-O 15. Rac1 Rfe8 16.
+g4 a5 17. g5 a4 18. Qd1 hxg5 19. hxg5 Red8 20. a3 Nf4 21. Ne5
+{ In this game, The game between Quazar handling the White pieces rated 2 5 6 8 and Brutus from the Black side with rating 2 5 5 3 finished level. Both sides showed good positional understanding.1/2-1/2 }
+) 9... Ngf6 10. Bd2 { played by 3 2 5 5 rated Laser } ( 10. Qb3
+{ played by 2 9 8 4 rated Andscacs } 10... Qb6 11. O-O e6 12. Bf4 Be7
+{ we will see this position later on0-1 } ) 10... e6
+{ we will see this position later on1/2-1/2 } ) 8... e6 9. h5
+{ played by 2 7 1 5 rated Hakkapeliitta } ( 9. a5
+{ played by 2 3 3 7 rated iCE } 9... Ngf6 10. a6 b5 11. h5 Bh7 12. Bd3 Bxd3 13.
+Qxd3 Bd6 14. Ne4 Nxe4 15. Qxe4 Rc8 16. Be3 Nf6 17. Qh4 O-O 18. c3 Qe7 19. g4
+Kh8 20. g5 Ng8 21. Ne5
+{ In this game, iCE handling the White pieces rated 2 3 3 7 outplayed Atak handling the Black pieces rated 2 1 8 8 and won the game. The position remained tense for most of the game.1-0 }
+) 9... Bh7 10. Bd3 Bxd3 11. Qxd3 Qc7 12. a5 Ngf6 13. Bd2 Bd6 14. Ne4 Nxe4 15.
+Qxe4 Nf6 16. Qe2 O-O 17. c4 c5 18. dxc5 Bxc5 19. Rh4 e5 20. Bc3 Rfe8 21. Kf1
+{ Here we see that Neither Hakkapeliitta handling the White pieces rated 2 7 1 5 nor Philou playing Black, rated 2 6 4 5 could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "RubiChess 20240112 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, 7...Nd7"]
+[WhiteElo "3640"]
+[BlackElo "3601"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7
+{ entered in Caro Kann Defense Kann Classical 7 Nd7 } 8. Bc4
+{ played by 3 0 8 3 rated HIARCS } ( 8. Bd3
+{ played by 3 6 4 0 rated Stockfish } 8... Bxd3 9. Qxd3
+{ played by 3 6 4 0 rated Stockfish } 9... Ngf6 10. O-O
+{ played by 3 4 2 4 rated Komodo } 10... Qc7 11. a4
+{ played by 2 9 7 7 rated Naum } ( 11. Qb3
+{ played by 2 7 3 6 rated Octochess } 11... e6 12. c4 Bd6 13. c5 Bxg3 14. fxg3
+Nd5 15. Bf4 Nxf4 16. gxf4 O-O-O 17. Rad1 Kb8 18. Rd3 Nf6 19. Ne5 Nd5 20. Qa4 f6
+21. Ng6
+{ In this game, After a long struggle, Octochess, rated 2 7 3 6, had the White pieces and DiscoCheck from the Black side with rating 2 7 6 3 shared the point.1/2-1/2 }
+) 11... e6 12. Re1 { we will see this position later on1/2-1/2 } ) 8... e6 9.
+Qe2 { played by 3 3 5 1 rated Avalanche } ( 9. O-O
+{ played by 3 0 8 3 rated HIARCS } 9... Bd6 10. Re1
+{ played by 3 0 8 3 rated HIARCS } ( 10. Qe2
+{ played by 2 8 9 8 rated Protector } 10... Qc7 11. h5 Bh7 12. Re1
+{ we will see this position later on1/2-1/2 } ) 10... Qc7 11. h5 Bh7 12. Qe2
+Ngf6 13. Ne5 O-O 14. Bf4 Rad8 15. Rad1 Nd5 16. Bxd5 cxd5 17. c3 Nf6 18. Qf3 Qe7
+19. Ng4 Bxf4 20. Qxf4 Nxg4 21. Qxg4
+{ After a long struggle, Protector playing White, rated 2 8 9 8 and Critter as Black rated 3 1 0 7 shared the point. The position remained tense for most of the game.1/2-1/2 }
+) 9... Qc7 10. h5 { played by 3 3 5 1 rated Avalanche } ( 10. Be3
+{ played by 2 3 0 5 rated Xpdnt } 10... Bd6 11. h5
+{ played by 2 2 9 2 rated Alex } 11... Bh7 12. O-O-O Ngf6
+{ we will see this position later on0-1 } ) 10... Bh7 11. Ne5 Nxe5 12. dxe5 Bc5
+13. c3 Ne7 14. a4 a5 15. O-O O-O 16. Kh1 Nd5 17. Ne4 Ba7 18. f4 Rad8 19. Kh2
+Kh8 20. Rf3 f6 21. exf6
+{ Once again, Avalanche on White with Elo 3 3 5 1 overpressed, and Lynx as Black rated 3 3 2 7 secured the win.0-1 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "RubiChess 20240112 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, 7...Nd7"]
+[WhiteElo "3640"]
+[BlackElo "3601"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7
+{ entered in Caro Kann Defense Kann Classical 7 Nd7 } 8. Bd3
+{ played by 3 6 4 0 rated Stockfish } 8... Bxd3 9. Qxd3
+{ played by 3 6 4 0 rated Stockfish } 9... Ngf6 10. Bf4
+{ played by 3 6 4 0 rated Stockfish } 10... e6 11. O-O-O
+{ played by 3 6 4 0 rated Stockfish } ( 11. O-O
+{ played by 3 6 0 0 rated Dragon } 11... Be7 12. Rfe1
+{ played by 3 4 2 4 rated Stockfish } ( 12. Rad1
+{ played by 3 4 1 6 rated Patricia } 12... b5 13. Qe2 O-O 14. Ne5 Rc8 15. Rd3
+Nd5 16. Bc1 N7f6 17. Nh5 Nxh5 18. Qxh5 Nf6 19. Qe2 Nd5 20. c3 a5 21. Rg3
+{ Once again, The game between Patricia handling the White pieces rated 3 4 1 6 and Sapling playing Black, rated 3 3 9 0 finished level. The opening quickly led to complex middlegame play.1/2-1/2 }
+) ( 12. Qe2 { played by 3 4 0 9 rated Igel } 12... O-O 13. c4
+{ we will see this position later on1/2-1/2 } ) 12... O-O 13. c4
+{ we will see this position later on0-1 } ) 11... Be7 12. Ne5
+{ played by 3 5 1 1 rated Alexandria } ( 12. Nf1
+{ played by 3 4 9 3 rated Arasan } 12... Nd5 13. Bd2 Bd6 14. c4 Ne7 15. Kb1 b5
+16. Ne3 O-O 17. g4 Bf4 18. h5 Ne5 19. Nxe5 Bxe5 20. Nc2 bxc4 21. Qxc4
+{ Neither Arasan handling the White pieces rated 3 4 9 3 nor Alexandria from the Black side with rating 3 5 1 1 could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+) ( 12. Qe2 { played by 2 8 6 6 rated Rodent } 12... a5 13. c4 O-O 14. Kb1 b5
+15. Ne5 Rc8 16. Qf3 bxc4 17. Nxc6 Qe8 18. Rhe1 c3 19. bxc3 Ba3 20. Nxa5 Nb6 21.
+Nb3
+{ In this game, Lux from the White side with rating 2 7 5 8 overpressed, and Dog playing Black, rated 2 9 7 6 secured the win.0-1 }
+) ( 12. Ne4 { played by 2 7 6 4 rated BugChess2 } 12... Qa5 13. Nxf6+ Nxf6 14.
+Qb3 Qb6 15. Qa4 O-O 16. Rhe1 Rfd8 17. c4 c5 18. d5 Bd6 19. Bxd6 Rxd6 20. dxe6
+Rxe6 21. Qb3
+{ In this game, BugChess2 on White with Elo 2 7 6 4 overpressed, and Andscacs on Black with Elo 2 7 5 4 secured the win. The position remained tense for most of the game.0-1 }
+) 12... Nxe5 13. dxe5 Qxd3 14. Rxd3 Nd5 15. Bd2 O-O 16. Ne4 Rad8 17. h5 Nb6 18.
+Rhh3 Rd5 19. f4 Rfd8 20. g4 Nc4 21. Bc3
+{ The game between Alexandria as White rated 3 5 1 1 and Arasan playing Black, rated 3 4 9 3 finished level.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "RubiChess 20240112 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, 7...Nd7"]
+[WhiteElo "3640"]
+[BlackElo "3601"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7
+{ entered in Caro Kann Defense Kann Classical 7 Nd7 } 8. Bd3
+{ played by 3 6 4 0 rated Stockfish } 8... Bxd3 9. Qxd3
+{ played by 3 6 4 0 rated Stockfish } 9... Ngf6 10. O-O
+{ played by 3 4 2 4 rated Komodo } 10... Qc7 11. Re1
+{ played by 3 4 9 1 rated Stockfish } ( 11. c4
+{ played by 3 4 1 2 rated Komodo } 11... e6 12. Re1
+{ we will see this position later on1/2-1/2 } ( 12. Ne4
+{ played by 3 3 4 7 rated Seer } 12... Nxe4 13. Qxe4 Nf6 14. Qe2 c5 15. a3 cxd4
+16. b4 Be7 17. Bb2 O-O 18. Nxd4 Rfd8 19. g3 a5 20. c5 Nd5 21. Nb5
+{ In this game, Seer as White rated 3 3 4 7 and Nemorino, rated 3 3 5 9, had the Black pieces played a balanced game which ended in a draw. The position remained tense for most of the game.1/2-1/2 }
+) ( 12. Bd2 { played by 3 3 4 5 rated Stockfish } 12... Be7 13. Rfe1
+{ we will see this position later on1/2-1/2 } ) ( 12. c5
+{ played by 2 7 7 7 rated Frenzee } 12... Be7 13. Re1 O-O 14. Qc2 Nd5 15. Bd2
+b6 16. b4 N7f6
+{ In this game, Neither Frenzee on White with Elo 2 7 7 7 nor Twisted from the Black side with rating 2 7 7 8 could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+) ( 12. a3 { played by 2 7 0 9 rated Shield } 12... O-O-O 13. Ne2 e5 14. Qc2 e4
+15. Bf4 Bd6 16. Bxd6 Qxd6 17. Nd2 Ng4 18. g3 e3 19. Ne4 Qe7 20. f3 Ndf6 21. Kg2
+{ In this game, RuyDos handling the Black pieces rated 2 7 9 7 seized the initiative and handed Shield on White with Elo 2 7 0 9 a loss. Small inaccuracies made the difference.0-1 }
+) ( 12. Qe2 { played by 2 5 8 7 rated Raven } 12... Bd6 13. Nf5 O-O 14. Nxd6
+Qxd6 15. c5 Qc7 16. g3 Nd5 17. Bd2 b5 18. b4 a6 19. a4 N7f6 20. Rfe1 Ne7 21.
+Bf4
+{ Once again, After a long struggle, Raven handling the White pieces rated 2 5 8 7 and CT800 handling the Black pieces rated 2 4 9 5 shared the point. Small inaccuracies made the difference.1/2-1/2 }
+) ) 11... e6 12. Qe2 { we will see this position later on1/2-1/2 } 1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "RubiChess 20240112 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, 7...Nd7"]
+[WhiteElo "3640"]
+[BlackElo "3601"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7
+{ entered in Caro Kann Defense Kann Classical 7 Nd7 } 8. Bd3
+{ played by 3 6 4 0 rated Stockfish } 8... Bxd3 9. Qxd3
+{ played by 3 6 4 0 rated Stockfish } 9... Ngf6 10. O-O
+{ played by 3 4 2 4 rated Komodo } 10... Qc7 11. Ne4
+{ played by 3 3 4 5 rated Stockfish } ( 11. Bd2
+{ played by 3 2 4 4 rated Fire } 11... e6 12. Rfe1
+{ we will see this position later on1/2-1/2 } ( 12. c4
+{ we will see this position later on1/2-1/2 } ) ) ( 11. Ne2
+{ played by 3 1 8 8 rated Booot } 11... e6 12. c4
+{ we will see this position later on1-0 } ) 11... e6 12. Re1
+{ we will see this position later on1/2-1/2 } ( 12. c4
+{ we will see this position later on1/2-1/2 } ) ( 12. Bd2
+{ played by 2 4 6 9 rated GreKo } 12... Nxe4 13. Qxe4 Bd6 14. Rfe1 O-O 15. c4
+c5 16. Rad1 Nf6 17. Qe2 cxd4 18. Nxd4 a6 19. Bc3 Rfd8 20. b4 Rac8 21. c5
+{ Here we see that Komodo on White with Elo 3 2 8 4 and Fire as Black rated 3 1 9 1 played a balanced game which ended in a draw. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "RubiChess 20240112 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, 7...Nd7"]
+[WhiteElo "3640"]
+[BlackElo "3601"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7
+{ entered in Caro Kann Defense Kann Classical 7 Nd7 } 8. Bc4
+{ played by 3 0 8 3 rated HIARCS } ( 8. Bf4
+{ played by 3 6 4 0 rated Stockfish } 8... e6 9. Bd3
+{ played by 3 6 4 0 rated Stockfish } 9... Ne7 10. Bxg6
+{ played by 3 6 4 0 rated Stockfish } 10... Nxg6 11. Bd2 Bd6 12. Ne4 Bc7 13.
+Qe2 { played by 3 6 4 0 rated Stockfish } ( 13. h5
+{ played by 3 6 0 4 rated PlentyChess } 13... Nf4 14. g3 Nd5 15. c4 N5f6 16.
+Qe2 O-O 17. Nxf6+ Qxf6 18. Bc3
+{ In this game, PlentyChess, rated 3 6 0 4, had the White pieces and Caissa playing Black, rated 3 6 0 0 played a balanced game which ended in a draw. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 13... Nf4 14. Bxf4 Bxf4 15. O-O Qe7 16. Rfe1 Bc7 17. c3 O-O 18. Qc2 Rae8 19.
+Qb3 Rb8 20. g3 Nf6 21. Kg2
+{ In an interesting battle, Neither Stockfish from the White side with rating 3 6 4 0 nor RubiChess handling the Black pieces rated 3 6 0 1 could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+) ( 8. Bd3 { played by 3 6 4 0 rated Stockfish } 8... Bxd3 9. Qxd3
+{ played by 3 6 4 0 rated Stockfish } 9... Ngf6 10. Bf4
+{ played by 3 6 4 0 rated Stockfish } 10... e6 11. O-O-O
+{ played by 3 6 4 0 rated Stockfish } 11... Be7 12. Kb1
+{ played by 3 6 4 0 rated Stockfish } ( 12. c4
+{ played by 3 0 5 9 rated Simbelmyne } 12... O-O 13. Kb1
+{ we will see this position later on0-1 } ( 13. Qc2
+{ played by 2 6 4 7 rated Spike } 13... b5 14. c5 a5 15. Ne4 Nd5 16. Bd6 a4 17.
+Rde1 Bxd6 18. Nxd6 b4 19. Qd2 a3 20. b3
+{ Once again, Spike from the White side with rating 2 6 4 7 outplayed GNU playing Black, rated 2 5 5 5 and won the game. The position remained tense for most of the game.1-0 }
+) ( 13. h5 { played by 2 0 9 9 rated Chesley } 13... Qb6 14. a3 c5 15. d5 Bd6
+16. Bxd6 Qxd6 17. dxe6 Qxe6 18. Rde1 Qa6 19. Nf5 Rae8 20. Ne7+ Kh8 21. Rh4
+{ Once again, Chesley as White rated 2 0 9 9 overpressed, and OBender as Black rated 2 0 4 1 secured the win. The position remained tense for most of the game.0-1 }
+) ) 12... O-O 13. Ne5 { played by 3 0 5 2 rated Gull } 13... Nxe5 14. Bxe5 Ng4
+15. Qe2 Nxe5 16. Qxe5 Qd5 17. Ne2 Rfd8 18. Qxd5 cxd5 19. Rd3 b5 20. Rc3 b4 21.
+Rc7
+{ In an interesting battle, After a long struggle, Gull, rated 3 0 5 2, had the White pieces and Bouquet from the Black side with rating 3 0 8 2 shared the point.1/2-1/2 }
+) 8... e6 9. h5 { played by 2 6 1 2 rated Ruffian } 9... Bh7 10. Bf4 Ngf6 11.
+O-O Nd5 12. Bc1 { played by 2 0 5 9 rated BikJump } 12... Bd6 13. Qe2 Qa5 14.
+Re1 O-O-O 15. c3 Kb8 16. Nh4 Rhe8 17. Qf3 N7f6 18. Bxd5 Qxd5 19. Bf4 Qb5 20. b3
+Bxf4 21. Qxf4+
+{ In this game, Parrot from the Black side with rating 2 0 7 9 outplayed BikJump as White rated 2 0 5 9 and won as Black. The opening quickly led to complex middlegame play.0-1 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "RubiChess 20240112 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, 7...Nd7"]
+[WhiteElo "3640"]
+[BlackElo "3601"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7
+{ entered in Caro Kann Defense Kann Classical 7 Nd7 } 8. Bd3
+{ played by 3 6 4 0 rated Stockfish } 8... Bxd3 9. Qxd3
+{ played by 3 6 4 0 rated Stockfish } 9... Ngf6 10. Bf4
+{ played by 3 6 4 0 rated Stockfish } 10... e6 11. O-O
+{ played by 3 6 0 0 rated Dragon } 11... Be7 12. c4
+{ played by 3 6 0 0 rated Dragon } 12... O-O 13. Qe2
+{ played by 3 5 4 6 rated ShashChess } ( 13. Rac1
+{ played by 3 3 7 7 rated BlackCore } 13... Qb6 14. b3 Rfe8 15. Rfd1 Rad8 16.
+Qc2 Qa5 17. a3 c5 18. b4 cxb4 19. axb4 Bxb4 20. Rb1 Rc8 21. Qb3
+{ Once again, After a long struggle, BlackCore as White rated 3 3 7 7 and Viridithas from the Black side with rating 3 5 0 1 shared the point. The outcome was decided in the later stages.1/2-1/2 }
+) ( 13. a3 { played by 3 1 4 7 rated Andscacs } 13... b5 14. b3 Rc8 15. Rfe1
+bxc4 16. bxc4 Re8 17. Qd2 c5 18. d5 exd5 19. Nf5 Nb6 20. Bxh6 Ne4 21. Qf4
+{ Neither Andscacs as White rated 3 1 4 7 nor Komodo handling the Black pieces rated 3 3 1 4 could convert, and the game was drawn.1/2-1/2 }
+) ( 13. a4 { played by 3 0 7 6 rated Arasan } 13... Qa5 14. Rfd1 Rfd8 15. Qc2
+Rac8 16. h5 b6 17. Qd3 Bb4 18. Qb3 a6 19. Rac1 b5 20. axb5 axb5 21. c5
+{ Once again, Arasan, rated 3 0 7 6, had the White pieces and Protector on Black with Elo 3 1 8 0 played a balanced game which ended in a draw. The outcome was decided in the later stages.1/2-1/2 }
+) ( 13. h5 { played by 2 4 7 3 rated Delphil } 13... Qb6 14. Rfe1 Rfd8 15. Qc2
+Ng4 16. c5 Qa6 17. a4 Ndf6 18. b4 b6 19. Red1 bxc5 20. dxc5 Nd5 21. Bd2
+{ In this game, Bitfoot handling the White pieces rated 2 3 9 3 overpressed, and Delphil from the Black side with rating 2 4 7 3 secured the win. Both sides showed good positional understanding.0-1 }
+) ( 13. Rae1 { played by 2 1 1 4 rated Kurt } 13... c5 14. d5 exd5 15. Nf5 Re8
+16. cxd5 Bf8 17. Rxe8 Nxe8 18. b3 Ndf6 19. Rd1 Bd6 20. Bxh6 gxh6 21. Nxh6+
+{ Once again, Kurt playing White, rated 2 1 1 4 remained in control, handing Galjoen from the Black side with rating 2 0 1 1 a loss. Both sides showed good positional understanding.1-0 }
+) 13... c5 14. Rad1 cxd4 15. Rxd4 Qb6 16. Rfd1 Rad8 17. Ne4 Nc5 18. Bd6 Ncxe4
+19. Bxe7 Rxd4 20. Nxd4 Re8 21. Bxf6
+{ In this game, After a long struggle, Xiphos playing White, rated 3 3 8 6 and Dragon playing Black, rated 3 5 6 8 shared the point.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "RubiChess 20240112 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, 7...Nd7"]
+[WhiteElo "3640"]
+[BlackElo "3601"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7
+{ entered in Caro Kann Defense Kann Classical 7 Nd7 } 8. Bd3
+{ played by 3 6 4 0 rated Stockfish } 8... Bxd3 9. Qxd3
+{ played by 3 6 4 0 rated Stockfish } 9... Ngf6 10. Bf4
+{ played by 3 6 4 0 rated Stockfish } ( 10. O-O
+{ played by 3 4 2 4 rated Komodo } 10... Qc7 11. Re1
+{ played by 3 4 9 1 rated Stockfish } 11... e6 12. c4
+{ played by 3 3 4 5 rated Stockfish } ( 12. Bd2
+{ played by 3 2 4 4 rated Fire } 12... Be7 13. b4
+{ played by 3 2 3 9 rated Marvin } ( 13. Rad1 { played by 3 1 8 9 rated Fire }
+13... O-O 14. Nf5 exf5 15. Rxe7 Qd6 16. Ree1 Ne4 17. Be3 Rad8 18. d5 Ndf6 19.
+dxc6 Qxc6 20. Qb3 Rxd1 21. Rxd1
+{ Once again, NirvanaChess playing White, rated 3 1 0 3 and Booot on Black with Elo 3 1 8 8 played a balanced game which ended in a draw. Both sides showed good positional understanding.1/2-1/2 }
+) 13... O-O 14. c4 { we will see this position later on1/2-1/2 } ) ( 12. a4
+{ played by 3 0 7 5 rated Stockfish } 12... Be7 13. Ne2
+{ played by 3 1 2 9 rated Naum } 13... O-O 14. Bf4 Bd6 15. Bxd6 Qxd6 16. Nc3 a5
+17. g3 Rac8 18. Qe2 Rfd8 19. Red1 Nb6 20. Ra3 Nbd5 21. Rb3
+{ In this game, The game between Naum on White with Elo 3 1 2 9 and Hannibal playing Black, rated 3 1 1 0 finished level. Small inaccuracies made the difference.1/2-1/2 }
+) 12... Bb4 13. Re2 { played by 3 0 1 0 rated Deuterium } 13... O-O 14. c5 Ba5
+15. Rb1 Qb8 16. b4 Bc7 17. b5 cxb5 18. Rxb5 Qc8 19. Ne4 Rd8 20. Rc2 Nxe4 21.
+Qxe4
+{ Once again, After a long struggle, Deuterium handling the White pieces rated 3 0 1 0 and Rodent from the Black side with rating 3 0 1 9 shared the point. Both sides showed good positional understanding.1/2-1/2 }
+) 10... e6 11. O-O { played by 3 6 0 0 rated Dragon } 11... Be7 12. Qb3
+{ played by 2 0 4 7 rated MadChess } 12... Qb6 13. c4
+{ played by 2 9 8 4 rated Andscacs } ( 13. Rfe1
+{ played by 2 0 4 7 rated MadChess } 13... Qxb3 14. axb3 Nd5 15. Bd2 Nb4 16.
+Bxb4 Bxb4 17. c3 Be7 18. c4 O-O 19. Ne4 Rfd8 20. g3 c5 21. d5
+{ In this game, MadChess playing White, rated 2 0 4 7 overpressed, and Parrot on Black with Elo 2 0 7 9 secured the win. The position remained tense for most of the game.0-1 }
+) 13... O-O { we will see this position later on0-1 } 1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "RubiChess 20240112 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, 7...Nd7"]
+[WhiteElo "3640"]
+[BlackElo "3601"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7
+{ entered in Caro Kann Defense Kann Classical 7 Nd7 } 8. Bd3
+{ played by 3 6 4 0 rated Stockfish } ( 8. Bc4
+{ played by 3 0 8 3 rated HIARCS } 8... e6 9. Qe2
+{ played by 3 3 5 1 rated Avalanche } 9... Qc7 10. Be3
+{ played by 2 3 0 5 rated Xpdnt } 10... Bd6 11. O-O-O
+{ played by 2 3 0 5 rated Xpdnt } 11... Ngf6 12. h5 Bh7 13. Kb1
+{ played by 2 3 0 5 rated Xpdnt } ( 13. Bb3 { played by 2 2 9 2 rated Alex }
+13... O-O 14. Qe1 a5 15. Rh4 a4 16. Bc4 Nd5 17. Bd2 b5 18. Bf1 b4 19. Bc4 b3
+20. Ne4 bxa2 21. Bxa2
+{ Once again, Plisk playing Black, rated 2 3 1 6 outplayed Alex from the White side with rating 2 2 9 2 and won as Black. Both sides showed good positional understanding.0-1 }
+) ( 13. Bd2 { played by 2 2 9 2 rated Alex } 13... b5 14. Bb3 O-O 15. Kb1 a5
+16. a3 b4 17. a4 c5 18. Nf1 Ne4 19. Rh4 Rfc8 20. Ne3 Be7 21. Rg4
+{ Amateur from the Black side with rating 2 3 6 0 outplayed Alex, rated 2 2 9 2, had the White pieces and won as Black. The outcome was decided in the later stages.0-1 }
+) ( 13. Rh3 { played by 2 2 6 9 rated pikoSzachy } 13... Nb6 14. Bd2 Nxc4 15.
+Qxc4 O-O-O 16. Rf1 c5 17. Rh4 cxd4 18. Qxc7+ Bxc7 19. Nxd4 Rd5 20. Nde2 Rhd8
+21. Be3
+{ In this game, Matilde, rated 2 2 4 9, had the Black pieces seized the initiative and handed pikoSzachy playing White, rated 2 2 6 9 a loss. The outcome was decided in the later stages.0-1 }
+) 13... Bxg3 14. fxg3 Qxg3 15. Rh4 Qd6 16. Bd2 O-O-O 17. Ne5 Rhf8 18. a3 Qc7
+19. Bf4 Nxe5 20. Bxe5 Qe7 21. Bg3
+{ Here we see that Asterisk playing Black, rated 2 2 9 3 outplayed Xpdnt, rated 2 3 0 5, had the White pieces and won as Black. The opening quickly led to complex middlegame play.0-1 }
+) 8... Bxd3 9. Qxd3 { played by 3 6 4 0 rated Stockfish } 9... Ngf6 10. O-O
+{ played by 3 4 2 4 rated Komodo } 10... Qc7 11. c4
+{ played by 3 4 1 2 rated Komodo } ( 11. Bd2 { played by 3 2 4 4 rated Fire }
+11... e6 12. Rae1 { played by 2 6 9 3 rated Frenzee } 12... O-O-O 13. a4
+{ played by 2 6 9 3 rated Frenzee } ( 13. Qb3 { played by 2 6 4 0 rated Movei }
+13... Kb8 14. Ne4 Be7 15. g3 Nxe4 16. Rxe4 Ka8 17. Bf4 Qc8 18. Rfe1 Rhg8 19.
+Ne5 Nxe5 20. Bxe5 g5 21. hxg5
+{ Once again, Delfi, rated 2 6 9 5, had the Black pieces could not hold the position, allowing Movei on White with Elo 2 6 4 0 to win. The position remained tense for most of the game.1-0 }
+) 13... Bd6 14. b4 Bxg3 15. fxg3 Qxg3 16. a5 Nb8 17. b5 cxb5 18. Qxb5 Qc7 19.
+Qd3
+{ In an interesting battle, Movei handling the Black pieces rated 2 6 6 1 could not hold the position, allowing Frenzee from the White side with rating 2 6 9 3 to win.1-0 }
+) 11... e6 12. Ne2 { played by 3 3 8 3 rated Komodo } 12... Rd8 13. Rb1
+{ played by 3 1 8 8 rated Booot } 13... c5 14. Rd1 Bd6 15. dxc5 Nxc5 16. Qc2
+Ng4 17. b4 Nd7 18. c5 Bh2+ 19. Kf1 O-O 20. g3 Nde5 21. Rxd8
+{ Once again, Booot from the White side with rating 3 1 8 8 converted the advantage and defeated NirvanaChess playing Black, rated 3 1 0 3. The opening quickly led to complex middlegame play.1-0 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "RubiChess 20240112 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, 7...Nd7"]
+[WhiteElo "3640"]
+[BlackElo "3601"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7
+{ entered in Caro Kann Defense Kann Classical 7 Nd7 } 8. Bc4
+{ played by 3 0 8 3 rated HIARCS } ( 8. Bf4
+{ played by 3 6 4 0 rated Stockfish } 8... e6 9. Bd3
+{ played by 3 6 4 0 rated Stockfish } 9... Ne7 10. Qd2
+{ played by 3 2 0 6 rated RubiChess } 10... Bxd3 11. Qxd3 Nd5 12. Bd2 N5f6 13.
+O-O { played by 3 2 5 5 rated Laser } ( 13. O-O-O
+{ played by 3 2 0 6 rated RubiChess } 13... Be7 14. Kb1
+{ played by 3 1 4 9 rated Houdini } 14... O-O 15. Ne4
+{ we will see this position later on0-1 } ) 13... Bd6 14. Ne4
+{ played by 3 2 5 5 rated Laser } ( 14. b4 { played by 3 1 6 4 rated Arasan }
+14... Qc7 15. Ne4 Nxe4 16. Qxe4 Nf6 17. Qe2 O-O 18. c4 a5 19. bxa5 c5 20. dxc5
+Bxc5 21. Rab1 Rfc8 22. Bc3 Ng4 23. Rb3
+{ In an interesting battle, The game between Protej as White rated 3 1 9 6 and Arcanum from the Black side with rating 3 2 7 4 finished level. Small inaccuracies made the difference.1/2-1/2 }
+) ( 14. Rfe1 { played by 2 2 5 9 rated Fischerle } 14... O-O 15. Rab1 Qc7 16.
+Ne4 Nxe4 17. Qxe4 Nf6 18. Qe3 c5 19. Qc3 Rac8 20. Rbc1 Rfd8 21. dxc5 Bxc5 22.
+Be3 Qd6 23. Bxc5
+{ The game between Fischerle, rated 2 2 5 9, had the White pieces and Baislicka as Black rated 2 1 5 5 finished level. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 14... Nxe4 15. Qxe4 O-O 16. Rfe1 Nf6 17. Qe2 Qc7 18. c4 Rad8 19. b4 Rfe8 20.
+Rad1 Qe7 21. a3 Bb8 22. Bc3 Ng4 23. g3
+{ Here we see that Laser as White rated 3 2 5 5 and Houdini, rated 3 1 4 9, had the Black pieces played a balanced game which ended in a draw. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 8... e6 9. h5 { played by 2 6 1 2 rated Ruffian } 9... Bh7 10. Bf4 Ngf6 11.
+O-O Nd5 12. Bxd5 { played by 2 6 2 3 rated WildCat } 12... cxd5 13. c3
+{ played by 2 6 2 3 rated WildCat } ( 13. Ne5
+{ played by 2 6 1 2 rated Ruffian } 13... Nxe5 14. Bxe5 Qb6 15. Re1 Rc8 16. Re2
+Qxb2 17. c4 Qc3 18. cxd5 Bc2 19. Qc1 f6 20. Bf4 Bd3 21. Qxc3
+{ Once again, Ruffian, rated 2 6 1 2, had the White pieces outplayed The on Black with Elo 2 6 5 0 and won the game. The opening quickly led to complex middlegame play.1-0 }
+) 13... Be7 14. a4 Qb6 15. Qe2 O-O 16. a5 Qb3 17. a6 b6 18. Rfd1 Rfe8 19. Ne1
+Rac8 20. Nd3 b5 21. Nc1
+{ Once again, The, rated 2 6 5 0, had the Black pieces defended accurately and defeated WildCat playing White, rated 2 6 2 3. Small inaccuracies made the difference.0-1 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "RubiChess 20240112 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, 7...Nd7"]
+[WhiteElo "3640"]
+[BlackElo "3601"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7
+{ entered in Caro Kann Defense Kann Classical 7 Nd7 } 8. Bd3
+{ played by 3 6 4 0 rated Stockfish } 8... Bxd3 9. Qxd3
+{ played by 3 6 4 0 rated Stockfish } 9... Ngf6 10. Bf4
+{ played by 3 6 4 0 rated Stockfish } 10... e6 11. O-O-O
+{ played by 3 6 4 0 rated Stockfish } ( 11. O-O
+{ played by 3 6 0 0 rated Dragon } 11... Be7 12. c4
+{ played by 3 6 0 0 rated Dragon } 12... O-O 13. Rfd1
+{ played by 3 6 0 0 rated Dragon } 13... Qb6 14. Qe2
+{ played by 3 6 0 0 rated Dragon } ( 14. b3 { played by 3 5 7 9 rated Rebel }
+14... Rfe8 15. Ne5 Rad8 16. Qe2 c5 17. dxc5 Nxc5 18. Nh5 Nce4 19. Nxf6+ Nxf6
+20. Qf3 Rxd1+ 21. Rxd1
+{ In an interesting battle, After a long struggle, Rebel playing White, rated 3 5 7 9 and Torch on Black with Elo 3 6 3 2 shared the point. The outcome was decided in the later stages.1/2-1/2 }
+) ( 14. a3 { played by 3 3 8 5 rated Stockfish } 14... a5 15. Ne2 Rfd8 16. Nc3
+a4 17. Qc2 Qa6 18. Qe2 Rac8 19. Rac1 Bf8 20. Bh2 Nb6 21. Ne5
+{ The game between Stockfish, rated 3 3 8 5, had the White pieces and Komodo playing Black, rated 3 3 9 5 finished level. Small inaccuracies made the difference.1/2-1/2 }
+) ( 14. Qb3 { played by 2 6 6 3 rated Djinn } 14... c5 15. Be3 Rfd8 16. Qxb6
+axb6 17. dxc5 Nxc5 18. Rxd8+ Rxd8 19. Ne5 Ne8 20. h5 Ra8 21. a3
+{ In an interesting battle, Fire playing Black, rated 3 1 1 5 defended accurately and defeated Andscacs on White with Elo 2 9 8 4. The outcome was decided in the later stages.0-1 }
+) 14... Rfe8 15. Ne5 Rad8 16. Rd3 Nxe5 17. Bxe5 Rd7 18. Rad1 Qd8 19. Nf1 Nh7
+20. h5 Bd6 21. c5
+{ In this game, After a long struggle, Dragon on White with Elo 3 6 0 0 and Berserk as Black rated 3 5 5 0 shared the point. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 11... Be7 12. Kb1 { played by 3 6 4 0 rated Stockfish } 12... O-O 13. c4
+{ played by 2 8 2 5 rated STRO4K } 13... b5 14. c5
+{ played by 3 0 5 9 rated Simbelmyne } ( 14. cxb5
+{ played by 2 8 2 5 rated STRO4K } 14... cxb5 15. Qxb5 Nd5 16. Ne2 N7f6 17. Qd3
+Nb4 18. Qb3 a5 19. a3 a4 20. Qc4 Nbd5 21. Ka1
+{ STRO4K on White with Elo 2 8 2 5 overpressed, and Dog playing Black, rated 2 9 6 4 secured the win. The position remained tense for most of the game.0-1 }
+) 14... a5 15. Ne4 a4 16. a3 Nd5 17. Bd2 Qc7 18. g3 b4 19. axb4 Rfb8 20. Qa3
+Rb7 21. Rc1
+{ In an interesting battle, Princhess on Black with Elo 3 1 8 7 defended accurately and defeated Simbelmyne playing White, rated 3 0 5 9. Small inaccuracies made the difference.0-1 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "RubiChess 20240112 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, 7...Nd7"]
+[WhiteElo "3640"]
+[BlackElo "3601"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7
+{ entered in Caro Kann Defense Kann Classical 7 Nd7 } 8. Bd3
+{ played by 3 6 4 0 rated Stockfish } 8... Bxd3 9. Qxd3
+{ played by 3 6 4 0 rated Stockfish } 9... Ngf6 10. Bf4
+{ played by 3 6 4 0 rated Stockfish } ( 10. O-O
+{ played by 3 4 2 4 rated Komodo } 10... Qc7 11. Re1
+{ played by 3 4 9 1 rated Stockfish } 11... e6 12. Ne4
+{ played by 3 2 8 4 rated Komodo } 12... Nxe4 13. Qxe4 Rd8 14. c3
+{ played by 3 0 8 8 rated DeepSaros } 14... Nf6 15. Bf4 Bd6 16. Bxd6 Qxd6 17.
+Qe5 O-O 18. Rad1 Qd5 19. a3 a5 20. Qe2 Qh5 21. Qe5
+{ In this game, After a long struggle, DeepSaros from the White side with rating 3 0 8 8 and Strelka handling the Black pieces rated 3 1 4 2 shared the point. The outcome was decided in the later stages.1/2-1/2 }
+) 10... e6 11. O-O { played by 3 6 0 0 rated Dragon } 11... Be7 12. c4
+{ played by 3 6 0 0 rated Dragon } 12... O-O 13. Rfe1
+{ played by 3 3 7 7 rated Komodo } ( 13. Qb3
+{ played by 2 0 4 7 rated MadChess } 13... Qb6 14. Rfd1
+{ we will see this position later on0-1 } ( 14. Rfe1
+{ played by 2 0 4 7 rated MadChess } 14... Qxb3 15. axb3 Bb4 16. Re2 Rfe8 17.
+Ne4 Nxe4 18. Rxe4 a5 19. Re2 c5 20. d5 exd5 21. Rxe8+
+{ MadChess from the White side with rating 2 0 4 7 remained in control, handing Maverick from the Black side with rating 2 0 8 7 a loss. Both sides showed good positional understanding.1-0 }
+) ( 14. Qxb6 { played by 2 0 1 1 rated Galjoen } 14... axb6 15. Ne2 b5 16. cxb5
+cxb5 17. Rfc1 Nd5 18. Bg3 b4 19. Nf4 N7b6 20. Bh2 Ra6 21. Nd3
+{ In an interesting battle, Galjoen from the White side with rating 2 0 1 1 overpressed, and Kurt from the Black side with rating 2 1 1 4 secured the win. Both sides showed good positional understanding.0-1 }
+) ) 13... Ng4 14. Qb3 { played by 3 2 3 9 rated Fritz } ( 14. h5
+{ played by 2 1 6 8 rated Gibbon } 14... Ndf6 15. Rab1 Bd6 16. Ne5 Bxe5 17.
+Bxe5 Nxe5 18. Rxe5 Ng4 19. Re2 Qh4 20. Re4 Rad8 21. Qf3
+{ In this game, Bagatur on Black with Elo 2 1 0 0 outplayed Gibbon from the White side with rating 2 1 6 8 and won as Black.0-1 }
+) 14... b6 15. h5 Ndf6 16. Qc3 b5 17. Ne5 bxc4 18. Nxc6 Qd7 19. Qxc4 Rae8 20.
+Rac1 Nd5 21. Nxe7+
+{ Here we see that Stockfish playing Black, rated 3 4 9 1 outplayed Fritz, rated 3 2 3 9, had the White pieces and won as Black. The position remained tense for most of the game.0-1 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "RubiChess 20240112 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, 7...Nd7"]
+[WhiteElo "3640"]
+[BlackElo "3601"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7
+{ entered in Caro Kann Defense Kann Classical 7 Nd7 } 8. Bd3
+{ played by 3 6 4 0 rated Stockfish } 8... Bxd3 9. Qxd3
+{ played by 3 6 4 0 rated Stockfish } 9... Ngf6 10. O-O
+{ played by 3 4 2 4 rated Komodo } ( 10. Bf4
+{ played by 3 6 4 0 rated Stockfish } 10... e6 11. O-O-O
+{ played by 3 6 4 0 rated Stockfish } 11... Be7 12. Kb1
+{ played by 3 6 4 0 rated Stockfish } 12... O-O 13. Ne4
+{ played by 3 6 4 0 rated Stockfish } 13... Nxe4 14. Qxe4 Nf6 15. Qe1
+{ played by 3 4 0 4 rated Revenge } 15... Qd5 16. Ne5 Qe4 17. Qxe4
+{ we will see this position later on1/2-1/2 } ) 10... Qc7 11. Re1
+{ played by 3 4 9 1 rated Stockfish } ( 11. Ne2
+{ played by 3 1 8 8 rated Booot } 11... e6 12. Bf4
+{ played by 2 5 7 7 rated Amyan } 12... Bd6 13. Bxd6 Qxd6 14. c4
+{ played by 3 0 1 9 rated Rodent } 14... O-O 15. Nc3 e5 16. Rad1 Rfe8 17. dxe5
+Qxd3 18. Rxd3 Nxe5 19. Nxe5 Rxe5 20. Rfd1 g5 21. hxg5
+{ After a long struggle, Rodent, rated 3 0 1 9, had the White pieces and Deuterium, rated 3 0 1 0, had the Black pieces shared the point. Both sides showed good positional understanding.1/2-1/2 }
+) 11... e6 12. Bd2 { played by 3 2 4 4 rated Fire } ( 12. c4
+{ played by 3 3 4 5 rated Stockfish } 12... Bb4 13. Bd2
+{ played by 3 3 8 5 rated Stockfish } 13... Bxd2 14. Nxd2 O-O 15. Nge4
+{ played by 3 3 8 5 rated Stockfish } ( 15. Rad1
+{ played by 3 2 8 4 rated Komodo } 15... Rad8 16. Nf3 c5 17. d5 Nb6 18. Ne5 Nc8
+19. Qf3 exd5 20. Nf5 Kh7 21. cxd5
+{ Here we see that After a long struggle, Komodo on White with Elo 3 2 8 4 and Gull, rated 3 2 1 9, had the Black pieces shared the point. Both sides showed good positional understanding.1/2-1/2 }
+) 15... Rad8 16. Rad1 Ng4 17. Nf1 Ngf6 18. Nfd2
+{ we will see this position later on1/2-1/2 } ) 12... Be7 13. c4
+{ played by 3 2 4 4 rated Fire } 13... O-O 14. b4
+{ played by 3 1 6 1 rated Gull } ( 14. Rad1
+{ played by 3 3 4 5 rated Stockfish } 14... Rfd8 15. Bc3
+{ played by 3 2 4 4 rated Fire } ( 15. b3 { played by 3 2 4 4 rated Fire }
+15... a5 16. a4 Ng4 17. Qe2 Re8 18. Nh5 Bxh4 19. Bf4 Bxf2+ 20. Qxf2 Nxf2 21.
+Bxc7
+{ Neither Fire playing White, rated 3 2 4 4 nor Komodo from the Black side with rating 3 3 8 3 could convert, and the game was drawn. Small inaccuracies made the difference.1/2-1/2 }
+) 15... a5 16. a4 Ng4 17. Nf5 Bb4 18. Ne3 Nxe3 19. Rxe3 Bxc3 20. bxc3 Nb6 21.
+Ne5
+{ In an interesting battle, After a long struggle, Fire from the White side with rating 3 2 4 4 and Stockfish from the Black side with rating 3 3 8 5 shared the point. The position remained tense for most of the game.1/2-1/2 }
+) 14... Rfd8 15. Qc2 a5 16. bxa5 Bd6 17. Ne4 Nxe4 18. Rxe4 c5 19. dxc5 Bxc5 20.
+Rb1 Nf6 21. Re2
+{ In an interesting battle, Neither Marvin as White rated 3 2 3 9 nor Dark from the Black side with rating 3 2 1 0 could convert, and the game was drawn.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "RubiChess 20240112 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, 7...Nd7"]
+[WhiteElo "3640"]
+[BlackElo "3601"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7
+{ entered in Caro Kann Defense Kann Classical 7 Nd7 } 8. Bd3
+{ played by 3 6 4 0 rated Stockfish } ( 8. Bf4
+{ played by 3 6 4 0 rated Stockfish } 8... e6 9. Bd3
+{ played by 3 6 4 0 rated Stockfish } 9... Ne7 10. Qd2
+{ played by 3 2 0 6 rated RubiChess } 10... Bxd3 11. Qxd3 Nd5 12. Bd2 N5f6 13.
+O-O-O { played by 3 2 0 6 rated RubiChess } 13... Be7 14. Ne4
+{ played by 3 1 4 9 rated Houdini } 14... O-O 15. Kb1 c5 16. Be3
+{ played by 3 1 4 9 rated Houdini } ( 16. Rhg1 { played by 3 0 7 8 rated Lc0 }
+16... Nxe4 17. Qxe4 cxd4 18. Qxd4 Nf6 19. Qe5 Qb6 20. Be3 Qc6 21. Bd4 Rfd8 22.
+Qe2 Ng4 23. Rd3
+{ Here we see that Fizbo playing Black, rated 3 2 4 3 defended accurately and defeated Lc0, rated 3 0 7 8, had the White pieces. The position remained tense for most of the game.0-1 }
+) 16... Qc7 17. dxc5 Rfd8 18. Nxf6+ Nxf6 19. Qc4 a6 20. c3 Rac8 21. g3 Nd5 22.
+Bd4 b5 23. Qe2
+{ In an interesting battle, Laser on Black with Elo 3 2 5 5 seized the initiative and handed Houdini playing White, rated 3 1 4 9 a loss. The position remained tense for most of the game.0-1 }
+) 8... Bxd3 9. Qxd3 { played by 3 6 4 0 rated Stockfish } 9... Ngf6 10. O-O
+{ played by 3 4 2 4 rated Komodo } 10... Qc7 11. Re1
+{ played by 3 4 9 1 rated Stockfish } ( 11. Ne2
+{ played by 3 1 8 8 rated Booot } 11... e6 12. Bf4
+{ played by 2 5 7 7 rated Amyan } 12... Bd6 13. Bxd6 Qxd6 14. Ng3
+{ played by 2 5 7 7 rated Amyan } 14... O-O-O 15. a4
+{ played by 2 7 8 0 rated Naraku } ( 15. Rfe1 { played by 2 5 7 7 rated Amyan }
+15... Kb8 16. Rad1 Ng4 17. c4 Qc7 18. b4 g6 19. a4 Rhe8 20. Qc3 f5 21. Re2
+{ Here we see that After a long struggle, Amyan on White with Elo 2 5 7 7 and DanaSah, rated 2 5 4 1, had the Black pieces shared the point.1/2-1/2 }
+) 15... c5 16. a5 cxd4 17. a6 b6 18. Rfe1 Qc7 19. Ra3 Nc5 20. Qd2 Rd5 21. b4
+{ Once again, RobboLito playing White, rated 3 0 9 0 remained in control, handing Hannibal as Black rated 3 0 2 7 a loss. Both sides showed good positional understanding.1-0 }
+) 11... e6 12. a4 { played by 3 0 7 5 rated Stockfish } 12... Be7 13. Bd2
+{ played by 3 0 7 5 rated Stockfish } 13... Rd8 14. a5 O-O 15. Nf5
+{ played by 3 0 7 5 rated Stockfish } ( 15. b4
+{ Once again, Komodo handling the Black pieces rated 2 9 4 2 could not hold the position, allowing Naum, rated 2 9 7 7, had the White pieces to win. The outcome was decided in the later stages.1-0 }
+) 15... exf5 16. Rxe7 Qd6 17. Qa3 c5 18. Re5 Ne4 19. dxc5 Qf6 20. Rd5 Ndxc5 21.
+Rxd8
+{ In this game, The game between Stockfish handling the White pieces rated 3 0 7 5 and Komodo on Black with Elo 3 0 8 4 finished level. Small inaccuracies made the difference.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "RubiChess 20240112 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, 7...Nd7"]
+[WhiteElo "3640"]
+[BlackElo "3601"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7
+{ entered in Caro Kann Defense Kann Classical 7 Nd7 } 8. Bf4
+{ played by 3 6 4 0 rated Stockfish } ( 8. Bd3
+{ played by 3 6 4 0 rated Stockfish } 8... Bxd3 9. Qxd3
+{ played by 3 6 4 0 rated Stockfish } 9... Ngf6 10. Bf4
+{ played by 3 6 4 0 rated Stockfish } ( 10. O-O
+{ played by 3 4 2 4 rated Komodo } 10... Qc7 11. Re1
+{ played by 3 4 9 1 rated Stockfish } 11... e6 12. Ne4
+{ played by 3 2 8 4 rated Komodo } 12... Nxe4 13. Qxe4 Rd8 14. Bf4
+{ played by 3 3 6 8 rated Komodo } 14... Bd6 15. Bxd6 Qxd6 16. Qe2
+{ played by 3 3 6 8 rated Komodo } ( 16. Qe3
+{ played by 3 1 4 9 rated Houdini } 16... O-O 17. Rad1 Rfe8 18. a3 a5 19. Rd3
+b5 20. Qc1 Nb6 21. Qd2
+{ In an interesting battle, Strelka on Black with Elo 3 1 4 2 seized the initiative and handed Houdini handling the White pieces rated 3 1 4 9 a loss. The outcome was decided in the later stages.0-1 }
+) ( 16. c3 { played by 3 1 4 9 rated Houdini } 16... O-O 17. Rad1 Rfe8 18. Qe3
+a5 19. c4 b5 20. Rc1 Rb8 21. Qe2
+{ The game between Houdini playing White, rated 3 1 4 9 and Komodo from the Black side with rating 3 1 4 7 finished level. The position remained tense for most of the game.1/2-1/2 }
+) ( 16. Rad1 { played by 3 1 4 9 rated Houdini } 16... Qb4 17. b3 Nf6 18. Qe3
+O-O 19. Ne5 Nd7 20. c3 Qa3 21. Nc4
+{ The game between DeepSaros, rated 3 0 8 8, had the White pieces and Komodo from the Black side with rating 3 1 4 7 finished level. Small inaccuracies made the difference.1/2-1/2 }
+) 16... O-O 17. Rad1 Rb8 18. b3 Rfd8 19. c4 b5 20. cxb5 cxb5 21. d5
+{ Here we see that The game between Komodo, rated 3 3 6 8, had the White pieces and Equinox as Black rated 3 2 1 6 finished level. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 10... e6 11. O-O { played by 3 6 0 0 rated Dragon } 11... Be7 12. c4
+{ played by 3 6 0 0 rated Dragon } 12... O-O 13. Rad1
+{ played by 3 5 3 1 rated Ethereal } 13... b5 14. b3 Qa5 15. Qc2
+{ played by 3 1 2 6 rated Lynx } 15... Rfd8 16. c5
+{ played by 3 2 2 2 rated Fizbo } ( 16. Rfe1
+{ we will see this position later on0-1 } ) 16... Nd5 17. Bd2 Qc7 18. b4 N7f6
+19. Ra1 Ng4 20. Rfe1 a6 21. a4
+{ In an interesting battle, Neither Fizbo from the White side with rating 3 2 2 2 nor Komodo on Black with Elo 3 3 4 4 could convert, and the game was drawn. Both sides showed good positional understanding.1/2-1/2 }
+) 8... e6 9. Bd3 { played by 3 6 4 0 rated Stockfish } 9... Ne7 10. Qd2
+{ played by 3 2 0 6 rated RubiChess } 10... Bxd3 11. Qxd3 Nd5 12. Bd2 N5f6 13.
+c4 { played by 2 5 3 7 rated Jazz } 13... Bd6 14. Ne4 Qc7 15. Nxd6+ Qxd6 16.
+Qe2 { played by 3 6 2 5 rated Obsidian } ( 16. O-O
+{ played by 3 5 8 6 rated Viridithas } 16... O-O 17. Qe2
+{ we will see this position later on1/2-1/2 } ) ( 16. O-O-O
+{ played by 2 5 3 7 rated Jazz } 16... O-O-O 17. Qe2 Ng4 18. g3 Qe7 19. Bf4
+Rhe8 20. Rhe1 a6 21. Nd2 f5 22. c5 g5 23. Bd6
+{ Here we see that Simplex, rated 2 3 7 4, had the Black pieces could not hold the position, allowing Jazz as White rated 2 5 3 7 to win. Both sides showed good positional understanding.1-0 }
+) 16... O-O 17. O-O c5 18. Bc3 cxd4 19. Nxd4 Qf4 20. g3 Qe4 21. Rfd1
+{ Here we see that Obsidian from the White side with rating 3 5 5 8 and Stockfish handling the Black pieces rated 3 6 2 0 played a balanced game which ended in a draw. The opening quickly led to complex middlegame play.1/2-1/2 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "RubiChess 20240112 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, 7...Nd7"]
+[WhiteElo "3640"]
+[BlackElo "3601"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7
+{ entered in Caro Kann Defense Kann Classical 7 Nd7 } 8. Bd3
+{ played by 3 6 4 0 rated Stockfish } 8... Bxd3 9. Qxd3
+{ played by 3 6 4 0 rated Stockfish } 9... Ngf6 10. Bf4
+{ played by 3 6 4 0 rated Stockfish } ( 10. O-O
+{ played by 3 4 2 4 rated Komodo } 10... Qc7 11. c4
+{ played by 3 4 1 2 rated Komodo } 11... e6 12. Ne2
+{ played by 3 3 8 3 rated Komodo } 12... Rd8 13. Qc2
+{ played by 3 3 8 3 rated Komodo } 13... Be7 14. Bf4 Bd6 15. Bxd6 Qxd6 16. Rfe1
+O-O 17. Rad1 { played by 3 3 8 3 rated Komodo } ( 17. Nc3
+{ played by 3 1 1 8 rated Gull } 17... Rfe8 18. Rad1 Qf4 19. Qe2 a6 20. g3 Qc7
+21. c5
+{ In an interesting battle, Fire, rated 3 1 1 5, had the Black pieces defended accurately and defeated Gull playing White, rated 3 1 1 8. Both sides showed good positional understanding.0-1 }
+) 17... Qc7 18. a3 Nb6 19. Qc3 Rfe8 20. b4 Ra8 21. Nc1
+{ Houdini as Black rated 3 2 9 0 could not hold the position, allowing Komodo as White rated 3 3 8 3 to win. The outcome was decided in the later stages.1-0 }
+) 10... e6 11. O-O { played by 3 6 0 0 rated Dragon } ( 11. O-O-O
+{ played by 3 6 4 0 rated Stockfish } 11... Be7 12. Kb1
+{ played by 3 6 4 0 rated Stockfish } 12... O-O 13. Ne4
+{ played by 3 6 4 0 rated Stockfish } 13... Nxe4 14. Qxe4 Nf6 15. Qe2
+{ played by 3 6 4 0 rated Stockfish } 15... Qd5 16. Ne5 Qe4 17. Qxe4 Nxe4 18.
+Rde1 { played by 3 6 3 2 rated Torch } 18... Nf6 19. g4 h5 20. g5 Nd5 21. Bg3
+{ Neither Caissa on White with Elo 3 6 0 9 nor Stockfish handling the Black pieces rated 3 6 4 3 could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 11... Be7 12. c4 { played by 3 6 0 0 rated Dragon } 12... O-O 13. Rad1
+{ played by 3 5 3 1 rated Ethereal } 13... b5 14. b3 Qa5 15. Rfe1
+{ played by 3 2 4 4 rated StockNemo } ( 15. c5
+{ played by 3 5 3 1 rated Ethereal } 15... Nd5 16. Bd2 Qd8 17. Qe4 N7f6 18. Qc2
+{ played by 3 5 3 1 rated Ethereal } ( 18. Qe2
+{ played by 3 5 3 1 rated Ethereal } 18... Nd7 19. Qe4
+{ we will see this position later on1/2-1/2 } ) 18... a5 19. Ne5
+{ Here we see that After a long struggle, Ethereal from the White side with rating 3 5 3 1 and Clover playing Black, rated 3 5 1 1 shared the point. Small inaccuracies made the difference.1/2-1/2 }
+) 15... Rfd8 16. Qc2 Rac8 17. c5 { played by 3 2 4 4 rated StockNemo } ( 17.
+Re2 { played by 3 1 1 2 rated Laser } 17... bxc4 18. bxc4 Nb6 19. Rd3 Ng4 20.
+c5 Nd5 21. Qc1
+{ Here we see that Laser playing White, rated 3 1 1 2 and Critter as Black rated 3 0 9 5 played a balanced game which ended in a draw.1/2-1/2 }
+) 17... Nd5 18. Bd2 Qc7 19. b4 N7f6 20. Ra1 Ng4 21. a4
+{ In this game, StockNemo as White rated 3 2 4 4 overpressed, and HIARCS from the Black side with rating 3 2 9 3 secured the win. Small inaccuracies made the difference.0-1 }
+1/2-1/2
+
+
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16 64-bit 4CPU"]
+[Black "RubiChess 20240112 64-bit 4CPU"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, 7...Nd7"]
+[WhiteElo "3640"]
+[BlackElo "3601"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7
+{ entered in Caro Kann Defense Kann Classical 7 Nd7 } 8. Bd3
+{ played by 3 6 4 0 rated Stockfish } 8... Bxd3 9. Qxd3
+{ played by 3 6 4 0 rated Stockfish } 9... Ngf6 10. O-O
+{ played by 3 4 2 4 rated Komodo } ( 10. Bf4
+{ played by 3 6 4 0 rated Stockfish } 10... e6 11. O-O-O
+{ played by 3 6 4 0 rated Stockfish } 11... Be7 12. Kb1
+{ played by 3 6 4 0 rated Stockfish } 12... O-O 13. Ne4
+{ played by 3 6 4 0 rated Stockfish } 13... Nxe4 14. Qxe4 Nf6 15. Qe2
+{ played by 3 6 4 0 rated Stockfish } 15... Qd5 16. Ne5 Qe4 17. Qxe4 Nxe4 18.
+Be3 { played by 3 6 4 0 rated Stockfish } 18... Rfd8 19. c3
+{ played by 3 6 4 0 rated Stockfish } ( 19. h5
+{ played by 3 6 2 9 rated Stockfish } 19... Bf6 20. g4 c5 21. f4
+{ In an interesting battle, Neither Stockfish playing White, rated 3 6 2 9 nor Ethereal from the Black side with rating 3 5 5 5 could convert, and the game was drawn. Both sides showed good positional understanding.1/2-1/2 }
+) 19... Rac8 20. g4 b5 21. Kc2
+{ Torch from the White side with rating 3 6 3 2 remained in control, handing Rebel on Black with Elo 3 5 7 9 a loss. Both sides showed good positional understanding.1-0 }
+) 10... Qc7 11. Qe2 { played by 3 5 2 1 rated Igel } 11... e6 12. Re1 c5 13.
+Bd2 Bd6 14. Nf5 O-O 15. Nxd6 Qxd6 16. Be3 cxd4 17. Bxd4 Ng4 18. Rad1
+{ played by 3 5 2 1 rated Igel } ( 18. c4 { played by 3 4 8 5 rated Berserk }
+18... Rfe8 19. Bc3 Qc7 20. Rad1 e5 21. Nd2
+{ Once again, The game between Berserk as White rated 3 4 8 5 and SlowChess from the Black side with rating 3 4 7 2 finished level. The position remained tense for most of the game.1/2-1/2 }
+) 18... Qc7 19. b3 Rfe8 20. Bb2 h5 21. g3
+{ Here we see that Neither Igel playing White, rated 3 5 2 1 nor Koivisto as Black rated 3 5 2 3 could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
+1/2-1/2
+
+
+

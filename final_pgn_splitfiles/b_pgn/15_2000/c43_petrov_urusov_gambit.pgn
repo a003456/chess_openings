@@ -1,0 +1,36 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 15.1 64-bit"]
+[Black "Chess System Tal 2.00 Elo 64-bit"]
+[Result "1/2-1/2"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "Urusov gambit"]
+[WhiteElo "3612"]
+[BlackElo "3540"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 exd4 4. Bc4 { entered in PETROV Urusov Gambit } 4...
+Nxe4 5. Qxd4 Nf6 6. Nc3 { played by 3 0 5 8 rated Rybka } ( 6. Bg5
+{ played by 3 6 1 2 rated Stockfish } 6... Be7 7. Nc3 c6 8. O-O-O d5 9. Qh4
+{ played by 3 5 4 0 rated Chess } ( 9. Rhe1
+{ played by 3 6 1 2 rated Stockfish } 9... Be6 10. Qh4
+{ played by 3 2 1 4 rated RukChess } ( 10. Bd3
+{ played by 3 6 1 2 rated Stockfish } 10... Nbd7 11. Qh4 h6 12. Rxe6
+{ played by 3 6 1 2 rated Stockfish } ( 12. Nd4 { played by 3 1 9 2 rated Lc0 }
+12... O-O 13. Rxe6 fxe6 14. Nxe6 Qa5 15. Bxh6 gxh6 16. Qxh6 Kf7 17. Ng5+
+{ In an interesting battle, Lc0 as White rated 3 1 9 2 and RukChess on Black with Elo 3 2 1 4 played a balanced game which ended in a draw.1/2-1/2 }
+) 12... fxe6 13. Bg6+ Kf8 14. Qh3 Bd6 15. Re1 e5 16. Nd1 Bb4 17. Re2
+{ Neither Stockfish playing White, rated 3 6 1 2 nor Chess playing Black, rated 3 5 4 0 could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+) 10... h6 11. Bd3 Kd7 12. Bd2 Bd6 13. Nd4 g5 14. Nxe6 gxh4 15. Nxd8 Kxd8 16.
+h3 Rg8 17. Bf1
+{ In an interesting battle, Stockfish from the Black side with rating 3 6 1 2 defended accurately and defeated Chess handling the White pieces rated 3 5 4 0. The opening quickly led to complex middlegame play.0-1 }
+) 9... Be6 10. Rhe1 { we will see this position later on0-1 } ) 6... Nc6 7. Qh4
+Be7 8. Bg5 O-O 9. O-O-O d6 10. Bd3 h6 11. Bxh6 Ne5 12. Bg5 Nxd3+ 13. Rxd3 Qd7
+14. Ne5 Qf5 15. Rh3 Qh7 16. Ng6 Bxh3 17. Nxe7+
+{ Once again, Protector, rated 2 8 9 8, had the White pieces remained in control, handing Rybka, rated 3 0 5 8, had the Black pieces a loss. The opening quickly led to complex middlegame play.1-0 }
+1/2-1/2
+
+
+
