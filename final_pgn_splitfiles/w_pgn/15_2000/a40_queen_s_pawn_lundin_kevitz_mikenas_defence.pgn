@@ -2,36 +2,57 @@
 [Site "?"]
 [Date "????.??.??"]
 [Round "?"]
-[White "Stockfish 16 64-bit 4CPU"]
-[Black "Berserk 11.1 64-bit 4CPU"]
-[Result "1/2-1/2"]
-[ECO "A40"]
-[Opening "Queen's pawn"]
-[Variation "Lundin (Kevitz-Mikenas) defence"]
-[WhiteElo "3640"]
-[BlackElo "3584"]
+[White "Caissa"]
+[Black "Velvet"]
+[Result "1-0"]
+[WhiteElo "3581"]
+[BlackElo "3531"]
 
-1. d4 Nc6 { entered in QUEEN S Pawn Lundin Kevitz Mikenas Defence } 2. c4 e5 3.
-d5 Bb4+ { played by 2 9 4 5 rated Ynode } ( 3... Nce7
-{ played by 3 6 4 0 rated Stockfish } 4. Nc3 Ng6 5. e4 Bc5 6. g3 Nf6 7. Bg2 O-O
-8. Nf3 d6 9. Qe2 a5 { played by 3 6 4 0 rated Stockfish } ( 9... h6
-{ played by 3 6 3 7 rated Torch } 10. O-O a5
-{ we will see this position later on1/2-1/2 } ( 10... Nh7
-{ played by 3 6 3 0 rated Torch } 11. h3 f5 12. exf5 Bxf5 13. Kh2 Nf6 14. Nd2
-a5 15. Nde4
-{ Once again, After a long struggle, Torch from the White side with rating 3 6 3 7 and Quanticade, rated 3 5 8 9, had the Black pieces shared the point. The opening quickly led to complex middlegame play.1/2-1/2 }
-) ) ( 9... Bd7 { played by 3 5 4 5 rated SlowChess } 10. O-O a5
+1. d4 Nc6 { entered in a40_queen_s_pawn_lundin_kevitz_mikenas_defence } 2. c4
+e5 3. d5 Bb4+ { played by 2 9 4 4 rated Ynode } ( 3... Nce7
+{ played by 3 5 7 2 rated Velvet } 4. Nc3 Ng6 5. e4 Bc5 6. g3 Nf6 7. Bg2 O-O 8.
+Nf3 d6 9. Qe2 c6 { played by 3 5 7 2 rated Velvet } ( 9... h6
+{ played by 3 5 5 4 rated Berserk } 10. O-O Nh7
+{ played by 3 6 3 0 rated Torch } ( 10... a5
+{ played by 3 5 5 4 rated Berserk } 11. Ne1 Bg4
+{ played by 3 4 7 2 rated SlowChess } 12. Qd3 Nh7
+{ played by 3 4 7 2 rated SlowChess } 13. Nc2 f5
+{ played by 3 4 7 2 rated SlowChess } 14. h3 f4 15. hxg4 Qd7
+{ Once again, Stockfish playing White, rated 3 5 9 9 converted the advantage and defeated SlowChess as Black rated 3 4 7 2. The outcome was decided in the later stages.1-0 }
+) 11. h3 f5 12. exf5 Bxf5 13. Kh2 Nf6 14. Nd2 a5 15. Nde4 Nxe4 16. Nxe4 b6 17.
+Nxc5 bxc5 18. Bd2 a4 19. Rae1 Rf7 20. Bc3 Qg5
+{ After a long struggle, Torch as White rated 3 6 3 8 and Quanticade handling the Black pieces rated 3 5 9 0 shared the point. Small inaccuracies made the difference.1/2-1/2 }
+) ( 9... a5 { played by 3 5 4 8 rated Clover } 10. O-O a4
+{ played by 3 5 4 8 rated Clover } ( 10... h6
+{ we will see this position later on1-0 } ) ( 10... Bd7
+{ played by 3 5 7 9 rated Rebel } 11. Be3 b6 { played by 3 5 7 9 rated Rebel }
+( 11... Bb4 { played by 3 5 4 5 rated SlowChess } 12. Bd2 Bc5
+{ played by 3 5 4 5 rated SlowChess } ( 12... c6
+{ played by 3 5 4 5 rated SlowChess } 13. a3 Bc5 14. Be3 Bxe3 15. Qxe3 cxd5 16.
+cxd5 h5 17. h4 b5 18. Rfc1 Ng4 19. Qg5 Ne7 20. Nh2 f6
+{ Here we see that After a long struggle, Clover playing White, rated 3 5 9 6 and SlowChess, rated 3 5 4 5, had the Black pieces shared the point.1/2-1/2 }
+) 13. h3 h6 14. a4 Nh7 15. Kh2 f5 16. exf5 Bxf5 17. Be3 b6 18. Nd2 Ng5 19. Bxg5
+Qxg5 20. Nde4 Qd8
+{ Here we see that Seer from the White side with rating 3 5 5 8 and SlowChess, rated 3 5 4 5, had the Black pieces played a balanced game which ended in a draw. The outcome was decided in the later stages.1/2-1/2 }
+) 12. h3 h6 13. Bd2 Nh7 14. Ne1 f5 15. exf5 Bxf5 16. Nd3 Bd4 17. Nb5 Qd7 18.
+Kh2 Rae8 19. Rae1 Nf6 20. a4 Qf7
+{ Once again, Neither Caissa as White rated 3 5 9 5 nor Koivisto playing Black, rated 3 5 6 1 could convert, and the game was drawn. Small inaccuracies made the difference.1/2-1/2 }
+) 11. Be3 Bb4 12. Bd2 c6 13. Rfc1 h6 14. Nd1 Bc5 15. b3 cxd5 16. cxd5 Ne7 17.
+h3 Ba3 18. Rxc8 Rxc8 19. b4 Rc2 20. Ne1 Qc7
+{ In an interesting battle, RubiChess from the White side with rating 3 5 8 8 converted the advantage and defeated Clover handling the Black pieces rated 3 5 4 8. The position remained tense for most of the game.1-0 }
+) ( 9... Bd7 { played by 3 5 4 5 rated SlowChess } 10. O-O a5
 { we will see this position later on1/2-1/2 } ( 10... h6
 { played by 3 0 7 6 rated DeepSaros } 11. Be3 Bxe3 12. Qxe3 Qb8 13. Nd2 a6 14.
-f3 b5 15. Rfc1
-{ Here we see that Neither Sting playing White, rated 3 0 5 5 nor DeepSaros from the Black side with rating 3 0 7 6 could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
-) ) 10. O-O a4 { played by 3 5 4 8 rated Clover } 11. Be3 Bb4 12. Bd2 c6 13.
-Rfc1 h6 14. Nd1 Bc5 15. b3
-{ In this game, RubiChess from the White side with rating 3 5 8 8 outplayed Clover from the Black side with rating 3 5 4 8 and won the game.1-0 }
+f3 b5 15. Rfc1 Ne7 16. c5 c6 17. dxc6 Bxc6 18. cxd6 Qxd6 19. a3 Bd7 20. Nb3 Be6
+{ The game between Sting as White rated 3 0 5 4 and DeepSaros playing Black, rated 3 0 7 6 finished level. The outcome was decided in the later stages.1/2-1/2 }
+) ) 10. O-O cxd5 11. cxd5 Bd7 12. Be3 Rc8 13. Bxc5 Rxc5 14. a4 h5 15. Ra3 Qb6
+16. Rfa1 a5 17. Rb1 h4 18. Nd2 Rfc8 19. Rb3 Qc7 20. Qd3 Nf8
+{ In this game, Torch as White rated 3 6 3 5 converted the advantage and defeated Velvet playing Black, rated 3 5 7 2. Small inaccuracies made the difference.1-0 }
 ) 4. Nc3 Nce7 5. e4 Nf6 6. Bd3 O-O 7. Ne2 d6 8. O-O Ba5 9. a3 Bd7 10. b4 Bb6
-11. Na4 Bxa4 12. Qxa4 a5 13. b5 Nd7 14. Qd1 f5 15. exf5
-{ Once again, ice4 as White rated 2 8 2 7 overpressed, and Ynode from the Black side with rating 2 9 4 5 secured the win. The opening quickly led to complex middlegame play.0-1 }
-1/2-1/2
+11. Na4 Bxa4 12. Qxa4 a5 13. b5 Nd7 14. Qd1 f5 15. exf5 Nxf5 16. Ng3 Nxg3 17.
+hxg3 Qe8 18. Ra2 e4 19. Bb1 Qg6 20. Re1 Nf6
+{ Here we see that Ynode as Black rated 2 9 4 4 outplayed ice4 on White with Elo 2 8 2 6 and won as Black. The outcome was decided in the later stages.0-1 }
+1-0
 
 
 
@@ -39,72 +60,46 @@ Rfc1 h6 14. Nd1 Bc5 15. b3
 [Site "?"]
 [Date "????.??.??"]
 [Round "?"]
-[White "Stockfish 16 64-bit 4CPU"]
-[Black "Berserk 11.1 64-bit 4CPU"]
-[Result "1/2-1/2"]
-[ECO "A40"]
-[Opening "Queen's pawn"]
-[Variation "Lundin (Kevitz-Mikenas) defence"]
-[WhiteElo "3640"]
-[BlackElo "3584"]
+[White "Caissa"]
+[Black "Velvet"]
+[Result "1-0"]
+[WhiteElo "3581"]
+[BlackElo "3531"]
 
-1. d4 Nc6 { entered in QUEEN S Pawn Lundin Kevitz Mikenas Defence } 2. c4 e5 3.
-d5 Nce7 { played by 3 6 4 0 rated Stockfish } 4. Nc3 Ng6 5. e4 Bc5 6. g3 Nf6 7.
-Bg2 O-O 8. Nf3 d6 9. Qe2 a5 { played by 3 6 4 0 rated Stockfish } 10. O-O Bd7
-{ played by 3 5 7 9 rated Rebel } ( 10... h6
-{ played by 3 6 4 0 rated Stockfish } 11. Ne1 Bg4
-{ played by 3 6 0 6 rated Viridithas } ( 11... Bd4
-{ played by 3 5 7 9 rated Chess } 12. Nb5 Bc5 { played by 3 5 7 9 rated Chess }
-( 12... Bg4 { played by 3 5 6 4 rated Caissa } 13. Qd3 Bb6 14. h3 Bd7 15. Nc2
-{ Once again, After a long struggle, Koivisto from the White side with rating 3 5 6 1 and Caissa as Black rated 3 5 6 4 shared the point. The opening quickly led to complex middlegame play.1/2-1/2 }
-) 13. Be3 Bxe3 14. Qxe3 c6 15. Nc3
-{ In an interesting battle, ShashChess playing White, rated 3 6 3 6 converted the advantage and defeated Uralochka on Black with Elo 3 5 1 4. Both sides showed good positional understanding.1-0 }
-) 12. Qd3 Bd7 { played by 3 6 0 6 rated Viridithas } 13. Be3 b6 14. Nc2 Nh7 15.
-Bxc5
-{ In an interesting battle, The game between Stockfish handling the White pieces rated 3 6 4 0 and Berserk from the Black side with rating 3 5 8 4 finished level. Both sides showed good positional understanding.1/2-1/2 }
-) 11. Be3 b6 { played by 3 5 7 9 rated Rebel } ( 11... Bb4
-{ played by 3 5 4 5 rated SlowChess } 12. Bd2 Bc5
-{ played by 3 5 4 5 rated SlowChess } ( 12... c6
-{ played by 3 5 4 5 rated SlowChess } 13. a3 Bc5 14. Be3 Bxe3 15. Qxe3
-{ Here we see that Clover from the White side with rating 3 5 9 6 and SlowChess, rated 3 5 4 5, had the Black pieces played a balanced game which ended in a draw. The position remained tense for most of the game.1/2-1/2 }
-) 13. h3 h6 14. a4 Nh7 15. Kh2
-{ Neither Seer on White with Elo 3 5 5 8 nor SlowChess playing Black, rated 3 5 4 5 could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
-) 12. h3 h6 13. Bd2 Nh7 14. Ne1 f5 15. exf5
-{ Here we see that Caissa playing White, rated 3 5 9 5 and Koivisto on Black with Elo 3 5 6 1 played a balanced game which ended in a draw. The outcome was decided in the later stages.1/2-1/2 }
-1/2-1/2
-
-
-
-[Event "?"]
-[Site "?"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Stockfish 16 64-bit 4CPU"]
-[Black "Berserk 11.1 64-bit 4CPU"]
-[Result "1/2-1/2"]
-[ECO "A40"]
-[Opening "Queen's pawn"]
-[Variation "Lundin (Kevitz-Mikenas) defence"]
-[WhiteElo "3640"]
-[BlackElo "3584"]
-
-1. d4 Nc6 { entered in QUEEN S Pawn Lundin Kevitz Mikenas Defence } 2. c4 e5 3.
-d5 Nce7 { played by 3 6 4 0 rated Stockfish } 4. Nc3 Ng6 5. e4 Bc5 6. g3 Nf6 7.
-Bg2 O-O 8. Nf3 d6 9. Qe2 c6 { played by 3 5 7 2 rated Velvet } ( 9... a5
-{ played by 3 6 4 0 rated Stockfish } 10. O-O h6
-{ played by 3 6 4 0 rated Stockfish } 11. Ne1 Bg4
-{ played by 3 6 0 6 rated Viridithas } 12. Qd3 Nh7
-{ played by 3 6 0 3 rated Alexandria } 13. Nc2 Bd7
-{ played by 3 6 0 3 rated Alexandria } ( 13... f5
-{ played by 3 4 7 2 rated SlowChess } 14. h3 f4 15. hxg4
-{ Once again, Stockfish handling the White pieces rated 3 5 9 9 remained in control, handing SlowChess playing Black, rated 3 4 7 2 a loss. The outcome was decided in the later stages.1-0 }
-) 14. Be3 b6 { we will see this position later on1/2-1/2 } ) 10. O-O cxd5 11.
-cxd5 Bd7 12. Be3 Rc8 { played by 3 5 7 2 rated Velvet } ( 12... Bxe3
-{ played by 2 7 5 5 rated Fridolin } 13. Qxe3 b5 14. a3 a5 15. Rfc1
-{ In this game, Ceibo as White rated 2 8 6 8 and Fridolin on Black with Elo 2 7 5 5 played a balanced game which ended in a draw. The position remained tense for most of the game.1/2-1/2 }
-) 13. Bxc5 Rxc5 14. a4 h5 15. Ra3
-{ In this game, Torch as White rated 3 6 3 5 remained in control, handing Velvet from the Black side with rating 3 5 7 2 a loss. The opening quickly led to complex middlegame play.1-0 }
-1/2-1/2
+1. d4 Nc6 { entered in a40_queen_s_pawn_lundin_kevitz_mikenas_defence } 2. c4
+e5 3. d5 Nce7 { played by 3 5 7 2 rated Velvet } 4. Nc3 Ng6 5. e4 Bc5 6. g3 Nf6
+7. Bg2 O-O 8. Nf3 d6 9. Qe2 h6 { played by 3 5 5 4 rated Berserk } 10. O-O a5
+{ played by 3 5 5 4 rated Berserk } 11. Ne1 Bg4
+{ played by 3 4 7 2 rated SlowChess } ( 11... Bd4
+{ played by 3 5 1 4 rated Uralochka } 12. Nb5 Bc5
+{ played by 3 5 1 4 rated Uralochka } ( 12... Bg4
+{ played by 3 5 6 4 rated Caissa } 13. Qd3 Bb6 14. h3 Bd7 15. Nc2 h5
+{ played by 3 5 6 4 rated Caissa } ( 15... Bxb5
+{ played by 3 5 0 7 rated RubiChess } 16. cxb5 Nd7 17. Ne3 Ne7 18. h4 Bd4 19.
+Qc4 Kh8 20. Bh3 c6
+{ Once again, Koivisto handling the White pieces rated 3 5 2 2 and RubiChess on Black with Elo 3 5 0 7 played a balanced game which ended in a draw. The outcome was decided in the later stages.1/2-1/2 }
+) 16. Bg5 Qc8 17. Kh2 Nh7 18. Be3 Bxe3 19. Nxe3 h4 20. Rac1 b6
+{ In an interesting battle, Koivisto handling the White pieces rated 3 5 6 1 and Caissa, rated 3 5 6 4, had the Black pieces played a balanced game which ended in a draw. The position remained tense for most of the game.1/2-1/2 }
+) 13. Be3 Bxe3 14. Qxe3 c6 15. Nc3 cxd5 { played by 3 5 1 4 rated Uralochka } (
+15... a4 { played by 3 5 7 9 rated Chess } 16. Nf3 cxd5 17. cxd5 Bd7 18. a3 b5
+19. Rac1 Ng4 20. Qe2 Qb6
+{ In this game, The game between Obsidian handling the White pieces rated 3 6 0 9 and Chess handling the Black pieces rated 3 5 7 9 finished level. The outcome was decided in the later stages.1/2-1/2 }
+) 16. cxd5 a4 17. Nc2 h5 18. Qg5 h4 19. a3 Bd7 20. Ne3 b5
+{ ShashChess as White rated 3 6 3 6 converted the advantage and defeated Uralochka, rated 3 5 1 4, had the Black pieces. The opening quickly led to complex middlegame play.1-0 }
+) 12. Qd3 Bd7 { played by 3 6 0 7 rated Viridithas } ( 12... Nh7
+{ played by 3 4 7 2 rated SlowChess } 13. Nc2 Bd7
+{ played by 3 6 0 3 rated Alexandria } 14. Be3 b6 15. Bxc5 bxc5 16. Ne3 Ne7
+{ played by 3 6 0 3 rated Alexandria } ( 16... Kh8
+{ played by 3 5 9 5 rated Caissa } 17. a4 Ne7 18. Nb5 f5 19. exf5 Nxf5 20. f4
+Nxe3
+{ In an interesting battle, After a long struggle, Stockfish on White with Elo 3 6 4 0 and Berserk handling the Black pieces rated 3 5 8 4 shared the point. Small inaccuracies made the difference.1/2-1/2 }
+) 17. a4 f5 18. exf5 Nxf5 19. Be4 g6 20. Rae1 Qf6
+{ Once again, After a long struggle, Viridithas handling the White pieces rated 3 6 0 7 and Astra from the Black side with rating 3 5 8 1 shared the point. The outcome was decided in the later stages.1/2-1/2 }
+) 13. Qe2 Bg4 { we will see this position later on1-0 } ( 13... c6
+{ played by 3 6 0 7 rated Viridithas } 14. Nc2 cxd5 15. cxd5 Rc8 16. a4 Ne7 17.
+Be3 Ne8 18. Bxc5 Rxc5
+{ Astra from the White side with rating 3 5 8 1 and Viridithas, rated 3 6 0 7, had the Black pieces played a balanced game which ended in a draw. Both sides showed good positional understanding.1/2-1/2 }
+) 1-0
 
 
 

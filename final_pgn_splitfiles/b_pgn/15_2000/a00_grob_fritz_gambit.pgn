@@ -2,131 +2,59 @@
 [Site "?"]
 [Date "????.??.??"]
 [Round "?"]
-[White "RubiChess 20240112 64-bit 4CPU"]
-[Black "Caissa 1.18 64-bit 4CPU"]
-[Result "1/2-1/2"]
-[ECO "A00"]
-[Opening "Grob"]
-[Variation "Fritz gambit"]
-[WhiteElo "3601"]
-[BlackElo "3600"]
+[White "RobboLito"]
+[Black "Houdini"]
+[Result "0-1"]
+[WhiteElo "3146"]
+[BlackElo "3274"]
 
-1. g4 d5 2. Bg2 Bxg4 3. c4 { entered in GROB Fritz Gambit } 3... c6 4. Qb3
-{ played by 3 6 0 1 rated RubiChess } ( 4. cxd5
-{ played by 3 2 7 7 rated Houdini } 4... cxd5 5. Qb3 Nf6 6. Nc3
-{ played by 3 2 0 1 rated Critter } ( 6. Qxb7
-{ played by 3 5 7 4 rated PlentyChess } 6... Nbd7 7. Nc3 e6 8. h3
-{ played by 3 0 4 5 rated Deep } 8... Rb8 9. Qc6 Bf5 10. Nf3 Be7 11. d3 O-O 12.
-Qa4 e5 13. d4 Rb4 14. Qd1 e4 15. Ne5 Qb6 16. Na4
-{ Once again, Critter on Black with Elo 3 2 0 1 seized the initiative and handed Deep on White with Elo 3 0 4 5 a loss. The outcome was decided in the later stages.0-1 }
-) 6... e6 7. Qxb7 { played by 3 2 0 1 rated Critter } ( 7. h3
-{ played by 3 1 8 4 rated Rybka } 7... Bh5 8. Qxb7 Nbd7 9. Nb5 Rc8
-{ we will see this position later on1/2-1/2 } ) 7... Nbd7
-{ we will see this position later on0-1 } ) 4... Qd7 5. cxd5 Nf6 6. h3
-{ played by 3 0 9 1 rated Naum } ( 6. Nc3 { played by 3 6 0 1 rated RubiChess }
-6... cxd5 7. Nxd5 Nc6 8. Kf1 { played by 2 3 6 6 rated Patzer } ( 8. Ne3
-{ played by 3 1 5 6 rated Vitruvius } 8... Rc8 9. Nxg4
-{ played by 3 1 5 6 rated Vitruvius } ( 9. d3
-{ played by 3 1 4 7 rated RobboLito } 9... Be6 10. Qa4 g6 11. Nf3 Bg7 12. Ng5
-Bd5 13. Nxd5 Nxd5 14. h4 a6 15. Rb1 b5 16. Qb3
-{ Here we see that RobboLito on White with Elo 3 1 4 7 and Rybka from the Black side with rating 3 1 8 4 played a balanced game which ended in a draw. The position remained tense for most of the game.1/2-1/2 }
-) 9... Nxg4 10. Nf3 e5 11. h3 Nf6 12. d3 Bb4+ 13. Kf1 Qd6 14. Rg1 O-O 15. Bh1
-b6 16. Bg5
-{ After a long struggle, Vitruvius playing White, rated 3 1 5 6 and Komodo handling the Black pieces rated 3 1 4 7 shared the point. Small inaccuracies made the difference.1/2-1/2 }
-) 8... Nxd5 9. Qxd5 Qxd5 10. Bxd5 e6 11. Bf3 Bf5 12. d3 Bd6 13. Bd2 Rc8 14. Rc1
-O-O 15. h4 f6 16. b3
-{ In an interesting battle, RomiChess playing Black, rated 2 3 7 2 could not hold the position, allowing Patzer, rated 2 3 6 6, had the White pieces to win. The position remained tense for most of the game.1-0 }
-) 6... Bh5 7. Nc3 cxd5 8. Nxd5 Nc6 9. Nf4 Rc8 10. Nxh5 Nxh5 11. e3 e5 12. Ne2
-Be7 13. O-O O-O 14. d4 Rfd8 15. d5 Na5 16. Qd3
-{ Once again, After a long struggle, Naum playing White, rated 3 0 9 1 and HIARCS on Black with Elo 3 0 8 3 shared the point. The opening quickly led to complex middlegame play.1/2-1/2 }
-1/2-1/2
-
-
-
-[Event "?"]
-[Site "?"]
-[Date "????.??.??"]
-[Round "?"]
-[White "RubiChess 20240112 64-bit 4CPU"]
-[Black "Caissa 1.18 64-bit 4CPU"]
-[Result "1/2-1/2"]
-[ECO "A00"]
-[Opening "Grob"]
-[Variation "Fritz gambit"]
-[WhiteElo "3601"]
-[BlackElo "3600"]
-
-1. g4 d5 2. Bg2 Bxg4 3. c4 { entered in GROB Fritz Gambit } 3... c6 4. cxd5
-{ played by 3 2 7 7 rated Houdini } ( 4. Qb3
-{ played by 3 6 0 1 rated RubiChess } 4... Qd7 5. cxd5 Nf6 6. Nc3
-{ played by 3 6 0 1 rated RubiChess } 6... cxd5 7. Nxd5 Nc6 8. d3
-{ played by 3 6 0 1 rated RubiChess } 8... Nxd5 9. Qxd5 e5 10. h3
-{ played by 3 6 0 1 rated RubiChess } ( 10. Qxd7+
-{ played by 3 6 0 0 rated Caissa } 10... Kxd7 11. Be3
-{ played by 3 5 6 3 rated Uralochka } ( 11. Bd2
-{ played by 3 6 0 0 rated Caissa } 11... Bd6 12. Rd1
-{ played by 3 6 0 0 rated Caissa } ( 12. Bd5
-{ played by 2 6 0 1 rated KnightX } 12... Nd4 13. Rc1 Rac8 14. Bc3 b5 15. Bxf7
-Rhf8 16. Bd5
-{ KnightX as White rated 2 6 0 1 and Fridolin playing Black, rated 2 6 8 1 played a balanced game which ended in a draw. Both sides showed good positional understanding.1/2-1/2 }
-) 12... Rac8 13. Nf3 f5 14. a3 b5 15. h4 Bh5 16. e3
-{ After a long struggle, Caissa on White with Elo 3 6 0 0 and RubiChess handling the Black pieces rated 3 6 0 1 shared the point. Both sides showed good positional understanding.1/2-1/2 }
-) 11... Nb4 12. O-O-O Be6 13. a3 Nd5 14. Bd2 Nf4 15. Bxb7 Rb8 16. Ba6
-{ Once again, Uralochka on White with Elo 3 5 6 3 and Seer on Black with Elo 3 5 8 5 played a balanced game which ended in a draw. The opening quickly led to complex middlegame play.1/2-1/2 }
-) 10... Be6 11. Qxd7+ Kxd7 12. Nf3 f6 13. O-O Bc5 14. Be3 Bxe3 15. fxe3 Ne7 16.
-Kf2
-{ In this game, Neither RubiChess on White with Elo 3 6 0 1 nor Caissa on Black with Elo 3 6 0 0 could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
-) 4... cxd5 5. Qb3 Nf6 6. Qxb7 { played by 3 5 7 4 rated PlentyChess } 6...
-Nbd7 7. Nc3 e6 8. Nb5 { played by 3 5 7 4 rated PlentyChess } 8... Rc8 9. Qxa7
-{ played by 3 5 7 4 rated PlentyChess } ( 9. Nf3
-{ played by 3 1 5 0 rated IvanHoe } 9... Be7 10. Qxa7 O-O 11. O-O Bxf3 12. Bxf3
-Ne8 13. Qe3 Nd6 14. Nxd6 Bxd6 15. Bg2 Nf6 16. h3
-{ Once again, After a long struggle, IvanHoe from the White side with rating 3 1 5 0 and Komodo handling the Black pieces rated 3 1 4 7 shared the point. The opening quickly led to complex middlegame play.1/2-1/2 }
+1. g4 d5 2. Bg2 Bxg4 3. c4 { entered in a00_grob_fritz_gambit } 3... c6 4. cxd5
+{ played by 3 1 4 6 rated RobboLito } ( 4. Qb3
+{ played by 3 5 5 7 rated Clover } 4... e6 5. Qxb7 Nd7 6. Nc3 Ne7 7. cxd5 exd5
+8. d4 Rb8 9. Qa6 Rb6 10. Qd3 { played by 3 5 5 7 rated Clover } ( 10. Qxa7
+{ played by 3 4 7 0 rated Equisetum } 10... Ng6 11. h4 h5 12. Na4 Rb8 13. Qa6
+Nxh4 14. Rxh4 Qxh4 15. Qxc6 Bf5 16. Be3 Qh2 17. Kf1 h4 18. Qxd5 h3 19. Bf3 g6
+20. Nc3 Be7
+{ Once again, Velvet, rated 3 5 2 9, had the Black pieces seized the initiative and handed Equisetum handling the White pieces rated 3 4 7 0 a loss. The outcome was decided in the later stages.0-1 }
+) 10... Ng6 11. h3 Be6 12. Nf3 Bd6 13. h4 h6 14. Bh3 Bxh3 15. Rxh3 O-O 16. Rh1
+Qf6 17. b3 Nf4 18. Bxf4 Qxf4 19. h5 Nf6 20. Rh4 Ng4
+{ Once again, Lizard playing Black, rated 3 5 5 0 defended accurately and defeated Clover as White rated 3 5 5 7. The opening quickly led to complex middlegame play.0-1 }
+) 4... cxd5 5. Qb3 Nf6 6. Qxb7 { played by 3 5 7 3 rated PlentyChess } ( 6. Nc3
+{ played by 3 1 4 1 rated Strelka } 6... e6 7. Qxb7
+{ played by 3 2 0 0 rated Critter } ( 7. h3 { played by 3 1 4 1 rated Strelka }
+7... Bh5 8. Qxb7 Nbd7 9. Nb5 Rc8 10. Nf3 Bxf3 11. Bxf3 Ne5 12. Qxa7 Nxf3+ 13.
+exf3 Bc5 14. Qa4 O-O 15. d4 Bb6 16. Qd1 { played by 3 2 0 0 rated Critter } (
+16. Be3 { played by 3 1 4 6 rated RobboLito } 16... Nh5 17. Rc1 Ra8 18. Qb3 Qf6
+19. Ke2 e5 20. Qxd5 exd4
+{ Once again, Houdini playing Black, rated 3 2 7 4 defended accurately and defeated RobboLito playing White, rated 3 1 4 6. The opening quickly led to complex middlegame play.0-1 }
+) ( 16. Qb3 { played by 3 1 4 1 rated Strelka } 16... Nh5 17. Be3 Qf6 18. Rg1
+Rb8 19. Bg5 Qf5 20. Rg4 Bc7
+{ In this game, Bouquet as Black rated 3 1 4 2 seized the initiative and handed Strelka handling the White pieces rated 3 1 4 1 a loss. Small inaccuracies made the difference.0-1 }
+) ( 16. Bg5 { played by 3 1 8 3 rated Rybka } 16... h6 17. Be3 Nh5 18. Qb3 Qf6
+19. Rg1 Rc4 20. Qd1 e5
+{ Here we see that Rybka handling the White pieces rated 3 1 8 3 and RobboLito from the Black side with rating 3 1 4 6 played a balanced game which ended in a draw. The position remained tense for most of the game.1/2-1/2 }
+) 16... e5 17. a4 Re8 18. O-O exd4 19. Kg2 Nh5 20. f4 g6
+{ Houdini, rated 3 2 7 4, had the Black pieces defended accurately and defeated Critter handling the White pieces rated 3 2 0 0.0-1 }
+) 7... Nbd7 8. h3 { played by 3 0 4 4 rated Deep } ( 8. Nb5
+{ played by 3 1 4 6 rated Komodo } 8... Rc8 9. Qxa7
+{ played by 3 5 7 3 rated PlentyChess } ( 9. h3
+{ played by 3 2 0 0 rated Critter } 9... Bh5
+{ we will see this position later on0-1 } ) ( 9. Nf3
+{ played by 3 1 4 6 rated Komodo } 9... a5 10. O-O Be7 11. d4 O-O 12. h3 Bh5
+13. Bf4 Rc2 14. Rab1 { played by 3 1 4 6 rated Komodo } ( 14. Rfc1
+{ played by 3 0 7 2 rated Chiron } 14... Rxb2 15. Rab1 Rxb1 16. Rxb1 Qc8 17.
+Na7 Qc4 18. Nc6 Ba3 19. Qb3 Qxc6 20. Qxa3 Qc2
+{ IvanHoe playing Black, rated 3 1 4 9 seized the initiative and handed Chiron from the White side with rating 3 0 7 2 a loss.0-1 }
+) 14... Ne4 15. Na7 g5 16. Rbc1 Rxc1 17. Bxc1 Nd6 18. Qb3 Qa8 19. Nb5 Rb8 20.
+a4 Qc6
+{ Here we see that Komodo handling the White pieces rated 3 1 4 6 overpressed, and HIARCS handling the Black pieces rated 3 0 8 2 secured the win. Small inaccuracies made the difference.0-1 }
 ) 9... Ne4 10. Bxe4 dxe4 11. Qd4 Bf5 12. Nd6+ Bxd6 13. Qxd6 Rc5 14. b4 Rd5 15.
-Qg3 Nf6 16. Bb2
-{ Once again, Velvet, rated 3 5 0 5, had the Black pieces seized the initiative and handed PlentyChess from the White side with rating 3 5 7 4 a loss.0-1 }
-1/2-1/2
-
-
-
-[Event "?"]
-[Site "?"]
-[Date "????.??.??"]
-[Round "?"]
-[White "RubiChess 20240112 64-bit 4CPU"]
-[Black "Caissa 1.18 64-bit 4CPU"]
-[Result "1/2-1/2"]
-[ECO "A00"]
-[Opening "Grob"]
-[Variation "Fritz gambit"]
-[WhiteElo "3601"]
-[BlackElo "3600"]
-
-1. g4 d5 2. Bg2 Bxg4 3. c4 { entered in GROB Fritz Gambit } 3... c6 4. Qb3
-{ played by 3 6 0 1 rated RubiChess } ( 4. cxd5
-{ played by 3 2 7 7 rated Houdini } 4... cxd5 5. Qb3 Nf6 6. Qxb7
-{ played by 3 5 7 4 rated PlentyChess } 6... Nbd7 7. Nc3 e6 8. Nb5
-{ played by 3 5 7 4 rated PlentyChess } 8... Rc8 9. h3
-{ played by 3 2 7 7 rated Houdini } 9... Bh5 10. Nf3 Bxf3 11. Bxf3 Ne5 12. Qxa7
-Nxf3+ 13. exf3 Bc5 14. Qa4 O-O 15. d4 Bb6 16. Qd1
-{ Once again, Houdini as Black rated 3 2 7 7 seized the initiative and handed Critter, rated 3 2 0 1, had the White pieces a loss.0-1 }
-( 16. Bg5
-{ Rybka on White with Elo 3 1 8 4 and RobboLito playing Black, rated 3 1 4 7 played a balanced game which ended in a draw. The opening quickly led to complex middlegame play.1/2-1/2 }
-) ( 16. Be3
-{ In this game, RobboLito from the White side with rating 3 1 4 7 overpressed, and Houdini, rated 3 2 7 7, had the Black pieces secured the win. The opening quickly led to complex middlegame play.0-1 }
-) ( 16. Qb3
-{ Once again, Bouquet handling the Black pieces rated 3 1 4 4 defended accurately and defeated Strelka handling the White pieces rated 3 1 4 2. Both sides showed good positional understanding.0-1 }
-) ) 4... Qd7 5. cxd5 Nf6 6. Nc3 { played by 3 6 0 1 rated RubiChess } 6... cxd5
-7. Nxd5 Nc6 8. d3 { played by 3 6 0 1 rated RubiChess } 8... Nxd5 9. Qxd5 e5
-10. Qxd7+ { played by 3 6 0 0 rated Caissa } 10... Kxd7 11. Bd2
-{ played by 3 6 0 0 rated Caissa } 11... Bd6 12. Bc3
-{ played by 3 4 5 8 rated Halogen } 12... b5 13. Nf3 f6 14. O-O
-{ played by 3 4 5 8 rated Halogen } ( 14. a3 { played by 3 2 1 0 rated Little }
-14... a5 15. O-O b4 16. axb4
-{ Here we see that Schooner as Black rated 3 2 4 8 defended accurately and defeated Little on White with Elo 3 2 1 0.0-1 }
-) 14... b4 15. Bd2 Rac8 16. a3
-{ In this game, The game between Halogen, rated 3 4 5 8, had the White pieces and Drofa on Black with Elo 3 2 9 9 finished level. The opening quickly led to complex middlegame play.1/2-1/2 }
-1/2-1/2
+Qg3 Nf6 16. Bb2 Nh5 17. Qe3 e5 18. Bc3 O-O 19. h4 Bg6 20. f3 f5
+{ In an interesting battle, PlentyChess on White with Elo 3 5 7 3 overpressed, and Velvet from the Black side with rating 3 5 0 4 secured the win. The outcome was decided in the later stages.0-1 }
+) 8... Rb8 9. Qc6 Bf5 10. Nf3 Be7 11. d3 O-O 12. Qa4 e5 13. d4 Rb4 14. Qd1 e4
+15. Ne5 Qb6 16. Na4 Qa6 17. Nc3 Bd6 18. Nxd7 Bxd7 19. Qd2 Rc8 20. Rg1 Rb6
+{ In an interesting battle, Deep from the White side with rating 3 0 4 4 overpressed, and Critter handling the Black pieces rated 3 2 0 0 secured the win.0-1 }
+) 6... Nbd7 7. Nc3 e6 { we will see this position later on0-1 } 0-1
 
 
 

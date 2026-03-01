@@ -2,70 +2,51 @@
 [Site "?"]
 [Date "????.??.??"]
 [Round "?"]
-[White "Stockfish 16 64-bit"]
-[Black "Berserk 11.1 64-bit"]
-[Result "1/2-1/2"]
-[ECO "C20"]
-[Opening "Alapin's opening"]
-[Variation ""]
-[WhiteElo "3620"]
-[BlackElo "3550"]
+[White "SlowChess"]
+[Black "Stockfish"]
+[Result "0-1"]
+[WhiteElo "3488"]
+[BlackElo "3618"]
 
-1. e4 e5 2. Ne2 { entered in ALAPIN S Opening } 2... Nf6 3. d4
-{ played by 2 7 9 0 rated Texel } ( 3. f4 { played by 3 6 2 0 rated Stockfish }
-3... d6 4. Nbc3 c5 5. d3 Nc6 6. g3 Be7 7. Bg2 O-O 8. O-O Nd4 9. a4
-{ played by 3 6 2 0 rated Stockfish } ( 9. f5
-{ played by 3 5 5 0 rated Berserk } 9... Rb8 10. h4 g6 11. Bh6 Re8 12. Qd2 b5
-13. a3 a5 14. Bg5 b4 15. axb4
-{ Here we see that After a long struggle, Berserk, rated 3 5 5 0, had the White pieces and Stockfish from the Black side with rating 3 6 2 0 shared the point. Small inaccuracies made the difference.1/2-1/2 }
-) ( 9. h3 { played by 3 3 3 9 rated Willow } 9... Bd7 10. a4 Bc6 11. Kh1 Nd7
-12. Nd5 Bxd5 13. exd5 Nxe2 14. Qxe2 Bf6 15. f5
-{ Here we see that Black on White with Elo 3 3 0 7 and Igel playing Black, rated 3 3 9 1 played a balanced game which ended in a draw. The position remained tense for most of the game.1/2-1/2 }
-) 9... b6 10. f5 Rb8 11. Bd2 Re8 12. h3 h6 13. h4 Bb7 14. Nd5 Bxd5 15. exd5
-{ The game between Stockfish playing White, rated 3 6 2 0 and Berserk as Black rated 3 5 5 0 finished level. Small inaccuracies made the difference.1/2-1/2 }
-) ( 3. Nbc3 { played by 3 6 2 0 rated Stockfish } 3... Bc5 4. g3 Ng4 5. d4 exd4
-6. Nxd4 O-O 7. f3 Nf6 8. Nb3 Bb6 9. Bg5 { played by 3 5 1 8 rated Motor } ( 9.
-a4 { played by 3 3 6 2 rated Rebel } 9... c6 10. Bf4 d5 11. Qd2 a5 12. O-O-O
-dxe4 13. Qxd8 Bxd8 14. fxe4 Bb6 15. h3
-{ Once again, Rebel playing White, rated 3 3 6 2 converted the advantage and defeated Mr on Black with Elo 3 2 2 4. Both sides showed good positional understanding.1-0 }
-) ( 9. g4 { played by 3 1 0 7 rated Critter } 9... d5 10. g5 dxe4 11. Qxd8 Rxd8
-12. gxf6 exf3 13. h3 Nc6 14. Na4 Re8+ 15. Kd1
-{ Once again, After a long struggle, Critter as White rated 3 1 0 7 and Stash on Black with Elo 3 1 3 0 shared the point.1/2-1/2 }
-) 9... h6 10. Bf4 a5 11. a4 Nc6 12. Qe2 d5 13. O-O-O Nb4 14. g4 d4 15. Qd2
-{ In this game, The game between Motor on White with Elo 3 5 1 8 and Caissa handling the Black pieces rated 3 5 6 5 finished level. The opening quickly led to complex middlegame play.1/2-1/2 }
-) 3... Nxe4 4. f3 Ng5 5. dxe5 Ne6 6. Nbc3 Nc6 7. f4 d6 8. exd6 Bxd6 9. Be3 O-O
-10. Qd2 Bc5 11. O-O-O Qxd2+ 12. Bxd2 Ned4 13. Nxd4 Nxd4 14. Bd3 Bd7 15. Be4
-{ Once again, The game between Naraku playing White, rated 2 7 8 0 and Texel as Black rated 2 7 9 0 finished level. The position remained tense for most of the game.1/2-1/2 }
-1/2-1/2
-
-
-
-[Event "?"]
-[Site "?"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Stockfish 16 64-bit"]
-[Black "Berserk 11.1 64-bit"]
-[Result "1/2-1/2"]
-[ECO "C20"]
-[Opening "Alapin's opening"]
-[Variation ""]
-[WhiteElo "3620"]
-[BlackElo "3550"]
-
-1. e4 e5 2. Ne2 { entered in ALAPIN S Opening } 2... Nf6 3. Nbc3
-{ played by 3 6 2 0 rated Stockfish } 3... Bc5 4. g3 Ng4 5. d4 exd4 6. Nxd4 O-O
-7. f3 Nf6 8. Nb3 Bb6 9. Bf4 { played by 3 6 2 0 rated Stockfish } 9... a5 10.
-Na4 { played by 3 5 6 5 rated Caissa } ( 10. a4
-{ played by 3 6 2 0 rated Stockfish } 10... Nc6 11. Qe2 d5 12. O-O-O Nb4 13. g4
-{ played by 3 6 2 0 rated Stockfish } ( 13. Kb1 { played by 3 2 2 4 rated Mr }
-13... Be6 14. Be3 Bxe3 15. Qxe3
-{ Once again, Neither Mr handling the White pieces rated 3 2 2 4 nor Rebel playing Black, rated 3 3 6 2 could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
-) 13... Re8 14. h4 Bd7 15. g5
-{ The game between Seer handling the White pieces rated 3 5 1 3 and Stockfish handling the Black pieces rated 3 6 2 0 finished level. The outcome was decided in the later stages.1/2-1/2 }
-) 10... Ba7 11. Qd2 d5 12. O-O-O Qe8 13. Nc3 dxe4 14. Re1 a4 15. Nxe4
-{ In this game, The game between Caissa playing White, rated 3 5 6 5 and Motor from the Black side with rating 3 5 1 8 finished level. The outcome was decided in the later stages.1/2-1/2 }
-1/2-1/2
+1. e4 e5 2. Ne2 { entered in c20_alapin_s_opening } 2... Nf6 3. f4
+{ played by 3 2 7 8 rated Stockfish } ( 3. Nbc3
+{ played by 3 4 8 8 rated SlowChess } 3... Bc5 4. g3 Ng4 5. d4 exd4 6. Nxd4
+Nxf2 7. Kxf2 Qf6+ 8. Ke3 Nc6 9. Nb5 O-O 10. c3 d5 11. Bg2 dxe4 12. Qh5
+{ played by 3 4 2 2 rated Heimdall } ( 12. Rf1
+{ played by 3 4 8 8 rated SlowChess } 12... Qd8 13. Kf2
+{ played by 3 6 1 8 rated Stockfish } ( 13. Qh5
+{ played by 3 4 8 8 rated SlowChess } 13... f5 14. Rd1
+{ played by 3 5 8 1 rated Horsie } ( 14. Ke2
+{ played by 3 4 8 8 rated SlowChess } 14... Ne5 15. Bxe4 g6 16. Qg5 Be7 17. Qf4
+Bf6 18. Bc2 Bd7 19. Na3 { played by 3 4 8 8 rated SlowChess } ( 19. a4
+{ played by 3 5 8 0 rated Clover } 19... a6 20. Na3 g5
+{ In an interesting battle, Clover handling the White pieces rated 3 5 8 0 and Horsie handling the Black pieces rated 3 5 8 1 played a balanced game which ended in a draw. The outcome was decided in the later stages.1/2-1/2 }
+) 19... g5 20. Qd2 Qe7
+{ Once again, Stockfish handling the Black pieces rated 3 6 1 8 seized the initiative and handed SlowChess handling the White pieces rated 3 4 8 8 a loss. The position remained tense for most of the game.0-1 }
+) 14... Be6 15. Kf2 Bf7 16. Qg5 a6 17. Na3 { played by 3 5 8 1 rated Horsie } (
+17. Qxd8 { played by 3 5 6 5 rated Caissa } 17... Raxd8 18. Na3 Bh5 19. Be3 g5
+20. b4 Ba7
+{ In an interesting battle, Neither Caissa from the White side with rating 3 5 6 5 nor Alexandria as Black rated 3 5 6 8 could convert, and the game was drawn. Both sides showed good positional understanding.1/2-1/2 }
+) 17... Qe8 18. Nc2 h6 19. Qe3 Ne5 20. Kg1 g5
+{ After a long struggle, Horsie playing White, rated 3 5 8 1 and Clover from the Black side with rating 3 5 8 0 shared the point. The outcome was decided in the later stages.1/2-1/2 }
+) 13... a6 14. Na3 Nxd4 15. cxd4 Bg4 16. Qxg4 Qxd4+ 17. Ke2 Rad8 18. Nc2 Qc4+
+19. Ke1 Qxc2 20. Qe2 Qa4
+{ Alexandria from the White side with rating 3 5 6 8 and Caissa handling the Black pieces rated 3 5 6 5 played a balanced game which ended in a draw. Small inaccuracies made the difference.1/2-1/2 }
+) 12... Ne5 13. Rf1 Qe7 14. Qh4 Qd7 15. Ke2 a6 16. Na3 Re8 17. Nac2 Nf3 18.
+Bxf3 exf3+ 19. Kd1 Be7 20. Bg5 c5
+{ In this game, ShashChess on Black with Elo 3 6 1 8 outplayed Heimdall as White rated 3 4 2 2 and won as Black. The outcome was decided in the later stages.0-1 }
+) 3... d6 4. Nbc3 c5 5. d3 Nc6 6. g3 Be7 7. Bg2 O-O 8. O-O Nd4 9. a4
+{ played by 3 2 7 8 rated Stockfish } ( 9. f5
+{ played by 3 5 4 9 rated Berserk } 9... Rb8 10. h4 g6 11. Bh6 Re8 12. Qd2 b5
+13. a3 a5 14. Bg5 b4 15. axb4 axb4 16. Nd1 Nh5 17. Nxd4 cxd4 18. Kh2 Kh8 19.
+fxg6 fxg6 20. Bh6 Be6
+{ Once again, Neither Berserk from the White side with rating 3 5 4 9 nor Stockfish handling the Black pieces rated 3 6 1 8 could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
+) ( 9. h3 { played by 3 3 3 8 rated Willow } 9... Bd7 10. a4
+{ we will see this position later on0-1 } ) 9... Bd7 10. h3 h6 11. g4 Nh7 12.
+Nxd4 cxd4 13. Nd5 Bh4 14. c4 dxc3 15. bxc3 Bc6 16. c4 Bxd5 17. cxd5 Re8 18.
+fxe5 dxe5 19. Qc2 Rc8 20. Qb3 b6
+{ In this game, Willow playing Black, rated 3 3 3 8 outplayed Stockfish playing White, rated 3 2 7 8 and won as Black. Both sides showed good positional understanding.0-1 }
+0-1
 
 
 

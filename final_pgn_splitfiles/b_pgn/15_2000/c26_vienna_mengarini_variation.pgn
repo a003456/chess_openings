@@ -2,91 +2,67 @@
 [Site "?"]
 [Date "????.??.??"]
 [Round "?"]
-[White "Dragon by Komodo 3.2 64-bit 4CPU"]
-[Black "Stockfish 15.1 64-bit 4CPU"]
-[Result "1/2-1/2"]
-[ECO "C26"]
-[Opening "Vienna"]
-[Variation "Mengarini variation"]
-[WhiteElo "3624"]
-[BlackElo "3629"]
+[White "Caissa"]
+[Black "Stockfish"]
+[Result "0-1"]
+[WhiteElo "3474"]
+[BlackElo "3618"]
 
-1. e4 e5 2. Nc3 Nf6 3. a3 { entered in VIENNA Mengarini Variation } 3... Bc5 4.
-Nf3 { played by 3 6 2 0 rated Stockfish } ( 4. Bc4
-{ played by 3 5 2 7 rated rofChade } 4... c6 5. Nf3 O-O 6. Nxe5 Bd4 7. Nxf7
-{ played by 3 5 2 3 rated SugaR } ( 7. Nf3 { played by 3 5 2 7 rated rofChade }
-7... Bxc3 8. dxc3 Nxe4 9. Ba2 { played by 3 5 2 7 rated rofChade } ( 9. Bb3
-{ played by 3 3 4 3 rated Komodo } 9... d5 10. c4 Bg4 11. cxd5 Qa5+ 12. Bd2
-Nxd2 13. Qxd2 Re8+ 14. Kd1 Qb6 15. Kc1 cxd5 16. Qxd5
-{ In this game, After a long struggle, Komodo from the White side with rating 3 3 4 3 and SugaR playing Black, rated 3 5 2 3 shared the point. Small inaccuracies made the difference.1/2-1/2 }
+1. e4 e5 2. Nc3 Nf6 3. a3 { entered in c26_vienna_mengarini_variation } 3...
+Bc5 4. Nf3 { played by 3 5 6 3 rated Caissa } ( 4. Bc4
+{ played by 3 4 4 3 rated Lc0 } 4... c6 5. Nf3 O-O 6. Nxe5 Bd4 7. Nxf7
+{ played by 3 5 2 2 rated SugaR } ( 7. Nf3 { played by 3 4 4 3 rated Lc0 } 7...
+Bxc3 8. dxc3 Nxe4 9. Ba2 { played by 3 4 4 3 rated Lc0 } ( 9. Bb3
+{ played by 3 3 4 2 rated Komodo } 9... d5 10. c4 Bg4 11. cxd5 Qa5+ 12. Bd2
+Nxd2 13. Qxd2 Re8+ 14. Kd1 Qb6 15. Kc1 cxd5 16. Qxd5 Be6 17. Qd4 Qc6 18. Kb1
+Bxb3 19. cxb3 Qg6+ 20. Ka2 Nc6
+{ In this game, The game between Komodo, rated 3 3 4 2, had the White pieces and SugaR from the Black side with rating 3 5 2 2 finished level. Small inaccuracies made the difference.1/2-1/2 }
 ) 9... d5 10. c4 Nf6 11. cxd5 Re8+ 12. Be3 Nxd5 13. Bxd5 cxd5 14. Qd3 f6 15.
-O-O-O Be6 16. Nd4
-{ rofChade playing Black, rated 3 5 2 7 defended accurately and defeated Lc0 handling the White pieces rated 3 4 4 4.0-1 }
+O-O-O Be6 16. Nd4 Bf7 17. h4 Nd7 18. h5 Rc8 19. Qf5 Nc5 20. Kb1 h6
+{ rofChade as Black rated 3 5 2 6 defended accurately and defeated Lc0 on White with Elo 3 4 4 3. Both sides showed good positional understanding.0-1 }
 ) 7... Rxf7 8. Bxf7+ Kxf7 9. Ne2 Bb6 10. e5 Ne8 11. d4 d5 12. Be3 Kg8 13. h3
-Qh4 14. Qd2 Nd7 15. Bg5 Qe4 16. O-O-O
-{ SugaR, rated 3 5 2 3, had the White pieces converted the advantage and defeated Komodo from the Black side with rating 3 3 4 3. The outcome was decided in the later stages.1-0 }
-) 4... d6 5. d4 { played by 3 6 2 9 rated Stockfish } ( 5. Be2
-{ played by 3 1 3 9 rated Critter } 5... Nc6 6. O-O h6 7. d3 a6 8. Be3 Nd4 9.
-Nd5 Nxd5 10. exd5 Nxf3+ 11. Bxf3 Bxe3 12. fxe3 O-O 13. Qd2 Qg5 14. Rae1 Bd7 15.
-Qb4 b6 16. Qc4
-{ In this game, Neither Critter, rated 3 1 3 9, had the White pieces nor Rybka handling the Black pieces rated 3 1 1 0 could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
-) ( 5. Bc4 { played by 3 6 2 0 rated Stockfish } 5... Be6 6. Bxe6 fxe6 7. d3
-O-O 8. b4 { played by 3 6 2 0 rated Stockfish } ( 8. O-O
-{ played by 3 6 0 8 rated Torch } 8... Qe8 9. Be3
-{ played by 3 2 4 9 rated Booot } 9... Bxe3 10. fxe3 a6 11. Qb1 c5 12. h3 Qc8
-13. a4 Nc6 14. a5 Qc7 15. Qa2 Qe7 16. Na4
-{ Once again, After a long struggle, Booot, rated 3 2 4 9, had the White pieces and Fire from the Black side with rating 3 3 1 1 shared the point.1/2-1/2 }
-) 8... Bb6 9. O-O { played by 3 5 8 1 rated Integral } 9... a5 10. Rb1 axb4 11.
-axb4 h6 12. Ne2 Nc6 13. c3 Ne7 14. Qb3 Qd7 15. c4 Ng6 16. Qc2
-{ Once again, The game between Integral handling the White pieces rated 3 5 8 1 and Clover playing Black, rated 3 5 8 0 finished level. Both sides showed good positional understanding.1/2-1/2 }
-) 5... exd4 6. Nxd4 O-O 7. Nb3 Bb6 8. Bg5 Nc6 9. Bd3 Ne5 10. f4 Neg4 11. Qf3
-Nf2 12. Rf1 Bg4 13. Qg3 Nxd3+ 14. Qxd3 h6 15. Bh4 Re8 16. h3
-{ Neither Dragon playing White, rated 3 6 2 4 nor Stockfish playing Black, rated 3 6 2 9 could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
-1/2-1/2
-
-
-
-[Event "?"]
-[Site "?"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Dragon by Komodo 3.2 64-bit 4CPU"]
-[Black "Stockfish 15.1 64-bit 4CPU"]
-[Result "1/2-1/2"]
-[ECO "C26"]
-[Opening "Vienna"]
-[Variation "Mengarini variation"]
-[WhiteElo "3624"]
-[BlackElo "3629"]
-
-1. e4 e5 2. Nc3 Nf6 3. a3 { entered in VIENNA Mengarini Variation } 3... Bc5 4.
-Nf3 { played by 3 6 2 0 rated Stockfish } 4... d6 5. Bc4
-{ played by 3 6 2 0 rated Stockfish } 5... Be6 6. Bxe6 fxe6 7. d3 O-O 8. O-O
-{ played by 3 6 0 8 rated Torch } ( 8. b4 { played by 3 6 2 0 rated Stockfish }
-8... Bb6 9. Na4 { played by 3 6 2 0 rated Stockfish } 9... Nc6 10. O-O h6 11.
-h3 { played by 3 6 1 9 rated Stockfish } ( 11. c3
-{ played by 3 6 2 0 rated Stockfish } 11... Ne7 12. h3
-{ played by 3 5 4 4 rated Caissa } ( 12. Re1
-{ played by 3 4 9 4 rated Heimdall } 12... Ng6 13. Nxb6 axb6 14. a4 d5 15. Bd2
-Qd6 16. Qe2
-{ Once again, Stockfish playing Black, rated 3 6 2 0 defended accurately and defeated Caissa playing White, rated 3 4 7 5. Small inaccuracies made the difference.0-1 }
-) 12... Ng6 13. Re1 Rf7 14. Nxb6 axb6 15. a4 Qe7 16. d4
-{ In an interesting battle, Revenge handling the Black pieces rated 3 5 1 5 could not hold the position, allowing Caissa on White with Elo 3 5 4 4 to win. The position remained tense for most of the game.1-0 }
-) 11... Nd4 12. Nh2 Qd7 13. Nxb6 axb6 14. c3 Nc6 15. b5 Nb8 16. a4
-{ The game between Booot handling the White pieces rated 3 5 4 8 and Stockfish playing Black, rated 3 6 1 9 finished level. The outcome was decided in the later stages.1/2-1/2 }
-) 8... Qe8 9. b4 { played by 3 6 0 8 rated Torch } 9... Bb6 10. Rb1
-{ played by 3 6 0 0 rated Dragon } ( 10. Be3
-{ played by 2 5 6 0 rated Tantabus } 10... Bxe3 11. fxe3 Qh5 12. h3 a6 13. d4
-Nc6 14. d5 exd5 15. Nxd5 Rf7 16. Nxf6+
-{ In an interesting battle, Neither Tantabus on White with Elo 2 5 6 0 nor Prophet, rated 2 4 2 4, had the Black pieces could convert, and the game was drawn. Small inaccuracies made the difference.1/2-1/2 }
-) ( 10. Ne2 { played by 3 6 0 8 rated Torch } 10... a5 11. c3
-{ played by 3 5 6 5 rated Starzix } 11... Nc6 12. b5 Ne7 13. a4 Ng6 14. Ra2 h6
-15. Ng3 Rd8 16. d4
-{ In this game, Starzix playing White, rated 3 5 6 5 and Dragon handling the Black pieces rated 3 6 0 0 played a balanced game which ended in a draw. The opening quickly led to complex middlegame play.1/2-1/2 }
+Qh4 14. Qd2 Nd7 15. Bg5 Qe4 16. O-O-O Qxg2 17. f3 c5 18. Rdg1 Qxf3 19. Rf1 Qe4
+20. Rhg1 h5
+{ Here we see that SugaR from the White side with rating 3 5 2 2 remained in control, handing Komodo, rated 3 3 4 2, had the Black pieces a loss. The outcome was decided in the later stages.1-0 }
+) 4... d6 5. Be2 { played by 3 0 1 5 rated Demolito } ( 5. d4
+{ played by 3 6 2 9 rated Stockfish } 5... exd4 6. Nxd4 O-O 7. Nb3 Bb6 8. Bg5
+Nc6 9. Bd3 Ne5 10. f4 Neg4 11. Qf3 Nf2 12. Rf1 Bg4 13. Qg3 Nxd3+ 14. Qxd3 h6
+15. Bh4 Re8 16. h3 Nxe4 17. Bxd8 Nc5+ 18. Kd2 Nxd3 19. cxd3 Be6 20. Bxc7 Bxc7
+{ Once again, Neither Dragon handling the White pieces rated 3 6 2 4 nor Stockfish from the Black side with rating 3 6 2 9 could convert, and the game was drawn. The outcome was decided in the later stages.1/2-1/2 }
+) ( 5. Bc4 { played by 3 5 6 3 rated Caissa } 5... Be6 6. Bxe6 fxe6 7. d3 O-O
+8. O-O { played by 3 5 6 3 rated Caissa } ( 8. b4
+{ played by 3 4 7 4 rated Caissa } 8... Bb6 9. O-O
+{ played by 2 8 0 5 rated Monolith } ( 9. Na4
+{ played by 3 4 7 4 rated Caissa } 9... Nc6 10. O-O h6 11. h3
+{ played by 3 5 8 0 rated Clover } 11... Nd4 12. Nh2 Qd7 13. Nxb6 axb6 14. c3
+Nc6 15. b5 Nb8 16. a4 Qf7 17. Ng4 Nbd7 18. Be3 d5 19. f3 Nxg4 20. hxg4 c6
+{ In this game, After a long struggle, Booot as White rated 3 5 4 7 and Stockfish playing Black, rated 3 6 1 9 shared the point. The outcome was decided in the later stages.1/2-1/2 }
+) 9... Qe8 { we will see this position later on0-1 } ) 8... Qe8 9. Be3
+{ played by 3 2 4 8 rated Booot } ( 9. b4 { played by 3 5 6 3 rated Caissa }
+9... Bb6 10. Rb1 { played by 3 5 9 9 rated Dragon } ( 10. Ne2
+{ played by 3 5 6 3 rated Caissa } 10... a5 11. c3
+{ played by 3 5 6 4 rated Starzix } ( 11. Rb1
+{ played by 3 5 6 3 rated Caissa } 11... Nc6 12. c3
+{ played by 3 5 6 3 rated Caissa } ( 12. c4 { played by 3 6 0 8 rated Torch }
+12... Nd7 13. h3 h6 14. Be3 Qg6 15. Nh4 Qh5 16. Nf3 axb4 17. axb4 Qg6 18. Nh4
+Qh5 19. Nf3 { we will see this position later on1/2-1/2 } ) 12... h6 13. h3 Ne7
+14. Ng3 axb4 15. axb4 Nh5 16. Kh2 Nf4 17. c4 Neg6 18. Ne2 Nxg2 19. Nxe5 Nxe5
+20. Kxg2 Qg6+
+{ Torch as Black rated 3 6 0 8 defended accurately and defeated Caissa on White with Elo 3 5 6 3.0-1 }
+) 11... Nc6 12. b5 Ne7 13. a4 Ng6 14. Ra2 h6 15. Ng3 Rd8 16. d4 d5 17. Qc2 dxe4
+18. Nxe4 exd4 19. cxd4 e5 20. Qc4+ Nd5
+{ In this game, After a long struggle, Starzix from the White side with rating 3 5 6 4 and Dragon, rated 3 5 9 9, had the Black pieces shared the point. The outcome was decided in the later stages.1/2-1/2 }
 ) 10... a5 11. h3 axb4 12. axb4 Nc6 13. Ne2 Qg6 14. Kh2 Ra2 15. Bd2 Rfa8 16.
-Nc3
-{ In this game, The game between Dragon from the White side with rating 3 6 0 0 and Starzix from the Black side with rating 3 5 6 5 finished level. The outcome was decided in the later stages.1/2-1/2 }
-1/2-1/2
+Nc3 R2a3 17. Nb5 R3a4 18. c4 Qf7 19. Bc3 Nd7 20. Rb2 h6
+{ In this game, Dragon from the White side with rating 3 5 9 9 and Starzix playing Black, rated 3 5 6 4 played a balanced game which ended in a draw.1/2-1/2 }
+) 9... Bxe3 10. fxe3 a6 11. Qb1 c5 12. h3 Qc8 13. a4 Nc6 14. a5 Qc7 15. Qa2 Qe7
+16. Na4 Nd7 17. Nd2 Rab8 18. Nc4 Nf6 19. Nab6 Rbd8 20. Rf2 g5
+{ The game between Booot as White rated 3 2 4 8 and Fire as Black rated 3 3 1 0 finished level.1/2-1/2 }
+) 5... O-O 6. O-O Re8 7. d3 a5 8. Bg5 h6 9. Bxf6 Qxf6 10. Nd5 Qd8 11. c3 c6 12.
+Ne3 Bxe3 13. fxe3 Qb6 14. Qd2 Nd7 15. Rae1 a4 16. c4 Nc5 17. Qc3 Qa5 18. Qxa5
+Rxa5 19. Nd2 Bd7 20. Nb1 f6
+{ In this game, The on Black with Elo 2 8 8 5 defended accurately and defeated Demolito handling the White pieces rated 3 0 1 5. The opening quickly led to complex middlegame play.0-1 }
+0-1
 
 
 
@@ -94,43 +70,46 @@ Nc3
 [Site "?"]
 [Date "????.??.??"]
 [Round "?"]
-[White "Dragon by Komodo 3.2 64-bit 4CPU"]
-[Black "Stockfish 15.1 64-bit 4CPU"]
-[Result "1/2-1/2"]
-[ECO "C26"]
-[Opening "Vienna"]
-[Variation "Mengarini variation"]
-[WhiteElo "3624"]
-[BlackElo "3629"]
+[White "Caissa"]
+[Black "Stockfish"]
+[Result "0-1"]
+[WhiteElo "3474"]
+[BlackElo "3618"]
 
-1. e4 e5 2. Nc3 Nf6 3. a3 { entered in VIENNA Mengarini Variation } 3... Bc5 4.
-Nf3 { played by 3 6 2 0 rated Stockfish } ( 4. Bc4
-{ played by 3 5 2 7 rated rofChade } 4... c6 5. Nf3 O-O 6. Nxe5 Bd4 7. Nf3
-{ played by 3 5 2 7 rated rofChade } 7... Bxc3 8. dxc3 Nxe4 9. O-O
-{ played by 3 2 1 4 rated Andscacs } 9... d5 10. Ba2 Bf5 11. c4 dxc4 12. Bxc4
-{ played by 3 2 1 4 rated Andscacs } ( 12. Qxd8
-{ played by 3 1 8 4 rated Laser } 12... Rxd8 13. Bxc4 Nf6 14. c3 Nbd7 15. Re1
-Nc5 16. Be3
-{ Here we see that After a long struggle, Laser from the White side with rating 3 1 8 4 and Andscacs playing Black, rated 3 2 1 4 shared the point.1/2-1/2 }
-) 12... Nd7 13. Bf4 Nb6 14. Qxd8 Rfxd8 15. Ba2 Nc5 16. Be3
-{ Once again, After a long struggle, Andscacs as White rated 3 2 1 4 and Laser from the Black side with rating 3 1 8 4 shared the point.1/2-1/2 }
-) 4... d6 5. Bc4 { played by 3 6 2 0 rated Stockfish } 5... Be6 6. Bxe6 fxe6 7.
-d3 O-O 8. O-O { played by 3 6 0 8 rated Torch } 8... Qe8 9. b4
-{ played by 3 6 0 8 rated Torch } 9... Bb6 10. Ne2
-{ played by 3 6 0 8 rated Torch } ( 10. a4 { played by 3 3 1 1 rated Fire }
-10... a5 11. b5 Nbd7 12. Bd2 { played by 3 3 1 1 rated Fire } ( 12. h3
-{ played by 2 8 0 6 rated Monolith } 12... Kh8 13. Qd2 Rc8 14. Bb2 Nh5 15. Ne2
-Qg6 16. Nh4
-{ Monolith, rated 2 8 0 6, had the White pieces overpressed, and Toga, rated 2 9 2 5, had the Black pieces secured the win. The position remained tense for most of the game.0-1 }
-) 12... d5 13. Qe2 Qe7 14. Nd1 Rac8 15. Rb1 Qa3 16. Bc1
-{ Once again, The game between Fire handling the White pieces rated 3 3 1 1 and Booot from the Black side with rating 3 2 4 9 finished level. Both sides showed good positional understanding.1/2-1/2 }
-) 10... a5 11. Rb1 { played by 3 6 0 8 rated Torch } 11... Nc6 12. c4
-{ played by 3 6 0 8 rated Torch } ( 12. c3 { played by 3 5 6 3 rated Caissa }
-12... h6 13. h3 Ne7 14. Ng3 axb4 15. axb4 Nh5 16. Kh2
-{ Torch as Black rated 3 6 0 8 outplayed Caissa, rated 3 5 6 3, had the White pieces and won as Black. Small inaccuracies made the difference.0-1 }
-) 12... Nd7 13. h3 h6 14. Be3 Qg6 15. Nh4 Qh5 16. Nf3
-{ Here we see that Neither Torch from the White side with rating 3 6 0 8 nor Caissa on Black with Elo 3 5 6 3 could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
-1/2-1/2
+1. e4 e5 2. Nc3 Nf6 3. a3 { entered in c26_vienna_mengarini_variation } 3...
+Bc5 4. Nf3 { played by 3 5 6 3 rated Caissa } ( 4. Bc4
+{ played by 3 4 4 3 rated Lc0 } 4... c6 5. Nf3 O-O 6. Nxe5 Bd4 7. Nf3
+{ played by 3 4 4 3 rated Lc0 } 7... Bxc3 8. dxc3 Nxe4 9. O-O
+{ played by 3 2 1 3 rated Andscacs } 9... d5 10. Ba2 Bf5 11. c4 dxc4 12. Bxc4
+{ played by 3 2 1 3 rated Andscacs } ( 12. Qxd8
+{ played by 3 1 8 3 rated Laser } 12... Rxd8 13. Bxc4 Nf6 14. c3 Nbd7 15. Re1
+Nc5 16. Be3 Na4 17. Re2 Nd5 18. Bd4 c5 19. Be5 Nab6 20. Ba2 Re8
+{ Here we see that The game between Laser as White rated 3 1 8 3 and Andscacs from the Black side with rating 3 2 1 3 finished level. Small inaccuracies made the difference.1/2-1/2 }
+) 12... Nd7 13. Bf4 Nb6 14. Qxd8 Rfxd8 15. Ba2 Nc5 16. Be3 Ne6 17. Rac1 Nd5 18.
+Bd2 h6 19. Rfe1 a5 20. h3 a4
+{ In an interesting battle, The game between Andscacs handling the White pieces rated 3 2 1 3 and Laser handling the Black pieces rated 3 1 8 3 finished level. The opening quickly led to complex middlegame play.1/2-1/2 }
+) 4... d6 5. Bc4 { played by 3 5 6 3 rated Caissa } 5... Be6 6. Bxe6 fxe6 7. d3
+O-O 8. O-O { played by 3 5 6 3 rated Caissa } ( 8. b4
+{ played by 3 4 7 4 rated Caissa } 8... Bb6 9. Na4
+{ played by 3 4 7 4 rated Caissa } 9... Nc6 10. O-O h6 11. c3
+{ played by 3 4 7 4 rated Caissa } 11... Ne7 12. Re1
+{ played by 3 4 7 4 rated Caissa } ( 12. h3 { played by 3 5 4 3 rated Caissa }
+12... Ng6 13. Re1 Rf7 14. Nxb6 axb6 15. a4 Qe7 16. d4 Nd7 17. Ra2 b5 18. a5
+Raf8 19. Nh2 c6 20. Qh5 Kh7
+{ Here we see that Caissa from the White side with rating 3 5 4 3 outplayed Revenge handling the Black pieces rated 3 5 1 4 and won the game. Both sides showed good positional understanding.1-0 }
+) 12... Ng6 13. Nxb6 axb6 14. a4 d5 15. Bd2 Qd6 16. Qe2 c5 17. exd5 exd5 18.
+Nxe5 Rae8 19. f4 Nd7 20. Qg4 Ndxe5
+{ Here we see that Caissa as White rated 3 4 7 4 overpressed, and Stockfish, rated 3 6 1 8, had the Black pieces secured the win. The position remained tense for most of the game.0-1 }
+) 8... Qe8 9. b4 { played by 3 5 6 3 rated Caissa } 9... Bb6 10. a4
+{ played by 2 8 0 5 rated Monolith } 10... a5 11. b5 Nbd7 12. h3
+{ played by 2 8 0 5 rated Monolith } ( 12. Bd2 { played by 3 3 1 0 rated Fire }
+12... d5 13. Qe2 Qe7 14. Nd1 Rac8 15. Rb1 Qa3 16. Bc1 Qd6 17. Re1 Bc5 18. c3
+Nh5 19. Nb2 Nhf6 20. Bg5 Bb6
+{ Fire, rated 3 3 1 0, had the White pieces and Booot handling the Black pieces rated 3 2 4 8 played a balanced game which ended in a draw. Small inaccuracies made the difference.1/2-1/2 }
+) 12... Kh8 13. Qd2 Rc8 14. Bb2 Nh5 15. Ne2 Qg6 16. Nh4 Qf6 17. Nf3 Ra8 18. Bc1
+Qg6 19. Nh4 Qf7 20. Nf3 Rg8
+{ Here we see that Toga playing Black, rated 2 9 2 5 seized the initiative and handed Monolith playing White, rated 2 8 0 5 a loss. The outcome was decided in the later stages.0-1 }
+0-1
 
 
 
