@@ -2,559 +2,74 @@
 [Site "?"]
 [Date "????.??.??"]
 [Round "?"]
-[White "Roc"]
-[Black "Komodo"]
+[White "Stockfish"]
+[Black "Stockfish"]
 [Result "0-1"]
-[WhiteElo "3157"]
-[BlackElo "3376"]
+[WhiteElo "3645"]
+[BlackElo "3643"]
+[ECO "A00"]
+[Opening "Anderssen's opening"]
+[Variation "nan"]
 
-1. a3 { entered in a00_anderssen_s_opening } 1... Nf6 2. d4
-{ played by 3 3 5 9 rated Nemorino } ( 2. Nf3 { played by 3 1 5 7 rated Roc }
-2... d5 3. d4 { played by 3 1 5 7 rated Roc } ( 3. g3
-{ played by 2 8 4 2 rated Deep } 3... c6 4. Bg2 Bg4 5. d3 Nbd7 6. h3
-{ played by 3 4 5 4 rated Ethereal } 6... Bh5 7. O-O
-{ played by 3 4 5 4 rated Ethereal } ( 7. c4 { played by 3 3 6 8 rated Lc0 }
-7... e6 8. O-O Bd6 9. cxd5 cxd5 10. e4 O-O 11. Nc3 d4 12. Nb5 Bxf3 13. Bxf3 Bc5
-14. a4 e5 15. Bd2 Qe7 16. Qe1 a6 17. Na3 Qe6 18. b4 Be7 19. Kg2 Rfb8 20. Qb1 b5
-{ Lc0 on White with Elo 3 3 6 8 outplayed Ethereal handling the Black pieces rated 3 4 5 4 and won the game. The opening quickly led to complex middlegame play.1-0 }
-) 7... e6 8. Bf4 Be7 9. Nbd2 O-O 10. Re1 h6 11. g4 Bg6 12. e4 a5 13. Qe2 a4 14.
-e5 Ne8 15. Nf1 Nc7 16. d4 b5 17. c3 Nb6 18. h4 Bxh4 19. Nxh4 Qxh4 20. Bg3 Qe7
-{ In an interesting battle, Neither Ethereal from the White side with rating 3 4 5 4 nor Lc0 handling the Black pieces rated 3 3 6 8 could convert, and the game was drawn.1/2-1/2 }
-) 3... e6 4. Bg5 { played by 2 8 1 8 rated Gogobello } ( 4. c4
-{ played by 2 9 6 9 rated Lozza } 4... Be7 5. e3 O-O 6. cxd5
-{ played by 2 9 6 9 rated Lozza } 6... exd5 7. h3 Bf5 8. Nh4 Be6 9. Nf3 Ne4 10.
-Bd3 Nd7 11. O-O f5 12. Qb3 Rb8 13. Nc3 Kh8 14. Qa4 a6 15. Ne2 Bd6 16. Qc2 Qf6
-17. b3 Bf7 18. Ne1 Bh5 19. f3 Qh4 20. a4 Rbe8
-{ Once again, Perseus from the Black side with rating 3 1 1 6 seized the initiative and handed Lozza, rated 2 9 6 9, had the White pieces a loss. Both sides showed good positional understanding.0-1 }
-) 4... c5 5. Nc3 Nc6 6. dxc5 Bxc5 7. e3 a6 8. Qd3 O-O 9. Be2 b5 10. O-O h6 11.
-Bh4 Bb7 12. Rad1 Bb6 13. e4 d4 14. Nb1 e5 15. Nbd2 Qd6 16. Bg3 Rfe8 17. Nh4 g6
-18. Rc1 Na5 19. Nhf3 Nc4 20. Nxc4 bxc4
-{ In an interesting battle, Godel, rated 2 8 9 4, had the Black pieces seized the initiative and handed Gogobello from the White side with rating 2 8 1 8 a loss. The position remained tense for most of the game.0-1 }
-) ( 2. b4 { played by 3 4 5 7 rated Minic } 2... e5 3. c4 c5 4. e3
-{ played by 3 1 2 2 rated Schoenemann } ( 4. b5
-{ played by 3 0 2 5 rated Cheers } 4... a6 5. bxa6
-{ played by 3 0 2 5 rated Cheers } ( 5. Qa4 { played by 3 0 1 3 rated Dirty }
-5... Be7 6. Nc3 d5 7. cxd5 Nxd5 8. bxa6+ Nc6 9. e3 Nxc3 10. dxc3 O-O 11. Qc2
-Na5 12. Nf3 c4 13. Nxe5 b5 14. a4 Bf6 15. Ba3 b4 16. Bxb4 Bxe5 17. Rd1 Qc7 18.
-Bxf8 Kxf8 19. f4 Bf6 20. Qxh7 Rxa6
-{ Here we see that Myrddin playing Black, rated 3 0 9 1 outplayed Dirty from the White side with rating 3 0 1 3 and won as Black.0-1 }
-) 5... Rxa6 6. e3 g6 7. Nc3 Bg7 8. h4 d6 9. Be2 h6 10. h5 g5 11. Qc2 O-O 12.
-Rb1 Nc6 13. Bd3 Be6 14. Nge2 Ra8 15. Ng3 Na5 16. Nb5 d5 17. cxd5 Qxd5 18. Nc7
-Qxg2 19. Bf1 Qc6 20. Nxa8 Rxa8
-{ In an interesting battle, Cheers, rated 3 0 2 5, had the White pieces overpressed, and Inanis as Black rated 2 9 9 3 secured the win. The opening quickly led to complex middlegame play.0-1 }
-) ( 4. bxc5 { played by 3 4 5 7 rated Minic } 4... Bxc5 5. e3
-{ played by 3 4 5 7 rated Minic } ( 5. Qc2 { played by 3 0 9 1 rated Myrddin }
-5... O-O 6. e3 Re8 7. Bb2 { played by 3 4 5 3 rated Halogen } ( 7. Nc3
-{ played by 3 0 9 1 rated Myrddin } 7... b6 8. Bb2 Bb7 9. Nf3 e4 10. Ng5 h6 11.
-h4 Bd6 12. g4 Na6 13. Nxf7 Kxf7 14. g5 Ng4 15. f4 Nc5 16. Rg1 h5 17. O-O-O Rc8
-18. Kb1 Kg8 19. Be2 Bf8 20. f5 Nd3
-{ In this game, Myrddin as White rated 3 0 9 1 outplayed Roc on Black with Elo 3 0 8 5 and won the game. The opening quickly led to complex middlegame play.1-0 }
-) 7... Nc6 8. Nc3 Nd4 9. exd4 exd4+ 10. Nce2 Ng4 11. Nh3 d5 12. cxd5 Bb6 13.
-O-O-O Ne5 14. Nhf4 Bg4 15. Kb1 Rc8 16. Qb3 Nc4 17. h3 Bf5+ 18. d3 Nxb2 19. Qxb2
-Qd6 20. g3 Bc5
-{ Once again, Calvin handling the Black pieces rated 3 4 6 4 defended accurately and defeated Halogen as White rated 3 4 5 3. The opening quickly led to complex middlegame play.0-1 }
-) 5... Nc6 6. Bb2 { played by 3 0 9 1 rated Myrddin } 6... O-O 7. Nf3 Re8 8.
-Nc3 d5 9. cxd5 Nxd5 10. Nxd5 Qxd5 11. Be2 e4 12. d4 Bf8 13. Nd2 Qg5 14. Kf1 Qf5
-15. h4 Be6 16. Kg1 h6 17. h5 Bd5 18. Rh4 Bd6 19. Bc4 Bxc4 20. Nxc4 Be7
-{ In this game, The game between Booot handling the White pieces rated 3 4 7 8 and chess.cpp on Black with Elo 3 4 3 0 finished level. The position remained tense for most of the game.1/2-1/2 }
-) 4... cxb4 5. Be2 { played by 3 1 2 2 rated Schoenemann } ( 5. Nf3
-{ played by 2 9 6 5 rated Rengar } 5... Nc6 6. Bb2 e4 7. Ne5 a5 8. axb4 Nxb4 9.
-Be2 Be7 10. O-O d6 11. Ng4 Nxg4 12. Bxg4 O-O 13. Be2 Bd7 14. Nc3 Bc6 15. Qb1
-Bf6 16. Nb5 Bxb5 17. cxb5 Bxb2 18. Qxb2 d5 19. Rfc1 Qd6 20. Qd4 b6
-{ In this game, Eidolon, rated 2 9 7 1, had the Black pieces seized the initiative and handed Rengar as White rated 2 9 6 5 a loss. Both sides showed good positional understanding.0-1 }
-) 5... Nc6 6. d4 exd4 7. exd4 bxa3 8. d5
-{ Here we see that Myrddin, rated 3 1 0 1, had the Black pieces seized the initiative and handed Schoenemann on White with Elo 3 1 2 2 a loss.0-1 }
-) 2... d5 3. Nf3 { we will see this position later on0-1 } 0-1
-
-
+1. a3 c5 2. Nf3 { played by 3 6 2 3 rated pawnocchio } ( 2. c3 { played by 3 6 4 5 rated Stockfish } 2... d5 3. d4 e6 4. Bf4 Bd6 5. Bg3 Nf6 6. e3 O-O 7. Nd2 h6 8. Ngf3 { played by 3 6 1 0 rated Torch } ( 8. Be2 { played by 3 5 3 2 rated Igel } 8... Bxg3 9. hxg3 Nbd7 10. Ngf3 Qc7 11. c4 dxc4 12. Nxc4 b6 13. dxc5 Nxc5 14. Qd6 Qxd6 15. Nxd6 Rd8 16. Rd1 Nce4 17. Nxe4 Rxd1+ 18. Bxd1 Nxe4 19. Rh4 Bb7 20. Bc2 Nd6 21. Rd4 Rc8 22. Rxd6 Rxc2 23. Rd8+ Kh7 24. Rd7 Bd5 25. Rxa7 f5 26. b3 Bxb3 27. Nd4 Rb2 28. Nxb3 Rxb3 29. a4 Kg6 30. a5 bxa5 { In an interesting battle, Neither Igel handling the White pieces rated 3 5 3 2 nor PlentyChess from the Black side with rating 3 5 9 1 could convert, and the game was drawn.1/2-1/2 } ) 8... Bxg3 9. hxg3 Nbd7 10. Ne5 Qb6 11. Rb1 Nxe5 12. dxe5 Nd7 13. Qh5 f6 14. exf6 Nxf6 15. Qg6 Bd7 16. Rxh6 Be8 17. Qg5 { In an interesting battle, Neither Torch playing White, rated 3 6 1 0 nor Alexandria on Black with Elo 3 5 8 4 could convert, and the game was drawn.1/2-1/2 } 17... Nh7 18. Qg4 Nf6 ) ( 2. e3 { played by 3 5 6 4 rated Ethereal } 2... Nc6 3. d4 cxd4 4. exd4 d5 5. Bf4 { played by 3 5 6 4 rated Ethereal } ( 5. Nf3 { played by 3 6 0 9 rated Torch } 5... Bg4 6. c3 e6 7. Bf4 Bd6 8. Bxd6 Qxd6 9. Nbd2 Nge7 10. Be2 O-O 11. O-O f6 12. Re1 Bh5 13. Rc1 Rad8 14. b4 Nf5 15. Qa4 Nce7 16. Bd3 g5 17. h3 g4 18. hxg4 Bxg4 19. Qxa7 Kh8 20. Qxb7 Ra8 21. Bxf5 Bxf5 22. Qb5 Rg8 23. Re3 Qf4 24. Ra1 Bg4 25. Ne1 Nf5 26. Nf1 Nxe3 27. Nxe3 Rg5 28. a4 Rag8 29. a5 Rh5 30. Nxg4 Qxg4 { Here we see that After a long struggle, Viridithas from the White side with rating 3 5 9 7 and Torch handling the Black pieces rated 3 6 0 9 shared the point.1/2-1/2 } ) 5... Bf5 6. Nf3 e6 7. Bd3 Nge7 8. O-O h6 9. Re1 g5 10. Bg3 Bg7 11. c3 O-O 12. h3 Qb6 13. b4 Ng6 14. Be2 a5 15. b5 Nce7 16. Nbd2 a4 17. Qc1 Rfc8 18. Qb2 Nf4 19. Bxf4 gxf4 20. Rac1 Nc6 21. Bf1 Rc7 22. Qa2 Na5 23. c4 Nxc4 24. Nxc4 dxc4 25. Rxc4 Rac8 26. Rxa4 Rc2 27. Qa1 Qc7 28. b6 Qc6 29. Ra5 Bf6 30. a4 Qxb6 { In an interesting battle, Ethereal from the White side with rating 3 5 6 4 overpressed, and Obsidian playing Black, rated 3 5 9 2 secured the win.0-1 } ) ( 2. h3 { played by 3 6 4 0 rated Stockfish } 2... Nc6 3. d3 d5 4. e3 e5 5. Nd2 Nf6 6. Ne2 Be7 7. g4 O-O 8. Bg2 Be6 9. f4 { played by 3 5 0 1 rated Heimdall } ( 9. b3 { played by 3 6 4 0 rated Stockfish } 9... Qc7 10. O-O Rad8 11. Ng3 g6 12. Qe2 Ne8 13. c4 Ng7 14. Bb2 d4 15. b4 cxb4 16. axb4 Bxb4 17. exd4 exd4 18. g5 f6 19. gxf6 Rxf6 20. Nde4 Rff8 21. Bc1 a5 22. Bg5 Be7 23. Bh6 Rde8 24. Qb2 Rf7 25. Rfb1 Nb4 26. c5 b6 27. cxb6 Qxb6 28. Qa3 Nf5 29. Qa4 Qd8 30. Nxf5 Rxf5 { Here we see that After a long struggle, Astra, rated 3 6 0 6, had the White pieces and Stockfish from the Black side with rating 3 6 4 0 shared the point.1/2-1/2 } ) ( 9. O-O { played by 3 4 8 1 rated Wasp } 9... h5 10. g5 Ne8 11. f4 g6 12. e4 Ng7 13. Nc3 d4 14. Ne2 exf4 15. Nf3 c4 16. Rf2 Rc8 17. Bxf4 Qb6 18. Rb1 cxd3 19. cxd3 Bb3 20. Qd2 Ne6 21. Bg3 Na5 22. Rbf1 Rc2 23. Qe1 Nc6 24. Nf4 Nxf4 25. Bxf4 Qb5 26. Qb1 Rxf2 27. Rxf2 a5 28. h4 Be6 29. Qf1 a4 30. Bg3 Bd7 { Once again, Wasp playing White, rated 3 4 8 1 and Elixir playing Black, rated 3 5 5 5 played a balanced game which ended in a draw.1/2-1/2 } ) ( 9. Ng3 { played by 3 5 6 3 rated pawnocchio } 9... Qd7 10. b3 Rad8 11. c4 { played by 3 5 0 2 rated Devre } ( 11. Qe2 { played by 3 5 6 3 rated pawnocchio } 11... h6 12. c4 Nh7 13. O-O Rfe8 14. Nf3 { played by 3 5 0 2 rated Devre } 14... e4 15. dxe4 dxc4 16. bxc4 Na5 17. Nd2 Qa4 18. f4 Nxc4 19. Kh2 b5 20. Nf3 f6 21. Rb1 Bf8 22. Nh4 Bf7 23. Ngf5 Re6 24. Rg1 g6 25. Ng3 Rb6 26. Re1 a6 27. Ra1 a5 28. Bf1 b4 29. Qg2 Nxa3 30. f5 g5 { Once again, Cinder as Black rated 3 5 4 4 seized the initiative and handed Devre playing White, rated 3 5 0 2 a loss.0-1 } ) 11... h6 ) 9... d4 10. Bxc6 bxc6 11. e4 c4 12. f5 cxd3 13. cxd3 Bc8 14. Nf3 Nd7 15. g5 Bd6 16. f6 g6 17. h4 a5 18. Qc2 Qb6 19. Nd2 Nc5 20. h5 Be6 21. Nc4 Qb3 22. Qxb3 Nxb3 23. Rb1 Bxc4 24. dxc4 Rfb8 25. Kd1 Nc5 26. Rh4 Rb3 27. Bd2 a4 28. Bb4 gxh5 29. Bxc5 Bxc5 30. Nc1 Rg3 { Celeris, rated 3 4 1 4, had the White pieces overpressed, and Lunar from the Black side with rating 3 4 3 2 secured the win.0-1 } ) 2... Nc6 3. c4 0-1
 
 [Event "?"]
 [Site "?"]
 [Date "????.??.??"]
 [Round "?"]
-[White "Roc"]
-[Black "Komodo"]
+[White "Stockfish"]
+[Black "Stockfish"]
 [Result "0-1"]
-[WhiteElo "3157"]
-[BlackElo "3376"]
+[WhiteElo "3645"]
+[BlackElo "3643"]
+[ECO "A00"]
+[Opening "Anderssen's opening"]
+[Variation "nan"]
 
-1. a3 { entered in a00_anderssen_s_opening } 1... Nf6 2. b4
-{ played by 3 4 5 7 rated Minic } ( 2. Nf3 { played by 3 1 5 7 rated Roc } 2...
-d5 3. d4 { played by 3 1 5 7 rated Roc } 3... e6 4. Bf4
-{ played by 3 5 2 1 rated Peacekeeper } ( 4. e3
-{ played by 3 0 9 8 rated Sting } 4... Bd6 5. c4 O-O 6. Nc3 b6 7. Be2 Bb7 8.
-O-O Nbd7 9. b3 { played by 3 0 4 4 rated Chiron } 9... dxc4 10. bxc4 a6 11. a4
-c5 12. Bb2 cxd4 13. exd4 Qc7 14. Bd3 Rfd8 15. Re1 Bb4 16. h3 Qf4 17. Re3 Bd6
-18. g3 Qh6 19. Kg2 Rac8 20. Qe2 Bf4
-{ Once again, Chiron as White rated 3 0 4 4 converted the advantage and defeated Sting from the Black side with rating 3 0 9 8. Small inaccuracies made the difference.1-0 }
-) 4... c5 5. e3 Nc6 6. c3 { played by 3 5 2 1 rated Peacekeeper } ( 6. h3
-{ played by 2 8 5 8 rated Tornado } 6... c4 7. Be2 b5 8. b3 a6 9. a4
-{ played by 2 8 5 8 rated Tornado } 9... Bb7 10. O-O Ne4 11. Nfd2 Nxd2 12. Qxd2
-Be7 13. Qc1 O-O 14. Qb2 Qd7 15. Re1 Na5 16. axb5 axb5 17. Nc3 b4 18. Na4 Qc6
-19. Bf3 Ra6 20. e4 Qb5
-{ Tornado handling the White pieces rated 2 8 5 8 overpressed, and ChessBrainVB from the Black side with rating 2 8 8 9 secured the win.0-1 }
-) 6... Bd6 7. Bxd6 Qxd6 8. Bb5 { played by 3 1 9 3 rated Simbelmyne } ( 8. b4
-{ played by 3 0 1 3 rated Dirty } 8... c4 9. Nbd2 O-O 10. Be2 e5 11. dxe5 Nxe5
-12. Nxc4 Nxc4 13. Bxc4 Qc7 14. Bd3 Qxc3+ 15. Ke2 Bg4 16. Qc2 Qe5 17. Rac1 Rfe8
-18. h3 Bxf3+ 19. gxf3 a5 20. Qc7 Qb2+
-{ The game between Dirty, rated 3 0 1 3, had the White pieces and Cheers on Black with Elo 3 0 2 5 finished level. Small inaccuracies made the difference.1/2-1/2 }
-) ( 8. Be2 { played by 3 5 2 1 rated Peacekeeper } 8... O-O 9. Nbd2
-{ played by 3 2 0 5 rated Arcanum } 9... e5 10. dxe5 Nxe5 11. O-O Rd8 12. Qc2
-Nxf3+ 13. Nxf3 Qe7 14. Rfd1 g6 15. b3 Be6 16. c4 Rac8 17. cxd5 Bxd5 18. Qb2 Ne4
-19. Rac1 Ng5 20. Ne5 f6
-{ After a long struggle, Arcanum, rated 3 2 0 5, had the White pieces and Protej, rated 3 1 9 5, had the Black pieces shared the point.1/2-1/2 }
-) ( 8. Nbd2 { played by 3 0 2 5 rated Cheers } 8... O-O 9. h3
-{ played by 3 0 2 5 rated Cheers } ( 9. Be2
-{ we will see this position later on1/2-1/2 } ) ( 9. dxc5
-{ played by 3 0 9 8 rated Lynx } 9... Qxc5 10. c4 Rd8 11. b4 Qe7 12. Qc2 e5 13.
-cxd5 Nxd5 14. b5 Na5 15. e4 Nf4 16. Qc3 b6 17. Qxe5 Qxe5 18. Nxe5 Bb7 19. f3
-Rac8 20. Nec4 Nxc4
-{ In an interesting battle, 4ku handling the White pieces rated 3 0 2 1 and EveAnn handling the Black pieces rated 3 1 0 7 played a balanced game which ended in a draw. Both sides showed good positional understanding.1/2-1/2 }
-) ( 9. Bd3 { played by 3 1 2 6 rated Lynx } 9... e5 10. dxe5 Nxe5 11. Nxe5 Qxe5
-12. O-O Bg4 13. Nf3 Qe7 14. h3 Bh5 15. g4 Bg6 16. Bxg6 hxg6 17. g5 Ne4 18. Qxd5
-Rfd8 19. Qe5 Qxe5 20. Nxe5 Nxg5
-{ In an interesting battle, Lynx, rated 3 1 2 6, had the White pieces outplayed Schoenemann, rated 3 1 2 2, had the Black pieces and won the game. The opening quickly led to complex middlegame play.1-0 }
-) 9... e5 10. dxe5 Nxe5 11. Qc2 Bd7 12. O-O-O Bc6 13. Be2 Rfe8 14. Nxe5 Qxe5
-15. Kb1 Rad8 16. Nf3 Qe7 17. Rhf1 Ne4 18. Bd3 h6 19. Rh1 a5 20. Rhg1 b5
-{ Once again, Dirty on Black with Elo 3 0 1 3 seized the initiative and handed Cheers on White with Elo 3 0 2 5 a loss. The outcome was decided in the later stages.0-1 }
-) 8... a6 9. Bxc6+ Qxc6 10. O-O Bd7 11. Nbd2 Qc7 12. Re1 O-O 13. Rc1 b5 14. Ne5
-c4 15. e4 Bc8 16. exd5 Nxd5 17. g3 Nb6 18. f4 Bb7 19. Ne4 f6 20. Nf3 Bd5
-{ Mr, rated 3 3 1 6, had the Black pieces defended accurately and defeated Simbelmyne as White rated 3 1 9 3. The opening quickly led to complex middlegame play.0-1 }
-) 2... e5 3. c4 c5 4. Bb2 { played by 3 3 6 3 rated Pedantic } 4... d5 5. cxd5
-cxb4 6. Bxe5 Nxd5 7. e3 { played by 2 9 6 9 rated Lozza } ( 7. Nf3
-{ played by 2 9 2 4 rated Cheese } 7... Nc6 8. e4 Nf6 9. Bb5 Be7 10. Bxc6+ bxc6
-11. axb4 O-O 12. Bxf6 Bxf6 13. Nc3 a5 14. e5 Ba6 15. b5 cxb5 16. exf6 b4 17.
-Ne2 Re8 18. Ng1 Bd3 19. h4 Qd5 20. Kf1 b3
-{ In this game, Ares handling the Black pieces rated 2 9 5 8 outplayed Cheese playing White, rated 2 9 2 4 and won as Black. The opening quickly led to complex middlegame play.0-1 }
-) 7... Nc6 8. Bb2 Bf5 9. Nf3 a6 10. Be2 Be7 11. axb4 Ndxb4 12. O-O O-O 13. Ne1
-Rc8 14. d4 Bd6 15. Nd2 Re8 16. h3 Qe7 17. Qb3 Qd8 18. Ba3 Qe7 19. Qb2 b5 20.
-Nef3 Bd3
-{ Once again, Cheers handling the Black pieces rated 3 0 2 5 outplayed Lozza, rated 2 9 6 9, had the White pieces and won as Black. The outcome was decided in the later stages.0-1 }
-0-1
-
-
+1. a3 c5 2. h3 { played by 3 6 4 0 rated Stockfish } ( 2. e4 { played by 3 5 8 4 rated Alexandria } 2... Nc6 3. Nc3 g6 4. Nf3 { played by 3 2 9 3 rated HIARCS } ( 4. Bc4 { played by 3 4 4 4 rated SugaR } 4... Bg7 5. d3 { played by 3 4 9 6 rated Elixir } ( 5. Nf3 { played by 3 4 4 4 rated SugaR } 5... d6 6. O-O e6 7. d3 Nge7 8. Bf4 a6 9. Qd2 h6 10. h4 e5 11. Bg3 f5 12. exf5 gxf5 13. Nd5 { played by 2 5 5 1 rated Capivara } ( 13. h5 { played by 3 4 4 4 rated SugaR } 13... d5 14. Ba2 { played by 3 4 4 4 rated SugaR } ( 14. Nxd5 { played by 3 2 2 9 rated Andscacs } 14... Nxd5 15. Nxe5 Nxe5 16. Bxe5 O-O 17. Rfe1 { played by 3 1 3 2 rated Ethereal } ( 17. Rae1 { played by 3 1 6 2 rated Andscacs } 17... b5 18. Bb3 { played by 2 6 1 7 rated RubiChess } 18... Bb7 19. Bxg7 Kxg7 20. Re5 Kh7 21. Rfe1 Rf7 22. Re6 Qf8 23. Rg6 Re7 24. Bxd5 Rxe1+ 25. Qxe1 Bxd5 26. Qe5 Bf7 27. Rf6 Re8 28. Qxf5+ Kg8 29. Kh2 Rd8 30. Rxa6 Rd5 { Here we see that Neither RubiChess handling the White pieces rated 2 6 1 7 nor Capivara handling the Black pieces rated 2 5 5 1 could convert, and the game was drawn.1/2-1/2 } ) 17... b5 18. Bb3 { played by 2 6 1 7 rated RubiChess } ( 18. Bxg7 { played by 3 1 3 2 rated Ethereal } 18... Kxg7 19. Bxd5 Qxd5 20. Re7+ Rf7 21. Rxf7+ { played by 2 8 5 8 rated Tornado } ( 21. Rae1 { played by 3 1 3 2 rated Ethereal } 21... Bb7 22. Qc3+ Kg8 23. f3 Qd4+ 24. Qxd4 cxd4 25. R7e6 Rc8 26. Rg6+ Kh7 27. Ree6 Rxc2 28. Rxh6+ Kg8 29. Rhg6+ Kf8 30. h6 Bc8 { Once again, Ethereal from the White side with rating 3 1 3 2 and Stockfish from the Black side with rating 3 0 5 6 played a balanced game which ended in a draw.1/2-1/2 } ) 21... Qxf7 22. Qc3+ Kh7 23. Qxc5 Bd7 24. Re1 Re8 25. Rxe8 Bxe8 26. b3 Qxh5 27. Qe7+ Qf7 28. Qe5 Bd7 29. c4 Kg6 30. f3 Qf6 { In this game, Dirty playing Black, rated 2 8 4 9 outplayed Tornado as White rated 2 8 5 8 and won as Black.0-1 } ) 18... Bb7 19. Bxg7 Kxg7 20. Re5 Kh7 21. Re6 Rf6 22. Rae1 Qf8 23. R6e5 Rd8 24. c4 bxc4 25. dxc4 Nb6 26. Qe3 Be4 27. Qxc5 Rfd6 28. Qe3 Nd7 29. Rxe4 fxe4 30. c5 Rf6 { Once again, Ghost handling the Black pieces rated 2 5 3 9 outplayed RubiChess playing White, rated 2 6 1 7 and won as Black.0-1 } ) 14... O-O 15. Rfe1 Qd6 16. Nxe5 Nxe5 17. Qf4 Be6 18. Rxe5 Qxe5 19. Qxe5 Bxe5 20. Bxe5 Rfe8 21. Kf1 c4 22. Ne2 Bf7 23. Ng3 Rac8 24. Rd1 Rc6 25. d4 Rb6 26. b3 a5 27. Re1 Kf8 28. a4 c3 29. Bc7 Rf6 30. Be5 Ra6 { Once again, SugaR playing Black, rated 3 4 4 4 seized the initiative and handed Shredder, rated 3 2 4 6, had the White pieces a loss.0-1 } ) 13... f4 14. Bh2 Bg4 15. Qe1 Bxf3 16. gxf3 Nxd5 17. Bxd5 Ne7 18. Be6 h5 19. Kh1 d5 20. b4 Qd6 21. Bh3 Bf6 22. Rb1 b5 23. Qe2 cxb4 24. axb4 d4 25. Qe4 Ra7 26. Rfe1 Rc7 27. Rb2 O-O 28. Rg1+ Kh8 29. Re1 Kg7 30. Ra2 Rc6 { Once again, Capivara on White with Elo 2 5 5 1 overpressed, and RubiChess, rated 2 6 1 7, had the Black pieces secured the win.0-1 } ) 5... Nf6 6. Bg5 d6 7. Nge2 Bd7 8. Qd2 h6 9. Be3 { played by 3 4 9 6 rated Elixir } ( 9. Bf4 { played by 2 6 0 7 rated Lozza } 9... g5 10. Bg3 Nh5 11. Nd5 Nxg3 12. hxg3 e6 13. Ne3 Bxb2 14. Rb1 Bg7 15. Rxb7 Rb8 16. Rxb8 Qxb8 17. O-O Qb2 18. Rd1 Nd4 19. Nc1 Ke7 20. c3 Qxd2 21. Rxd2 Nc6 22. Ne2 Rb8 23. Ba2 Na5 24. g4 Bb5 25. Rb2 Rb6 26. Rd2 Nc6 27. f3 Ne5 28. d4 Bxe2 29. Rxe2 cxd4 30. cxd4 Nd3 { In an interesting battle, Lozza as White rated 2 6 0 7 remained in control, handing Jumbo on Black with Elo 2 5 5 2 a loss.1-0 } ) 9... Ne5 10. Bb3 Neg4 11. Bf4 Nh5 12. Bg3 Nxg3 13. hxg3 Rc8 14. f3 Ne5 15. O-O-O c4 16. dxc4 Nxc4 17. Bxc4 Rxc4 18. Nd5 Rc8 19. Kb1 Ba4 20. Nec3 Bd7 21. g4 Rf8 22. Qe3 e6 23. Nb4 a5 24. Nba2 Qc7 25. Rd2 Qc5 26. Qxc5 dxc5 27. Rdd1 b5 28. Ne2 Ke7 29. Nac1 b4 30. axb4 cxb4 { In this game, Lozza, rated 2 6 0 7, had the Black pieces defended accurately and defeated Jumbo as White rated 2 5 5 2.0-1 } ) 4... Bg7 5. Bb5 Nd4 6. O-O a6 7. Bc4 e6 8. b4 b5 9. Bd3 Nxf3+ 10. Qxf3 c4 11. Be2 Ne7 12. d4 Bb7 13. Bg5 f6 14. Be3 f5 15. Qf4 d6 16. Rad1 O-O 17. Qh4 fxe4 18. Bg5 Rf7 19. Nxe4 Nf5 20. Bxd8 Nxh4 21. Bxh4 Bxe4 22. c3 a5 23. Bg4 Bf5 24. Bf3 d5 25. Bg5 axb4 26. axb4 Ra2 27. Ra1 Rfa7 28. Rxa2 Rxa2 29. Be3 h6 30. h4 h5 { In this game, Booot, rated 3 4 6 1, had the Black pieces defended accurately and defeated HIARCS from the White side with rating 3 2 9 3.0-1 } ) 2... Nc6 3. d3 d5 4. e3 e5 5. Nd2 Nf6 6. Ne2 Be7 7. g4 O-O 8. Bg2 Be6 9. Ng3 { played by 3 5 6 3 rated pawnocchio } 9... Qd7 10. b3 Rad8 11. Qe2 { played by 3 5 6 3 rated pawnocchio } 11... h6 12. c4 Nh7 13. O-O Rfe8 14. Rb1 { played by 3 5 6 3 rated pawnocchio } 14... d4 15. Nde4 dxe3 16. Bxe3 b6 17. Qf3 Rc8 18. Nf5 Bf8 19. Kh2 Qc7 20. Rg1 Qd8 21. Qg3 Kh8 22. Rbd1 f6 23. Bf3 Qd7 24. a4 Na5 25. Nd2 Qxd3 26. Be4 Qd7 27. Nh4 Rcd8 28. Ndf3 Qf7 29. Bg6 Qe7 30. Bxe8 Qxe8 { In this game, The game between pawnocchio as White rated 3 5 6 3 and Tarnished, rated 3 5 3 1, had the Black pieces finished level.1/2-1/2 } 0-1
 
 [Event "?"]
 [Site "?"]
 [Date "????.??.??"]
 [Round "?"]
-[White "Roc"]
-[Black "Komodo"]
+[White "Stockfish"]
+[Black "Stockfish"]
 [Result "0-1"]
-[WhiteElo "3157"]
-[BlackElo "3376"]
+[WhiteElo "3645"]
+[BlackElo "3643"]
+[ECO "A00"]
+[Opening "Anderssen's opening"]
+[Variation "nan"]
 
-1. a3 { entered in a00_anderssen_s_opening } 1... Nf6 2. Nf3
-{ played by 3 1 5 7 rated Roc } ( 2. b4 { played by 3 4 5 7 rated Minic } 2...
-e5 3. c4 c5 4. bxc5 { played by 3 4 5 7 rated Minic } 4... Bxc5 5. e3
-{ played by 3 4 5 7 rated Minic } 5... Nc6 6. Qc2
-{ played by 3 4 5 7 rated Minic } 6... O-O 7. Nc3 d5 8. cxd5 Nxd5 9. Bb2
-{ played by 3 4 5 7 rated Minic } ( 9. Nxd5
-{ played by 3 2 0 4 rated Seredina } 9... Qxd5 10. Bd3 Nd4 11. exd4 Qxd4 12.
-Ne2 Qxf2+ 13. Kd1 Bg4 14. Re1 Rac8 15. h3 Bb6 16. Qb1 Be6 17. a4 Qxg2 18. Ra3
-f5 19. Bb2 Bf2 20. Bxe5 Bf7
-{ Here we see that Seredina, rated 3 2 0 4, had the White pieces overpressed, and Tornado, rated 3 2 3 4, had the Black pieces secured the win. Both sides showed good positional understanding.0-1 }
-) 9... Nxc3 10. Bxc3 Bd4 11. Ne2 Be6 12. exd4 exd4 13. Bb2 Rc8 14. f3 Nb4 15.
-Qb1 Nc2+ 16. Kf2 Qg5 17. h4 Qxd2 18. Kg3 Rfd8 19. Qd1 Qa5 20. Nf4 Qe5
-{ In this game, Minic handling the White pieces rated 3 4 5 7 overpressed, and Fire, rated 3 5 0 9, had the Black pieces secured the win. Both sides showed good positional understanding.0-1 }
-) ( 2. f4 { played by 3 2 4 8 rated Schooner } 2... g6 3. Nf3 Bg7 4. g3 O-O 5.
-Bg2 b6 6. d3 d5 7. O-O Bb7 8. Qe1 c5 9. e3
-{ played by 3 1 0 1 rated ChessBrainVB } ( 9. Ne5
-{ played by 3 3 4 7 rated RubiChess } 9... Nbd7 10. c3 Ne8 11. Nxd7 Qxd7 12.
-Nd2 Rd8 13. Nf3 Nd6 14. a4 d4 15. c4 a5 16. Qf2 f6 17. Nd2 Bxg2 18. Qxg2 Nf7
-19. h3 e5 20. fxe5 f5
-{ Here we see that The game between RubiChess as White rated 3 3 4 7 and Wasp playing Black, rated 3 3 6 2 finished level. Both sides showed good positional understanding.1/2-1/2 }
-) 9... e6 10. Nbd2 Nc6 11. Rb1 a5 12. b3 Re8 13. Bb2 a4 14. c4 axb3 15. Nxb3
-Ra6 16. Qe2 Qa8 17. Nh4 Ne7 18. Nd2 Nd7 19. cxd5 exd5 20. Bxg7 Kxg7
-{ In an interesting battle, Roc handling the Black pieces rated 3 1 8 3 seized the initiative and handed ChessBrainVB, rated 3 1 0 1, had the White pieces a loss. The position remained tense for most of the game.0-1 }
-) ( 2. c4 { played by 3 2 0 0 rated Expositor } 2... c6 3. Nf3 d5 4. e3 Bg4 5.
-h3 Bh5 6. cxd5 cxd5 7. Nc3 Nc6 8. Bb5 Rc8 9. Be2
-{ played by 3 2 0 0 rated Expositor } ( 9. d4 { played by 2 9 5 4 rated Naum }
-9... e6 10. g4 Bg6 { we will see this position later on0-1 } ) 9... e6 10. O-O
-Be7 11. b4 O-O 12. Bb2 Bxf3 13. Bxf3 Ne5 14. d3 Nxf3+ 15. Qxf3 a5 16. Ne2 axb4
-17. axb4 Qd7 18. Bd4 Ne8 19. Rfb1 Nd6 20. Qg4 g6
-{ Once again, Invictus on Black with Elo 3 1 2 2 seized the initiative and handed Expositor playing White, rated 3 2 0 0 a loss. The outcome was decided in the later stages.0-1 }
-) ( 2. d3 { played by 2 9 6 0 rated Nu-chess } 2... d5 3. f4 c5 4. Nf3 e6 5. g3
-Nc6 6. Bg2 Be7 7. O-O O-O 8. Nc3 b6 9. Re1 { played by 2 8 7 5 rated Gaviota }
-9... Bb7 10. e4 dxe4 11. dxe4 Qxd1 12. Nxd1 Nd4 13. Nxd4 cxd4 14. e5 Nd5 15.
-Bd2 Rac8 16. Be4 Ba6 17. Nf2 Rc7 18. Bxd5 exd5 19. Bb4 Rfc8 20. Bxe7 Rxe7
-{ Here we see that The game between Gaviota from the White side with rating 2 8 7 5 and The, rated 2 9 0 8, had the Black pieces finished level. The opening quickly led to complex middlegame play.1/2-1/2 }
-) 2... d5 3. e3 { played by 3 5 6 5 rated Caissa } ( 3. d4
-{ played by 3 1 5 7 rated Roc } 3... e6 4. Bf4
-{ played by 3 5 2 1 rated Peacekeeper } 4... c5 5. e3 Nc6 6. c3
-{ played by 3 5 2 1 rated Peacekeeper } 6... Bd6 7. Bxd6 Qxd6 8. Be2
-{ played by 3 5 2 1 rated Peacekeeper } 8... O-O 9. O-O
-{ played by 3 5 2 1 rated Peacekeeper } 9... b6 10. Nbd2
-{ played by 3 5 2 1 rated Peacekeeper } ( 10. b4
-{ played by 2 9 7 1 rated Eidolon } 10... e5 11. dxe5 Nxe5 12. Nbd2 Nxf3+ 13.
-Nxf3 Ne4 14. Bd3 Re8 15. bxc5 Qxc5 16. Nd4 Bd7 17. Qc2 Rac8 18. Rfc1 b5 19. f3
-Nd6 20. Bxh7+ Kf8
-{ In this game, Priessnitz on Black with Elo 3 1 2 9 defended accurately and defeated Eidolon from the White side with rating 2 9 7 1. The outcome was decided in the later stages.0-1 }
-) 10... Rd8 11. b4 h6 12. Re1 Bb7 13. Qb1 Qc7 14. Qb2 Rac8 15. a4 Ne8 16. Rec1
-c4 17. Bd1 Ne7 18. Bc2 f6 19. Re1 Nd6 20. Nf1 Ra8
-{ Serendipity as Black rated 3 4 8 6 outplayed Peacekeeper handling the White pieces rated 3 5 2 1 and won as Black. Small inaccuracies made the difference.0-1 }
-) 3... Bf5 4. c4 e6 5. Nc3 Nbd7 6. d4 c6 7. Be2 dxc4 8. Bxc4 Be7 9. Qe2
-{ played by 3 5 6 5 rated Caissa } ( 9. O-O
-{ played by 3 5 6 2 rated RubiChess } 9... O-O 10. Nh4 Bg4 11. f3 Bh5 12. g4
-Nd5 13. Ng2 Bg6 14. e4 Nxc3 15. bxc3 c5 16. a4 cxd4 17. cxd4 Nb6 18. Ba2 Rc8
-19. Be3 a5 20. Bb3 Nc4
-{ In this game, After a long struggle, RubiChess on White with Elo 3 5 6 2 and Caissa, rated 3 5 6 5, had the Black pieces shared the point. The outcome was decided in the later stages.1/2-1/2 }
-) 9... Ne4 10. O-O O-O 11. Nxe4 Bxe4 12. Bd2 a5 13. Bd3 Bxd3 14. Qxd3 Qb6 15.
-Rfc1 Rfd8 16. Qe2 Qa6 17. Qxa6 Rxa6 18. a4 e5 19. Bc3 exd4 20. Bxd4 Nf8
-{ In an interesting battle, Neither Caissa, rated 3 5 6 5, had the White pieces nor RubiChess on Black with Elo 3 5 6 2 could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
-0-1
-
-
+1. a3 c5 2. e4 { played by 3 5 8 4 rated Alexandria } ( 2. c4 { played by 3 6 3 5 rated Torch } 2... Nf6 3. e3 { played by 3 3 5 7 rated Schneckbert } ( 3. g3 { played by 3 5 3 2 rated Igel } 3... e5 4. Nf3 { played by 3 5 3 2 rated Igel } ( 4. Bg2 { played by 3 3 7 6 rated Heimdall } 4... d5 5. cxd5 Nxd5 6. Qb3 Nb6 7. Qc2 Be7 8. d3 O-O 9. Nd2 a5 10. Rb1 { Here we see that The game between Heimdall handling the White pieces rated 3 3 7 6 and Saturn, rated 3 3 6 9, had the Black pieces finished level.1/2-1/2 } 10... Nd5 11. Qb3 Nb6 ) 4... Nc6 5. Nc3 d5 6. cxd5 ) ( 3. Nc3 { played by 3 6 3 5 rated Torch } 3... Nc6 4. h3 { played by 3 0 1 3 rated Dirty } ( 4. g3 { played by 3 6 1 8 rated Alexandria } 4... d5 5. cxd5 Nxd5 6. Bg2 Nxc3 7. bxc3 { played by 3 6 1 8 rated Alexandria } ( 7. dxc3 { played by 3 6 1 8 rated Alexandria } 7... Qxd1+ 8. Kxd1 e5 9. Be3 Be6 10. Bxc6+ bxc6 11. Nf3 f6 12. b4 c4 13. Nd2 g5 14. a4 h5 15. a5 a6 16. h3 Kf7 17. Kc2 Be7 18. Bb6 Rac8 19. Rab1 Bd7 20. f3 Be6 21. g4 f5 22. Rhg1 Kg6 23. Bc5 Bf6 24. Rbd1 hxg4 25. hxg4 fxg4 26. fxg4 Rh2 27. Rde1 Rch8 28. Ne4 Bg7 29. Kd2 Bd5 30. Ng3 Rd8 { In this game, After a long struggle, Alexandria handling the White pieces rated 3 6 1 8 and Torch playing Black, rated 3 6 3 5 shared the point.1/2-1/2 } ) 7... g6 8. Rb1 Bg7 9. Bxc6+ bxc6 10. c4 e5 11. Qc2 O-O 12. d3 f5 13. Rb3 a5 14. a4 Qe7 15. h4 f4 16. Nf3 fxg3 17. fxg3 Bf5 18. Ng5 Qd7 19. Ne4 Bxe4 20. dxe4 Qg4 21. Ba3 Rf7 22. Rf1 Rd7 23. Bxc5 Qh3 24. Rd3 Rad8 { Here we see that After a long struggle, Alexandria playing White, rated 3 6 1 8 and Integral as Black rated 3 6 1 8 shared the point.1/2-1/2 } 25. Rff3 Qh1+ 26. Rf1 ) ( 4. e4 { played by 3 6 3 5 rated Torch } 4... d6 5. d3 { played by 3 6 1 8 rated Integral } ( 5. Nf3 { played by 3 6 3 5 rated Torch } 5... Ng4 6. d3 Nge5 7. Ng1 g6 8. f4 Nd7 9. Be2 a6 10. Nf3 Bg7 11. Be3 O-O 12. O-O Nd4 13. Rb1 b5 14. Qd2 Bb7 15. Bd1 bxc4 16. dxc4 Rc8 17. b3 e5 18. fxe5 Nxf3+ 19. Bxf3 Bxe5 20. Bf4 Re8 21. Bxe5 Nxe5 22. Be2 Ba8 23. h3 Re6 24. Rf2 Qb6 25. Rf4 Rf8 26. Rh4 f6 27. Rf4 Kg7 28. Qe3 Qa5 29. Qc1 Qd8 30. b4 cxb4 { In this game, Torch as White rated 3 6 3 5 and Alexandria, rated 3 6 1 8, had the Black pieces played a balanced game which ended in a draw.1/2-1/2 } ) 5... a6 6. Rb1 g6 7. b4 Bg7 8. Be2 O-O 9. Nf3 Bg4 10. O-O Bxf3 11. Bxf3 Nd7 12. Qd2 e6 13. Bd1 cxb4 14. axb4 Qc7 15. Ne2 Rfc8 16. h3 a5 17. bxa5 Rxa5 18. f4 Rb8 19. Kh1 b5 20. cxb5 Raxb5 21. Rxb5 Rxb5 22. f5 exf5 23. Ba4 Rb8 24. exf5 Nc5 25. Qd1 Qb6 26. Be3 Qa6 27. Bxc6 Qxc6 28. Nf4 Nd7 29. fxg6 hxg6 30. h4 Ne5 { In an interesting battle, The game between Integral, rated 3 6 1 8, had the White pieces and Alexandria, rated 3 6 1 8, had the Black pieces finished level.1/2-1/2 } ) 4... e6 5. e3 d5 6. d4 dxc4 7. Bxc4 cxd4 8. exd4 Nxd4 9. Bf4 Be7 10. Nf3 Nxf3+ 11. Qxf3 O-O 12. O-O Qb6 13. Be2 Bd7 14. b4 Rac8 15. Qg3 Rfd8 16. Rac1 a5 17. Bh6 Bf8 18. Be3 Qd6 19. Bf4 Qe7 20. Bc7 axb4 21. Bxd8 Qxd8 22. axb4 Bxb4 23. Rfd1 Qa5 24. Ra1 Qc5 25. Na2 Ba3 26. Nc3 Be8 27. Nd5 Bb2 28. Rab1 Nxd5 29. Rxb2 Nc3 30. Rc2 Nxe2+ { Once again, After a long struggle, Dirty on White with Elo 3 0 1 3 and Rengar handling the Black pieces rated 2 9 6 5 shared the point.1/2-1/2 } ) 3... Nc6 ) 2... Nc6 3. Nc3 g6 4. Bc4 { played by 3 4 4 4 rated SugaR } 4... Bg7 5. Nf3 { played by 3 4 4 4 rated SugaR } 5... d6 6. O-O e6 7. d3 Nge7 8. Bf4 a6 9. Qd2 h6 10. h4 e5 11. Bg3 f5 12. exf5 gxf5 13. h5 { played by 3 4 4 4 rated SugaR } 13... d5 14. Nxd5 { played by 3 2 2 9 rated Andscacs } 14... Nxd5 15. Nxe5 Nxe5 16. Bxe5 O-O 17. Rae1 { played by 3 1 6 2 rated Andscacs } 17... b5 18. Bxg7 { played by 3 1 6 2 rated Andscacs } 18... Kxg7 19. Bb3 { played by 3 1 6 2 rated Andscacs } ( 19. Bxd5 { played by 2 6 1 7 rated RubiChess } 19... Qxd5 20. Re7+ Rf7 21. Rxf7+ Qxf7 22. Qc3+ Kg8 23. Qxc5 Bd7 24. c4 Re8 25. Rc1 bxc4 26. dxc4 Qxh5 27. Qd6 Bc8 28. c5 Qg5 29. Rd1 f4 30. b4 Bg4 { In this game, Fridolin as Black rated 2 5 1 4 outplayed RubiChess playing White, rated 2 6 1 7 and won as Black.0-1 } ) 19... Ra7 20. Re5 Nf6 21. Qc3 Kh7 22. Qxc5 Rg7 23. Re2 Bb7 24. Rfe1 Bxg2 25. Re7 Bd5+ 26. Kf1 Rff7 27. Rxf7 Rxf7 28. Bxd5 Qxd5 29. Qxd5 Nxd5 30. Re6 Rf6 { In an interesting battle, Andscacs from the White side with rating 3 1 6 2 overpressed, and Hannibal from the Black side with rating 3 1 1 7 secured the win.0-1 } 0-1
 
 [Event "?"]
 [Site "?"]
 [Date "????.??.??"]
 [Round "?"]
-[White "Roc"]
-[Black "Komodo"]
+[White "Stockfish"]
+[Black "Stockfish"]
 [Result "0-1"]
-[WhiteElo "3157"]
-[BlackElo "3376"]
+[WhiteElo "3645"]
+[BlackElo "3643"]
+[ECO "A00"]
+[Opening "Anderssen's opening"]
+[Variation "nan"]
 
-1. a3 { entered in a00_anderssen_s_opening } 1... Nf6 2. Nf3
-{ played by 3 1 5 7 rated Roc } ( 2. d4 { played by 3 3 5 9 rated Nemorino }
-2... d5 3. c4 { played by 3 3 5 9 rated Nemorino } ( 3. Bf4
-{ played by 2 8 1 4 rated Rodent } 3... Bf5 4. e3 e6 5. c4 Nbd7 6. Nc3 c6 7.
-Nf3 Be7 8. c5 O-O 9. Bd3 b6 10. Bxf5 { played by 2 8 7 7 rated Crafty } 10...
-exf5 11. cxb6 axb6 { we will see this position later on0-1 } ) 3... c5 4. dxc5
-e6 5. Bg5 Bxc5 6. e3 O-O 7. Nc3 dxc4 8. Bxc4 Nbd7 9. Nf3 a6 10. Qc2
-{ played by 3 3 5 9 rated Nemorino } ( 10. Be2
-{ played by 3 3 7 4 rated Clarity } 10... b5 11. a4 b4 12. Ne4 Bb7 13. Nxf6+
-Nxf6 14. O-O Qa5 15. Bxf6 gxf6 16. Nd2 Rad8 17. Nb3 Qb6 18. Qc2 Be7 19. Rfc1
-Rc8 20. Qd1 Rxc1
-{ Once again, Clarity on White with Elo 3 3 7 4 and Ynode on Black with Elo 3 4 6 4 played a balanced game which ended in a draw. Small inaccuracies made the difference.1/2-1/2 }
-) ( 10. Ba2 { played by 3 3 3 8 rated Willow } 10... b5 11. O-O Bb7 12. Qe2 h6
-13. Bh4 Qb6 14. Rac1 Rfd8 15. h3 Bd6 16. Nd4 Rac8 17. Bb1 b4 18. axb4 Qxb4 19.
-Rfd1 g5 20. Bg3 Bxg3
-{ Once again, After a long struggle, Willow handling the White pieces rated 3 3 3 8 and Caissa, rated 3 4 3 7, had the Black pieces shared the point. The position remained tense for most of the game.1/2-1/2 }
-) 10... h6 11. Bh4 b5 12. Bd3 Bb7 13. O-O Rc8 14. Rfd1 Qb6 15. Bg3 Rfd8 16. h3
-Be7 17. Qe2 Qa7 18. Rac1 Qa8 19. Ne1 Nc5 20. Bc2 Rxd1
-{ Dragon from the Black side with rating 3 5 9 1 defended accurately and defeated Nemorino playing White, rated 3 3 5 9. The position remained tense for most of the game.0-1 }
-) ( 2. f4 { played by 3 2 4 8 rated Schooner } 2... g6 3. Nf3 Bg7 4. g3 O-O 5.
-Bg2 b6 6. d3 d5 7. O-O Bb7 8. Qe1 c5 9. Nbd2
-{ played by 3 2 4 8 rated Schooner } ( 9. Nc3 { played by 3 1 8 3 rated Roc }
-9... Nc6 10. Rb1 { played by 3 1 8 3 rated Roc } ( 10. e3
-{ played by 2 8 4 5 rated Cheese } 10... Qc7 11. Bd2 Rad8 12. Qe2 a6 13. Rab1
-e6 14. b4 Nd7 15. bxc5 Nxc5 16. d4 Nd7 17. Ne5 Rc8 18. Nxd7 Qxd7 19. Nd1 Na5
-20. Bxa5 bxa5
-{ In an interesting battle, Protector on Black with Elo 3 0 3 6 defended accurately and defeated Sting handling the White pieces rated 3 0 7 0. The position remained tense for most of the game.0-1 }
-) 10... d4 11. Nd1 e6 12. b4 cxb4 13. axb4 Ne7 14. e4 dxe3 15. Nxe3 Nf5 16. Bb2
-Nxe3 17. Qxe3 Ng4 18. Qc1 Bxb2 19. Rxb2 a5 20. h3 Bxf3
-{ Here we see that After a long struggle, Roc, rated 3 1 8 3, had the White pieces and ChessBrainVB from the Black side with rating 3 1 0 1 shared the point.1/2-1/2 }
-) 9... Nc6 10. e3 { played by 3 2 4 8 rated Schooner } 10... Re8 11. Ne5 Qc7
-12. Nxc6 Qxc6 13. Nf3 Nd7 14. a4 a5 15. Qf2 Rad8 16. g4 e6 17. g5 Qc7 18. Rb1
-e5 19. b3 exf4 20. exf4 c4
-{ Stockfish, rated 3 4 9 8, had the Black pieces seized the initiative and handed Schooner playing White, rated 3 2 4 8 a loss. The outcome was decided in the later stages.0-1 }
-) 2... d5 3. d4 { played by 3 1 5 7 rated Roc } 3... e6 4. Bf4
-{ played by 3 5 2 1 rated Peacekeeper } ( 4. e3
-{ played by 3 0 9 8 rated Sting } 4... Bd6 5. c4 O-O 6. Nc3 b6 7. Be2 Bb7 8.
-O-O Nbd7 9. cxd5 { played by 3 0 9 8 rated Sting } 9... exd5 10. b3
-{ played by 3 0 9 8 rated Sting } ( 10. Nh4
-{ played by 2 8 0 4 rated DiscoCheck } 10... g6 11. Nf3 Ne4 12. Nxe4 dxe4 13.
-Nd2 Qh4 14. h3 c5 15. Nc4 Bb8 16. b4 Rd8 17. bxc5 Nxc5 18. Bd2 Nd3 19. Qb3 Qg5
-20. Rab1 Qd5
-{ In this game, DiscoCheck, rated 2 8 0 4, had the White pieces and Spark playing Black, rated 2 9 1 1 played a balanced game which ended in a draw. The position remained tense for most of the game.1/2-1/2 }
-) 10... c6 11. Bb2 Re8 12. Qc2 a6 13. Qf5 a5 14. Rfe1 b5 15. Qc2 Qe7 16. Nd2
-Ba6 17. Nf3 h6 18. Nd2 Nf8 19. Nf3 Ng6 20. Bf1 Qe6
-{ Once again, Sting, rated 3 0 9 8, had the White pieces overpressed, and Chiron handling the Black pieces rated 3 0 4 4 secured the win. Small inaccuracies made the difference.0-1 }
-) ( 4. c4 { played by 2 9 6 9 rated Lozza } 4... Be7 5. e3 O-O 6. Nc3
-{ played by 3 6 2 1 rated PlentyChess } 6... Nbd7 7. cxd5 exd5 8. Bd3 Bd6 9.
-Nb5 Be7 10. Nc3 { we will see this position later on1/2-1/2 } ) 4... c5 5. e3
-Nc6 6. c3 { played by 3 5 2 1 rated Peacekeeper } 6... Bd6 7. Bxd6 Qxd6 8. Nbd2
-{ played by 3 0 2 5 rated Cheers } 8... O-O 9. Bb5
-{ played by 3 1 2 9 rated Priessnitz } 9... Bd7 10. Be2
-{ played by 3 4 6 4 rated Renegade } ( 10. a4
-{ played by 3 1 2 9 rated Priessnitz } 10... Ne7 11. Bd3 Rac8 12. O-O Ng6 13.
-a5 a6 14. Re1 Bc6 15. Nb3 Ne4 16. Nxc5 Nxc5 17. dxc5 Qxc5 18. Nd4 Qe7 19. f4
-Rfe8 20. Qe2 Qc5
-{ In an interesting battle, EveAnn handling the White pieces rated 3 1 0 7 and 4ku handling the Black pieces rated 3 0 2 1 played a balanced game which ended in a draw. The opening quickly led to complex middlegame play.1/2-1/2 }
-) 10... Rfd8 11. O-O e5 12. dxe5 Nxe5 13. c4 Bc6 14. cxd5 Nxf3+ 15. Bxf3 Bxd5
-16. Qc2 Bxf3 17. Nxf3 h6 18. Rfd1 Qe7 19. h3 b6 20. a4 Rac8
-{ In an interesting battle, After a long struggle, Renegade handling the White pieces rated 3 4 6 4 and Winter as Black rated 3 4 3 6 shared the point. Both sides showed good positional understanding.1/2-1/2 }
-0-1
-
-
+1. a3 c5 2. c4 { played by 3 6 3 5 rated Torch } 2... Nf6 3. Nf3 { played by 3 3 6 9 rated Saturn } 3... Nc6 4. d4 { played by 3 1 0 1 rated Myrddin } ( 4. e3 { played by 3 3 6 9 rated Saturn } 4... g6 5. h3 { played by 3 0 6 2 rated Kobra } ( 5. b3 { played by 2 9 4 6 rated monty } 5... Bg7 6. Bb2 O-O 7. Be2 Re8 8. O-O e5 9. d3 d5 10. cxd5 Nxd5 11. Qc2 Bd7 12. Qxc5 Be6 13. Qc1 Rc8 14. Qd2 Nb6 15. Bd1 Rc7 16. Ne1 f5 17. b4 Rd7 18. b5 Ne7 19. Qe2 g5 20. a4 g4 21. a5 Nbd5 22. Bb3 h5 23. Nc3 Ng6 24. Bc4 f4 25. Ne4 Rc7 26. Ba3 Bf8 27. b6 axb6 28. axb6 Rf7 29. Bc5 Nc3 30. Nxc3 Bxc5 { Here we see that EveAnn as Black rated 3 0 3 4 outplayed monty playing White, rated 2 9 4 6 and won as Black.0-1 } ) ( 5. Be2 { played by 3 3 4 0 rated Zangdar } 5... d5 6. cxd5 Nxd5 7. Qc2 Bg7 8. Qxc5 Bf5 9. Nc3 Nxc3 10. dxc3 Bd3 11. e4 Bxe4 12. O-O Qd5 13. Qxd5 Bxd5 14. a4 Na5 15. Bb5+ Bc6 16. Rd1 Nb3 17. Bxc6+ bxc6 18. Rb1 Nxc1 19. Rbxc1 Bf6 20. Rc2 h5 21. g3 h4 22. g4 h3 23. Kf1 Rb8 24. Rcd2 Bg7 25. Re1 e6 26. Re4 Rb3 27. Rc2 Ke7 28. Ne1 Rd8 29. Ke2 c5 30. Nd3 Rd5 { Here we see that Zangdar, rated 3 3 4 0, had the White pieces outplayed Rebel on Black with Elo 3 2 5 3 and won the game.1-0 } ) ( 5. b4 { played by 3 3 6 9 rated Saturn } 5... cxb4 6. axb4 Nxb4 7. Nc3 { played by 3 3 6 9 rated Saturn } ( 7. Be2 { played by 3 3 3 7 rated Stash } 7... a5 8. O-O e6 9. d3 d5 10. cxd5 exd5 11. Bb2 Be7 12. Bc3 O-O 13. Na3 Bd7 14. h3 b5 15. Qd2 Qb6 16. Rfb1 Rfc8 17. Ne5 Bf5 18. Nf3 h5 19. Ne5 Qb8 20. Bd4 Be6 21. Nf3 Bd7 22. Ne5 Qd6 23. Nxd7 Qxd7 24. Bxf6 Bxf6 25. d4 Rab8 26. Rc1 Rxc1+ 27. Qxc1 Na6 28. Rb1 Nc7 29. Nxb5 Nxb5 30. Qf1 a4 { The game between Stash playing White, rated 3 3 3 7 and Little, rated 3 2 8 6, had the Black pieces finished level.1/2-1/2 } ) 7... Bg7 8. Qb3 Nc6 9. d4 b6 10. Be2 d6 11. O-O O-O 12. Ba3 Bf5 13. Bb2 Ne4 14. Nxe4 Bxe4 15. Nd2 Bf5 16. Bc3 Qc7 17. h3 Rab8 18. Rfd1 a5 19. Rdc1 Rfc8 20. Qa4 Bd7 21. Qa3 Nd8 22. Bb2 Ne6 23. Bc3 Nf8 24. Rab1 Qd8 25. Qa1 Bc6 26. Bg4 Rc7 27. d5 Bxc3 28. Rxc3 Be8 29. Rcb3 Ra7 30. Be2 Nd7 { In this game, Heimdall handling the Black pieces rated 3 3 7 6 outplayed Saturn from the White side with rating 3 3 6 9 and won as Black.0-1 } ) 5... Bg7 6. d4 cxd4 7. exd4 d5 8. Nc3 O-O 9. Be2 b6 10. O-O Bb7 11. Bg5 Na5 12. Bxf6 Bxf6 13. cxd5 Bxd5 14. Rc1 Bxf3 15. Bxf3 Rc8 16. d5 Bxc3 17. Rxc3 Rxc3 18. bxc3 Qd6 19. Re1 Qxa3 20. Qd4 Nb7 21. h4 Nd6 22. Bg4 h5 23. Bh3 Re8 24. g3 Qa6 25. Bd7 Rd8 26. Bh3 Qb7 27. c4 Qc7 28. Qf4 Re8 29. Bf1 Qd7 30. Qe3 Qc8 { In an interesting battle, EveAnn playing Black, rated 3 1 0 7 outplayed Kobra handling the White pieces rated 3 0 6 2 and won as Black.0-1 } ) ( 4. Nc3 { played by 3 6 2 3 rated pawnocchio } 4... d5 5. cxd5 Nxd5 6. Qc2 { played by 3 5 6 4 rated Ethereal } ( 6. e4 { played by 3 1 9 3 rated Arasan } 6... Nc7 7. Bc4 g6 8. b4 Be6 9. Be2 cxb4 10. axb4 Bg7 11. b5 Nd4 12. Nxd4 Bxd4 13. O-O O-O 14. Bb2 a6 15. bxa6 bxa6 16. Ba3 Qd7 17. Rb1 Rfd8 18. Qc2 Rac8 19. Qd3 Bf6 20. Qxd7 Bxd7 21. Rfd1 Bc6 22. Bc5 Rb8 23. Rb6 Rxb6 24. Bxb6 Bxc3 25. dxc3 Rxd1+ 26. Bxd1 Nb5 27. c4 Nd6 28. Be2 Bxe4 29. f4 f6 30. c5 Nb5 { Here we see that Arasan handling the White pieces rated 3 1 9 3 remained in control, handing Myrddin from the Black side with rating 3 1 0 1 a loss.1-0 } ) ( 6. e3 { played by 3 2 6 6 rated Cadie } 6... e5 7. Qa4 { played by 2 8 3 5 rated Yukari } ( 7. Qc2 { played by 3 5 9 7 rated PlentyChess } 7... Be7 8. Bc4 Nb6 9. Bd3 { played by 3 4 4 2 rated Peacekeeper } 9... h6 10. O-O Be6 11. Bb5 O-O 12. Bxc6 bxc6 13. Nxe5 Bf6 14. Nxc6 Qd7 15. Na5 c4 16. Ne4 Be7 17. Nc3 Rfc8 18. Rd1 Rc5 19. b4 cxb3 20. Nxb3 Rg5 21. Nd4 Bh3 22. g3 Rc8 23. Qb3 Bf6 24. Nce2 Na4 25. Rb1 Bxd4 26. Nxd4 Nc5 27. Qb5 Qd5 28. f3 Qd6 29. Ne2 Ne4 30. Qb7 Nc3 { Here we see that PlentyChess as Black rated 3 5 9 7 defended accurately and defeated Peacekeeper handling the White pieces rated 3 4 4 2.0-1 } ) 7... Nb6 8. Qc2 f5 9. Bb5 e4 10. Ne5 Qd6 11. d4 exd3 12. Nxd3 a6 13. Bxc6+ Qxc6 14. O-O Be7 15. b3 O-O 16. Bb2 Be6 17. Nf4 Bf7 18. Nce2 Qb5 19. Qxf5 Bxb3 20. Qg4 Rf7 21. Bc3 Qc6 22. Rac1 Nc4 23. Ng3 Nxa3 24. e4 b5 25. e5 Qh6 26. Ngh5 Bg5 27. Bd2 Nc4 28. e6 Rff8 29. h4 Bxf4 30. Bxf4 Qg6 { In an interesting battle, The game between Yukari handling the White pieces rated 2 8 3 5 and Gaviota handling the Black pieces rated 2 7 9 5 finished level.1/2-1/2 } ) 6... g6 7. Nxd5 Qxd5 8. e4 Qd8 9. Qc3 Nd4 10. Nxd4 Qxd4 11. Qxd4 cxd4 12. Bc4 e5 13. d3 f6 14. f4 Bd6 15. fxe5 Bxe5 16. Bd2 Bd7 17. O-O g5 18. Rf2 Rc8 19. a4 h6 20. h4 Rh7 21. Raf1 Bxa4 22. hxg5 hxg5 23. Rxf6 Bxf6 24. Rxf6 Re7 25. Bxg5 Rxc4 26. dxc4 Rxe4 27. Rd6 Bc2 28. Rd8+ Kf7 29. Rd7+ Kg6 30. Bd2 b6 { The game between Ethereal, rated 3 5 6 4, had the White pieces and Igel on Black with Elo 3 5 3 2 finished level.1/2-1/2 } ) 4... cxd4 5. Nxd4 Nxd4 6. Qxd4 g6 7. g3 Bg7 8. Bg2 O-O 9. Nc3 d6 10. O-O Be6 11. Bxb7 Rb8 12. Bf3 Qa5 13. b4 Qa6 14. b5 Qa5 15. Bd2 Rfc8 16. Nd1 Qa4 17. Nc3 Qxc4 18. Qxa7 Nd7 19. Nd5 Bxd5 20. Rac1 Qxb5 21. a4 Qb7 22. Rxc8+ Rxc8 23. Qxb7 Bxb7 24. Bxb7 Rc2 25. Bg5 Rxe2 26. a5 Bd4 27. a6 Nf6 28. Rd1 Bc5 29. Rd2 Bxf2+ 30. Kf1 Rxd2 { Arasan handling the Black pieces rated 3 1 9 3 seized the initiative and handed Myrddin handling the White pieces rated 3 1 0 1 a loss.0-1 } 0-1
 
 [Event "?"]
 [Site "?"]
 [Date "????.??.??"]
 [Round "?"]
-[White "Roc"]
-[Black "Komodo"]
+[White "Stockfish"]
+[Black "Stockfish"]
 [Result "0-1"]
-[WhiteElo "3157"]
-[BlackElo "3376"]
+[WhiteElo "3645"]
+[BlackElo "3643"]
+[ECO "A00"]
+[Opening "Anderssen's opening"]
+[Variation "nan"]
 
-1. a3 { entered in a00_anderssen_s_opening } 1... Nf6 2. c4
-{ played by 3 2 0 0 rated Expositor } ( 2. d3
-{ played by 2 9 6 0 rated Nu-chess } 2... d5 3. f4 c5 4. Nf3 e6 5. g3 Nc6 6.
-Bg2 Be7 7. O-O O-O 8. Nc3 b6 9. e4 { played by 2 9 6 0 rated Nu-chess } 9...
-dxe4 10. dxe4 { played by 2 9 6 0 rated Nu-chess } ( 10. Ne5
-{ played by 3 2 5 1 rated Defenchess } 10... Bb7 11. Nxc6 Bxc6 12. dxe4 Qd4+
-13. Kh1 Qc4 14. e5 Bxg2+ 15. Kxg2 Ne4 16. Qe2 Qxe2+ 17. Nxe2 Rad8 18. a4 Rd5
-19. Ra3 Nd2 20. Rd1 Rfd8
-{ In this game, Neither Defenchess, rated 3 2 5 1, had the White pieces nor BlackCore from the Black side with rating 3 0 7 3 could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
-) 10... Ba6 11. Re1 Qc7 12. e5 Rad8 13. Bd2 Nd5 14. Ne4 Nd4 15. c3 Nf5 16. Qc2
-c4 17. Bc1 Bb7 18. Qf2 f6 19. g4 fxe5 20. gxf5 exf5
-{ Once again, BlackCore on Black with Elo 3 0 7 3 defended accurately and defeated Nu-chess on White with Elo 2 9 6 0. The opening quickly led to complex middlegame play.0-1 }
-) ( 2. Nf3 { played by 3 1 5 7 rated Roc } 2... d5 3. d4
-{ played by 3 1 5 7 rated Roc } 3... e6 4. Bf4
-{ played by 3 5 2 1 rated Peacekeeper } 4... c5 5. e3 Nc6 6. c3
-{ played by 3 5 2 1 rated Peacekeeper } ( 6. h3
-{ played by 2 8 5 8 rated Tornado } 6... c4 7. Be2 b5 8. b3 a6 9. O-O
-{ played by 2 9 8 8 rated Fizbo } 9... Bd6 10. a4 Rb8 11. axb5
-{ played by 2 9 8 8 rated Fizbo } ( 11. Bxd6
-{ played by 2 8 8 9 rated ChessBrainVB } 11... Qxd6 12. c3 Bd7 13. Nbd2 O-O 14.
-axb5 axb5 15. Qc2 Qc7 16. Ra2 Ra8 17. Rfa1 Rxa2 18. Rxa2 Ne8 19. Ng5 Nf6 20.
-Qb2 e5
-{ In this game, Neither ChessBrainVB on White with Elo 2 8 8 9 nor Tornado from the Black side with rating 2 8 5 8 could convert, and the game was drawn. Small inaccuracies made the difference.1/2-1/2 }
-) 11... axb5 12. Nc3 Bxf4 13. exf4 O-O 14. Ne5 Ne7 15. Bf3 Qc7 16. Ne2 Ne8 17.
-Qd2 f6 18. Ng4 Nd6 19. b4 Nef5 20. g3 Bd7
-{ In an interesting battle, The game between Fizbo as White rated 2 9 8 8 and BlackCore as Black rated 3 0 7 3 finished level. Both sides showed good positional understanding.1/2-1/2 }
-) 6... Bd6 7. Bxd6 Qxd6 8. Be2 { played by 3 5 2 1 rated Peacekeeper } 8... O-O
-9. O-O { played by 3 5 2 1 rated Peacekeeper } 9... b6 10. Re1
-{ played by 3 6 2 5 rated Obsidian } 10... Bb7 11. h3
-{ played by 3 6 2 5 rated Obsidian } ( 11. Bb5
-{ played by 3 5 8 1 rated Caissa } 11... a6 12. Ba4 b5 13. Bc2 e5 14. dxe5 Nxe5
-15. Nbd2 Nxf3+ 16. Nxf3 Rfd8 17. a4 bxa4 18. Rxa4 a5 19. h3 g6 20. Qa1 d4
-{ After a long struggle, Caissa playing White, rated 3 5 8 1 and Starzix playing Black, rated 3 5 6 4 shared the point. The position remained tense for most of the game.1/2-1/2 }
-) ( 11. Nbd2 { played by 3 5 5 7 rated Stormphrax } 11... e5 12. dxc5 bxc5 13.
-b4 Rfd8 14. bxc5 Qxc5 15. Qa4 Qe7 16. Nb3 Ne4 17. Rac1 Qf6 18. Nbd2 Qe7 19. Nb3
-{ we will see this position later on1/2-1/2 } ) 11... e5 12. dxe5 Nxe5 13. Nbd2
-Rfd8 14. Qa4 Qc7 15. b4 Bc6 16. Qb3 h6 17. a4 a5 18. Nxe5 Qxe5 19. bxa5 bxa5
-20. Qa3 c4
-{ In an interesting battle, After a long struggle, Obsidian handling the White pieces rated 3 6 2 5 and Alexandria playing Black, rated 3 6 1 8 shared the point. The opening quickly led to complex middlegame play.1/2-1/2 }
-) 2... c6 3. Nf3 d5 4. e3 Bg4 5. h3 Bh5 6. cxd5 cxd5 7. Nc3 Nc6 8. Bb5 Rc8 9.
-g4 { played by 3 1 4 2 rated Sting } ( 9. b4 { played by 3 1 0 2 rated Stash }
-9... e6 10. Be2 { played by 3 5 0 3 rated Rebel } 10... Bd6 11. Bb2 O-O 12. O-O
-Bb8 13. Nh4 Bxe2 14. Nxe2 Nd7 15. Nf3 Nde5 16. Nxe5 Nxe5 17. Bd4 Nc6 18. Bc3 a6
-19. b5 Qd6 20. f4 axb5
-{ After a long struggle, Tucano as White rated 3 3 4 0 and Rebel on Black with Elo 3 5 0 3 shared the point.1/2-1/2 }
-) ( 9. O-O { played by 3 3 7 5 rated Ethereal } 9... e6 10. Be2
-{ we will see this position later on0-1 } ( 10. b4
-{ we will see this position later on1-0 } ) ) 9... Bg6 10. Ne5
-{ played by 3 1 4 2 rated Sting } ( 10. d4 { played by 3 1 2 2 rated Invictus }
-10... e6 11. Ne5 Bd6 12. h4 h5 13. Nxg6 fxg6 14. g5 Ng8 15. Bd3 Nge7 16. f4 O-O
-17. Bd2 Na5 18. Nb5 Nc4 19. Bxc4 Rxc4 20. b3 Rc6
-{ In an interesting battle, Expositor as Black rated 3 2 0 0 seized the initiative and handed Invictus on White with Elo 3 1 2 2 a loss. Small inaccuracies made the difference.0-1 }
-) 10... e6 11. h4 d4 12. h5 Bxh5 13. gxh5 dxc3 14. dxc3 Qc7 15. Nxc6 bxc6 16.
-Be2 h6 17. Bd2 Bd6 18. Qc2 O-O 19. Rg1 Rfd8 20. c4 a5
-{ In this game, Critter, rated 3 2 0 0, had the Black pieces seized the initiative and handed Sting as White rated 3 1 4 2 a loss. The opening quickly led to complex middlegame play.0-1 }
-0-1
-
-
-
-[Event "?"]
-[Site "?"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Roc"]
-[Black "Komodo"]
-[Result "0-1"]
-[WhiteElo "3157"]
-[BlackElo "3376"]
-
-1. a3 { entered in a00_anderssen_s_opening } 1... Nf6 2. Nf3
-{ played by 3 1 5 7 rated Roc } ( 2. d4 { played by 3 3 5 9 rated Nemorino }
-2... d5 3. c4 { played by 3 3 5 9 rated Nemorino } ( 3. Bf4
-{ played by 2 8 1 4 rated Rodent } 3... Bf5 4. e3 e6 5. c4 Nbd7 6. Nc3 c6 7.
-Nf3 Be7 8. c5 O-O 9. Bd3 b6 10. cxb6 { played by 2 8 1 4 rated Rodent } 10...
-axb6 11. Bxf5 exf5 12. O-O { played by 2 8 1 4 rated Rodent } ( 12. Rc1
-{ played by 2 8 7 7 rated Crafty } 12... Ne4 13. O-O
-{ we will see this position later on0-1 } ) 12... Ne4 13. Rc1 Re8 14. Nd2 Nxc3
-15. Rxc3 c5 16. Qf3 Nf6 17. Be5 g6 18. Rfc1 Ng4 19. Bg3 c4 20. R3c2 Qd7
-{ Here we see that Crafty from the Black side with rating 2 8 7 7 outplayed Rodent as White rated 2 8 1 4 and won as Black. The position remained tense for most of the game.0-1 }
-) 3... c5 4. dxc5 e6 5. Bg5 Bxc5 6. e3 O-O 7. Nc3 dxc4 8. Bxc4 Nbd7 9. Nf3 a6
-10. a4 { played by 3 3 3 5 rated Expositor } ( 10. Ne4
-{ played by 3 5 9 1 rated Dragon } 10... b5 11. Be2
-{ played by 3 4 7 4 rated Caissa } 11... Bb7 12. Nxf6+ Nxf6 13. O-O h6 14. Qxd8
-Rfxd8 15. Bxf6 gxf6 16. Rfd1 f5 17. Rxd8+ Rxd8 18. a4 f4 19. axb5 axb5 20. exf4
-Bxf3
-{ After a long struggle, Caissa from the White side with rating 3 4 7 4 and Chess handling the Black pieces rated 3 5 4 2 shared the point.1/2-1/2 }
-) 10... b6 11. O-O { played by 3 3 3 5 rated Expositor } 11... h6 12. Bf4 Bb7
-13. h3 Bb4 14. Bd6 Bxd6 15. Qxd6 Qb8 16. Qxb8 Rfxb8 17. Nd4 Rd8 18. f3 g5 19.
-Rfd1 Rac8 20. Be2 h5
-{ Motor handling the Black pieces rated 3 4 6 6 outplayed Expositor as White rated 3 3 3 5 and won as Black. The opening quickly led to complex middlegame play.0-1 }
-) ( 2. c4 { played by 3 2 0 0 rated Expositor } 2... c6 3. Nf3 d5 4. e3 Bg4 5.
-h3 Bh5 6. cxd5 cxd5 7. Nc3 Nc6 8. Bb5 Rc8 9. b4
-{ played by 3 1 0 2 rated Stash } 9... e6 10. O-O
-{ played by 3 0 7 8 rated Avalanche } 10... Ne4 11. Na4
-{ played by 3 0 7 8 rated Avalanche } ( 11. Bb2
-{ played by 3 0 7 3 rated DeepSaros } 11... Bxf3 12. gxf3 Nd6 13. f4 Be7 14.
-Rc1 O-O 15. Be2 Bf6 16. Qb3 Nc4 17. Rfd1 Ne7 18. Bxc4 dxc4 19. Qc2 Qd7 20. d4
-b5
-{ In this game, DeepSaros from the White side with rating 3 0 7 3 outplayed Gull on Black with Elo 3 0 5 0 and won the game. The position remained tense for most of the game.1-0 }
-) 11... Bd6 12. Bb2 Bxf3 13. Qxf3 Nxd2 14. Qg4 Nxf1 15. Qxg7 Rf8 16. Rxf1 Qh4
-17. Nc5 Bxc5 18. bxc5 Qe4 19. Bd4 Qg6 20. Qe5 Rg8
-{ Avalanche handling the White pieces rated 3 0 7 8 converted the advantage and defeated Naum from the Black side with rating 2 9 5 4. The opening quickly led to complex middlegame play.1-0 }
-) 2... d5 3. d4 { played by 3 1 5 7 rated Roc } 3... e6 4. e3
-{ played by 3 0 9 8 rated Sting } ( 4. c4 { played by 2 9 6 9 rated Lozza }
-4... Be7 5. e3 O-O 6. Nc3 { played by 3 6 2 1 rated PlentyChess } 6... Nbd7 7.
-cxd5 exd5 8. Bd3 Bd6 9. Nb5 Be7 10. O-O { played by 3 6 2 1 rated PlentyChess }
-10... Re8 11. Nc3 { played by 3 6 2 1 rated PlentyChess } ( 11. Qc2
-{ played by 3 5 3 9 rated Rebel } 11... c5 12. Nc3 Bd6 13. dxc5 Nxc5 14. Bb5
-Re7 15. Be2 Nce4 16. Bd2 Rc7 17. Rfc1 Bd7 18. Qd1 Rac8
-{ In this game, After a long struggle, Rebel handling the White pieces rated 3 5 3 9 and Lizard from the Black side with rating 3 5 5 0 shared the point. Both sides showed good positional understanding.1/2-1/2 }
-) 11... Bd6 12. Re1 h6 13. h3 a6 14. Bd2 c5 15. Bc2 cxd4 16. Nxd4 Nc5 17. Rc1
-Bd7 18. Nce2 Nce4 19. Nf3 Rc8 20. Bc3 Bb8
-{ Neither PlentyChess on White with Elo 3 6 2 1 nor Horsie, rated 3 6 1 5, had the Black pieces could convert, and the game was drawn. The opening quickly led to complex middlegame play.1/2-1/2 }
-) 4... Bd6 5. c4 O-O 6. Nc3 b6 7. Be2 Bb7 8. O-O Nbd7 9. cxd5
-{ played by 3 0 9 8 rated Sting } 9... exd5 10. Nb5
-{ played by 3 1 0 6 rated Critter } 10... Be7 11. Nc3
-{ played by 3 1 0 6 rated Critter } ( 11. Ne5
-{ played by 3 1 0 6 rated Critter } 11... c5 12. Qc2 a6 13. Nc3 Rc8 14. Qf5 b5
-15. Nxd7 Qxd7 16. Qxd7 Nxd7 17. Bf3 Nf6 18. dxc5 Rxc5 19. Bd2 Ne4 20. Rfd1 Re8
-{ After a long struggle, Critter from the White side with rating 3 1 0 6 and Bouquet playing Black, rated 3 0 4 8 shared the point.1/2-1/2 }
-) ( 11. Nh4 { played by 2 9 8 4 rated HIARCS } 11... g6 12. Nc3 Ne4 13. Nf3 c5
-14. dxc5 Ndxc5 15. Nb5 a6 16. Nbd4 Bf6 17. b4 Nc3 18. Qe1 N5a4 19. Bd2 Ne4 20.
-Qd1 b5
-{ Once again, The game between HIARCS playing White, rated 2 9 8 4 and Naum, rated 2 9 9 9, had the Black pieces finished level. The opening quickly led to complex middlegame play.1/2-1/2 }
-) ( 11. Qc2 { played by 2 8 3 0 rated Tornado } 11... c6 12. Nc3 Bd6 13. Ng5 h6
-14. Nf3 a5 15. Nh4 Re8 16. Nf5 Bf8 17. Bf3 g6 18. Ng3 Nh7 19. e4 c5 20. Be3 Ng5
-{ Once again, After a long struggle, Tornado on White with Elo 2 8 3 0 and EXchess on Black with Elo 2 8 2 9 shared the point. Both sides showed good positional understanding.1/2-1/2 }
-) 11... c5 12. b3 Ne4 13. Bb2 Nxc3 14. Bxc3 Nf6 15. Bb2 Rc8 16. dxc5 bxc5 17.
-Qc2 Bd6 18. Rad1 Qe7 19. Bd3 Ne4 20. Nd2 f5
-{ In an interesting battle, Neither Critter handling the White pieces rated 3 1 0 6 nor Vitruvius, rated 3 0 6 2, had the Black pieces could convert, and the game was drawn. Both sides showed good positional understanding.1/2-1/2 }
-0-1
-
-
-
-[Event "?"]
-[Site "?"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Roc"]
-[Black "Komodo"]
-[Result "0-1"]
-[WhiteElo "3157"]
-[BlackElo "3376"]
-
-1. a3 { entered in a00_anderssen_s_opening } 1... Nf6 2. c4
-{ played by 3 2 0 0 rated Expositor } ( 2. Nf3 { played by 3 1 5 7 rated Roc }
-2... d5 3. d4 { played by 3 1 5 7 rated Roc } ( 3. g3
-{ played by 2 8 4 2 rated Deep } 3... c6 4. Bg2 Bg4 5. d3 Nbd7 6. O-O
-{ played by 2 8 4 2 rated Deep } 6... e5 7. h3 Bh5 8. Nc3 Be7 9. Nh4 O-O 10.
-Nf5 Re8 11. Qe1 Nc5 12. e4 dxe4 13. Nxe4 { played by 2 8 4 2 rated Deep } ( 13.
-dxe4 { played by 2 8 0 8 rated Spark } 13... Bg6 14. Nh4
-{ played by 2 8 0 8 rated Spark } ( 14. Nxe7+ { played by 2 8 7 0 rated Doch }
-14... Qxe7 15. f3 Ne6 16. Qf2 Nd7 17. h4 Nb6 18. a4 Nd4 19. Be3 Rad8 20. b3 Qb4
-{ In an interesting battle, Doch on White with Elo 2 8 7 0 and Spark, rated 2 8 0 8, had the Black pieces played a balanced game which ended in a draw.1/2-1/2 }
-) 14... b5 15. Nxg6 hxg6 16. Be3 Bd6 17. Rd1 Qe7 18. f3 a5 19. Qf2 Ncd7 20. a4
-b4
-{ Once again, Doch, rated 2 8 7 0, had the Black pieces defended accurately and defeated Spark, rated 2 8 0 8, had the White pieces. Both sides showed good positional understanding.0-1 }
-) 13... Ne6 14. Be3 Nd5 15. b4 Bg6 16. Nxe7+ Qxe7 17. Rb1 Rad8 18. Nc3 Qc7 19.
-h4 h6 20. a4 Nef4
-{ In an interesting battle, Deep, rated 2 8 4 2, had the White pieces overpressed, and Komodo from the Black side with rating 2 9 1 6 secured the win. The position remained tense for most of the game.0-1 }
-) 3... e6 4. b3 { played by 3 2 8 4 rated Komodo } ( 4. e3
-{ played by 3 0 9 8 rated Sting } 4... Bd6 5. c4 O-O 6. Nc3 b6 7. Be2 Bb7 8.
-O-O Nbd7 9. cxd5 { played by 3 0 9 8 rated Sting } 9... exd5 10. Nb5
-{ played by 3 1 0 6 rated Critter } 10... Be7 11. b3
-{ played by 3 0 6 2 rated Vitruvius } 11... a6 12. Nc3 c5 13. Bb2 Bd6 14. dxc5
-{ played by 3 0 6 2 rated Vitruvius } 14... bxc5 15. Qc2 Qe7 16. Rfd1 Rfe8 17.
-Qf5 Ne5 18. b4 c4 19. Rd2 Neg4 20. Rad1 Rad8
-{ Here we see that Vitruvius on White with Elo 3 0 6 2 and Critter on Black with Elo 3 1 0 6 played a balanced game which ended in a draw. Small inaccuracies made the difference.1/2-1/2 }
-) 4... b6 5. Bb2 Bb7 6. e3 Nbd7 7. Bd3 Bd6 8. O-O O-O 9. Ne5 Ne4 10. Nd2 f5 11.
-Ndf3 Rf6 12. Nxd7 Qxd7 13. Ne5 { played by 3 2 8 4 rated Komodo } ( 13. a4
-{ played by 2 8 3 6 rated Zurichess } 13... Rh6 14. a5 Qe7 15. h3 a6 16. Qe2 b5
-17. Ne5 Bxe5 18. dxe5 Rg6 19. Bxe4 fxe4 20. Rac1 c5
-{ Once again, After a long struggle, Zurichess, rated 2 8 3 6, had the White pieces and Murka from the Black side with rating 2 8 3 2 shared the point. Small inaccuracies made the difference.1/2-1/2 }
-) 13... Qe7 14. f3 Ng5 15. a4 a5 16. Rc1 Rh6 17. Rf2 Nf7 18. f4 Bxe5 19. dxe5
-d4 20. exd4 Qh4
-{ In this game, SugaR as Black rated 3 4 4 4 defended accurately and defeated Komodo as White rated 3 2 8 4. Small inaccuracies made the difference.0-1 }
-) ( 2. d4 { played by 3 3 5 9 rated Nemorino } 2... d5 3. c4
-{ played by 3 3 5 9 rated Nemorino } 3... c5 4. dxc5 e6 5. Bg5 Bxc5 6. e3 O-O
-7. Nc3 dxc4 8. Bxc4 Nbd7 9. Nf3 a6 10. Ne4 { played by 3 5 9 1 rated Dragon }
-10... b5 11. Bd3 { played by 3 5 8 5 rated Berserk } 11... Be7 12. Nxf6+ Nxf6
-13. O-O Bb7 14. Bf4 { played by 3 4 8 4 rated Texel } 14... Qd5 15. Qe2 Ne4 16.
-Rfd1 Bf6 17. Rac1 Rac8 18. Bc7 h6 19. Qc2 Rfe8 20. h3 Ba8
-{ Once again, Neither Texel, rated 3 4 8 4, had the White pieces nor Berserk handling the Black pieces rated 3 5 8 5 could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
-) ( 2. f4 { played by 3 2 4 8 rated Schooner } 2... g6 3. Nf3 Bg7 4. g3 O-O 5.
-Bg2 b6 6. d3 d5 7. O-O Bb7 8. Qe1 c5 9. Nbd2
-{ played by 3 2 4 8 rated Schooner } 9... Nc6 10. e4
-{ played by 3 0 4 0 rated Arasan } 10... dxe4 11. dxe4 Nd4 12. Nxd4 Qxd4+ 13.
-Kh1 e5 14. f5 { played by 3 0 4 0 rated Arasan } ( 14. Qe2
-{ played by 3 0 3 5 rated SmarThink } 14... exf4 15. gxf4 Nxe4 16. c3 Qa4 17.
-Nxe4 Rae8 18. f5 Bxe4 19. fxg6 hxg6 20. Bg5 Bxg2+
-{ Arasan from the Black side with rating 3 0 4 0 defended accurately and defeated SmarThink playing White, rated 3 0 3 5. Both sides showed good positional understanding.0-1 }
-) 14... Rac8 15. a4 c4 16. Ra3 Rfd8 17. fxg6 hxg6 18. Rc3 Rd7 19. Qe2 Rdc7 20.
-Ra3 Bc6
-{ SmarThink on Black with Elo 3 0 3 5 defended accurately and defeated Arasan on White with Elo 3 0 4 0. Both sides showed good positional understanding.0-1 }
-) 2... c6 3. Nf3 d5 4. e3 Bg4 5. h3 Bh5 6. cxd5 cxd5 7. Nc3 Nc6 8. Bb5 Rc8 9.
-b4 { played by 3 1 0 2 rated Stash } 9... e6 10. Bb2
-{ played by 3 1 0 2 rated Stash } 10... Be7 11. Bxc6+ bxc6 12. Na4
-{ played by 3 1 0 2 rated Stash } ( 12. Qa4 { played by 3 0 5 0 rated Gull }
-12... Nd7 13. Ne2 O-O 14. Nf4 Bxf3 15. gxf3 d4 16. exd4 Nb6 17. Qc2 Nd5 18. Nd3
-a5 19. bxa5 Qxa5 20. a4 Rfd8
-{ Once again, Neither Gull as White rated 3 0 5 0 nor DeepSaros as Black rated 3 0 7 3 could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
-) 12... O-O 13. g4 Bg6 14. Ne5 Nd7 15. Nxd7 Qxd7 16. d4 Be4 17. f3 Bh4+ 18. Ke2
-Bg6 19. Nc5 Qc7 20. f4 Be7
-{ Here we see that Fritz on Black with Elo 3 1 3 5 outplayed Stash on White with Elo 3 1 0 2 and won as Black. The position remained tense for most of the game.0-1 }
-0-1
-
-
-
-[Event "?"]
-[Site "?"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Roc"]
-[Black "Komodo"]
-[Result "0-1"]
-[WhiteElo "3157"]
-[BlackElo "3376"]
-
-1. a3 { entered in a00_anderssen_s_opening } 1... Nf6 2. Nf3
-{ played by 3 1 5 7 rated Roc } ( 2. f4 { played by 3 2 4 8 rated Schooner }
-2... g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 b6 6. d3 d5 7. O-O Bb7 8. Qe1 c5 9. Nbd2
-{ played by 3 2 4 8 rated Schooner } 9... Nc6 10. e4
-{ played by 3 0 4 0 rated Arasan } 10... dxe4 11. dxe4 Nd4 12. Nxd4 Qxd4+ 13.
-Kh1 e5 14. c3 { played by 2 9 8 5 rated Senpai } 14... Qd7 15. fxe5
-{ played by 2 9 8 5 rated Senpai } ( 15. Qe2 { played by 2 8 8 8 rated Amoeba }
-15... exf4 16. gxf4 Rad8 17. Kg1 Qg4 18. Qxg4 Nxg4 19. Re1 Rd3 20. Nc4 Re8
-{ In this game, Neither Amoeba playing White, rated 2 8 8 8 nor Pedone as Black rated 3 0 0 4 could convert, and the game was drawn.1/2-1/2 }
-) 15... Ng4 16. Bh3 Nf2+ 17. Rxf2 Qxh3 18. Nf3 Rae8 19. Kg1 Bxe5 20. Qd1 Bb8
-{ Here we see that Arasan as Black rated 3 0 4 0 seized the initiative and handed Senpai, rated 2 9 8 5, had the White pieces a loss. Small inaccuracies made the difference.0-1 }
-) ( 2. d4 { played by 3 3 5 9 rated Nemorino } 2... d5 3. c4
-{ played by 3 3 5 9 rated Nemorino } 3... c5 4. dxc5 e6 5. Bg5 Bxc5 6. e3 O-O
-7. Nc3 dxc4 8. Bxc4 Nbd7 9. Nf3 a6 10. a4 { played by 3 3 3 5 rated Expositor }
-( 10. Ne4 { played by 3 5 9 1 rated Dragon } 10... b5 11. Bd3
-{ played by 3 5 8 5 rated Berserk } 11... Be7 12. Nxf6+ Nxf6 13. O-O Bb7 14.
-Qe2 { played by 3 5 9 1 rated Dragon } 14... Bxf3 15. gxf3 Nd5 16. Bxe7 Qxe7
-17. Be4 { played by 3 5 9 1 rated Dragon } ( 17. a4
-{ played by 3 5 8 5 rated Berserk } 17... Rab8 18. axb5
-{ played by 3 5 8 5 rated Berserk } ( 18. f4
-{ played by 3 5 2 6 rated rofChade } 18... Nf6 19. axb5 axb5 20. Bxb5 e5
-{ Here we see that Neither rofChade from the White side with rating 3 5 2 6 nor Motor as Black rated 3 4 6 6 could convert, and the game was drawn. The position remained tense for most of the game.1/2-1/2 }
-) 18... Qg5+ 19. Kh1 axb5 20. f4 Qe7
-{ Here we see that Neither Berserk playing White, rated 3 5 8 5 nor Texel from the Black side with rating 3 4 8 4 could convert, and the game was drawn.1/2-1/2 }
-) 17... Rad8 18. a4 bxa4 19. Rxa4 Nb4 20. f4 Qc5
-{ In an interesting battle, The game between Dragon from the White side with rating 3 5 9 1 and Nemorino on Black with Elo 3 3 5 9 finished level. The position remained tense for most of the game.1/2-1/2 }
-) 10... b6 11. Rc1 { played by 3 4 6 6 rated Motor } 11... h6 12. Bh4 Qe7 13.
-O-O Rd8 14. Qe2 Bb7 15. Bd3 Qe8 16. Rfd1 { played by 3 4 6 6 rated Motor } (
-16. Bc2 { played by 3 4 6 6 rated Motor } 16... Be7 17. Rfd1 Rac8 18. Rd4
-{ played by 3 4 6 6 rated Motor } ( 18. h3 { played by 3 4 6 6 rated Motor }
-18... a5 19. Bg3 Nc5 20. e4 Rxd1+
-{ In an interesting battle, After a long struggle, Motor, rated 3 4 6 6, had the White pieces and rofChade from the Black side with rating 3 5 2 6 shared the point. Small inaccuracies made the difference.1/2-1/2 }
-) 18... a5 19. Rcd1 Nd5 20. Bxe7 Qxe7
-{ Here we see that Motor on White with Elo 3 4 6 6 and Expositor handling the Black pieces rated 3 3 3 5 played a balanced game which ended in a draw. The outcome was decided in the later stages.1/2-1/2 }
-) 16... Be7 17. Bc2 { we will see this position later on1/2-1/2 } ) 2... d5 3.
-d4 { played by 3 1 5 7 rated Roc } 3... e6 4. e3
-{ played by 3 0 9 8 rated Sting } 4... Bd6 5. c4 O-O 6. Nc3 b6 7. Be2 Bb7 8.
-O-O Nbd7 9. cxd5 { played by 3 0 9 8 rated Sting } 9... exd5 10. Nb5
-{ played by 3 1 0 6 rated Critter } 10... Be7 11. b3
-{ played by 3 0 6 2 rated Vitruvius } 11... a6 12. Nc3 c5 13. Bb2 Bd6 14. Rc1
-{ played by 3 0 4 8 rated Bouquet } 14... Qe7 15. a4
-{ played by 3 0 4 8 rated Bouquet } ( 15. Bd3 { played by 2 9 1 1 rated Spark }
-15... Rae8 16. Bf5 cxd4 17. Qxd4 Bc5 18. Qf4 Bd6 19. Qd4
-{ we will see this position later on1-0 } ) 15... Rac8 16. Nh4 Qe6 17. Nf3 Rfd8
-18. Bd3 cxd4 19. Nxd4 Qe5 20. g3 g6
-{ In this game, After a long struggle, Bouquet as White rated 3 0 4 8 and Critter as Black rated 3 1 0 6 shared the point. Both sides showed good positional understanding.1/2-1/2 }
-0-1
-
-
+1. a3 c5 2. c4 { played by 3 6 3 5 rated Torch } 2... Nf6 3. Nf3 { played by 3 3 6 9 rated Saturn } 3... Nc6 4. Nc3 { played by 3 6 2 3 rated pawnocchio } 4... d5 5. cxd5 Nxd5 6. e3 { played by 3 2 6 6 rated Cadie } ( 6. g3 { played by 3 6 2 3 rated pawnocchio } 6... e5 7. d3 { played by 3 5 6 7 rated Astra } ( 7. Bg2 { played by 2 7 4 6 rated Annie } 7... Nxc3 8. bxc3 e4 9. Ng1 Bf5 10. Qa4 Qe7 11. h4 O-O-O 12. d3 exd3 13. Bxc6 Qd6 14. e4 d2+ 15. Bxd2 Qxd2+ 16. Kf1 Qb2 17. Kg2 Qxa1 18. Nf3 Bh3+ 19. Rxh3 Qxc3 20. Bd5 a6 21. Rh1 Qf6 22. e5 Qe7 23. Qe4 f6 24. a4 Qd7 25. Rd1 Kb8 26. h5 Ka7 27. e6 Qc7 28. Nh4 b6 29. a5 bxa5 30. Rb1 Rb8 { The game between Annie, rated 2 7 4 6, had the White pieces and Nawito on Black with Elo 2 7 5 5 finished level.1/2-1/2 } ) ( 7. Nxd5 { played by 3 6 2 3 rated pawnocchio } 7... Qxd5 8. d3 Be7 9. Be3 { played by 3 4 8 1 rated Wasp } ( 9. Bg2 { played by 3 6 2 1 rated Clover } 9... O-O 10. Be3 { played by 3 5 8 6 rated pawnocchio } ( 10. O-O { played by 3 6 2 1 rated Clover } 10... Qd6 11. Nd2 { played by 3 3 9 2 rated Cheng } ( 11. Bd2 { played by 3 5 3 2 rated Igel } 11... Rd8 12. Bc3 Be6 13. Nd2 Qd7 14. Nc4 f6 15. Na5 Nxa5 16. Bxa5 Rdc8 17. Qd2 Rab8 18. Bc3 Rc7 19. Qe3 Rbc8 20. Rad1 b6 21. Rd2 Bf8 22. Qe4 Rd8 23. Qh4 Rcc8 24. Qe4 Qf7 25. Qb7 Rc7 26. Qe4 h6 27. Rdd1 a5 28. Bf3 Qd7 29. Bh5 Bf5 30. Qc4+ Kh7 { Once again, Clarity on Black with Elo 3 5 2 9 seized the initiative and handed PZChessBot, rated 3 4 8 8, had the White pieces a loss.0-1 } ) ( 11. Bg5 { played by 3 5 6 7 rated Astra } 11... Rd8 12. Bxe7 Qxe7 13. Qc2 Bg4 14. Rac1 b6 15. Qa4 Bd7 16. Qh4 Qxh4 17. Nxh4 Nd4 18. Rfe1 Rab8 19. Nf3 Nxf3+ 20. Bxf3 a5 21. Bd5 Bh3 22. Bc4 g5 23. f3 Rd4 24. g4 h5 25. gxh5 Bd7 26. h6 Kf8 27. Rc2 Ke7 28. e3 Rh4 29. d4 Bc6 30. Be2 exd4 { Neither Astra handling the White pieces rated 3 5 6 7 nor pawnocchio, rated 3 5 8 6, had the Black pieces could convert, and the game was drawn.1/2-1/2 } ) ( 11. Be3 { played by 3 6 2 1 rated Clover } 11... Be6 12. Nd2 Bd5 13. Bxd5 Qxd5 14. Qb3 { played by 3 6 2 1 rated Clover } ( 14. Rc1 { played by 3 4 8 8 rated Sirius } 14... Nd4 15. Bxd4 exd4 16. Qb3 Qd7 17. a4 b6 18. Qb5 Qe6 19. Rfe1 Bg5 20. Rc2 Bxd2 21. Rxd2 Rfd8 22. Rc2 a6 23. Qc4 Qd7 24. e4 dxe3 25. Rxe3 Re8 26. Rxe8+ Rxe8 27. Qxa6 Re1+ 28. Kg2 h6 29. f3 Qe6 30. a5 Re2+ { In this game, The game between Sirius as White rated 3 4 8 8 and Wasp, rated 3 4 8 1, had the Black pieces finished level.1/2-1/2 } ) 14... Qxb3 15. Nxb3 b6 16. Nd2 f5 17. f3 h6 18. Rfc1 Rf6 19. Rc4 Re6 20. Kf1 h5 21. h4 Kf7 22. Re1 { Here we see that Neither Clover, rated 3 6 2 1, had the White pieces nor pawnocchio as Black rated 3 6 2 3 could convert, and the game was drawn.1/2-1/2 } 22... Rg6 23. Bf2 Re6 ) 11... Qc7 12. Nc4 Be6 13. Be3 b5 14. Bxc6 Qxc6 15. Nxe5 Qb7 16. f4 f6 17. Nf3 c4 18. dxc4 Bxc4 19. Bd4 a5 20. Rc1 a4 21. Rf2 Rac8 22. h3 Bb3 23. Qf1 { Once again, Cheng handling the White pieces rated 3 3 9 2 overpressed, and Schoenemann playing Black, rated 3 4 0 6 secured the win.0-1 } 23... Bc4 ) 10... Be6 11. Rc1 Qa2 12. Bxc5 Bxc5 13. Rxc5 Qxb2 14. Qc1 Qxc1+ 15. Rxc1 Rac8 16. Kd2 f6 17. Rc5 e4 18. dxe4 Rfd8+ 19. Ke3 Ne5 20. Rxc8 Ng4+ 21. Kf4 Rxc8 22. h4 Nxf2 23. Rf1 Ng4 24. Rb1 b6 25. Bh3 h5 26. Rb5 Bf7 27. Bxg4 hxg4 28. Nd4 Rc3 29. e5 Bc4 30. Rb4 fxe5+ { Once again, The game between pawnocchio handling the White pieces rated 3 5 8 6 and Astra as Black rated 3 5 6 7 finished level.1/2-1/2 } ) 9... Bd7 10. Bg2 O-O 11. O-O Qe6 12. Rc1 b6 13. b4 cxb4 14. axb4 Nxb4 15. d4 e4 16. Ne5 Bb5 17. Bxe4 Rad8 18. Bf3 a5 19. Bg4 Qa2 20. Rb1 f6 21. Ra1 Qc2 22. Be6+ Kh8 23. Nd3 Bxd3 24. exd3 Qxd1 25. Rfxd1 Nd5 26. Rdc1 Rd6 27. Bxd5 Rxd5 28. Rc7 Bd8 29. Rb7 Kg8 30. Rb1 h5 { Sirius handling the Black pieces rated 3 4 8 8 seized the initiative and handed Wasp as White rated 3 4 8 1 a loss.0-1 } ) 7... Nxc3 8. bxc3 e4 9. dxe4 Qxd1+ 10. Kxd1 Be6 11. Kc2 Na5 12. Bf4 O-O-O 13. h4 Bb3+ 14. Kb2 Bd6 15. e5 Bc7 16. Bh3+ Kb8 17. Bg5 f6 18. exf6 Rhe8 19. Rae1 gxf6 20. Bxf6 Rd6 21. Bg5 Ba4 22. Bf5 h6 23. Bf4 Rb6+ 24. Ka1 Nc4 25. Bc1 a6 26. Bd3 Bb3 27. h5 Ka7 28. Rh4 Na5 29. Bg6 Ree6 30. Nd2 Be5 { Once again, Annie from the Black side with rating 2 7 4 6 seized the initiative and handed Nawito as White rated 2 7 5 5 a loss.0-1 } ) 6... e5 7. Qc2 { played by 3 5 9 7 rated PlentyChess } 7... Be7 8. Bc4 Nb6 9. Bb5 { played by 3 5 9 7 rated PlentyChess } 9... O-O 10. O-O Qc7 11. b3 f6 12. a4 Be6 13. a5 Nd5 14. Bc4 Qd7 15. Nxd5 Bxd5 16. d4 exd4 17. exd4 cxd4 18. Rd1 Rfd8 19. Nxd4 Bxc4 20. Qxc4+ Qd5 21. Be3 Qxc4 22. bxc4 Ne5 23. a6 bxa6 24. Rdc1 Bc5 25. Nf5 Nd3 26. Rcb1 Rab8 27. Rf1 Bxe3 28. Nxe3 Nc5 29. Ra5 Rbc8 30. Rb1 Rd4 { In an interesting battle, After a long struggle, PlentyChess on White with Elo 3 5 9 7 and Peacekeeper as Black rated 3 4 4 2 shared the point.1/2-1/2 } 0-1
 
