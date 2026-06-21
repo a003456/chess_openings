@@ -1,0 +1,468 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish"]
+[Black "Stockfish"]
+[Result "0-1"]
+[WhiteElo "3652"]
+[BlackElo "3652"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. a4 { played then } ( 9. O-O { played then } 9... c5 { played then } ( 9... Bb7 { played then } 10. a4 { we will see this position later on } ) 10. a4 b4 11. Ne4 { we will see this position later on } ) ( 9. Ne4 { played then } 9... c5 10. Nxf6+ Nxf6 11. dxc5 Bxc5 12. O-O Bb7 13. Qe2 O-O 14. a4 bxa4 15. Rxa4 a5 16. Rh4 Qb6 17. e4 Nd7 18. e5 g6 19. Qd2 f5 20. exf6 Bxf3 21. Rxh7 Nxf6 22. Rh6 Be4 23. Bxe4 Nxe4 { Once again, Fizbo, rated 3 2 2 6, had the White pieces converted the advantage.1-0 } ) 9... b4 { played then } ( 9... Bb7 { played then } 10. O-O b4 11. Ne4 c5 { we will see this position later on } ) 10. Ne4 c5 11. Nxf6+ Nxf6 12. O-O cxd4 13. exd4 Bd6 14. Ne5 Bb7 15. Qe2 O-O 16. Bg5 h6 17. Bh4 Be7 18. Rfd1 a5 19. Rac1 Rc8 20. Rxc8 Qxc8 21. Bc4 Qc7 22. Bg3 Qb6 23. Bb5 Rc8 24. Nc4 Qd8 25. Be5 Ne4 26. Qg4 g6 27. Qf4 Bg5 28. Qg4 Bd5 { Once again, Stockfish playing Black, rated 3 4 3 7  won the game.0-1 } 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish"]
+[Black "Stockfish"]
+[Result "0-1"]
+[WhiteElo "3652"]
+[BlackElo "3652"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. Ne4 { played then } ( 9. a4 { played then } 9... b4 { played then } ( 9... Bb7 { played then } 10. axb5 axb5 11. Rxa8 Qxa8 12. O-O Be7 13. e4 b4 14. Na4 O-O 15. Re1 Qa5 16. b3 Ra8 17. Ng5 Nf8 18. e5 Nd5 19. Ne4 Ba6 20. Bxa6 Rxa6 21. g3 Nd7 22. Qg4 Ra7 { In this game, Heimdall on White with Elo 3 4 4 0 converted the advantage.1-0 } ) 10. Nb1 c5 11. Nbd2 Be7 12. a5 O-O 13. O-O Bb7 14. Nc4 Qc7 15. Re1 Rac8 16. Qe2 Rfd8 17. Nfe5 Ba8 { In this game,  balanced game which ended in a draw.1/2-1/2 } ) ( 9. O-O { played then } 9... c5 10. Qe2 Bb7 11. Rd1 Qc7 12. Bd2 Be7 13. Rac1 c4 14. Bc2 O-O 15. a3 Nd5 16. Ra1 h6 17. e4 Nf4 18. Qe1 Ng6 19. Rab1 Nf6 20. Rbc1 Rad8 21. h3 Nh5 22. Bb1 f5 { Here we see that SugaR on Black with Elo 3 4 7 7  won the game.0-1 } ) 9... Nxe4 { played then } ( 9... c5 { played then } 10. dxc5 Bxc5 11. Nxf6+ Nxf6 { we will see this position later on } ) 10. Bxe4 Bb7 11. O-O Nf6 12. Bd3 c5 13. dxc5 Bxc5 { we will see this position later on } 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish"]
+[Black "Stockfish"]
+[Result "0-1"]
+[WhiteElo "3652"]
+[BlackElo "3652"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. O-O { played then } ( 9. a4 { played then } 9... Bb7 { played then } ( 9... b4 { played then } 10. Ne4 Bb7 11. Nxf6+ Nxf6 12. O-O c5 { we will see this position later on } ) 10. Ne4 { played then } ( 10. b3 { played then } 10... bxa4 11. Nxa4 c5 12. dxc5 Nxc5 13. Nxc5 Bxc5 14. O-O O-O 15. Bb2 a5 16. Qe2 Bxf3 17. gxf3 Be7 18. Rfd1 Qb6 19. f4 Qxb3 20. Rab1 Qa2 21. Rd2 Qa4 22. Be5 Rfc8 23. Rb5 Rc5 { Once again,  balanced game which ended in a draw.1/2-1/2 } ) ( 10. axb5 { played then } 10... cxb5 11. O-O Bd6 12. e4 e5 13. Be3 O-O 14. d5 Re8 15. Nd2 Nc5 16. Bc2 Rc8 17. Qf3 Re7 18. Ne2 Rec7 19. Ng3 g6 20. Nb3 Nxb3 { Once again, Fritz from the White side with rating 3 2 0 4  won the game.1-0 } ) 10... c5 11. Nxf6+ gxf6 12. axb5 axb5 13. Rxa8 Qxa8 14. dxc5 Bxc5 15. O-O Rg8 16. Kh1 Ne5 17. Bxb5+ Ke7 18. Be2 Bc6 19. Bd2 Qb7 20. b3 Rb8 21. Ba5 Nxf3 22. gxf3 Bd6 23. Rg1 Bd5 24. b4 f5 25. b5 Ra8 26. Bc3 Ra2 { Here we see that Komodo, rated 3 3 4 3, had the Black pieces  won the game.0-1 } ) 9... Bb7 10. e4 c5 11. d5 Qc7 12. dxe6 fxe6 13. Bc2 Bd6 14. Ng5 Nf8 15. f4 O-O-O 16. Qe2 h6 17. Nf3 Bxf4 18. Bxf4 Qxf4 19. g3 Qc7 { In an interesting battle,  the game was drawn.1/2-1/2 } 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish"]
+[Black "Stockfish"]
+[Result "0-1"]
+[WhiteElo "3652"]
+[BlackElo "3652"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. a4 { played then } ( 9. Ne4 { played then } 9... c5 10. Nxf6+ Nxf6 11. O-O c4 12. Bc2 Bb7 13. b3 cxb3 14. axb3 Qd5 15. Qd3 Be7 16. Ba3 Bxa3 17. Rxa3 Qd6 18. Raa1 O-O { In this game, Arasan, rated 3 4 3 0, had the Black pieces  won the game.0-1 } ) 9... Bb7 { played then } ( 9... b4 { played then } 10. Ne4 Be7 { played then } ( 10... c5 { played then } 11. O-O Bb7 12. Nxf6+ Qxf6 13. a5 h6 14. Be2 Bd6 15. Qa4 Ke7 16. Rd1 Rhc8 17. Bd2 Rab8 18. Rac1 Bc6 19. Qa2 c4 20. Ne1 Bxh2+ 21. Kf1 Bd6 22. Bxc4 Qh4 { Rebel handling the Black pieces rated 3 4 2 4  won the game.0-1 } ) 11. Nxf6+ Bxf6 12. e4 Bb7 13. e5 Be7 14. Be4 h6 15. O-O Qc7 16. Bf4 O-O 17. Re1 Rfd8 18. Qc1 Nf8 19. Bxh6 gxh6 20. Qxh6 c5 21. dxc5 Bxe4 22. Rxe4 Ng6 { Here we see that Yakka, rated 3 2 1 5, had the White pieces  won the game.1-0 } ) 10. Ne4 { played then } ( 10. O-O { played then } 10... b4 11. Qb3 c5 12. Ne2 Rc8 13. Bd2 a5 14. Rfc1 Bd6 15. Bb5 O-O 16. Be1 Qe7 17. Nd2 Rfd8 18. f3 e5 { Once again, Tarnished from the Black side with rating 3 5 7 2 converted the advantage.0-1 } ) 10... Nxe4 11. Bxe4 Be7 12. O-O O-O 13. Qc2 f5 14. Bd3 c5 15. axb5 Bxf3 16. gxf3 axb5 17. Rxa8 Qxa8 18. Bxb5 Qxf3 19. Bxd7 Qg4+ 20. Kh1 Qf3+ 21. Kg1 { we will see this position later on } 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish"]
+[Black "Stockfish"]
+[Result "0-1"]
+[WhiteElo "3652"]
+[BlackElo "3652"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. a4 { played then } ( 9. Ne4 { played then } 9... c5 10. dxc5 Bxc5 11. Nxf6+ Qxf6 12. Be4 Ra7 13. O-O Bb7 14. Bxb7 Rxb7 15. Rb1 O-O 16. b4 Be7 17. Bb2 Qf5 18. Qd4 f6 19. Nh4 Qh5 { the game was drawn.1/2-1/2 } ) ( 9. O-O { played then } 9... Bb7 10. e4 c5 11. d5 c4 12. Bc2 Qc7 13. dxe6 fxe6 14. Nd4 Nc5 15. Qe2 Bd6 16. f4 e5 17. Nf5 O-O 18. Nxd6 Qxd6 19. fxe5 Qxe5 20. Rf5 Qc7 21. Bg5 Rae8 22. Raf1 Ncd7 23. a3 Qd6 { Once again,  balanced game which ended in a draw.1/2-1/2 } ) 9... b4 { played then } ( 9... Bb7 { played then } 10. O-O b4 11. Ne4 Be7 12. Qc2 c5 13. Nxc5 Bxc5 14. dxc5 Rc8 15. Rd1 O-O 16. c6 Bxc6 17. Qe2 a5 18. e4 Qc7 19. Be3 Bxe4 { Once again, Xiphos as White rated 3 3 0 3  won the game.1-0 } ) 10. Ne4 c5 { played then } ( 10... Bb7 { played then } 11. Nxf6+ Qxf6 12. Be4 Bd6 13. O-O O-O 14. Nd2 Qe7 15. b3 Nf6 16. Bf3 e5 17. Nc4 e4 18. Nxd6 Qxd6 19. Be2 a5 { Once again, Komodo, rated 3 4 0 4, had the Black pieces  won the game.0-1 } ) 11. Qc2 Bb7 12. Nxf6+ Nxf6 13. dxc5 { we will see this position later on } 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish"]
+[Black "Stockfish"]
+[Result "0-1"]
+[WhiteElo "3652"]
+[BlackElo "3652"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. a4 { played then } ( 9. Ne4 { played then } 9... c5 10. Nxf6+ Nxf6 11. dxc5 Bxc5 12. Qe2 O-O 13. O-O { we will see this position later on } ) 9... b4 { played then } ( 9... Bb7 { played then } 10. Ne4 c5 11. Nxf6+ gxf6 12. O-O c4 13. Be2 Rg8 14. g3 f5 15. Nd2 Qc8 16. Bf3 Nf6 17. Re1 Ne4 18. Bg2 b4 19. f3 Nxd2 { In this game,  balanced game which ended in a draw.1/2-1/2 } ) 10. Ne4 c5 { played then } ( 10... Bb7 { played then } 11. Nxf6+ Nxf6 12. Qe2 c5 13. O-O { we will see this position later on } ) 11. O-O { played then } ( 11. Nxf6+ { played then } 11... Nxf6 12. dxc5 Bb7 13. Qe2 Ne4 14. c6 Bxc6 15. Bxa6 Qb6 16. Bd3 Nc5 17. Bc4 Rxa4 18. Rxa4 Bxa4 19. b3 Nxb3 20. O-O Na5 21. Bd3 Be7 22. Bb2 O-O 23. Ra1 Be8 { Houdini playing White, rated 3 2 9 0 converted the advantage.1-0 } ) 11... cxd4 12. exd4 Bb7 13. Nxf6+ Nxf6 14. a5 Be7 15. Qa4+ Qd7 16. Qxd7+ Nxd7 17. Bf4 O-O 18. Rfc1 Nf6 19. Nd2 Rac8 { In this game,  balanced game which ended in a draw.1/2-1/2 } 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish"]
+[Black "Stockfish"]
+[Result "0-1"]
+[WhiteElo "3652"]
+[BlackElo "3652"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. a4 { played then } ( 9. Ne4 { played then } 9... c5 10. Nxf6+ Nxf6 11. dxc5 Bxc5 12. a4 Bd7 13. b3 bxa4 14. bxa4 Bb4+ 15. Bd2 Bxd2+ 16. Qxd2 Bc6 17. O-O Bxf3 18. gxf3 O-O 19. Rfd1 a5 20. Rab1 Qd5 { balanced game which ended in a draw.1/2-1/2 } ) 9... b4 { played then } ( 9... Bb7 { played then } 10. O-O b4 11. Ne4 Be7 12. b3 c5 13. Ned2 cxd4 14. exd4 Nd5 15. Qe1 O-O 16. Nc4 Nc3 17. Qe3 Bxf3 18. Qxf3 Nb6 19. Na5 Qxd4 20. Nc6 Qf6 { Once again, Komodo, rated 3 4 5 6, had the Black pieces converted the advantage.0-1 } ) 10. Ne4 c5 { played then } ( 10... Bb7 { played then } 11. Nxf6+ Nxf6 12. b3 c5 13. Bb2 Nd5 14. Qd2 cxd4 15. Bxd4 Be7 16. O-O Bf6 17. Be4 O-O 18. Rfc1 Rb8 19. Rc5 Qd6 20. Rc4 Bxd4 21. Qxd4 Qe7 22. Re1 Rfd8 23. Qe5 f6 24. Qg3 Rbc8 { Here we see that  the game was drawn.1/2-1/2 } ) 11. O-O { played then } ( 11. Nxf6+ { played then } 11... Nxf6 12. a5 Bb7 13. O-O { we will see this position later on } ) 11... Bb7 12. Qc2 cxd4 13. exd4 Be7 14. Be3 O-O 15. Nxf6+ Nxf6 16. Ne5 Bd6 17. Qe2 { we will see this position later on } 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish"]
+[Black "Stockfish"]
+[Result "0-1"]
+[WhiteElo "3652"]
+[BlackElo "3652"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. a4 { played then } ( 9. Ne4 { played then } 9... c5 10. Nxf6+ Nxf6 11. dxc5 Bxc5 12. O-O O-O 13. Qe2 Qe7 14. e4 e5 15. a4 Bd7 16. axb5 axb5 17. Bg5 b4 18. h3 h6 19. Bh4 Rxa1 20. Rxa1 Rc8 21. Ra6 Bc6 { Once again, Shredder, rated 3 2 4 6, had the White pieces converted the advantage.1-0 } ) 9... Bb7 { played then } ( 9... b4 { played then } 10. Ne4 c5 11. Nxf6+ Nxf6 12. O-O { played then } ( 12. dxc5 { played then } 12... Bxc5 13. Qe2 Bb7 { we will see this position later on } ) 12... Bb7 13. Qe2 cxd4 14. exd4 Bd6 { we will see this position later on } ) 10. O-O { played then } ( 10. axb5 { played then } 10... axb5 11. Rxa8 Qxa8 12. O-O b4 13. Na4 Be7 14. b3 c5 15. Nxc5 Nxc5 16. dxc5 O-O 17. Bb2 Rc8 18. Bd4 Bxc5 19. Bxf6 gxf6 20. Nd4 Kf8 21. Qg4 Ke7 22. g3 h5 { balanced game which ended in a draw.1/2-1/2 } ) 10... b4 11. Ne4 Be7 12. Nxf6+ Bxf6 13. a5 c5 14. Bd2 O-O 15. Re1 e5 16. Qc2 exd4 17. Bxh7+ Kh8 18. Bf5 g6 19. Bg4 d3 { the game was drawn.1/2-1/2 } 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish"]
+[Black "Stockfish"]
+[Result "0-1"]
+[WhiteElo "3652"]
+[BlackElo "3652"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. Ne4 { played then } ( 9. a4 { played then } 9... b4 10. Ne4 c5 { played then } ( 10... Bb7 { played then } 11. Nxf6+ Nxf6 12. b3 Nd5 13. Bb2 c5 { we will see this position later on } ) 11. Nxf6+ { played then } ( 11. O-O { played then } 11... Bb7 12. Nxf6+ gxf6 13. Qe2 Rg8 14. Bxh7 Rg4 15. Bc2 Rg8 16. a5 Qc7 17. Rd1 O-O-O 18. e4 Kb8 19. Be3 f5 20. exf5 c4 21. fxe6 fxe6 22. g3 Be7 { Houdini handling the White pieces rated 3 3 9 1 converted the advantage.1-0 } ) 11... Nxf6 12. a5 cxd4 13. exd4 Be7 14. O-O O-O 15. Ne5 Bb7 16. Be3 Qd5 17. Qf3 Qxf3 18. Nxf3 Rfd8 19. Ne5 Nd5 20. Rfc1 Rac8 21. Bd2 f6 { Here we see that  the game was drawn.1/2-1/2 } ) 9... c5 10. Nxf6+ Nxf6 11. dxc5 Bxc5 12. Qe2 { played then } ( 12. a4 { played then } 12... Qa5+ 13. Bd2 b4 14. Qc2 Bb7 15. Bb5+ axb5 16. Qxc5 Ne4 17. Qxb4 Nxd2 18. Qxd2 Qxd2+ 19. Kxd2 bxa4 20. Rhc1 O-O { In this game,  the game was drawn.1/2-1/2 } ) 12... Qe7 13. O-O e5 14. e4 Bd7 15. Bg5 h6 16. Bh4 Bd6 17. Rfd1 O-O 18. Bc2 Rfd8 19. h3 Bc6 20. Bb3 Rac8 { Once again,  the game was drawn.1/2-1/2 } 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish"]
+[Black "Stockfish"]
+[Result "0-1"]
+[WhiteElo "3652"]
+[BlackElo "3652"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. Ne4 { played then } ( 9. a4 { played then } 9... b4 { played then } ( 9... Bb7 { played then } 10. axb5 axb5 { played then } ( 10... cxb5 { played then } 11. O-O Bd6 12. e4 e5 13. Re1 O-O 14. d5 Re8 15. Be3 Rc8 16. Nd2 Nc5 17. Bc2 Re7 18. Na2 Rec7 19. b4 Ncd7 20. Bd3 Qf8 { In this game,  balanced game which ended in a draw.1/2-1/2 } ) 11. Rxa8 Qxa8 12. O-O Be7 13. b3 O-O 14. Bb2 Rc8 15. Qe2 b4 16. Na4 Qb8 17. Rc1 c5 18. Nxc5 Nxc5 19. dxc5 Bxc5 20. Be5 Bxf3 21. Bxb8 Bxe2 22. Bxe2 Rxb8 { Here we see that  the game was drawn.1/2-1/2 } ) 10. Ne4 c5 11. Nxf6+ Nxf6 12. a5 Qd5 13. O-O c4 14. Bb1 Bb7 15. Re1 Qb5 16. e4 b3 17. d5 Bb4 18. Bd2 Rd8 19. Nd4 Qc5 20. Ra4 Bxd2 { In an interesting battle,  the game was drawn.1/2-1/2 } ) 9... c5 10. Nxf6+ Nxf6 11. dxc5 Bxc5 12. Qe2 { played then } ( 12. O-O { played then } 12... Bb7 13. a4 O-O 14. axb5 axb5 15. Rxa8 Qxa8 16. Bxb5 Bb4 17. b3 Bc3 18. Bc4 Rc8 19. Qe2 Bd5 20. Bxd5 Qxd5 21. Qd1 Rb8 { In an interesting battle,  the game was drawn.1/2-1/2 } ) 12... Bb4+ 13. Bd2 Bxd2+ 14. Nxd2 Bb7 15. O-O Qb6 16. a4 bxa4 17. e4 O-O 18. Nc4 Qb4 19. Qc2 Rfc8 20. Rxa4 Qc5 21. Rd1 h6 22. Raa1 Rc7 23. b3 Qd4 24. e5 Qd5 { In an interesting battle,  the game was drawn.1/2-1/2 } 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish"]
+[Black "Stockfish"]
+[Result "0-1"]
+[WhiteElo "3652"]
+[BlackElo "3652"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. a4 { played then } ( 9. Ne4 { played then } 9... c5 10. Nxf6+ Nxf6 11. dxc5 Bxc5 12. a4 Bd7 13. axb5 axb5 14. Rxa8 Qxa8 15. O-O O-O 16. b3 Bc6 17. Bb2 Be7 18. Qe2 Qb7 19. Rc1 h6 20. Bd4 Ra8 { the game was drawn.1/2-1/2 } ) 9... b4 { played then } ( 9... Bb7 { played then } 10. O-O b4 11. Ne4 Be7 12. b3 c5 13. Nxf6+ Bxf6 14. Re1 cxd4 15. exd4 Nc5 16. Bc2 O-O 17. Bf4 Bxf3 18. Qxf3 Bxd4 19. Rad1 Qf6 20. Qg3 g6 21. Re2 Rfe8 { Once again,  the game was drawn.1/2-1/2 } ) 10. Ne4 c5 { played then } ( 10... Bb7 { played then } 11. Nxf6+ Nxf6 12. Qe2 c5 13. dxc5 { we will see this position later on } ) 11. O-O { played then } ( 11. Nxf6+ { played then } 11... Nxf6 12. dxc5 Bb7 13. c6 Bxc6 14. Qe2 Bd6 15. O-O Ne4 { we will see this position later on } ) 11... Bb7 12. Nxf6+ Qxf6 13. Re1 h6 14. Qe2 Bd6 15. e4 cxd4 16. e5 Bxf3 17. exf6 Bxe2 18. fxg7 Rg8 19. Bxe2 Rxg7 20. Rd1 e5 21. Bf3 Rd8 { In an interesting battle, Komodo as Black rated 3 3 6 5  won the game.0-1 } 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish"]
+[Black "Stockfish"]
+[Result "0-1"]
+[WhiteElo "3652"]
+[BlackElo "3652"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. a4 { played then } ( 9. Ne4 { played then } 9... c5 10. Nxf6+ Nxf6 11. dxc5 Bxc5 12. O-O O-O 13. b3 Bb7 14. Bb2 Bb4 15. a4 bxa4 16. bxa4 a5 17. Rc1 Qe7 18. Ne5 Rac8 19. Rxc8 Rxc8 20. Qb1 h6 { In this game,  balanced game which ended in a draw.1/2-1/2 } ) 9... b4 10. Ne4 c5 11. Nxf6+ { played then } ( 11. O-O { played then } 11... Bb7 12. Nxf6+ Qxf6 13. Bd2 h6 14. Rc1 Bd6 15. Qe2 O-O 16. Rfd1 Rfd8 17. Be1 cxd4 18. Nxd4 Nc5 19. Bc4 a5 20. Nb5 Bf8 21. b3 Nd7 { Here we see that Komodo as Black rated 3 4 1 1  won the game.0-1 } ) 11... Nxf6 12. O-O { played then } ( 12. dxc5 { played then } 12... Bxc5 13. e4 Bb7 14. Qe2 { we will see this position later on } ) ( 12. a5 { played then } 12... Qd5 13. Qa4+ Bd7 14. Qc2 cxd4 15. e4 Qb7 16. Nxd4 Ng4 17. O-O Ne5 18. Be2 Be7 19. Bf4 Ng6 20. Be3 O-O { the game was drawn.1/2-1/2 } ) 12... Bb7 13. a5 Be7 14. Qa4+ Qd7 15. Qxd7+ Nxd7 16. Bd2 Rb8 17. Be2 O-O 18. Rfd1 Rfc8 19. Ne1 cxd4 20. exd4 b3 21. Rac1 Ra8 22. Nd3 h6 23. f3 Bd8 24. Kf2 Rcb8 25. g3 Bd5 26. h4 Bf6 { Xiphos from the White side with rating 3 3 0 3  won the game.1-0 } 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish"]
+[Black "Stockfish"]
+[Result "0-1"]
+[WhiteElo "3652"]
+[BlackElo "3652"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. a4 b4 10. Ne4 c5 11. Nxf6+ { played then } ( 11. O-O { played then } 11... Bb7 12. Nxf6+ Qxf6 13. b3 cxd4 14. exd4 h6 15. Bb2 Bd6 16. Nd2 O-O 17. Qe2 Qe7 18. g3 a5 19. Rfc1 Nf6 20. Rc2 Rfc8 21. Nc4 Qd8 22. Rd1 Bd5 { In this game, Xiphos as Black rated 3 3 0 3  won the game.0-1 } ) 11... Nxf6 12. dxc5 { played then } ( 12. O-O { played then } 12... Bb7 13. dxc5 Bxc5 14. b3 O-O 15. Bb2 Qa5 16. Qe2 Rfd8 17. Rfd1 Rac8 18. Rac1 Bf8 19. Rxc8 Rxc8 20. Nd2 Qg5 21. g3 Qd5 22. e4 Qc6 23. Rc1 Bc5 { Zahak, rated 3 2 9 1, had the White pieces  won the game.1-0 } ) 12... Bb7 { played then } ( 12... Bxc5 { played then } 13. O-O O-O 14. b3 Bb7 { we will see this position later on } ) 13. O-O { we will see this position later on } ( 13. Qc2 { played then } 13... Qc7 14. b3 Qxc5 15. Qxc5 Bxc5 16. Bb2 O-O 17. Rc1 Rac8 18. Ne5 Be7 19. Rxc8 Rxc8 20. f3 Bd5 21. Nc4 Nd7 { In an interesting battle,  balanced game which ended in a draw.1/2-1/2 } ) 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish"]
+[Black "Stockfish"]
+[Result "0-1"]
+[WhiteElo "3652"]
+[BlackElo "3652"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. a4 { played then } ( 9. O-O { played then } 9... c5 10. Qe2 Bb7 11. Rd1 Qc7 12. Bd2 Be7 13. Rac1 Qb8 14. e4 cxd4 15. Nxd4 O-O 16. h3 Rc8 17. a3 Bd6 18. Bb1 Nb6 19. Bg5 Nbd7 20. Nb3 h6 21. Be3 Bc7 { In an interesting battle,  the game was drawn.1/2-1/2 } ) 9... b4 { played then } ( 9... Bb7 { played then } 10. Ne4 Nxe4 11. Bxe4 Be7 12. O-O O-O 13. Qc2 h6 14. b3 Qb6 15. Ba3 b4 16. Bb2 c5 17. Nd2 Rac8 18. Nc4 Qa7 19. Bxb7 Qxb7 20. Rad1 cxd4 21. Bxd4 e5 { In an interesting battle,  the game was drawn.1/2-1/2 } ) 10. Ne4 c5 11. O-O { played then } ( 11. Nxf6+ { played then } 11... Nxf6 12. O-O cxd4 13. exd4 Be7 14. Ne5 Bb7 15. Be3 Qd5 16. f3 O-O 17. a5 Rfc8 18. Bf2 Qd8 19. Re1 Nd5 20. g3 Bd6 21. Qe2 b3 { Once again, Koivisto on Black with Elo 3 4 8 8  won the game.0-1 } ) 11... Bb7 12. Nxf6+ Qxf6 13. Qe2 { played then } ( 13. e4 { played then } 13... cxd4 14. Bg5 Qg6 15. e5 Qh5 16. Be2 Nxe5 17. Nxe5 Qxg5 18. Bf3 Qxe5 19. Bxb7 Ra7 20. Bc6+ Ke7 { balanced game which ended in a draw.1/2-1/2 } ) 13... Bxf3 14. gxf3 Bd6 15. Bxa6 cxd4 16. exd4 O-O 17. Kg2 Qh4 18. Rh1 Nf6 19. a5 Bc7 20. Qc4 Bf4 21. Bxf4 Qxf4 { balanced game which ended in a draw.1/2-1/2 } 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish"]
+[Black "Stockfish"]
+[Result "0-1"]
+[WhiteElo "3652"]
+[BlackElo "3652"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. a4 { played then } ( 9. Ne4 { played then } 9... c5 10. Nxf6+ Nxf6 11. dxc5 Bxc5 12. O-O O-O 13. Qe2 Bb7 { we will see this position later on } ) 9... b4 10. Ne4 c5 11. O-O { played then } ( 11. Nxf6+ { played then } 11... Nxf6 12. dxc5 { played then } ( 12. O-O { played then } 12... Bb7 13. a5 cxd4 14. Qa4+ Qd7 15. Qxd7+ Nxd7 16. exd4 Bxf3 17. gxf3 Nf6 18. Bf4 Nd5 19. Be5 h5 20. Rfe1 Kd7 21. h4 Be7 { Here we see that Stockfish handling the White pieces rated 3 2 0 6  won the game.1-0 } ) 12... Bb7 13. Qe2 Bxc5 14. e4 O-O 15. O-O { we will see this position later on } ) 11... Bb7 12. Nxf6+ Qxf6 13. a5 { played then } ( 13. Re1 { played then } 13... Qd8 14. b3 cxd4 15. exd4 Be7 16. Bf4 O-O 17. a5 Nf6 18. Qe2 Re8 19. Be5 Ra7 20. h3 Qa8 21. Rac1 h6 { Once again,  balanced game which ended in a draw.1/2-1/2 } ) 13... cxd4 14. exd4 Bd6 15. Be2 O-O 16. Qa4 Qe7 17. Bg5 Nf6 18. Ne5 h6 19. Bd2 Nd5 20. Rac1 Qh4 21. Rc4 Rac8 22. g3 Qh3 23. f3 Bxe5 24. dxe5 Qh5 25. Bxb4 Rfd8 26. Qb3 Qxe5 { In an interesting battle, Komodo on Black with Elo 3 3 8 1 converted the advantage.0-1 } 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish"]
+[Black "Stockfish"]
+[Result "0-1"]
+[WhiteElo "3652"]
+[BlackElo "3652"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. a4 { played then } ( 9. O-O { played then } 9... c5 10. Qe2 Bb7 11. Rd1 Qc7 12. Bd2 Be7 13. Rac1 O-O 14. e4 c4 15. Bc2 b4 16. Na4 Rac8 17. e5 Nd5 18. Ng5 g6 19. Ne4 Rfd8 20. Qg4 Bc6 21. Bg5 Bxa4 { In this game,  balanced game which ended in a draw.1/2-1/2 } ) 9... b4 10. Ne4 c5 11. Nxf6+ { played then } ( 11. O-O { played then } 11... Bb7 12. Nxf6+ Qxf6 13. a5 Bxf3 14. Qxf3 Qxf3 15. gxf3 Bd6 16. Be4 Rb8 17. Bd3 Ra8 18. dxc5 Nxc5 19. Bc4 Ke7 20. Bd2 Rab8 21. b3 Rhd8 22. Ra2 g5 23. Kg2 Rg8 24. Rc2 h6 25. Rb1 Rgc8 26. h4 Nb7 27. Ra2 Nc5 28. hxg5 hxg5 29. Rh1 Rc6 30. Rh5 Kf6 31. Rh6+ Kg7 { Here we see that  the game was drawn.1/2-1/2 } ) 11... Nxf6 12. O-O { played then } ( 12. dxc5 { played then } 12... Bxc5 { played then } ( 12... Bb7 { played then } 13. Qc2 Bxc5 14. Qxc5 Qxd3 15. Qxb4 Bxf3 16. gxf3 Rd8 17. Bd2 Qf5 18. Qf4 Qxf4 19. exf4 Nd5 20. Ke2 Ke7 21. b4 Rd7 { Here we see that  the game was drawn.1/2-1/2 } ) 13. O-O Bb7 { we will see this position later on } ) 12... Bb7 13. dxc5 Ne4 14. c6 Bxc6 15. Qe2 Bd6 16. Bxa6 O-O 17. Nd4 Bd5 18. Bb5 f5 19. g3 Ng5 20. Rd1 Qc7 21. f4 Nh3+ 22. Kf1 Qb7 23. a5 Rac8 24. a6 Qa8 25. Ke1 Rfd8 26. e4 Bxe4 { Here we see that  the game was drawn.1/2-1/2 } 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish"]
+[Black "Stockfish"]
+[Result "0-1"]
+[WhiteElo "3652"]
+[BlackElo "3652"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. a4 { played then } ( 9. Ne4 { played then } 9... c5 10. Nxf6+ Nxf6 11. dxc5 Bxc5 12. O-O Bb7 13. Qe2 O-O 14. b3 Qe7 15. a4 Nd5 16. Bb2 Nb4 17. axb5 Nxd3 18. Qxd3 axb5 19. Qxb5 Bxf3 20. gxf3 Qg5+ 21. Kh1 Qd5 22. Rxa8 Rxa8 { In an interesting battle,  balanced game which ended in a draw.1/2-1/2 } ) 9... b4 10. Ne4 c5 11. Nxf6+ { played then } ( 11. O-O { played then } 11... Bb7 12. Qc2 cxd4 13. exd4 Be7 14. Qe2 Nxe4 15. Bxe4 Bxe4 16. Qxe4 O-O 17. Be3 Nf6 18. Qd3 h6 19. Rfc1 Bd6 20. Rc6 a5 21. Rac1 Qd7 { Stockfish on Black with Elo 3 3 8 6 converted the advantage.0-1 } ) 11... Nxf6 12. O-O Bb7 { played then } ( 12... cxd4 { played then } 13. exd4 Bd6 14. Qe2 O-O 15. Ne5 Bb7 { we will see this position later on } ) 13. a5 { played then } ( 13. Qe2 { played then } 13... cxd4 14. Nxd4 Be7 15. Rd1 O-O 16. Nb3 Bd6 17. g3 h6 18. e4 Nd7 19. Be3 Qb8 20. Rac1 Rc8 21. Rxc8+ Bxc8 { Here we see that Igel from the White side with rating 3 2 8 8  won the game.1-0 } ) 13... Nd7 14. Bd2 Be7 15. Qe2 O-O 16. Rfc1 Bd6 17. Bc2 cxd4 18. exd4 Nf6 19. Bd3 Re8 20. Bg5 h6 21. Bxf6 gxf6 22. Be4 Qd7 23. Nd2 f5 { balanced game which ended in a draw.1/2-1/2 } 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish"]
+[Black "Stockfish"]
+[Result "0-1"]
+[WhiteElo "3652"]
+[BlackElo "3652"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. a4 { played then } ( 9. Ne4 { played then } 9... c5 10. Nxf6+ Nxf6 11. dxc5 Bxc5 12. O-O Bb7 13. a4 O-O 14. Qe2 { we will see this position later on } ) 9... Bb7 { played then } ( 9... b4 { played then } 10. Ne4 c5 11. Nxf6+ { played then } ( 11. O-O { played then } 11... Bb7 12. Nxf6+ Qxf6 13. Re1 h6 14. b3 cxd4 15. exd4 Bd6 16. Bb2 Bxf3 17. Qxf3 Qxf3 18. gxf3 Nf6 19. Be4 Nxe4 20. fxe4 Kd7 21. Re2 Bf4 { Here we see that Gull playing Black, rated 3 2 2 3 converted the advantage.0-1 } ) 11... Nxf6 12. a5 cxd4 13. exd4 Be7 14. Ne5 Bb7 15. Qa4+ Kf8 16. Nc6 Qd5 17. Nxe7 Qxg2 18. Rf1 Kxe7 19. Qxb4+ Kd7 20. b3 Qc6 21. Ba3 Nd5 22. Qc5 g6 23. Bc4 Rhe8 24. O-O-O Qc7 25. Qxc7+ Nxc7 26. Bc5 Nd5 27. Rde1 Rg8 { Once again,  balanced game which ended in a draw.1/2-1/2 } ) 10. axb5 { played then } ( 10. O-O { played then } 10... b4 11. Ne4 Be7 12. b3 c5 13. Nxf6+ Bxf6 14. Bb2 cxd4 15. exd4 Nc5 16. Bc4 O-O 17. Rc1 a5 18. Re1 Rc8 19. Ne5 Ne4 20. Ng4 Bg5 21. Rc2 Rc7 22. Ne5 g6 23. Qg4 h5 24. Qe2 Bf6 25. Bc1 Nd6 { Once again,  the game was drawn.1/2-1/2 } ) 10... axb5 11. Rxa8 Qxa8 12. O-O b4 13. Na4 Be7 14. e4 { we will see this position later on } 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish"]
+[Black "Stockfish"]
+[Result "0-1"]
+[WhiteElo "3652"]
+[BlackElo "3652"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. a4 { played then } ( 9. Ne4 { played then } 9... c5 10. Nxf6+ Nxf6 11. dxc5 Bxc5 12. O-O Bb7 13. Qe2 O-O 14. e4 Qc7 15. Bg5 h6 16. Bxf6 gxf6 17. Rfc1 Qb6 18. Ne1 Rfc8 19. Qg4+ Kh7 20. Qh4 e5 21. Rc2 Rc7 22. Rac1 Rac8 { balanced game which ended in a draw.1/2-1/2 } ) 9... b4 10. Ne4 c5 11. O-O { played then } ( 11. Nxf6+ { played then } 11... Nxf6 12. O-O Bb7 { played then } ( 12... cxd4 { played then } 13. exd4 Bd6 14. a5 O-O 15. Re1 Bb7 16. Ne5 Bc7 17. Bg5 Qd5 18. Nf3 Qd8 19. Ne5 { we will see this position later on } ) 13. dxc5 Bxc5 14. Qe2 O-O 15. e4 h6 16. e5 Nd7 17. Bf4 a5 18. Rac1 Rc8 19. Rfd1 Bb6 20. Bc2 Bd5 21. Qd3 f5 22. exf6 Qxf6 23. Bg3 b3 24. Qh7+ Kf7 25. Bh4 Bxf2+ { the game was drawn.1/2-1/2 } ) 11... Bb7 12. Nxf6+ Qxf6 13. Bd2 { played then } ( 13. Qe2 { played then } 13... Bxf3 14. Qxf3 Qxf3 15. gxf3 Bd6 16. f4 cxd4 17. exd4 g6 18. Bd2 Nf6 19. Kg2 Kd7 20. Kf3 a5 21. Rg1 Rhc8 22. h4 Be7 23. Be3 Nd5 { Here we see that  the game was drawn.1/2-1/2 } ) 13... h6 14. Qc2 Bxf3 15. gxf3 Be7 16. Be4 Rd8 17. dxc5 a5 18. c6 Nc5 19. Rfd1 O-O 20. Rac1 Qg5+ 21. Kf1 Qh5 22. f4 Nxe4 23. Qxe4 Rd5 24. Qg2 Rc8 { Here we see that Komodo on Black with Elo 3 3 6 5 converted the advantage.0-1 } 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish"]
+[Black "Stockfish"]
+[Result "0-1"]
+[WhiteElo "3652"]
+[BlackElo "3652"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. a4 { played then } ( 9. Ne4 { played then } 9... c5 10. Nxf6+ Nxf6 11. dxc5 Bxc5 12. O-O Bb7 13. Qe2 O-O 14. a4 Qc7 15. e4 Ng4 16. h3 Ne5 17. Bf4 Nxf3+ 18. Qxf3 Bd6 19. Rac1 Qb8 20. Bxd6 Qxd6 21. axb5 axb5 22. Bxb5 Rab8 { the game was drawn.1/2-1/2 } ) ( 9. O-O { played then } 9... c5 10. Qe2 Bb7 11. Rd1 Qc7 12. Bd2 Be7 13. Rac1 c4 14. Bc2 b4 15. Na4 Rc8 16. Bb3 Bd5 17. Be1 Ne4 18. Nd2 Nxd2 19. Bxd2 Nf6 20. e4 Nxe4 21. Bxc4 Bxc4 22. Qxe4 Qc6 { Here we see that Gull, rated 3 2 2 3, had the White pieces  won the game.1-0 } ) 9... b4 10. Ne4 c5 11. Nxf6+ Nxf6 12. O-O Bb7 { played then } ( 12... cxd4 { played then } 13. exd4 Bd6 14. Bg5 Bb7 15. Qe2 { we will see this position later on } ) 13. Qe2 cxd4 14. Rd1 { played then } ( 14. e4 { played then } 14... Be7 15. Bf4 O-O 16. Rfd1 Nh5 17. Bd2 Nf6 18. Bf4 { we will see this position later on } ) 14... Bd6 15. exd4 O-O 16. Bg5 h6 17. Bh4 g5 18. Bg3 Bxg3 19. hxg3 Qd6 20. Ne5 Kg7 21. Qe3 Rad8 22. Bf1 Rc8 23. Nc4 Qe7 { Here we see that Equinox as White rated 3 2 0 4  won the game.1-0 } 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish"]
+[Black "Stockfish"]
+[Result "0-1"]
+[WhiteElo "3652"]
+[BlackElo "3652"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. a4 Bb7 { played then } ( 9... b4 { played then } 10. Ne4 Be7 { played then } ( 10... c5 { played then } 11. O-O { played then } ( 11. Nxf6+ { played then } 11... Nxf6 12. O-O Bb7 13. Qe2 cxd4 14. exd4 Be7 15. Be3 Qa5 16. Ne5 O-O 17. Rac1 { we will see this position later on } ) 11... Bb7 12. Nxf6+ Qxf6 13. a5 h6 14. Be2 Rc8 15. Qa4 Bc6 16. Qd1 Bb7 { we will see this position later on } ) 11. Nxf6+ Bxf6 12. e4 Bb7 13. e5 Be7 14. Be4 f5 15. exf6 Nxf6 16. Bd3 c5 17. O-O O-O 18. Qe2 Bxf3 19. Qxe6+ Kh8 20. gxf3 Ra7 21. Bxa6 cxd4 22. Bd3 Nd7 { Komodo, rated 3 4 7 5, had the White pieces converted the advantage.1-0 } ) 10. axb5 axb5 11. Rxa8 Qxa8 12. O-O Be7 { played then } ( 12... b4 { played then } 13. Na4 Be7 14. b3 O-O 15. Bb2 { we will see this position later on } ) 13. e4 b4 14. Na4 c5 15. e5 Bxf3 16. gxf3 Nd5 17. Nxc5 Bxc5 18. dxc5 O-O 19. Qc2 h6 20. Bh7+ Kh8 21. Be4 Rc8 22. Be3 Nxe5 { Here we see that  balanced game which ended in a draw.1/2-1/2 } 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish"]
+[Black "Stockfish"]
+[Result "0-1"]
+[WhiteElo "3652"]
+[BlackElo "3652"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. a4 Bb7 { played then } ( 9... b4 { played then } 10. Ne4 c5 11. Nxf6+ { played then } ( 11. O-O { played then } 11... Bb7 12. Nxf6+ Qxf6 13. b3 cxd4 14. exd4 Bd6 15. Bg5 Bxf3 16. Qxf3 Qxf3 17. gxf3 Nb6 18. Rfc1 Kd7 19. Rc2 Rhc8 20. Rxc8 Kxc8 21. h4 Kd7 22. a5 Nd5 { In an interesting battle,  the game was drawn.1/2-1/2 } ) 11... Nxf6 12. O-O { played then } ( 12. dxc5 { played then } 12... Bb7 13. Qe2 Bxc5 14. e4 h6 15. O-O O-O { we will see this position later on } ) 12... Bb7 { played then } ( 12... cxd4 { played then } 13. exd4 Bd6 14. Qe2 Bb7 15. Ne5 { we will see this position later on } ) 13. dxc5 Bxc5 14. b3 Nd5 15. Bb2 Nc3 16. Qc2 Bxf3 17. gxf3 Qg5+ 18. Kh1 Qh5 19. f4 O-O 20. Be4 Nxe4 21. Qxe4 Be7 22. Rac1 Rad8 23. Rg1 g6 24. Bd4 Rd5 { In an interesting battle,  the game was drawn.1/2-1/2 } ) 10. axb5 axb5 11. Rxa8 Qxa8 12. O-O Be7 13. b3 O-O 14. Bb2 b4 15. Na4 Rd8 16. Qe2 c5 17. dxc5 Nxc5 18. Nxc5 Bxc5 19. Ra1 Qb8 20. Bxf6 gxf6 21. Bxh7+ Kxh7 22. Qc2+ Kg7 23. Qxc5 Bxf3 24. gxf3 Rh8 25. Kf1 Rxh2 26. Ra4 Rh1+ 27. Ke2 e5 28. Qxb4 Qd8 29. Qd2 Qc8 30. Rc4 Qa6 31. Qc3 Kh6 32. Qc2 Qa5 { In an interesting battle,  the game was drawn.1/2-1/2 } 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish"]
+[Black "Stockfish"]
+[Result "0-1"]
+[WhiteElo "3652"]
+[BlackElo "3652"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. Ne4 { played then } ( 9. a4 { played then } 9... b4 10. Ne4 c5 11. O-O { played then } ( 11. Nxf6+ { played then } 11... Nxf6 12. O-O Bb7 13. Qe2 cxd4 14. e4 Bc5 15. Bg5 Qa5 16. Bxf6 gxf6 17. Nd2 Bd6 18. f4 Rg8 19. g3 Rg7 20. Nb3 Qb6 21. a5 Qd8 22. Kh1 Be7 { In this game,  the game was drawn.1/2-1/2 } ) 11... Bb7 12. Nxf6+ Qxf6 13. Bd2 h6 14. Qc2 cxd4 15. exd4 Rc8 16. Qb1 Bxf3 17. gxf3 a5 18. Ba6 Rc7 19. Rc1 Bd6 20. Qe4 O-O 21. Rxc7 Bxc7 22. Rc1 Qd8 { In this game,  balanced game which ended in a draw.1/2-1/2 } ) 9... c5 10. Nxf6+ Nxf6 11. dxc5 Bxc5 12. O-O Bb7 13. Qe2 O-O 14. b3 { played then } ( 14. e4 { played then } 14... h6 15. Bd2 Qe7 16. e5 Nd7 17. Be4 Bxe4 18. Qxe4 Rfc8 19. Rad1 Qe8 20. Qg4 Kh7 21. Bc3 Bf8 22. Bd4 a5 { In this game,  the game was drawn.1/2-1/2 } ) ( 14. a4 { played then } 14... Be4 15. Bxe4 Nxe4 16. axb5 axb5 17. Rxa8 Qxa8 18. Qxb5 Rb8 19. Qd3 Rd8 20. Qe2 Qd5 21. Ne1 Be7 22. Nc2 h6 { Here we see that  the game was drawn.1/2-1/2 } ) 14... Nd5 15. Bb2 Rc8 16. Rfd1 Bb4 17. Rac1 Qe7 18. Nd4 Bc3 19. Bxh7+ Kxh7 20. Qd3+ g6 21. Bxc3 Nxc3 22. Rxc3 Qg5 { In this game,  the game was drawn.1/2-1/2 } 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish"]
+[Black "Stockfish"]
+[Result "0-1"]
+[WhiteElo "3652"]
+[BlackElo "3652"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. O-O { played then } ( 9. a4 { played then } 9... Bb7 { played then } ( 9... b4 { played then } 10. Ne4 c5 11. O-O Bb7 12. Nxf6+ gxf6 13. Qe2 Rg8 14. Bxh7 Rg4 15. h3 Rg7 16. Bc2 f5 17. Rd1 Qf6 18. e4 b3 19. Bb1 cxd4 20. exf5 Nc5 21. Bf4 Rd8 22. h4 Qe7 { Here we see that  the game was drawn.1/2-1/2 } ) 10. axb5 axb5 11. Rxa8 Qxa8 12. O-O Be7 { played then } ( 12... b4 { played then } 13. Na4 Be7 14. b3 c5 15. dxc5 O-O 16. Bb2 { we will see this position later on } ) 13. b3 { played then } ( 13. e4 { played then } 13... b4 14. Na4 O-O 15. e5 Nd5 16. Re1 Ba6 17. Bc2 Bb5 18. Ng5 h6 19. Ne4 Rd8 20. b3 c5 21. Qg4 cxd4 22. Bxh6 Bf8 { Svart, rated 3 2 2 4, had the White pieces  won the game.1-0 } ) 13... O-O 14. Bb2 h6 15. Qe2 Rc8 16. Ne5 Qa5 17. Nxd7 Nxd7 18. Ra1 Qd8 19. Rd1 Qa5 20. h3 Bf8 21. Ne4 b4 22. Ra1 Qd5 23. Nd2 Ra8 { balanced game which ended in a draw.1/2-1/2 } ) 9... c5 10. Qe2 Bb7 11. Rd1 Qc7 12. Bd2 Be7 13. Rac1 c4 14. Bc2 Nd5 15. e4 Nxc3 16. bxc3 O-O 17. Rb1 Nb6 18. h3 Rab8 19. Re1 f6 20. h4 Rf7 21. h5 Rd8 22. Bc1 Kh8 { In an interesting battle,  balanced game which ended in a draw.1/2-1/2 } 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish"]
+[Black "Stockfish"]
+[Result "0-1"]
+[WhiteElo "3652"]
+[BlackElo "3652"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. a4 { played then } ( 9. Ne4 { played then } 9... c5 10. Nxf6+ Nxf6 11. dxc5 Bxc5 12. O-O Bb7 13. Qe2 O-O 14. a4 Qc7 { played then } ( 14... bxa4 { played then } 15. Rxa4 h6 16. Rc4 Qb6 17. Bd2 a5 18. Rfc1 Rfc8 19. h3 Bd6 20. Rxc8+ Rxc8 21. Rxc8+ Bxc8 22. Bc3 Bb7 23. Qc2 Qc5 { the game was drawn.1/2-1/2 } ) 15. h3 bxa4 16. Rxa4 Rfd8 17. Rc4 Qd6 18. Rd1 Bd5 19. Qc2 Bb4 20. Bxh7+ Nxh7 21. e4 Bxe4 22. Rxd6 Bxc2 { Here we see that  the game was drawn.1/2-1/2 } ) 9... b4 10. Ne4 c5 11. O-O { played then } ( 11. Nxf6+ { played then } 11... Nxf6 12. O-O cxd4 13. exd4 Bd6 14. Qe2 Bb7 15. Bg5 O-O 16. Rac1 Be7 17. Be3 Qa5 18. Ne5 Rac8 19. Nc4 Qd5 20. f4 Rce8 21. Rfe1 a5 22. Rc2 Qd8 23. Ne5 Qa8 24. f5 exf5 25. Bxf5 Bd8 26. Qf2 Ne4 27. Qf4 Nf6 28. Qg3 Bb6 { In an interesting battle, Rebel as White rated 3 2 9 9 converted the advantage.1-0 } ) 11... Bb7 12. Nxf6+ Qxf6 13. a5 cxd4 { played then } ( 13... h6 { played then } 14. Be2 Rc8 15. Bd2 Bd6 16. Qa4 Bc6 17. Qd1 Bb7 { we will see this position later on } ) 14. exd4 Bd6 15. Be3 Bxf3 16. Qxf3 Qxf3 17. gxf3 Nf6 18. Rfc1 Kd7 19. f4 g6 20. Kg2 b3 21. Kf3 Nd5 22. Bc4 Rhb8 23. h3 Ra7 24. Ra4 Bf8 25. Re1 Rc8 26. Re2 Bd6 27. Bxb3 Rac7 28. Bd2 { balanced game which ended in a draw.1/2-1/2 } 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish"]
+[Black "Stockfish"]
+[Result "0-1"]
+[WhiteElo "3652"]
+[BlackElo "3652"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. a4 { played then } ( 9. O-O { played then } 9... Bb7 10. e4 c5 11. d5 c4 12. Bc2 Qc7 13. dxe6 fxe6 14. Nd4 Nc5 15. Qe2 e5 16. Nd5 Nxd5 17. exd5 Bxd5 18. Bf4 Bd6 19. Nf5 O-O 20. Bg3 Be6 21. Nxd6 Qxd6 22. Bxe5 Qc6 23. Bd4 Bf5 { In an interesting battle,  balanced game which ended in a draw.1/2-1/2 } ) 9... Bb7 { played then } ( 9... b4 { played then } 10. Ne4 c5 11. Nxf6+ Nxf6 12. dxc5 { played then } ( 12. O-O { played then } 12... Bb7 13. dxc5 Bxc5 14. b3 { played then } ( 14. Qe2 { played then } 14... O-O 15. e4 Nd7 16. Rd1 Qc7 17. Bd2 Be7 18. Rac1 Qa5 19. Bf4 Rac8 20. Bc2 Rfd8 21. Nd2 Nb6 22. b3 Rc3 23. Be3 h6 { Here we see that  the game was drawn.1/2-1/2 } ) 14... O-O 15. Bb2 Be7 16. Rc1 Qa5 17. Bd4 Rac8 18. Qe2 Rfd8 19. Rxc8 Rxc8 20. h4 h5 21. Ne5 Qd5 22. f3 Qxb3 23. Nc4 Rc7 { Once again,  balanced game which ended in a draw.1/2-1/2 } ) 12... Bb7 13. Qe2 Ne4 14. c6 Bxc6 15. Bxa6 Qa5 16. Bd3 b3+ 17. Kf1 Qd5 18. a5 Be7 19. Bc4 Qc5 20. Nd4 O-O 21. Nxb3 Qb4 22. Nd4 Rfc8 23. f3 Nd6 { Here we see that  the game was drawn.1/2-1/2 } ) 10. Ne4 Nxe4 11. Bxe4 Be7 12. O-O O-O 13. Qc2 f5 14. Bd3 c5 15. axb5 axb5 16. Rxa8 Qxa8 17. Bxb5 Bxf3 18. gxf3 { we will see this position later on } 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish"]
+[Black "Stockfish"]
+[Result "0-1"]
+[WhiteElo "3652"]
+[BlackElo "3652"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. a4 Bb7 { played then } ( 9... b4 { played then } 10. Ne4 c5 11. Nxf6+ Nxf6 12. O-O Bb7 { played then } ( 12... cxd4 { played then } 13. exd4 Bd6 14. Ne5 Bb7 15. Qe2 O-O 16. Be3 a5 17. Rac1 Nd5 18. Rfd1 Qh4 19. Qf3 Bxe5 20. dxe5 Nxe3 21. Qxe3 Rfc8 22. h3 h6 23. Bb5 Bd5 24. f3 Qg3 { In this game, Komodo on Black with Elo 3 4 5 0  won the game.0-1 } ) 13. dxc5 Bxc5 14. Qe2 O-O 15. e4 Qc7 16. Bg5 h6 17. Bxf6 gxf6 18. Rac1 Rfd8 19. h3 Qa5 20. Nd2 Bd4 21. Rc4 Bb6 22. Nb3 Qxa4 23. Nc5 Bxc5 { Once again,  the game was drawn.1/2-1/2 } ) 10. axb5 axb5 11. Rxa8 Qxa8 12. O-O Be7 13. b3 O-O 14. Bb2 b4 { played then } ( 14... h6 { played then } 15. Qe2 b4 16. Na4 c5 17. dxc5 Nxc5 18. Nxc5 Bxc5 19. Bxf6 Bxf3 20. Qxf3 Qxf3 21. gxf3 gxf6 22. f4 Rd8 23. Rd1 f5 { Here we see that  the game was drawn.1/2-1/2 } ) 15. Na4 h6 { played then } ( 15... c5 { played then } 16. dxc5 Bc6 17. Nb6 Qb7 18. Nxd7 Nxd7 19. Ne5 Nxe5 20. Bxe5 f6 21. Qh5 g6 22. Bxg6 hxg6 23. Qxg6+ Kh8 24. Qh6+ Kg8 25. Qg6+ { we will see this position later on } ) 16. Qc2 c5 17. Ra1 Qb8 18. dxc5 Rc8 19. Bd4 Bd6 20. Qb2 Bxf3 21. cxd6 Be4 22. Bxe4 Nxe4 23. Rd1 Qxd6 { Once again,  balanced game which ended in a draw.1/2-1/2 } 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish"]
+[Black "Stockfish"]
+[Result "0-1"]
+[WhiteElo "3652"]
+[BlackElo "3652"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. a4 Bb7 { played then } ( 9... b4 { played then } 10. Ne4 c5 11. Nxf6+ { played then } ( 11. O-O { played then } 11... Bb7 12. Nxf6+ Qxf6 13. a5 Bxf3 14. Qxf3 Qxf3 15. gxf3 Bd6 16. dxc5 Nxc5 17. Bc4 Ke7 { we will see this position later on } ) 11... Nxf6 12. O-O Bb7 13. a5 { played then } ( 13. dxc5 { played then } 13... Bxc5 14. Qe2 O-O 15. e4 h6 16. Bf4 a5 17. Rfd1 Qe7 18. e5 Nd7 19. Rac1 Bd5 20. Nd2 Rac8 21. Ne4 Bb6 22. Bb1 Rxc1 23. Rxc1 b3 24. Rc3 Bd4 { balanced game which ended in a draw.1/2-1/2 } ) 13... Be7 { played then } ( 13... Nd7 { played then } 14. Bd2 Be7 15. Qe2 O-O 16. Rfd1 h6 17. dxc5 Bxc5 18. e4 Qf6 19. Rac1 Qxb2 20. Be1 Qxe2 21. Bxe2 Bc6 22. Ne5 Bxf2+ 23. Kxf2 Nxe5 { Once again,  the game was drawn.1/2-1/2 } ) 14. Qa4+ Qd7 15. Qxd7+ Nxd7 16. Be2 O-O 17. Bd2 Rfb8 18. dxc5 Bd5 19. c6 Bxc6 20. Nd4 Bd5 21. Rac1 Nc5 22. Bc4 Bf8 23. Bxd5 exd5 { In an interesting battle,  the game was drawn.1/2-1/2 } ) 10. b3 bxa4 11. Nxa4 c5 12. dxc5 Nxc5 13. Nxc5 Bxc5 14. O-O O-O 15. Bb2 a5 16. Qc2 Rc8 17. Rfd1 Qe7 18. Bc4 Bb4 19. Ne5 Rfd8 20. Rxd8+ Qxd8 21. Qe2 Bd6 22. Bd4 Bd5 23. Bxd5 Bxe5 { balanced game which ended in a draw.1/2-1/2 } 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish"]
+[Black "Stockfish"]
+[Result "0-1"]
+[WhiteElo "3652"]
+[BlackElo "3652"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. a4 { played then } ( 9. Ne4 { played then } 9... c5 10. Nxf6+ Nxf6 11. dxc5 Bxc5 12. O-O Bb7 13. Qe2 O-O 14. a4 bxa4 15. Rxa4 h6 16. h3 Qb6 17. Bd2 Bxf3 18. gxf3 Qxb2 19. Rb1 Qe5 20. f4 Qd5 21. Bc3 Rfd8 22. Rd1 Qb3 23. Rc4 Nd5 { In this game,  balanced game which ended in a draw.1/2-1/2 } ) 9... b4 10. Ne4 c5 11. O-O { played then } ( 11. Nxf6+ { played then } 11... Nxf6 12. O-O Bb7 { played then } ( 12... cxd4 { played then } 13. exd4 Bd6 14. Qe2 Bb7 15. Bg5 O-O 16. Ne5 { we will see this position later on } ) 13. Qe2 cxd4 14. Rd1 Bd6 15. exd4 O-O 16. a5 Bc7 17. Bg5 Qd5 18. Rdc1 Bd6 19. Qc2 b3 20. Qc4 Rfc8 21. Qxd5 Nxd5 22. Bd2 Nb4 23. Rxc8+ Rxc8 { Here we see that  the game was drawn.1/2-1/2 } ) 11... Bb7 12. Nxf6+ Qxf6 13. Qe2 { played then } ( 13. a5 { played then } 13... h6 14. Be2 Rc8 15. Bd2 Bd6 16. dxc5 Bxc5 17. Qa4 Bc6 18. Qc2 O-O 19. Bxa6 Bxf3 20. gxf3 Bd6 21. Bxc8 Qg5+ 22. Kh1 Qh5 23. f4 Bxf4 { Once again,  balanced game which ended in a draw.1/2-1/2 } ) 13... Bxf3 14. Qxf3 Qxf3 15. gxf3 Bd6 16. a5 cxd4 17. exd4 Nf6 18. f4 g6 19. Kg2 Nd5 20. Kf3 Kd7 21. Bd2 Be7 22. Rfc1 Rhc8 23. Rc4 Rc6 { In this game,  the game was drawn.1/2-1/2 } 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish"]
+[Black "Stockfish"]
+[Result "0-1"]
+[WhiteElo "3652"]
+[BlackElo "3652"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. a4 b4 { played then } ( 9... Bb7 { played then } 10. Ne4 c5 11. Nxf6+ gxf6 12. axb5 axb5 13. Rxa8 Qxa8 14. dxc5 Bxc5 15. O-O Rg8 16. Kh1 Ke7 17. Bxb5 Ne5 { we will see this position later on } ) 10. Ne4 c5 { played then } ( 10... Bb7 { played then } 11. Nxf6+ Nxf6 12. b3 c5 13. Bb2 Nd5 14. Qd2 cxd4 15. Bxd4 Be7 16. O-O O-O 17. Rac1 Bf6 18. Be4 Bxd4 19. Nxd4 Qd7 20. Rc4 Rac8 21. Nf3 a5 22. Rfc1 Rcd8 23. Qc2 h6 24. h3 Nc3 { balanced game which ended in a draw.1/2-1/2 } ) 11. Nxf6+ Nxf6 12. O-O Bb7 { played then } ( 12... cxd4 { played then } 13. exd4 Bd6 14. Ne5 Bb7 15. Qe2 O-O 16. Bg5 a5 17. Rac1 h6 18. Bh4 { we will see this position later on } ) 13. dxc5 Bxc5 14. Qe2 { played then } ( 14. b3 { played then } 14... Nd5 15. Bb2 Nc3 16. Qc2 Be7 17. Bxc3 bxc3 18. Qxc3 Bf6 19. Nd4 O-O 20. Be2 Rc8 21. Qb4 Qc7 22. Rfd1 Rfd8 23. a5 g6 24. Bf1 Rd5 { the game was drawn.1/2-1/2 } ) 14... O-O 15. e4 Qc7 16. a5 h6 17. e5 Nd7 18. Bf4 Rfd8 19. Rfc1 Qb8 20. h3 Bf8 21. Bb1 Bd5 22. Qc2 g6 23. Qe2 Nc5 { balanced game which ended in a draw.1/2-1/2 } 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish"]
+[Black "Stockfish"]
+[Result "0-1"]
+[WhiteElo "3652"]
+[BlackElo "3652"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. a4 { played then } ( 9. Ne4 { played then } 9... c5 10. Nxf6+ Nxf6 11. dxc5 Bxc5 12. Qe2 Bb4+ 13. Bd2 Bxd2+ 14. Nxd2 Bb7 15. O-O Qb6 16. a4 bxa4 17. Nc4 Qc5 18. e4 O-O 19. Rxa4 Bc6 20. Ra3 g6 21. e5 Nd5 22. Qd2 Nb6 23. Qc1 Bb5 24. Nxb6 Qxb6 { In this game,  balanced game which ended in a draw.1/2-1/2 } ) 9... b4 { played then } ( 9... Bb7 { played then } 10. axb5 { played then } ( 10. Ne4 { played then } 10... c5 11. Nxf6+ gxf6 12. axb5 axb5 13. Rxa8 Qxa8 14. dxc5 Bxc5 15. O-O Rg8 16. Kh1 b4 17. Bb5 Bc6 18. Qe2 Bxb5 19. Qxb5 Ke7 20. Rd1 Bd6 21. Qd3 Qd5 22. Qxd5 exd5 23. Rxd5 Rc8 24. Bd2 Rc2 { Here we see that  balanced game which ended in a draw.1/2-1/2 } ) 10... axb5 11. Rxa8 Qxa8 12. O-O Be7 13. b3 O-O 14. Bb2 b4 15. Na4 c5 16. dxc5 Rd8 17. Qe2 { we will see this position later on } ) 10. Ne4 c5 11. Nxf6+ Nxf6 12. O-O cxd4 13. exd4 Bd6 14. Qe2 { played then } ( 14. Ne5 { played then } 14... Bb7 15. Qe2 O-O 16. Be3 Nd5 17. Rac1 Nxe3 18. Qxe3 Rc8 19. Rxc8 Qxc8 20. Rc1 Qa8 21. f3 h6 22. Rc2 Bd5 23. Bc4 a5 24. h3 Rd8 { In this game,  the game was drawn.1/2-1/2 } ) 14... Bb7 15. Bg5 O-O 16. Rac1 h6 17. Bxf6 Qxf6 18. Be4 Qe7 19. Bc6 a5 20. Qe4 Bxc6 21. Rxc6 Rfc8 22. g3 Rxc6 23. Qxc6 Rd8 24. Rc1 Qa7 { Once again,  balanced game which ended in a draw.1/2-1/2 } 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish"]
+[Black "Stockfish"]
+[Result "0-1"]
+[WhiteElo "3652"]
+[BlackElo "3652"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. a4 b4 { played then } ( 9... Bb7 { played then } 10. axb5 axb5 11. Rxa8 Qxa8 12. O-O Be7 13. b3 O-O 14. Bb2 b4 15. Na4 c5 16. dxc5 Bc6 { played then } ( 16... Rd8 { played then } 17. Qc2 Bxf3 18. gxf3 Qxf3 19. c6 Qg4+ 20. Kh1 Qf3+ 21. Kg1 { we will see this position later on } ) 17. Qe2 Bxa4 18. bxa4 Nxc5 19. Bb5 Nd5 20. Qc2 Rc8 21. Rc1 h6 22. Nd2 Nb6 23. Qd1 Rd8 24. Bd4 Ncxa4 { In this game,  balanced game which ended in a draw.1/2-1/2 } ) 10. Ne4 c5 11. Nxf6+ { played then } ( 11. O-O { played then } 11... Bb7 12. Nxf6+ Qxf6 13. Bd2 h6 14. Qc2 Bxf3 15. gxf3 Be7 16. Be4 Rd8 17. Rac1 O-O 18. Kh1 a5 19. Rg1 Kh8 20. Rg3 cxd4 21. exd4 Qh4 22. Rg4 Qh5 23. Rg2 Nf6 24. Be3 Nxe4 { In this game,  balanced game which ended in a draw.1/2-1/2 } ) 11... Nxf6 12. O-O Bb7 13. a5 { played then } ( 13. dxc5 { played then } 13... Bxc5 14. Qe2 O-O 15. e4 h6 16. Bf4 a5 17. e5 Nd7 { we will see this position later on } ) 13... Be7 14. Qa4+ Qd7 15. Qxd7+ Nxd7 16. Bd2 Rb8 17. Rac1 O-O 18. Rfd1 cxd4 19. Nxd4 Rbc8 20. Be2 Rfd8 21. Be1 Nf6 22. Nb3 Nd5 23. Rxc8 Rxc8 24. Rc1 Rxc1 25. Nxc1 Bd8 26. Nb3 Be7 { In an interesting battle,  the game was drawn.1/2-1/2 } 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish"]
+[Black "Stockfish"]
+[Result "0-1"]
+[WhiteElo "3652"]
+[BlackElo "3652"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. a4 b4 { played then } ( 9... Bb7 { played then } 10. axb5 { played then } ( 10. O-O { played then } 10... b4 11. Ne4 Be7 12. b3 c5 13. Nxf6+ Bxf6 14. Bb2 cxd4 15. exd4 Nc5 16. Bc4 O-O 17. Rc1 Ne4 18. Re1 Qa5 19. Qc2 Nd6 20. d5 Bxb2 21. Qxb2 Rac8 22. dxe6 Nxc4 23. Rxc4 Rxc4 24. exf7+ Rxf7 25. Re8+ Rf8 { Once again,  the game was drawn.1/2-1/2 } ) 10... axb5 11. Rxa8 Qxa8 12. O-O Be7 13. b3 O-O 14. Bb2 b4 15. Na4 c5 16. dxc5 Bc6 17. Bd4 Bxa4 18. bxa4 Nxc5 19. Bb5 Rc8 20. Ne5 Nce4 21. Nc4 Bc5 22. Bxc5 Rxc5 23. Qb1 Qb8 24. Qxb4 Nd5 { In an interesting battle,  balanced game which ended in a draw.1/2-1/2 } ) 10. Ne4 c5 11. Nxf6+ Nxf6 12. O-O Bb7 { played then } ( 12... cxd4 { played then } 13. exd4 Bd6 14. Ne5 Bb7 15. Qe2 O-O 16. Bg5 h6 17. Bh4 a5 18. Rac1 Be7 19. Rfd1 { we will see this position later on } ) 13. a5 { played then } ( 13. dxc5 { played then } 13... Bxc5 14. Qe2 O-O 15. e4 h6 16. e5 Nd7 17. Bf4 a5 18. Rad1 Qe7 19. Nd2 Bd5 20. Be4 Nb6 21. b3 Rfd8 22. Qg4 Kf8 23. Qf3 Rac8 24. Bxd5 Rxd5 25. Ne4 Rxd1 { In this game,  the game was drawn.1/2-1/2 } ) 13... Be7 14. Qa4+ Qd7 15. Qxd7+ Nxd7 16. Bd2 Rb8 17. Rfd1 O-O 18. Be2 { we will see this position later on } 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish"]
+[Black "Stockfish"]
+[Result "0-1"]
+[WhiteElo "3652"]
+[BlackElo "3652"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. a4 b4 { played then } ( 9... Bb7 { played then } 10. Ne4 c5 11. Nxf6+ gxf6 12. axb5 axb5 13. Rxa8 Qxa8 14. dxc5 Bxc5 15. O-O Rg8 16. Kh1 Ne5 17. Bxb5+ Ke7 18. Be2 Rd8 19. Bd2 Nxf3 20. gxf3 Rxd2 21. Qxd2 Bxf3+ 22. Bxf3 Qxf3+ 23. Kg1 Qg4+ 24. Kh1 Qf3+ { we will see this position later on } ) 10. Ne4 c5 11. Nxf6+ { played then } ( 11. O-O { played then } 11... Bb7 12. Nxf6+ Qxf6 13. a5 cxd4 14. exd4 Bd6 15. Be2 O-O 16. Qa4 Qe7 17. Bg5 Nf6 18. Ne5 Rac8 19. Ng4 Qc7 20. Nxf6+ gxf6 21. Bh6 Kh8 22. g3 Rg8 23. Rfc1 Qd8 24. Rxc8 Qxc8 25. Be3 Ba8 26. Qb3 Qc7 { Here we see that  balanced game which ended in a draw.1/2-1/2 } ) 11... Nxf6 12. O-O cxd4 { played then } ( 12... Bb7 { played then } 13. a5 { played then } ( 13. dxc5 { played then } 13... Ne4 14. c6 Bxc6 15. Qe2 Bd6 16. Bxa6 O-O 17. Nd4 Bd5 18. Bb5 Qc7 19. h3 Rfc8 20. Bd2 Nxd2 21. Qxd2 Qb7 22. f4 Bc5 23. Kh2 g6 24. Rac1 Qb6 25. Qd3 Bf8 26. b3 Rxc1 { In this game,  balanced game which ended in a draw.1/2-1/2 } ) 13... Be7 14. Qa4+ Qd7 15. Qxd7+ Nxd7 16. Bd2 Rb8 17. Be2 O-O 18. Rfd1 g6 19. Rac1 Rfd8 20. Kf1 Bd5 21. Bc4 Bxf3 22. gxf3 cxd4 23. exd4 Nf6 24. Bf4 Ra8 25. Bc7 Rdc8 26. Bb3 Nd5 { In this game,  the game was drawn.1/2-1/2 } ) 13. exd4 Bd6 14. Ne5 Bb7 15. Qe2 O-O 16. Bg5 h6 17. Bh4 Be7 18. Rfd1 Nd7 19. Bg3 Nxe5 20. Bxe5 Bd6 21. a5 Qg5 22. g3 Qe7 23. Rac1 Rfd8 24. Be4 Rab8 25. Bd3 Bxe5 26. dxe5 Rd5 { In an interesting battle,  balanced game which ended in a draw.1/2-1/2 } 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish"]
+[Black "Stockfish"]
+[Result "0-1"]
+[WhiteElo "3652"]
+[BlackElo "3652"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. a4 b4 { played then } ( 9... Bb7 { played then } 10. axb5 axb5 11. Rxa8 Qxa8 12. O-O Be7 13. b3 O-O 14. Bb2 b4 15. Na4 Rd8 16. Qe2 c5 17. dxc5 Nxc5 18. Nxc5 Bxc5 19. Rc1 Be4 20. Bc2 Bf8 21. Ra1 Qc6 22. Bxf6 gxf6 23. Bxe4 Qxe4 24. Rd1 Rc8 25. h3 Qc2 26. Qxc2 Rxc2 { the game was drawn.1/2-1/2 } ) 10. Ne4 c5 11. Nxf6+ Nxf6 12. O-O { played then } ( 12. a5 { played then } 12... cxd4 13. exd4 Be7 14. Ne5 Bb7 15. Qa4+ Kf8 16. Nc6 Qd5 17. Nxe7 Qxg2 18. Rf1 Kxe7 19. Qxb4+ Ke8 20. Be3 Be4 21. Bxe4 Qxe4 22. Rc1 Kd7 23. Qa4+ Kd6 24. Qa3+ Kd7 25. Qa4+ { we will see this position later on } ) 12... Bb7 { played then } ( 12... cxd4 { played then } 13. exd4 Bd6 14. Ne5 Bb7 15. Qe2 O-O 16. Bg5 h6 17. Bh4 Be7 18. Rfd1 a5 19. Bg3 { played then } ( 19. f3 { played then } 19... Rc8 20. Bf2 Qc7 21. Qe1 Rfd8 22. Rac1 Qb8 23. Bb5 Nd5 24. Bg3 Bd6 25. Rxc8 Rxc8 26. Bd7 Rd8 { Once again, Stockfish playing Black, rated 3 3 4 5 converted the advantage.0-1 } ) 19... Qb6 20. f3 Rfc8 21. Bf2 Qd8 22. Re1 Bd6 23. Bb5 Qc7 24. Qf1 Nd5 25. Rac1 Qd8 26. g3 Rxc1 { Stash from the Black side with rating 3 3 3 8 converted the advantage.0-1 } ) 13. a5 Be7 14. Qa4+ Qd7 15. Qxd7+ Nxd7 16. Bd2 Rb8 17. Rac1 O-O 18. Rfd1 Rfd8 19. Be2 Bd5 20. h3 Bf8 21. Bc4 Bxf3 22. gxf3 cxd4 23. exd4 Nf6 24. Bg5 Rd7 25. Bf4 Ra8 26. Be3 Nd5 { Here we see that  balanced game which ended in a draw.1/2-1/2 } 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish"]
+[Black "Stockfish"]
+[Result "0-1"]
+[WhiteElo "3652"]
+[BlackElo "3652"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. a4 Bb7 { played then } ( 9... b4 { played then } 10. Ne4 c5 11. Nxf6+ { played then } ( 11. O-O { played then } 11... Bb7 12. Nxf6+ Qxf6 13. a5 cxd4 14. exd4 Bd6 15. Be3 Bxf3 16. Qxf3 Qxf3 17. gxf3 Nf6 18. Rfc1 Kd7 19. f4 g6 20. Kg2 Nd5 21. Kf3 Rhb8 22. Bd2 Ne7 23. Be3 Rd8 24. Bd2 Rdb8 { we will see this position later on } ) 11... Nxf6 12. a5 { played then } ( 12. O-O { played then } 12... cxd4 13. exd4 Bd6 14. Qe2 Bb7 15. Bg5 O-O 16. Rac1 Be7 17. Be3 Qa5 18. Ne5 Rac8 19. Nc4 Qd5 20. f4 Nd7 21. Ne5 Rxc1 22. Rxc1 Nxe5 23. fxe5 Rb8 24. Bxa6 Bxa6 25. Qxa6 Qb3 26. Re1 Qxb2 27. Qa7 Re8 28. Rf1 Qc3 { Once again,  the game was drawn.1/2-1/2 } ) 12... cxd4 13. exd4 Be7 14. Ne5 Bb7 15. Qa4+ Kf8 16. Nc6 Qd5 17. Nxe7 Qxg2 18. Rf1 Kxe7 19. Qxb4+ Ke8 20. Ra3 Bc6 21. Qd6 Qd5 22. Qe5 Bb5 23. Bxb5+ Qxb5 24. Qxb5+ axb5 25. Rg1 g6 26. Rc3 Nd5 27. Rc5 b4 { In an interesting battle,  balanced game which ended in a draw.1/2-1/2 } ) 10. axb5 axb5 11. Rxa8 Qxa8 12. O-O Be7 13. b3 O-O 14. Bb2 b4 15. Na4 Rd8 { played then } ( 15... c5 { played then } 16. dxc5 Rd8 17. Qc2 Bxf3 18. gxf3 Qxf3 19. c6 Rc8 20. Rc1 Qg4+ 21. Kh1 Qf3+ 22. Kg1 { we will see this position later on } ) 16. Qe2 c5 17. dxc5 Nxc5 18. Nxc5 Bxc5 19. Ra1 Qc8 20. Ne5 Bd6 21. Rc1 Qa8 22. Nc4 Bf8 23. Ra1 Qc8 24. Bd4 h6 25. Ra5 Nd7 26. Qc2 Bd5 27. h3 Qc7 { the game was drawn.1/2-1/2 } 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish"]
+[Black "Stockfish"]
+[Result "0-1"]
+[WhiteElo "3652"]
+[BlackElo "3652"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. a4 b4 { played then } ( 9... Bb7 { played then } 10. axb5 axb5 11. Rxa8 Qxa8 12. O-O Be7 13. b3 O-O 14. Bb2 b4 15. Na4 c5 16. dxc5 Bc6 { played then } ( 16... Rd8 { played then } 17. Qc2 Bxf3 18. gxf3 Qxf3 19. c6 Rc8 20. Rc1 Qg4+ 21. Kh1 Qh5 22. Be2 Ng4 23. Bxg4 Qxg4 24. f3 Qxf3+ 25. Qg2 Qxg2+ 26. Kxg2 Nb8 27. c7 Nd7 28. Be5 Kf8 29. Bg3 Ke8 { In an interesting battle,  balanced game which ended in a draw.1/2-1/2 } ) 17. Nb6 Qb7 18. Nxd7 Nxd7 19. Ne5 Nxe5 20. Bxe5 f6 21. Bd6 Bxg2 22. Re1 Bxd6 23. cxd6 Bf3 24. Be2 Bxe2 25. Rxe2 Qf3 26. Rd2 Qxd1+ 27. Rxd1 Kf7 28. Rd4 Rb8 { Once again,  balanced game which ended in a draw.1/2-1/2 } ) 10. Ne4 c5 11. Nxf6+ Nxf6 12. O-O cxd4 13. exd4 Bd6 14. Ne5 Bb7 15. Qe2 O-O 16. Bg5 h6 17. Bh4 Be7 18. Rfd1 a5 19. Rac1 Rc8 20. Rxc8 Qxc8 21. Bb1 { played then } ( 21. Re1 { played then } 21... Bd5 22. Qd2 Qb7 23. f3 Rc8 24. Rc1 Rc7 25. Rxc7 Qxc7 26. Bb5 Bb7 27. Qf4 Qc2 28. Nd3 Bd5 { Once again, Stockfish from the Black side with rating 3 3 8 6  won the game.0-1 } ) ( 21. Qe1 { played then } 21... Qd8 22. Bb5 Qd5 23. f3 Rc8 24. Bf2 Qd8 25. Nd3 Bd6 26. Nc5 Bc6 27. Bxc6 Rxc6 28. Qe2 Qb8 { In this game,  balanced game which ended in a draw.1/2-1/2 } ) 21... Rd8 22. h3 Qc7 23. f3 Qb6 24. Bf2 Ba6 25. Qe1 Qb7 26. Rc1 Rc8 27. g3 Rc7 28. Kg2 Qc8 { Once again, Stockfish as Black rated 3 2 8 0  won the game.0-1 } 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish"]
+[Black "Stockfish"]
+[Result "0-1"]
+[WhiteElo "3652"]
+[BlackElo "3652"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. a4 b4 { played then } ( 9... Bb7 { played then } 10. axb5 axb5 11. Rxa8 Qxa8 12. O-O Be7 13. b3 O-O 14. Bb2 b4 15. Na4 Rd8 16. Qe2 c5 17. dxc5 Nxc5 18. Nxc5 Bxc5 19. Ra1 Qb8 20. Bxf6 gxf6 21. Bxh7+ Kxh7 22. Qc2+ Kg7 23. Qxc5 Bxf3 24. gxf3 Rh8 25. f4 Qb7 26. Rc1 Qf3 27. Qc6 Qh5 28. h3 Rh6 29. Kf1 Rg6 30. Qb7 Qa5 31. Qc6 Qh5 { we will see this position later on } ) 10. Ne4 c5 11. O-O { played then } ( 11. Nxf6+ { played then } 11... Nxf6 12. a5 cxd4 13. exd4 Be7 14. Ne5 Bb7 15. Qa4+ Kf8 16. Nc6 Qd5 17. Nxe7 Qxg2 18. Rf1 Kxe7 19. Qxb4+ Ke8 20. Be3 Be4 21. Bxe4 Qxe4 22. Rc1 Kd7 23. Qa4+ Kd6 24. Qb4+ Kd7 { we will see this position later on } ) 11... Bb7 12. Nxf6+ Qxf6 13. a5 cxd4 { played then } ( 13... Bxf3 { played then } 14. Qxf3 Qxf3 15. gxf3 Bd6 16. Be4 Rb8 17. Bd3 Ra8 18. dxc5 Nxc5 19. Bc4 Ke7 20. Bd2 Rab8 21. b3 Rhd8 22. Ra2 g5 23. Kg2 Be5 24. Rc2 h5 25. Rg1 f5 26. f4 Bc3 27. Bxc3 bxc3 28. fxg5 Ne4 29. Kf3 Rd2 30. Rxd2 Nxd2+ 31. Ke2 Nxb3 { In an interesting battle,  the game was drawn.1/2-1/2 } ) 14. exd4 Bd6 15. Be3 Bxf3 16. Qxf3 Qxf3 17. gxf3 Nf6 18. Rfc1 Kd7 19. f4 g6 20. Kg2 Nd5 21. Kf3 Rhc8 { played then } ( 21... Rhb8 { played then } 22. Bd2 Ne7 23. Be3 Rc8 24. Rxc8 Kxc8 25. Be4 Rb8 26. Rc1+ Kd8 27. Bd3 Ra8 28. h3 Kd7 29. Bd2 Ra7 30. Be3 Nd5 31. Bc4 Ke7 { In this game,  the game was drawn.1/2-1/2 } ) 22. Bd2 Rc6 23. Rxc6 Kxc6 24. Rc1+ Kb7 25. h4 Bc7 26. Rc5 Rd8 27. h5 Rd7 28. hxg6 hxg6 29. Be2 Bd6 { Once again,  the game was drawn.1/2-1/2 } 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish"]
+[Black "Stockfish"]
+[Result "0-1"]
+[WhiteElo "3652"]
+[BlackElo "3652"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. a4 Bb7 10. axb5 axb5 11. Rxa8 Qxa8 12. O-O Be7 13. b3 O-O 14. Bb2 b4 15. Na4 Rd8 16. Qe2 c5 17. dxc5 Nxc5 18. Nxc5 Bxc5 19. Ra1 Qb8 20. Bxf6 gxf6 21. Bxh7+ Kxh7 22. Qc2+ Kg7 23. Qxc5 Bxf3 24. gxf3 Rh8 25. f4 Qb7 26. Rc1 Qf3 27. Qc6 Qh5 28. h3 Rh6 29. Kf1 Rg6 30. Qb7 Qa5 31. Qe4 Qb5+ 32. Qc4 Qh5 33. Qc6 Qxh3+ 34. Ke2 Qh5+ 35. Kd3 Qa5 36. Rh1 Qf5+ 37. Ke2 Rh6 38. Rxh6 Kxh6 { Once again,  the game was drawn.1/2-1/2 } 0-1
+
